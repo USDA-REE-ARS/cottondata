@@ -18,7 +18,7 @@ numrep = 6
 
 ########################################################################
 #Experiment
-shapefile = './Data/'+fname+'/'+fname+'_Experiment.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Experiment.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -37,7 +37,7 @@ for feature in layer:
 myexp.setproperty('EXP_AREA',round(exp_area,6))
 
 expmeta = {
-    'EXNAME':'Precision irrigation technologies, Season 1 of 2',
+    'EXNAME':'Precision irrigation technologies, Season 2 of 2',
     'OBJECTIVES':'See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950',
     'EXP_NARR':'See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950',
     'MAIN_FACTOR':'Irrigation management methods: increasing complexity of technologies used',
@@ -49,7 +49,7 @@ expmeta = {
     'SITE_NAME':'Maricopa Agricultural Center, Field 13, Bench 4',
     'SITE_TYPE':'ST001',
     'MGMT_TYPE':'MT001',
-    'EXP_YEAR': '2019',
+    'EXP_YEAR': '2020',
     'EXP_DUR':1,
     'CR_SYSTEM':'No-till cotton after winter barley cover crop',
     'LAST_NAME':'Thorp',
@@ -72,7 +72,7 @@ for key in expmeta.keys():
     myexp.setproperty(key,expmeta[key])
 
 trt_info = {'MDL':'Irrigation scheduling via an ET-based FAO56 soil water balance model, uniform irrigation',
-            'SOL':'Irrigation scheduling via an ET-based FAO56 soil water balance model with site-specific soil inputs, uniform irrigation',
+            'SOL':'Irrigation scheduling via an ET-based FAO56 soil water balance model with site-specific soil inputs, site-specific irrigation',
             'UAS':'Irrigation scheduling via an ET-based FAO56 soil water balance model with site-specific soil inputs and basal crop coefficients, uniform irrigation',
             'VRI':'Irrigation scheduling via an ET-based FAO56 soil water balance model with site-specific soil inputs and basal crop coefficients, site-specific irrigation'}
 
@@ -83,7 +83,7 @@ for key in trt_info.keys():
 
 ########################################################################
 #Plots
-shapefile = './Data/'+fname+'/'+fname+'_Plots.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Plots.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -92,7 +92,7 @@ layer = shapes.GetLayer()
 #lyrdef = plotlyr.GetLayerDefn()
 #for i in list(range(lyrdef.GetFieldCount())):
 #    print(lyrdef.GetFieldDefn(i).GetName())
-yfile = './Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 plots = list()
 for feature in layer:
@@ -110,6 +110,7 @@ for feature in layer:
     myplot.setproperty('PLT_AREA',round(plt_area,6))
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
+    row = row.astype({'FBTCT':float})
     myplot.setproperty('HARM'  ,row.iloc[0]['HARM'])
     myplot.setproperty('HADAT' ,row.iloc[0]['HADAT'].strftime('%m/%d/%Y'))
     myplot.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))
@@ -127,17 +128,21 @@ for feature in layer:
     myplot.setproperty('DSCWAH',round(row.iloc[0]['DSCWAH'],1))
     myplot.setproperty('QLDAT' ,row.iloc[0]['QLDAT'].strftime('%m/%d/%Y'))
     myplot.setproperty('FBMIC' ,round(row.iloc[0]['FBMIC' ],1))
-    myplot.setproperty('FBLTH' ,round(row.iloc[0]['FBLTH' ],2))
+    myplot.setproperty('FBLTH' ,round(row.iloc[0]['FBLTH' ],3))
     myplot.setproperty('FBUNI' ,round(row.iloc[0]['FBUNI' ],1))
     myplot.setproperty('FBSTR' ,round(row.iloc[0]['FBSTR' ],1))
     myplot.setproperty('FBELO' ,round(row.iloc[0]['FBELO' ],1))
+    myplot.setproperty('FBCRD' ,round(row.iloc[0]['FBCRD' ],1))
+    myplot.setproperty('FBCLB' ,round(row.iloc[0]['FBCLB' ],1))
+    myplot.setproperty('FBTCT' ,round(row.iloc[0]['FBTCT' ],0))
+    myplot.setproperty('FBTAR' ,round(row.iloc[0]['FBTAR' ],2))
     myplot.setproperty('FBSFI' ,round(row.iloc[0]['FBSFI' ],1))
     plots.append(myplot)
 ########################################################################
 
 ########################################################################
 #Zones
-shapefile = './Data/'+fname+'/'+fname+'_Zones.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Zones.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -161,12 +166,12 @@ for feature in layer:
 
 ########################################################################
 #Harvest Areas
-shapefile = './Data/'+fname+'/'+fname+'_HarvestAreas.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_HarvestAreas.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-yfile = './Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
-yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=48)
+yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=53)
 hareas = list()
 for feature in layer:
     haid = feature.GetField('ObjectId')
@@ -181,6 +186,7 @@ for feature in layer:
     myha.setproperty('HA_AREA',round(ha_area,6))
     #Yield and fiber quality data
     row = yld.loc[yld['HID'] == ha_label]
+    row = row.astype({'FBTCT':float})
     if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
         myha.setproperty('HARM',row.iloc[0]['HARM'])
     if not str(row.iloc[0]['HADAT']) in ['nan','NaT']:
@@ -216,13 +222,23 @@ for feature in layer:
     if not math.isnan(row.iloc[0]['FBMIC']):
         myha.setproperty('FBMIC' ,round(row.iloc[0]['FBMIC' ],1))
     if not math.isnan(row.iloc[0]['FBLTH']):
-        myha.setproperty('FBLTH' ,round(row.iloc[0]['FBLTH' ],2))
+        myha.setproperty('FBLTH' ,round(row.iloc[0]['FBLTH' ],3))
     if not math.isnan(row.iloc[0]['FBUNI']):
         myha.setproperty('FBUNI' ,round(row.iloc[0]['FBUNI' ],1))
     if not math.isnan(row.iloc[0]['FBSTR']):
         myha.setproperty('FBSTR' ,round(row.iloc[0]['FBSTR' ],1))
     if not math.isnan(row.iloc[0]['FBELO']):
         myha.setproperty('FBELO' ,round(row.iloc[0]['FBELO' ],1))
+    if not math.isnan(row.iloc[0]['FBCRD']):
+        myha.setproperty('FBCRD' ,round(row.iloc[0]['FBCRD' ],1))
+    if not math.isnan(row.iloc[0]['FBCLB']):
+        myha.setproperty('FBCLB' ,round(row.iloc[0]['FBCLB' ],1))
+    if not str(row.iloc[0]['FBCGR']) in ['nan','NaT']:
+        myha.setproperty('FBCGR' ,row.iloc[0]['FBCGR'])
+    if not math.isnan(row.iloc[0]['FBTCT']):
+        myha.setproperty('FBTCT' ,round(row.iloc[0]['FBTCT' ],0))
+    if not math.isnan(row.iloc[0]['FBTAR']):
+        myha.setproperty('FBTAR' ,round(row.iloc[0]['FBTAR' ],2))
     if not math.isnan(row.iloc[0]['FBSFI']):
         myha.setproperty('FBSFI' ,round(row.iloc[0]['FBSFI' ],1))
     found=False
@@ -238,7 +254,7 @@ for feature in layer:
 
 ########################################################################
 #Neutron Soil Water Content
-shapefile = './Data/'+fname+'/'+fname+'_NeutronSWC.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_NeutronSWC.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -261,7 +277,7 @@ for feature in layer:
 
 ########################################################################
 #Crop Height
-shapefile = './Data/'+fname+'/'+fname+'_CropHeight.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_CropHeight.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -284,31 +300,31 @@ for feature in layer:
 
 ########################################################################
 #Write geojson files
-f = open('./geojson/'+fname+'/'+fname+'_experiment.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w')
 f.write(myexp.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_plots.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_plots.geojson','w')
 for myplot in plots:
     f.write(myplot.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_zones.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_zones.geojson','w')
 for myzone in zones:
     f.write(myzone.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_harvestareas.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_harvestareas.geojson','w')
 for myha in hareas:
     f.write(myha.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
 for mytube in tubes:
     f.write(mytube.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_cropheight.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_cropheight.geojson','w')
 for mycrpht in crphts:
     f.write(mycrpht.__str__())
 f.close()

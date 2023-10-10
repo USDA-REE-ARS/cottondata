@@ -3,7 +3,6 @@ import sys
 import math
 import experiment
 import plot
-import zone
 import harvestarea
 import neutronswc
 import cropheight
@@ -13,12 +12,12 @@ from osgeo import ogr
 fname = os.path.basename(__file__)
 fname = os.path.splitext(fname)[0]
 
-numtrt = 4
+numtrt = 16
 numrep = 4
 
 ########################################################################
 #Experiment
-shapefile = './Data/'+fname+'/'+fname+'_Experiment.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Experiment.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -37,44 +36,56 @@ for feature in layer:
 myexp.setproperty('EXP_AREA',round(exp_area,6))
 
 expmeta = {
-    'EXNAME':'Field-scale remote sensing-based irrigation scheduling, Season 1 of 2',
-    'OBJECTIVES':'See Hunsaker, D. J., French, A. N., Waller, P. M., Bautista, E., Thorp, K. R., Bronson, K. F., Andrade-Sanchez, P., 2015. Comparison of traditional and ET-based irrigation scheduling of surface-irrigated cotton in the arid southwestern USA. Agricultural Water Management 159, 209-224. doi:10.1016/j.agwat.2015.06.016',
-    'EXP_NARR':'See Hunsaker, D. J., French, A. N., Waller, P. M., Bautista, E., Thorp, K. R., Bronson, K. F., Andrade-Sanchez, P., 2015. Comparison of traditional and ET-based irrigation scheduling of surface-irrigated cotton in the arid southwestern USA. Agricultural Water Management 159, 209-224. doi:10.1016/j.agwat.2015.06.016',
-    'MAIN_FACTOR':'Irrigation scheduling method: ET-based soil water balance and remote sensing-based methods',
-    'FACTORS':'Four irrigation scheduling methods',
-    'TRT_NO':4,
+    'EXNAME':'Irrigation timing and rate experiment, Season 1 of 3',
+    'OBJECTIVES':'See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146',
+    'EXP_NARR':'See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146',
+    'MAIN_FACTOR':'Irrigation timing and rate: Combinations of four irrigation rates (60%%, 80%%, 100%%, and 120%% of full irrigation) in two time periods (first square to peak bloom and peak bloom to 90%% open boll)',
+    'FACTORS':'Irrigation timing and rate: Combinations of four irrigation rates (60%%, 80%%, 100%%, and 120%% of full irrigation) in two time periods (first square to peak bloom and peak bloom to 90%% open boll)',
+    'TRT_NO':16,
     'REP_NO':4,
-    'METHODS':'See Hunsaker, D. J., French, A. N., Waller, P. M., Bautista, E., Thorp, K. R., Bronson, K. F., Andrade-Sanchez, P., 2015. Comparison of traditional and ET-based irrigation scheduling of surface-irrigated cotton in the arid southwestern USA. Agricultural Water Management 159, 209-224. doi:10.1016/j.agwat.2015.06.016',
+    'METHODS':'See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146',
     'EXPER_TYPE':'ET001',
-    'SITE_NAME':'Maricopa Agricultural Center, Field 33',
+    'SITE_NAME':'Maricopa Agricultural Center, Field 13, Bench 4',
     'SITE_TYPE':'ST001',
     'MGMT_TYPE':'MT001',
-    'EXP_YEAR': '2009',
+    'EXP_YEAR': '2016',
     'EXP_DUR':1,
-    'CR_SYSTEM':'Cotton after fallow',
-    'LAST_NAME':'Hunsaker',
-    'FIRST_NAME':'Douglas',
-    'MID_INITIAL':'J',
-    'PERSON_NOTES':'Field technicians: Tom Clarke, Dick Simer, Suzette Maneely, and Bill Luckett',
+    'CR_SYSTEM':'Cotton on-the-flat after winter barley cover crop',
+    'LAST_NAME':'Thorp',
+    'FIRST_NAME':'Kelly',
+    'MID_INITIAL':'R',
+    'PERSON_NOTES':'Field technicians: Matt Hagler, Suzette Maneely, and Bill Luckett',
     'EX_ADDRESS':'21881 N. Cardon Ln., Maricopa, Arizona 85138',
-    'EX_EMAIL':'doug.hunsaker@usda.gov',
+    'EX_EMAIL':'kelly.thorp@usda.gov',
     'INSTITUTION':'USDA Agricultural Research Service, Maricopa, Arizona',
     'IN_TYPE':'IT004',
     'IN_ROLE':'IL001',
     'CMPLC':'',
-    'SUITE_NAME':'Field-scale remote sensing-based irrigation scheduling',
-    'SUITE_OBJ':'See Hunsaker, D. J., French, A. N., Waller, P. M., Bautista, E., Thorp, K. R., Bronson, K. F., Andrade-Sanchez, P., 2015. Comparison of traditional and ET-based irrigation scheduling of surface-irrigated cotton in the arid southwestern USA. Agricultural Water Management 159, 209-224. doi:10.1016/j.agwat.2015.06.016',
-    'FL_NAME':'Field 33',
-    'FL_LAT':33.074142, #from Google maps
-    'FL_LONG':-111.991038, #from Google maps
+    'SUITE_NAME':'Irrigation timing and rate experiment',
+    'SUITE_OBJ':'See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146',
+    'FL_NAME':'Field 13, Bench 4, Spans 2-6',
+    'FL_LAT':33.07914, #from Google maps
+    'FL_LONG':-111.97737, #from Google maps
     'FLELE':361}
 for key in expmeta.keys():
     myexp.setproperty(key,expmeta[key])
 
-trt_info = {'MAC':'Irrigation schedule used by the local farm manager',
-            'FAO':'Irrigation scheduling via a spatial ET-based FAO56 soil water balance model with mean 45%% management allowed depletion among zones',
-            'VI_A':'Irrigation scheduling via a spatial ET-based FAO56 soil water balance model with Kcb from NDVI and mean 45%% management allowed depletion among zones',
-            'VI_B':'Irrigation scheduling via a spatial ET-based FAO56 soil water balance model with Kcb from NDVI and 5%% of zones at 65%% management allowed depletion'}
+trt_info = {'60-60':'60%% irrigation rate from first square to peak bloom and 60%% irrigation rate from peak bloom to 90%% open boll',
+            '60-80':'60%% irrigation rate from first square to peak bloom and 80%% irrigation rate from peak bloom to 90%% open boll',
+            '60-100':'60%% irrigation rate from first square to peak bloom and 100%% irrigation rate from peak bloom to 90%% open boll',
+            '60-120':'60%% irrigation rate from first square to peak bloom and 120%% irrigation rate from peak bloom to 90%% open boll',
+            '80-60':'80%% irrigation rate from first square to peak bloom and 60%% irrigation rate from peak bloom to 90%% open boll',
+            '80-80':'80%% irrigation rate from first square to peak bloom and 80%% irrigation rate from peak bloom to 90%% open boll',
+            '80-100':'80%% irrigation rate from first square to peak bloom and 100%% irrigation rate from peak bloom to 90%% open boll',
+            '80-120':'80%% irrigation rate from first square to peak bloom and 120%% irrigation rate from peak bloom to 90%% open boll',
+            '100-60':'100%% irrigation rate from first square to peak bloom and 60%% irrigation rate from peak bloom to 90%% open boll',
+            '100-80':'100%% irrigation rate from first square to peak bloom and 80%% irrigation rate from peak bloom to 90%% open boll',
+            '100-100':'100%% irrigation rate from first square to peak bloom and 100%% irrigation rate from peak bloom to 90%% open boll',
+            '100-120':'100%% irrigation rate from first square to peak bloom and 120%% irrigation rate from peak bloom to 90%% open boll',
+            '120-60':'120%% irrigation rate from first square to peak bloom and 60%% irrigation rate from peak bloom to 90%% open boll',
+            '120-80':'120%% irrigation rate from first square to peak bloom and 80%% irrigation rate from peak bloom to 90%% open boll',
+            '120-100':'120%% irrigation rate from first square to peak bloom and 100%% irrigation rate from peak bloom to 90%% open boll',
+            '120-120':'120%% irrigation rate from first square to peak bloom and 120%% irrigation rate from peak bloom to 90%% open boll'}
 
 for key in trt_info.keys():
     data = {'trt_label':key,'description':trt_info[key]}
@@ -83,7 +94,7 @@ for key in trt_info.keys():
 
 ########################################################################
 #Plots
-shapefile = './Data/'+fname+'/'+fname+'_Plots.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Plots.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -92,7 +103,7 @@ layer = shapes.GetLayer()
 #lyrdef = plotlyr.GetLayerDefn()
 #for i in list(range(lyrdef.GetFieldCount())):
 #    print(lyrdef.GetFieldDefn(i).GetName())
-yfile = './Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 plots = list()
 for feature in layer:
@@ -110,9 +121,12 @@ for feature in layer:
     myplot.setproperty('PLT_AREA',round(plt_area,6))
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
+    row = row.astype({'FBMIC':float})
     myplot.setproperty('HARM'  ,row.iloc[0]['HARM'])
     myplot.setproperty('HADAT' ,row.iloc[0]['HADAT'].strftime('%m/%d/%Y'))
     myplot.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))
+    myplot.setproperty('BWCAH' ,round(row.iloc[0]['BWCAH' ],2))
+    myplot.setproperty('DBWAH' ,round(row.iloc[0]['DBWAH' ],1))
     myplot.setproperty('GNDAT' ,row.iloc[0]['GNDAT'].strftime('%m/%d/%Y'))
     myplot.setproperty('FFRAC' ,round(row.iloc[0]['FFRAC' ],4))
     myplot.setproperty('SFRAC' ,round(row.iloc[0]['SFRAC' ],4))
@@ -120,45 +134,31 @@ for feature in layer:
     myplot.setproperty('WFWAH' ,round(row.iloc[0]['WFWAH' ],1))
     myplot.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
     myplot.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
+    myplot.setproperty('DFWAH' ,round(row.iloc[0]['DFWAH' ],1))
+    myplot.setproperty('DSWAH' ,round(row.iloc[0]['DSWAH' ],1))
+    myplot.setproperty('DSCWAH',round(row.iloc[0]['DSCWAH'],1))
+    myplot.setproperty('QLDAT' ,row.iloc[0]['QLDAT'].strftime('%m/%d/%Y'))
+    myplot.setproperty('FBMIC' ,round(row.iloc[0]['FBMIC' ],0))
+    myplot.setproperty('FBLTH' ,round(row.iloc[0]['FBLTH' ],2))
+    myplot.setproperty('FBUNI' ,round(row.iloc[0]['FBUNI' ],1))
+    myplot.setproperty('FBSTR' ,round(row.iloc[0]['FBSTR' ],1))
+    myplot.setproperty('FBELO' ,round(row.iloc[0]['FBELO' ],1))
+    myplot.setproperty('FBSFI' ,round(row.iloc[0]['FBSFI' ],1))
     plots.append(myplot)
 ########################################################################
 
 ########################################################################
-#Zones
-shapefile = './Data/'+fname+'/'+fname+'_Zones.shp'
-driver = ogr.GetDriverByName('ESRI Shapefile')
-shapes = driver.Open(shapefile, 0)
-layer = shapes.GetLayer()
-zones = list()
-for feature in layer:
-    zid = feature.GetField('ObjectId')
-    zon_label = feature.GetField('ZoneID')
-    geometry = feature.GetGeometryRef()
-    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
-    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
-        sys.exit()
-    zon_area = geometry.GetArea()
-    myzone = zone.Zone(zid=zid,geometry=geometry,zon_label=zon_label)
-    myzone.setproperty('ZON_AREA',round(zon_area,6))
-    for plot in plots:
-        if plot.plt_label[1:3] == zon_label[:2]:
-            plot.addzid(myzone.getid())
-    zones.append(myzone)
-########################################################################
-
-########################################################################
 #Harvest Areas
-shapefile = './Data/'+fname+'/'+fname+'_HarvestAreas.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_HarvestAreas.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-yfile = './Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
-yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=32)
+yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=42)
 hareas = list()
 for feature in layer:
     haid = feature.GetField('ObjectId')
-    ha_label = feature.GetField('HID') #(e.g., p01-01)
+    ha_label = feature.GetField('HID') #(e.g., 01-1A)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
@@ -169,12 +169,17 @@ for feature in layer:
     myha.setproperty('HA_AREA',round(ha_area,6))
     #Yield and fiber quality data
     row = yld.loc[yld['HID'] == ha_label]
+    row = row.astype({'FBMIC':float})
     if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
         myha.setproperty('HARM',row.iloc[0]['HARM'])
     if not str(row.iloc[0]['HADAT']) in ['nan','NaT']:
         myha.setproperty('HADAT',row.iloc[0]['HADAT'].strftime('%m/%d/%Y'))
     if not math.isnan(row.iloc[0]['WBWAH']):
         myha.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))
+    if not math.isnan(row.iloc[0]['BWCAH']):
+        myha.setproperty('BWCAH' ,round(row.iloc[0]['BWCAH' ],2))
+    if not math.isnan(row.iloc[0]['DBWAH']):
+        myha.setproperty('DBWAH' ,round(row.iloc[0]['DBWAH' ],1))
     if not str(row.iloc[0]['GNDAT']) in ['nan','NaT']:
         myha.setproperty('GNDAT',row.iloc[0]['GNDAT'].strftime('%m/%d/%Y'))
     if not math.isnan(row.iloc[0]['FFRAC']):
@@ -189,28 +194,47 @@ for feature in layer:
         myha.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
     if not math.isnan(row.iloc[0]['WSCWAH']):
         myha.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
+    if not math.isnan(row.iloc[0]['DFWAH']):
+        myha.setproperty('DFWAH' ,round(row.iloc[0]['DFWAH' ],1))
+    if not math.isnan(row.iloc[0]['DSWAH']):
+        myha.setproperty('DSWAH' ,round(row.iloc[0]['DSWAH' ],1))
+    if not math.isnan(row.iloc[0]['DSCWAH']):
+        myha.setproperty('DSCWAH',round(row.iloc[0]['DSCWAH'],1))
+    if not str(row.iloc[0]['QLDAT']) in ['nan','NaT']:
+        myha.setproperty('QLDAT',row.iloc[0]['QLDAT'].strftime('%m/%d/%Y'))
+    if not math.isnan(row.iloc[0]['FBMIC']):
+        myha.setproperty('FBMIC' ,round(row.iloc[0]['FBMIC' ],0))
+    if not math.isnan(row.iloc[0]['FBLTH']):
+        myha.setproperty('FBLTH' ,round(row.iloc[0]['FBLTH' ],2))
+    if not math.isnan(row.iloc[0]['FBUNI']):
+        myha.setproperty('FBUNI' ,round(row.iloc[0]['FBUNI' ],1))
+    if not math.isnan(row.iloc[0]['FBSTR']):
+        myha.setproperty('FBSTR' ,round(row.iloc[0]['FBSTR' ],1))
+    if not math.isnan(row.iloc[0]['FBELO']):
+        myha.setproperty('FBELO' ,round(row.iloc[0]['FBELO' ],1))
+    if not math.isnan(row.iloc[0]['FBSFI']):
+        myha.setproperty('FBSFI' ,round(row.iloc[0]['FBSFI' ],1))
     found=False
     for plot in plots:
-        if plot.plt_label == ha_label[:3]:
+        if plot.plt_label[1:] == ha_label[:4]:
             plot.addhaid(myha.getid())
             found=True
             break
     if not found:
         raise Exception('Did not find plot for HA %s' % ha_label)
     hareas.append(myha)
-
 ########################################################################
 
 ########################################################################
 #Neutron Soil Water Content
-shapefile = './Data/'+fname+'/'+fname+'_NeutronSWC.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_NeutronSWC.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 tubes = list()
 for feature in layer:
     tid = feature.GetField('ObjectId')
-    tb_label = feature.GetField('Tube') #(e.g., p01-1) 
+    tb_label = feature.GetField('Tube') #(e.g., 01-1) 
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
@@ -219,21 +243,21 @@ for feature in layer:
     mytube = neutronswc.NeutronSWC(tid=tid,geometry=geometry,tb_label=tb_label)
 
     for plot in plots:
-        if plot.plt_label == tb_label[:3]:
+        if plot.plt_label[1:] == tb_label:
             plot.addtid(mytube.getid())
     tubes.append(mytube)
 ########################################################################
 
 ########################################################################
 #Crop Height
-shapefile = './Data/'+fname+'/'+fname+'_CropHeight.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_CropHeight.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 crphts = list()
 for feature in layer:
     chid = feature.GetField('ObjectID')
-    ht_label = feature.GetField('CHID')  #(e.g., p01-1)
+    ht_label = feature.GetField('CHID')  #(e.g., 01-1A)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
@@ -242,38 +266,33 @@ for feature in layer:
     myht = cropheight.CropHeight(chid=chid,geometry=geometry,ht_label=ht_label)
 
     for plot in plots:
-        if plot.plt_label == ht_label[:3]:
+        if plot.plt_label[1:] == ht_label[:4]:
             plot.addchid(myht.getid())
     crphts.append(myht)
 ########################################################################
 
 ########################################################################
 #Write geojson files
-f = open('./geojson/'+fname+'/'+fname+'_experiment.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w')
 f.write(myexp.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_plots.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_plots.geojson','w')
 for myplot in plots:
     f.write(myplot.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_zones.geojson','w')
-for myzone in zones:
-    f.write(myzone.__str__())
-f.close()
-
-f = open('./geojson/'+fname+'/'+fname+'_harvestareas.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_harvestareas.geojson','w')
 for myha in hareas:
     f.write(myha.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
 for mytube in tubes:
     f.write(mytube.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_cropheight.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_cropheight.geojson','w')
 for mycrpht in crphts:
     f.write(mycrpht.__str__())
 f.close()

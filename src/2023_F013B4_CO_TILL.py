@@ -13,11 +13,11 @@ fname = os.path.basename(__file__)
 fname = os.path.splitext(fname)[0]
 
 numtrt = 4
-numrep = 4
+numrep = 3
 
 ########################################################################
 #Experiment
-shapefile = './Data/'+fname+'/'+fname+'_Experiment.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Experiment.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -36,13 +36,13 @@ for feature in layer:
 myexp.setproperty('EXP_AREA',round(exp_area,6))
 
 expmeta = {
-    'EXNAME':'Irrigation rate experiment, Season 2 of 2',
+    'EXNAME':'Tillage and cover crop study, Season 1 of 1',
     #'OBJECTIVES':'See Thorp et al., TBD',
     #'EXP_NARR':'See Thorp et al., TBD',
-    'MAIN_FACTOR':'Irrigation rate (40%%, 60%%, 80%%, and 100% of full irrigation)',
-    'FACTORS':'Four irrigation rates initiated at flowering (40%%, 60%%, 80%%, and 100% of full irrigation)',
+    'MAIN_FACTOR':'Type of tillage: beds and furrows, on-the-flat, strip tillage, no tillage',
+    'FACTORS':'Four tillage treatments',
     'TRT_NO':4,
-    'REP_NO':4,
+    'REP_NO':3,
     #'METHODS':'See Thorp et al., TBD',
     'EXPER_TYPE':'ET001',
     'SITE_NAME':'Maricopa Agricultural Center, Field 13, Bench 4',
@@ -61,19 +61,19 @@ expmeta = {
     'IN_TYPE':'IT004',
     'IN_ROLE':'IL001',
     'CMPLC':'',
-    'SUITE_NAME':'Irrigation rate experiment',
+    'SUITE_NAME':'Tillage and cover crop study',
     #'SUITE_OBJ':'See Thorp et al., TBD',
-    'FL_NAME':'Field 13, Bench 4, Span 7',
-    'FL_LAT':33.079177, #from Google maps
-    'FL_LONG':-111.978450, #from Google maps
+    'FL_NAME':'Field 13, Bench 4, Spans 4-6',
+    'FL_LAT':33.07914, #from Google maps
+    'FL_LONG':-111.97737, #from Google maps
     'FLELE':361}
 for key in expmeta.keys():
     myexp.setproperty(key,expmeta[key])
 
-trt_info = {'IR040':'40 percent of full irrigation rate initiated at flowering',
-            'IR060':'60 percent of full irrigation rate initiated at flowering',
-            'IR080':'80 percent of full irrigation rate initiated at flowering',
-            'IR100':'Full irrigation rate for the entire season'}
+trt_info = {'BEDS':'Cotton planted on raised beds after full tillage',
+            'FLAT':'Cotton planted on the flat after full tillage',
+            'STRIP':'Cotton planted into tilled strips within a terminated barley cover crop',
+            'NOTILL':'Cotton planted into a terminated barley cover crop'}
 
 for key in trt_info.keys():
     data = {'trt_label':key,'description':trt_info[key]}
@@ -82,7 +82,7 @@ for key in trt_info.keys():
 
 ########################################################################
 #Plots
-shapefile = './Data/'+fname+'/'+fname+'_Plots.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Plots.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -95,7 +95,7 @@ plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
     plt_label = feature.GetField('Plot')
-    trt_label = feature.GetField('IrrRate')
+    trt_label = feature.GetField('Treatment')
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
@@ -110,14 +110,14 @@ for feature in layer:
 
 ########################################################################
 #Harvest Areas
-shapefile = './Data/'+fname+'/'+fname+'_HarvestAreas.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_HarvestAreas.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 hareas = list()
 for feature in layer:
     haid = feature.GetField('ObjectId')
-    ha_label = feature.GetField('HID') #(e.g., p1-1-W)
+    ha_label = feature.GetField('HID') #(e.g., p01-01-E)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
@@ -127,7 +127,7 @@ for feature in layer:
     myha = harvestarea.HarvestArea(haid=haid,geometry=geometry,ha_label=ha_label)
     myha.setproperty('HA_AREA',round(ha_area,6))
     for plot in plots:
-        if plot.plt_label == ha_label[:4]:
+        if plot.plt_label == ha_label[:3]:
             plot.addhaid(myha.getid())
     hareas.append(myha)
 
@@ -135,14 +135,14 @@ for feature in layer:
 
 ########################################################################
 #Neutron Soil Water Content
-shapefile = './Data/'+fname+'/'+fname+'_NeutronSWC.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_NeutronSWC.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 tubes = list()
 for feature in layer:
     tid = feature.GetField('ObjectId')
-    tb_label = feature.GetField('Tube') #(e.g., p1-1) 
+    tb_label = feature.GetField('Tube') #(e.g., p01-1) 
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
@@ -151,30 +151,58 @@ for feature in layer:
     mytube = neutronswc.NeutronSWC(tid=tid,geometry=geometry,tb_label=tb_label)
 
     for plot in plots:
-        if plot.plt_label == tb_label[:4]:
+        if plot.plt_label == tb_label[:3]:
             plot.addtid(mytube.getid())
     tubes.append(mytube)
 ########################################################################
 
 ########################################################################
+#Crop Height
+shapefile = '../Data/'+fname+'/'+fname+'_CropHeight.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+crphts = list()
+for feature in layer:
+    chid = feature.GetField('ObjectID')
+    ht_label = feature.GetField('Flag')  #(e.g., p01-01)
+    geometry = feature.GetGeometryRef()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in plot shapefile.')
+        sys.exit()
+    myht = cropheight.CropHeight(chid=chid,geometry=geometry,ht_label=ht_label)
+
+    for plot in plots:
+        if plot.plt_label == ht_label[:3]:
+            plot.addchid(myht.getid())
+    crphts.append(myht)
+########################################################################
+
+########################################################################
 #Write geojson files
-f = open('./geojson/'+fname+'/'+fname+'_experiment.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w')
 f.write(myexp.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_plots.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_plots.geojson','w')
 for myplot in plots:
     f.write(myplot.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_harvestareas.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_harvestareas.geojson','w')
 for myha in hareas:
     f.write(myha.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
 for mytube in tubes:
     f.write(mytube.__str__())
+f.close()
+
+f = open('../geojson/'+fname+'/'+fname+'_cropheight.geojson','w')
+for mycrpht in crphts:
+    f.write(mycrpht.__str__())
 f.close()
 
 ########################################################################

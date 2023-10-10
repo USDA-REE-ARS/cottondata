@@ -17,7 +17,7 @@ numrep = 4
 
 ########################################################################
 #Experiment
-shapefile = './Data/'+fname+'/'+fname+'_Experiment.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Experiment.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -94,7 +94,7 @@ for key in trt_info.keys():
 
 ########################################################################
 #Plots
-shapefile = './Data/'+fname+'/'+fname+'_Plots.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Plots.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -103,7 +103,7 @@ layer = shapes.GetLayer()
 #lyrdef = plotlyr.GetLayerDefn()
 #for i in list(range(lyrdef.GetFieldCount())):
 #    print(lyrdef.GetFieldDefn(i).GetName())
-yfile = './Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 plots = list()
 for feature in layer:
@@ -149,11 +149,11 @@ for feature in layer:
 
 ########################################################################
 #Harvest Areas
-shapefile = './Data/'+fname+'/'+fname+'_HarvestAreas.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_HarvestAreas.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-yfile = './Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=46)
 hareas = list()
 for feature in layer:
@@ -227,7 +227,7 @@ for feature in layer:
 
 ########################################################################
 #Neutron Soil Water Content
-shapefile = './Data/'+fname+'/'+fname+'_NeutronSWC.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_NeutronSWC.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -250,7 +250,7 @@ for feature in layer:
 
 ########################################################################
 #Crop Height
-shapefile = './Data/'+fname+'/'+fname+'_CropHeight.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_CropHeight.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -273,26 +273,26 @@ for feature in layer:
 
 ########################################################################
 #Write geojson files
-f = open('./geojson/'+fname+'/'+fname+'_experiment.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w')
 f.write(myexp.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_plots.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_plots.geojson','w')
 for myplot in plots:
     f.write(myplot.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_harvestareas.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_harvestareas.geojson','w')
 for myha in hareas:
     f.write(myha.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
 for mytube in tubes:
     f.write(mytube.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_cropheight.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_cropheight.geojson','w')
 for mycrpht in crphts:
     f.write(mycrpht.__str__())
 f.close()

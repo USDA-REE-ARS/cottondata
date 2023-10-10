@@ -12,12 +12,12 @@ from osgeo import ogr
 fname = os.path.basename(__file__)
 fname = os.path.splitext(fname)[0]
 
-numtrt = 16
-numrep = 4
+numtrt = 5
+numrep = 2
 
 ########################################################################
 #Experiment
-shapefile = './Data/'+fname+'/'+fname+'_Experiment.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Experiment.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -36,56 +36,45 @@ for feature in layer:
 myexp.setproperty('EXP_AREA',round(exp_area,6))
 
 expmeta = {
-    'EXNAME':'Irrigation timing and rate experiment, Season 3 of 3',
-    'OBJECTIVES':'See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146',
-    'EXP_NARR':'See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146',
-    'MAIN_FACTOR':'Irrigation timing and rate: Combinations of four irrigation rates (60%%, 80%%, 100%%, and 120%% of full irrigation) in two time periods (first square to peak bloom and peak bloom to 90%% open boll)',
-    'FACTORS':'Irrigation timing and rate: Combinations of four irrigation rates (60%%, 80%%, 100%%, and 120%% of full irrigation) in two time periods (first square to peak bloom and peak bloom to 90%% open boll)',
-    'TRT_NO':16,
-    'REP_NO':4,
-    'METHODS':'See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146',
+    'EXNAME':'Irrigation scheduling methods for overhead sprinkler, Season 1 of 2',
+    'OBJECTIVES':'See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323',
+    'EXP_NARR':'See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323',
+    'MAIN_FACTOR':'Irrigation scheduling method: stand-alone models versus soil water assisted models',
+    'FACTORS':'Six irrigation scheduling methods and two cotton varieties',
+    'TRT_NO':5,
+    'REP_NO':2,
+    'METHODS':'See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323',
     'EXPER_TYPE':'ET001',
     'SITE_NAME':'Maricopa Agricultural Center, Field 13, Bench 4',
     'SITE_TYPE':'ST001',
     'MGMT_TYPE':'MT001',
-    'EXP_YEAR': '2018',
+    'EXP_YEAR': '2015',
     'EXP_DUR':1,
-    'CR_SYSTEM':'No-till cotton after winter barley cover crop',
+    'CR_SYSTEM':'Cotton after fallow',
     'LAST_NAME':'Thorp',
     'FIRST_NAME':'Kelly',
     'MID_INITIAL':'R',
-    'PERSON_NOTES':'Field technicians: Matt Hagler and Suzette Maneely',
+    'PERSON_NOTES':'Field technicians: Matt Hagler, Suzette Maneely, and Bill Luckett',
     'EX_ADDRESS':'21881 N. Cardon Ln., Maricopa, Arizona 85138',
     'EX_EMAIL':'kelly.thorp@usda.gov',
     'INSTITUTION':'USDA Agricultural Research Service, Maricopa, Arizona',
     'IN_TYPE':'IT004',
     'IN_ROLE':'IL001',
     'CMPLC':'',
-    'SUITE_NAME':'Irrigation timing and rate experiment',
-    'SUITE_OBJ':'See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146',
-    'FL_NAME':'Field 13, Bench 4, Spans 3-6',
+    'SUITE_NAME':'Irrigation scheduling methods for overhead sprinkler',
+    'SUITE_OBJ':'See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323',
+    'FL_NAME':'Field 13, Bench 4, Spans 1-5 and 7',
     'FL_LAT':33.07914, #from Google maps
     'FL_LONG':-111.97737, #from Google maps
     'FLELE':361}
 for key in expmeta.keys():
     myexp.setproperty(key,expmeta[key])
 
-trt_info = {'60-60':'60%% irrigation rate from first square to peak bloom and 60%% irrigation rate from peak bloom to 90%% open boll',
-            '60-80':'60%% irrigation rate from first square to peak bloom and 80%% irrigation rate from peak bloom to 90%% open boll',
-            '60-100':'60%% irrigation rate from first square to peak bloom and 100%% irrigation rate from peak bloom to 90%% open boll',
-            '60-120':'60%% irrigation rate from first square to peak bloom and 120%% irrigation rate from peak bloom to 90%% open boll',
-            '80-60':'80%% irrigation rate from first square to peak bloom and 60%% irrigation rate from peak bloom to 90%% open boll',
-            '80-80':'80%% irrigation rate from first square to peak bloom and 80%% irrigation rate from peak bloom to 90%% open boll',
-            '80-100':'80%% irrigation rate from first square to peak bloom and 100%% irrigation rate from peak bloom to 90%% open boll',
-            '80-120':'80%% irrigation rate from first square to peak bloom and 120%% irrigation rate from peak bloom to 90%% open boll',
-            '100-60':'100%% irrigation rate from first square to peak bloom and 60%% irrigation rate from peak bloom to 90%% open boll',
-            '100-80':'100%% irrigation rate from first square to peak bloom and 80%% irrigation rate from peak bloom to 90%% open boll',
-            '100-100':'100%% irrigation rate from first square to peak bloom and 100%% irrigation rate from peak bloom to 90%% open boll',
-            '100-120':'100%% irrigation rate from first square to peak bloom and 120%% irrigation rate from peak bloom to 90%% open boll',
-            '120-60':'120%% irrigation rate from first square to peak bloom and 60%% irrigation rate from peak bloom to 90%% open boll',
-            '120-80':'120%% irrigation rate from first square to peak bloom and 80%% irrigation rate from peak bloom to 90%% open boll',
-            '120-100':'120%% irrigation rate from first square to peak bloom and 100%% irrigation rate from peak bloom to 90%% open boll',
-            '120-120':'120%% irrigation rate from first square to peak bloom and 120%% irrigation rate from peak bloom to 90%% open boll'}
+trt_info = {'FAO':'Irrigation scheduling via an ET-based FAO56 soil water balance model',
+            'CropMod':'Irrigation scheduling via the DSSAT CSM-CROPGRO-Cotton model',
+            'SEB':'Irrigation scheduling via a surface energy balance model (unrealized)',
+            'NDVI':'Irrigation scheduling via an ET-based FAO56 soil water balance model with Kcb from remotely sensed NDVI (unrealized)',
+            'Stress':'Water stressed treatment with 30%% of the FAO irrigation amount'}
 
 for key in trt_info.keys():
     data = {'trt_label':key,'description':trt_info[key]}
@@ -94,7 +83,7 @@ for key in trt_info.keys():
 
 ########################################################################
 #Plots
-shapefile = './Data/'+fname+'/'+fname+'_Plots.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Plots.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -103,7 +92,7 @@ layer = shapes.GetLayer()
 #lyrdef = plotlyr.GetLayerDefn()
 #for i in list(range(lyrdef.GetFieldCount())):
 #    print(lyrdef.GetFieldDefn(i).GetName())
-yfile = './Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 plots = list()
 for feature in layer:
@@ -136,28 +125,21 @@ for feature in layer:
     myplot.setproperty('DFWAH' ,round(row.iloc[0]['DFWAH' ],1))
     myplot.setproperty('DSWAH' ,round(row.iloc[0]['DSWAH' ],1))
     myplot.setproperty('DSCWAH',round(row.iloc[0]['DSCWAH'],1))
-    myplot.setproperty('QLDAT' ,row.iloc[0]['QLDAT'].strftime('%m/%d/%Y'))
-    myplot.setproperty('FBMIC' ,round(row.iloc[0]['FBMIC' ],1))
-    myplot.setproperty('FBLTH' ,round(row.iloc[0]['FBLTH' ],2))
-    myplot.setproperty('FBUNI' ,round(row.iloc[0]['FBUNI' ],1))
-    myplot.setproperty('FBSTR' ,round(row.iloc[0]['FBSTR' ],1))
-    myplot.setproperty('FBELO' ,round(row.iloc[0]['FBELO' ],1))
-    myplot.setproperty('FBSFI' ,round(row.iloc[0]['FBSFI' ],1))
     plots.append(myplot)
 ########################################################################
 
 ########################################################################
 #Harvest Areas
-shapefile = './Data/'+fname+'/'+fname+'_HarvestAreas.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_HarvestAreas.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-yfile = './Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
-yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=46)
+yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=38)
 hareas = list()
 for feature in layer:
     haid = feature.GetField('ObjectId')
-    ha_label = feature.GetField('HID') #(e.g., 01-1A)
+    ha_label = feature.GetField('HID') #(e.g., p01-01)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
@@ -198,23 +180,9 @@ for feature in layer:
         myha.setproperty('DSWAH' ,round(row.iloc[0]['DSWAH' ],1))
     if not math.isnan(row.iloc[0]['DSCWAH']):
         myha.setproperty('DSCWAH',round(row.iloc[0]['DSCWAH'],1))
-    if not str(row.iloc[0]['QLDAT']) in ['nan','NaT']:
-        myha.setproperty('QLDAT',row.iloc[0]['QLDAT'].strftime('%m/%d/%Y'))
-    if not math.isnan(row.iloc[0]['FBMIC']):
-        myha.setproperty('FBMIC' ,round(row.iloc[0]['FBMIC' ],1))
-    if not math.isnan(row.iloc[0]['FBLTH']):
-        myha.setproperty('FBLTH' ,round(row.iloc[0]['FBLTH' ],2))
-    if not math.isnan(row.iloc[0]['FBUNI']):
-        myha.setproperty('FBUNI' ,round(row.iloc[0]['FBUNI' ],1))
-    if not math.isnan(row.iloc[0]['FBSTR']):
-        myha.setproperty('FBSTR' ,round(row.iloc[0]['FBSTR' ],1))
-    if not math.isnan(row.iloc[0]['FBELO']):
-        myha.setproperty('FBELO' ,round(row.iloc[0]['FBELO' ],1))
-    if not math.isnan(row.iloc[0]['FBSFI']):
-        myha.setproperty('FBSFI' ,round(row.iloc[0]['FBSFI' ],1))
     found=False
     for plot in plots:
-        if plot.plt_label[1:] == ha_label[:4]:
+        if plot.plt_label == ha_label[:3]:
             plot.addhaid(myha.getid())
             found=True
             break
@@ -225,14 +193,14 @@ for feature in layer:
 
 ########################################################################
 #Neutron Soil Water Content
-shapefile = './Data/'+fname+'/'+fname+'_NeutronSWC.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_NeutronSWC.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 tubes = list()
 for feature in layer:
     tid = feature.GetField('ObjectId')
-    tb_label = feature.GetField('Tube') #(e.g., 01-1) 
+    tb_label = feature.GetField('Tube') #(e.g., p01-1) 
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
@@ -241,21 +209,21 @@ for feature in layer:
     mytube = neutronswc.NeutronSWC(tid=tid,geometry=geometry,tb_label=tb_label)
 
     for plot in plots:
-        if plot.plt_label[1:] == tb_label:
+        if plot.plt_label == tb_label[:3]:
             plot.addtid(mytube.getid())
     tubes.append(mytube)
 ########################################################################
 
 ########################################################################
 #Crop Height
-shapefile = './Data/'+fname+'/'+fname+'_CropHeight.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_CropHeight.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 crphts = list()
 for feature in layer:
     chid = feature.GetField('ObjectID')
-    ht_label = feature.GetField('CHID')  #(e.g., 01-1A)
+    ht_label = feature.GetField('CHID')  #(e.g., p01-01)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
@@ -264,33 +232,33 @@ for feature in layer:
     myht = cropheight.CropHeight(chid=chid,geometry=geometry,ht_label=ht_label)
 
     for plot in plots:
-        if plot.plt_label[1:] == ht_label[:4]:
+        if plot.plt_label == ht_label[:3]:
             plot.addchid(myht.getid())
     crphts.append(myht)
 ########################################################################
 
 ########################################################################
 #Write geojson files
-f = open('./geojson/'+fname+'/'+fname+'_experiment.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w')
 f.write(myexp.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_plots.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_plots.geojson','w')
 for myplot in plots:
     f.write(myplot.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_harvestareas.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_harvestareas.geojson','w')
 for myha in hareas:
     f.write(myha.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
 for mytube in tubes:
     f.write(mytube.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_cropheight.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_cropheight.geojson','w')
 for mycrpht in crphts:
     f.write(mycrpht.__str__())
 f.close()

@@ -17,7 +17,7 @@ numrep = 4
 
 ########################################################################
 #Experiment
-shapefile = './Data/'+fname+'/'+fname+'_Experiment.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Experiment.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -36,7 +36,7 @@ for feature in layer:
 myexp.setproperty('EXP_AREA',round(exp_area,6))
 
 expmeta = {
-    'EXNAME':'FAO-56 Irrigation Scheduling Experiment (FISE), Season 1 of 2',
+    'EXNAME':'FAO-56 Irrigation Scheduling Experiment (FISE), Season 2 of 2',
     'OBJECTIVES':'See Hunsaker, D. J., Barnes, E. M., Clarke, T. R., Fitzgerald, G. J., Pinter, Jr., P. J., 2005. Cotton irrigation scheduling using remotely sensed and FAO-56 basal crop coefficients. Transactions of the ASAE. 48(4):1395-1407. doi:10.13031/2013.19197',
     'EXP_NARR':'See Hunsaker, D. J., Barnes, E. M., Clarke, T. R., Fitzgerald, G. J., Pinter, Jr., P. J., 2005. Cotton irrigation scheduling using remotely sensed and FAO-56 basal crop coefficients. Transactions of the ASAE. 48(4):1395-1407. doi:10.13031/2013.19197',
     'MAIN_FACTOR':'Irrigation scheduling method: stand-alone models versus soil water assisted models',
@@ -48,7 +48,7 @@ expmeta = {
     'SITE_NAME':'Maricopa Agricultural Center, Field 105',
     'SITE_TYPE':'ST001',
     'MGMT_TYPE':'MT001',
-    'EXP_YEAR': '2002',
+    'EXP_YEAR': '2003',
     'EXP_DUR':1,
     'CR_SYSTEM':'Cotton after winter barley cover crop',
     'LAST_NAME':'Hunsaker',
@@ -90,7 +90,7 @@ for key in trt_info.keys():
 
 ########################################################################
 #Plots
-shapefile = './Data/'+fname+'/'+fname+'_Plots.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Plots.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -99,7 +99,7 @@ layer = shapes.GetLayer()
 #lyrdef = plotlyr.GetLayerDefn()
 #for i in list(range(lyrdef.GetFieldCount())):
 #    print(lyrdef.GetFieldDefn(i).GetName())
-yfile = './Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 plots = list()
 for feature in layer:
@@ -118,7 +118,6 @@ for feature in layer:
     #Yield and fiber quality data
     if plt_label not in ['p901','p903','p905','p907']:
         row = yld.loc[yld['PID'] == plt_label]
-        row = row.astype({'FBMIC':float,'FBUNI':float,'FBCRD':float})
         myplot.setproperty('HARM'  ,row.iloc[0]['HARM'])
         myplot.setproperty('HADAT' ,row.iloc[0]['HADAT'].strftime('%m/%d/%Y'))
         myplot.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))
@@ -129,20 +128,12 @@ for feature in layer:
         myplot.setproperty('WFWAH' ,round(row.iloc[0]['WFWAH' ],1))
         myplot.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
         myplot.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
-        myplot.setproperty('QLDAT' ,row.iloc[0]['QLDAT'].strftime('%m/%d/%Y'))
-        myplot.setproperty('FBMIC' ,round(row.iloc[0]['FBMIC' ],0))
-        myplot.setproperty('FBLTH' ,round(row.iloc[0]['FBLTH' ],2))
-        myplot.setproperty('FBUNI' ,round(row.iloc[0]['FBUNI' ],1))
-        myplot.setproperty('FBSTR' ,round(row.iloc[0]['FBSTR' ],1))
-        myplot.setproperty('FBCRD' ,round(row.iloc[0]['FBCRD' ],1))
-        myplot.setproperty('FBCGR' ,row.iloc[0]['FBCGR'])
-        myplot.setproperty('FBTAR' ,round(row.iloc[0]['FBTAR' ],2))
     plots.append(myplot)
 ########################################################################
 
 ########################################################################
 #Neutron Soil Water Content
-shapefile = './Data/'+fname+'/'+fname+'_NeutronSWC.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_NeutronSWC.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -165,16 +156,16 @@ for feature in layer:
 
 ########################################################################
 #Write geojson files
-f = open('./geojson/'+fname+'/'+fname+'_experiment.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w')
 f.write(myexp.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_plots.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_plots.geojson','w')
 for myplot in plots:
     f.write(myplot.__str__())
 f.close()
 
-f = open('./geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
+f = open('../geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
 for mytube in tubes:
     f.write(mytube.__str__())
 f.close()
