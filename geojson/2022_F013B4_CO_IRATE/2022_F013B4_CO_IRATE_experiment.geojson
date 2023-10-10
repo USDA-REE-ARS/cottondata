@@ -1,0 +1,105 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.97826959,
+                    33.07847673
+                ],
+                [
+                    -111.97857435,
+                    33.07847824
+                ],
+                [
+                    -111.97856429,
+                    33.07992131
+                ],
+                [
+                    -111.97825952,
+                    33.0799198
+                ],
+                [
+                    -111.97826959,
+                    33.07847673
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "exp_label": "2022_F013B4_CO_IRATE",
+        "trt_info": [
+            {
+                "trt_label": "IR040",
+                "description": "40 percent of full irrigation rate initiated at flowering",
+                "pids": [
+                    "64233e638ac5474bc38ddd1e",
+                    "64233e638ac5474bc38ddd22",
+                    "64233e638ac5474bc38ddd28",
+                    "64233e638ac5474bc38ddd2d"
+                ]
+            },
+            {
+                "trt_label": "IR060",
+                "description": "60 percent of full irrigation rate initiated at flowering",
+                "pids": [
+                    "64233e638ac5474bc38ddd21",
+                    "64233e638ac5474bc38ddd25",
+                    "64233e638ac5474bc38ddd26",
+                    "64233e638ac5474bc38ddd2a"
+                ]
+            },
+            {
+                "trt_label": "IR080",
+                "description": "80 percent of full irrigation rate initiated at flowering",
+                "pids": [
+                    "64233e638ac5474bc38ddd20",
+                    "64233e638ac5474bc38ddd23",
+                    "64233e638ac5474bc38ddd27",
+                    "64233e638ac5474bc38ddd2c"
+                ]
+            },
+            {
+                "trt_label": "IR100",
+                "description": "Full irrigation rate for the entire season",
+                "pids": [
+                    "64233e638ac5474bc38ddd1f",
+                    "64233e638ac5474bc38ddd24",
+                    "64233e638ac5474bc38ddd29",
+                    "64233e638ac5474bc38ddd2b"
+                ]
+            }
+        ],
+        "EXP_AREA": 4551.680071,
+        "EXNAME": "Irrigation rate experiment, Season 1 of 2",
+        "MAIN_FACTOR": "Irrigation rate (40%%, 60%%, 80%%, and 100% of full irrigation)",
+        "FACTORS": "Four irrigation rates initiated at flowering (40%%, 60%%, 80%%, and 100% of full irrigation)",
+        "TRT_NO": 4,
+        "REP_NO": 4,
+        "EXPER_TYPE": "ET001",
+        "SITE_NAME": "Maricopa Agricultural Center, Field 13, Bench 4",
+        "SITE_TYPE": "ST001",
+        "MGMT_TYPE": "MT001",
+        "EXP_YEAR": "2022",
+        "EXP_DUR": 1,
+        "CR_SYSTEM": "Strip-till cotton after winter triticale cover crop",
+        "LAST_NAME": "Thorp",
+        "FIRST_NAME": "Kelly",
+        "MID_INITIAL": "R",
+        "PERSON_NOTES": "Field technicians: Matt Hagler and Suzette Maneely",
+        "EX_ADDRESS": "21881 N. Cardon Ln., Maricopa, Arizona 85138",
+        "EX_EMAIL": "kelly.thorp@usda.gov",
+        "INSTITUTION": "USDA Agricultural Research Service, Maricopa, Arizona",
+        "IN_TYPE": "IT004",
+        "IN_ROLE": "IL001",
+        "CMPLC": "",
+        "SUITE_NAME": "Irrigation rate experiment",
+        "FL_NAME": "Field 13, Bench 4, Span 7",
+        "FL_LAT": 33.079177,
+        "FL_LONG": -111.97845,
+        "FLELE": 361
+    },
+    "_id": "64233b5e8ac5474bb0a7c662",
+    "eid": "64233b5e8ac5474bb0a7c662"
+}

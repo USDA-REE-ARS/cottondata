@@ -1,0 +1,109 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.99253805,
+                    33.07346269
+                ],
+                [
+                    -111.99255425,
+                    33.07490572
+                ],
+                [
+                    -111.99002924,
+                    33.07492579
+                ],
+                [
+                    -111.99001308,
+                    33.07348276
+                ],
+                [
+                    -111.99253805,
+                    33.07346269
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "exp_label": "2009_F033_CO_RSIS",
+        "trt_info": [
+            {
+                "trt_label": "MAC",
+                "description": "Irrigation schedule used by the local farm manager",
+                "pids": [
+                    "6439d8c98ac54739f894bc4e",
+                    "6439d8c98ac54739f894bc52",
+                    "6439d8c98ac54739f894bc58",
+                    "6439d8c98ac54739f894bc5c"
+                ]
+            },
+            {
+                "trt_label": "FAO",
+                "description": "Irrigation scheduling via a spatial ET-based FAO56 soil water balance model with mean 45%% management allowed depletion among zones",
+                "pids": [
+                    "6439d8c98ac54739f894bc50",
+                    "6439d8c98ac54739f894bc53",
+                    "6439d8c98ac54739f894bc56",
+                    "6439d8c98ac54739f894bc5a"
+                ]
+            },
+            {
+                "trt_label": "VI_A",
+                "description": "Irrigation scheduling via a spatial ET-based FAO56 soil water balance model with Kcb from NDVI and mean 45%% management allowed depletion among zones",
+                "pids": [
+                    "6439d8c98ac54739f894bc51",
+                    "6439d8c98ac54739f894bc54",
+                    "6439d8c98ac54739f894bc59",
+                    "6439d8c98ac54739f894bc5b"
+                ]
+            },
+            {
+                "trt_label": "VI_B",
+                "description": "Irrigation scheduling via a spatial ET-based FAO56 soil water balance model with Kcb from NDVI and 5%% of zones at 65%% management allowed depletion",
+                "pids": [
+                    "6439d8c98ac54739f894bc4f",
+                    "6439d8c98ac54739f894bc55",
+                    "6439d8c98ac54739f894bc57",
+                    "6439d8c98ac54739f894bc5d"
+                ]
+            }
+        ],
+        "EXP_AREA": 37713.92,
+        "EXNAME": "Field-scale remote sensing-based irrigation scheduling, Season 1 of 2",
+        "OBJECTIVES": "See Hunsaker, D. J., French, A. N., Waller, P. M., Bautista, E., Thorp, K. R., Bronson, K. F., Andrade-Sanchez, P., 2015. Comparison of traditional and ET-based irrigation scheduling of surface-irrigated cotton in the arid southwestern USA. Agricultural Water Management 159, 209-224. doi:10.1016/j.agwat.2015.06.016",
+        "EXP_NARR": "See Hunsaker, D. J., French, A. N., Waller, P. M., Bautista, E., Thorp, K. R., Bronson, K. F., Andrade-Sanchez, P., 2015. Comparison of traditional and ET-based irrigation scheduling of surface-irrigated cotton in the arid southwestern USA. Agricultural Water Management 159, 209-224. doi:10.1016/j.agwat.2015.06.016",
+        "MAIN_FACTOR": "Irrigation scheduling method: ET-based soil water balance and remote sensing-based methods",
+        "FACTORS": "Four irrigation scheduling methods",
+        "TRT_NO": 4,
+        "REP_NO": 4,
+        "METHODS": "See Hunsaker, D. J., French, A. N., Waller, P. M., Bautista, E., Thorp, K. R., Bronson, K. F., Andrade-Sanchez, P., 2015. Comparison of traditional and ET-based irrigation scheduling of surface-irrigated cotton in the arid southwestern USA. Agricultural Water Management 159, 209-224. doi:10.1016/j.agwat.2015.06.016",
+        "EXPER_TYPE": "ET001",
+        "SITE_NAME": "Maricopa Agricultural Center, Field 33",
+        "SITE_TYPE": "ST001",
+        "MGMT_TYPE": "MT001",
+        "EXP_YEAR": "2009",
+        "EXP_DUR": 1,
+        "CR_SYSTEM": "Cotton after fallow",
+        "LAST_NAME": "Hunsaker",
+        "FIRST_NAME": "Douglas",
+        "MID_INITIAL": "J",
+        "PERSON_NOTES": "Field technicians: Tom Clarke, Dick Simer, Suzette Maneely, and Bill Luckett",
+        "EX_ADDRESS": "21881 N. Cardon Ln., Maricopa, Arizona 85138",
+        "EX_EMAIL": "doug.hunsaker@usda.gov",
+        "INSTITUTION": "USDA Agricultural Research Service, Maricopa, Arizona",
+        "IN_TYPE": "IT004",
+        "IN_ROLE": "IL001",
+        "CMPLC": "",
+        "SUITE_NAME": "Field-scale remote sensing-based irrigation scheduling",
+        "SUITE_OBJ": "See Hunsaker, D. J., French, A. N., Waller, P. M., Bautista, E., Thorp, K. R., Bronson, K. F., Andrade-Sanchez, P., 2015. Comparison of traditional and ET-based irrigation scheduling of surface-irrigated cotton in the arid southwestern USA. Agricultural Water Management 159, 209-224. doi:10.1016/j.agwat.2015.06.016",
+        "FL_NAME": "Field 33",
+        "FL_LAT": 33.074142,
+        "FL_LONG": -111.991038,
+        "FLELE": 361
+    },
+    "_id": "6439db5c8ac5473b1f313427",
+    "eid": "6439db5c8ac5473b1f313427"
+}

@@ -1,0 +1,185 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.97643267,
+                    33.07991088
+                ],
+                [
+                    -111.97644277,
+                    33.07846754
+                ],
+                [
+                    -111.97826959,
+                    33.07847661
+                ],
+                [
+                    -111.97825952,
+                    33.07991994
+                ],
+                [
+                    -111.97643267,
+                    33.07991088
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "exp_label": "2021_F013B4_CO_ISSWC",
+        "trt_info": [
+            {
+                "trt_label": "FAO_NG4936",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model and cotton cultivar NG4936",
+                "pids": [
+                    "63643f288ac54794e7f9177e",
+                    "63643f288ac54794e7f9178d",
+                    "63643f288ac54794e7f91799",
+                    "63643f288ac54794e7f9179e"
+                ]
+            },
+            {
+                "trt_label": "CSM_NG4936",
+                "description": "Irrigation scheduling via the DSSAT CSM-CROPGRO-Cotton model and cotton cultivar NG4936",
+                "pids": [
+                    "63643f288ac54794e7f9178c",
+                    "63643f288ac54794e7f91793",
+                    "63643f288ac54794e7f917aa",
+                    "63643f288ac54794e7f917ac"
+                ]
+            },
+            {
+                "trt_label": "AQC_NG4936",
+                "description": "Irrigation scheduling via the AquaCrop model and cotton cultivar NG4936",
+                "pids": [
+                    "63643f288ac54794e7f91781",
+                    "63643f288ac54794e7f91792",
+                    "63643f288ac54794e7f917a0",
+                    "63643f288ac54794e7f917ab"
+                ]
+            },
+            {
+                "trt_label": "FAOSWC_NG4936",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with soil water content feedback and cotton cultivar NG4936",
+                "pids": [
+                    "63643f288ac54794e7f9178b",
+                    "63643f288ac54794e7f91794",
+                    "63643f288ac54794e7f91798",
+                    "63643f288ac54794e7f9179f"
+                ]
+            },
+            {
+                "trt_label": "CSMSWC_NG4936",
+                "description": "Irrigation scheduling via the DSSAT CSM-CROPGRO-Cotton model with soil water content feedback and cotton cultivar NG4936",
+                "pids": [
+                    "63643f288ac54794e7f9177f",
+                    "63643f288ac54794e7f91795",
+                    "63643f288ac54794e7f91796",
+                    "63643f288ac54794e7f917a1"
+                ]
+            },
+            {
+                "trt_label": "AQCSWC_NG4936",
+                "description": "Irrigation scheduling via the AquaCrop model with soil water content feedback and cotton cultivar NG4936",
+                "pids": [
+                    "63643f288ac54794e7f91780",
+                    "63643f288ac54794e7f9178a",
+                    "63643f288ac54794e7f91797",
+                    "63643f288ac54794e7f917ad"
+                ]
+            },
+            {
+                "trt_label": "FAO_NG3195",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model and cotton cultivar NG3195",
+                "pids": [
+                    "63643f288ac54794e7f91782",
+                    "63643f288ac54794e7f91789",
+                    "63643f288ac54794e7f9179d",
+                    "63643f288ac54794e7f917a2"
+                ]
+            },
+            {
+                "trt_label": "CSM_NG3195",
+                "description": "Irrigation scheduling via the DSSAT CSM-CROPGRO-Cotton model and cotton cultivar NG3195",
+                "pids": [
+                    "63643f288ac54794e7f91788",
+                    "63643f288ac54794e7f9178f",
+                    "63643f288ac54794e7f917a6",
+                    "63643f288ac54794e7f917a8"
+                ]
+            },
+            {
+                "trt_label": "AQC_NG3195",
+                "description": "Irrigation scheduling via the AquaCrop model and cotton cultivar NG3195",
+                "pids": [
+                    "63643f288ac54794e7f91785",
+                    "63643f288ac54794e7f9178e",
+                    "63643f288ac54794e7f917a4",
+                    "63643f288ac54794e7f917a7"
+                ]
+            },
+            {
+                "trt_label": "FAOSWC_NG3195",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with soil water content feedback and cotton cultivar NG3195",
+                "pids": [
+                    "63643f288ac54794e7f91787",
+                    "63643f288ac54794e7f91790",
+                    "63643f288ac54794e7f9179c",
+                    "63643f288ac54794e7f917a3"
+                ]
+            },
+            {
+                "trt_label": "CSMSWC_NG3195",
+                "description": "Irrigation scheduling via the DSSAT CSM-CROPGRO-Cotton model with soil water content feedback and cotton cultivar NG3195",
+                "pids": [
+                    "63643f288ac54794e7f91783",
+                    "63643f288ac54794e7f91791",
+                    "63643f288ac54794e7f9179a",
+                    "63643f288ac54794e7f917a5"
+                ]
+            },
+            {
+                "trt_label": "AQCSWC_NG3195",
+                "description": "Irrigation scheduling via the AquaCrop model with soil water content feedback and cotton cultivar NG3195",
+                "pids": [
+                    "63643f288ac54794e7f91784",
+                    "63643f288ac54794e7f91786",
+                    "63643f288ac54794e7f9179b",
+                    "63643f288ac54794e7f917a9"
+                ]
+            }
+        ],
+        "EXP_AREA": 27288.708917,
+        "EXNAME": "Soil water guided irrigation scheduling models, Season 1 of 2",
+        "MAIN_FACTOR": "Irrigation scheduling method: stand-alone models versus soil water assisted models",
+        "FACTORS": "Six irrigation scheduling methods and two cotton varieties",
+        "TRT_NO": 12,
+        "REP_NO": 4,
+        "EXPER_TYPE": "ET001",
+        "SITE_NAME": "Maricopa Agricultural Center, Field 13, Bench 4",
+        "SITE_TYPE": "ST001",
+        "MGMT_TYPE": "MT001",
+        "EXP_YEAR": "2021",
+        "EXP_DUR": 1,
+        "CR_SYSTEM": "Strip-till cotton after winter triticale cover crop",
+        "LAST_NAME": "Thorp",
+        "FIRST_NAME": "Kelly",
+        "MID_INITIAL": "R",
+        "PERSON_NOTES": "Field technicians: Matt Hagler and Suzette Maneely",
+        "EX_ADDRESS": "21881 N. Cardon Ln., Maricopa, Arizona 85138",
+        "EX_EMAIL": "kelly.thorp@usda.gov",
+        "INSTITUTION": "USDA Agricultural Research Service, Maricopa, Arizona",
+        "IN_TYPE": "IT004",
+        "IN_ROLE": "IL001",
+        "CMPLC": "Abnormally high precipitation during boll filling led to growthy cotton",
+        "SUITE_NAME": "Soil water guided irrigation scheduling models",
+        "FL_NAME": "Field 13, Bench 4, Spans 4-6",
+        "FL_LAT": 33.07914,
+        "FL_LONG": -111.97737,
+        "FLELE": 361
+    },
+    "_id": "6424584d8ac547007193aca5",
+    "eid": "6424584d8ac547007193aca5"
+}

@@ -1,0 +1,229 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.97569709,
+                    33.07846383
+                ],
+                [
+                    -111.97826959,
+                    33.07847661
+                ],
+                [
+                    -111.97825952,
+                    33.07991994
+                ],
+                [
+                    -111.97568698,
+                    33.07990717
+                ],
+                [
+                    -111.97569709,
+                    33.07846383
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "exp_label": "2017_F013B4_CO_ITR",
+        "trt_info": [
+            {
+                "trt_label": "60-60",
+                "description": "60%% irrigation rate from first square to peak bloom and 60%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd64",
+                    "6425b4768ac5474f3e21fd76",
+                    "6425b4768ac5474f3e21fd87",
+                    "6425b4768ac5474f3e21fd9a"
+                ]
+            },
+            {
+                "trt_label": "60-80",
+                "description": "60%% irrigation rate from first square to peak bloom and 80%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd6a",
+                    "6425b4768ac5474f3e21fd74",
+                    "6425b4768ac5474f3e21fd86",
+                    "6425b4768ac5474f3e21fd95"
+                ]
+            },
+            {
+                "trt_label": "60-100",
+                "description": "60%% irrigation rate from first square to peak bloom and 100%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd6b",
+                    "6425b4768ac5474f3e21fd78",
+                    "6425b4768ac5474f3e21fd88",
+                    "6425b4768ac5474f3e21fd93"
+                ]
+            },
+            {
+                "trt_label": "60-120",
+                "description": "60%% irrigation rate from first square to peak bloom and 120%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd66",
+                    "6425b4768ac5474f3e21fd77",
+                    "6425b4768ac5474f3e21fd89",
+                    "6425b4768ac5474f3e21fd97"
+                ]
+            },
+            {
+                "trt_label": "80-60",
+                "description": "80%% irrigation rate from first square to peak bloom and 60%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd6e",
+                    "6425b4768ac5474f3e21fd7a",
+                    "6425b4768ac5474f3e21fd83",
+                    "6425b4768ac5474f3e21fd98"
+                ]
+            },
+            {
+                "trt_label": "80-80",
+                "description": "80%% irrigation rate from first square to peak bloom and 80%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd6d",
+                    "6425b4768ac5474f3e21fd7c",
+                    "6425b4768ac5474f3e21fd81",
+                    "6425b4768ac5474f3e21fd92"
+                ]
+            },
+            {
+                "trt_label": "80-100",
+                "description": "80%% irrigation rate from first square to peak bloom and 100%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd63",
+                    "6425b4768ac5474f3e21fd75",
+                    "6425b4768ac5474f3e21fd8f",
+                    "6425b4768ac5474f3e21fd94"
+                ]
+            },
+            {
+                "trt_label": "80-120",
+                "description": "80%% irrigation rate from first square to peak bloom and 120%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd61",
+                    "6425b4768ac5474f3e21fd7d",
+                    "6425b4768ac5474f3e21fd8a",
+                    "6425b4768ac5474f3e21fd9f"
+                ]
+            },
+            {
+                "trt_label": "100-60",
+                "description": "100%% irrigation rate from first square to peak bloom and 60%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd67",
+                    "6425b4768ac5474f3e21fd72",
+                    "6425b4768ac5474f3e21fd84",
+                    "6425b4768ac5474f3e21fd99"
+                ]
+            },
+            {
+                "trt_label": "100-80",
+                "description": "100%% irrigation rate from first square to peak bloom and 80%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd70",
+                    "6425b4768ac5474f3e21fd80",
+                    "6425b4768ac5474f3e21fd8b",
+                    "6425b4768ac5474f3e21fd91"
+                ]
+            },
+            {
+                "trt_label": "100-100",
+                "description": "100%% irrigation rate from first square to peak bloom and 100%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd62",
+                    "6425b4768ac5474f3e21fd7f",
+                    "6425b4768ac5474f3e21fd85",
+                    "6425b4768ac5474f3e21fd9c"
+                ]
+            },
+            {
+                "trt_label": "100-120",
+                "description": "100%% irrigation rate from first square to peak bloom and 120%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd6f",
+                    "6425b4768ac5474f3e21fd71",
+                    "6425b4768ac5474f3e21fd8e",
+                    "6425b4768ac5474f3e21fda0"
+                ]
+            },
+            {
+                "trt_label": "120-60",
+                "description": "120%% irrigation rate from first square to peak bloom and 60%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd6c",
+                    "6425b4768ac5474f3e21fd79",
+                    "6425b4768ac5474f3e21fd8c",
+                    "6425b4768ac5474f3e21fd9b"
+                ]
+            },
+            {
+                "trt_label": "120-80",
+                "description": "120%% irrigation rate from first square to peak bloom and 80%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd65",
+                    "6425b4768ac5474f3e21fd7b",
+                    "6425b4768ac5474f3e21fd82",
+                    "6425b4768ac5474f3e21fd9d"
+                ]
+            },
+            {
+                "trt_label": "120-100",
+                "description": "120%% irrigation rate from first square to peak bloom and 100%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd69",
+                    "6425b4768ac5474f3e21fd73",
+                    "6425b4768ac5474f3e21fd90",
+                    "6425b4768ac5474f3e21fd96"
+                ]
+            },
+            {
+                "trt_label": "120-120",
+                "description": "120%% irrigation rate from first square to peak bloom and 120%% irrigation rate from peak bloom to 90%% open boll",
+                "pids": [
+                    "6425b4768ac5474f3e21fd68",
+                    "6425b4768ac5474f3e21fd7e",
+                    "6425b4768ac5474f3e21fd8d",
+                    "6425b4768ac5474f3e21fd9e"
+                ]
+            }
+        ],
+        "EXP_AREA": 38427.517395,
+        "EXNAME": "Irrigation timing and rate experiment, Season 2 of 3",
+        "OBJECTIVES": "See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146",
+        "EXP_NARR": "See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146",
+        "MAIN_FACTOR": "Irrigation timing and rate: Combinations of four irrigation rates (60%%, 80%%, 100%%, and 120%% of full irrigation) in two time periods (first square to peak bloom and peak bloom to 90%% open boll)",
+        "FACTORS": "Irrigation timing and rate: Combinations of four irrigation rates (60%%, 80%%, 100%%, and 120%% of full irrigation) in two time periods (first square to peak bloom and peak bloom to 90%% open boll)",
+        "TRT_NO": 16,
+        "REP_NO": 4,
+        "METHODS": "See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146",
+        "EXPER_TYPE": "ET001",
+        "SITE_NAME": "Maricopa Agricultural Center, Field 13, Bench 4",
+        "SITE_TYPE": "ST001",
+        "MGMT_TYPE": "MT001",
+        "EXP_YEAR": "2017",
+        "EXP_DUR": 1,
+        "CR_SYSTEM": "Cotton on-the-flat after winter barley cover crop",
+        "LAST_NAME": "Thorp",
+        "FIRST_NAME": "Kelly",
+        "MID_INITIAL": "R",
+        "PERSON_NOTES": "Field technicians: Matt Hagler and Suzette Maneely",
+        "EX_ADDRESS": "21881 N. Cardon Ln., Maricopa, Arizona 85138",
+        "EX_EMAIL": "kelly.thorp@usda.gov",
+        "INSTITUTION": "USDA Agricultural Research Service, Maricopa, Arizona",
+        "IN_TYPE": "IT004",
+        "IN_ROLE": "IL001",
+        "CMPLC": "",
+        "SUITE_NAME": "Irrigation timing and rate experiment",
+        "SUITE_OBJ": "See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146",
+        "FL_NAME": "Field 13, Bench 4, Spans 2-6",
+        "FL_LAT": 33.07914,
+        "FL_LONG": -111.97737,
+        "FLELE": 361
+    },
+    "_id": "6425a8b88ac5474c0b74a4c8",
+    "eid": "6425a8b88ac5474c0b74a4c8"
+}

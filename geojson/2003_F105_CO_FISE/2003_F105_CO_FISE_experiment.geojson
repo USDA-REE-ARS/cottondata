@@ -1,0 +1,173 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -111.97087944,
+                    33.06697674
+                ],
+                [
+                    -111.97189927,
+                    33.06698278
+                ],
+                [
+                    -111.97189762,
+                    33.06783423
+                ],
+                [
+                    -111.97087805,
+                    33.06782745
+                ],
+                [
+                    -111.97087944,
+                    33.06697674
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "exp_label": "2003_F105_CO_FISE",
+        "trt_info": [
+            {
+                "trt_label": "FSL",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with sparse plant density and low nitrogen rate (2 reps)",
+                "pids": [
+                    "6442e2658ac5472f1c3e41b5",
+                    "6442e2658ac5472f1c3e41b9"
+                ]
+            },
+            {
+                "trt_label": "FSH",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with sparse plant density and high nitrogen rate (2 reps)",
+                "pids": [
+                    "6442e2658ac5472f1c3e41a6",
+                    "6442e2658ac5472f1c3e41b2"
+                ]
+            },
+            {
+                "trt_label": "FTL",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with typical plant density and low nitrogen rate (4 reps)",
+                "pids": [
+                    "6442e2658ac5472f1c3e41a7",
+                    "6442e2658ac5472f1c3e41b4",
+                    "6442e2658ac5472f1c3e41b7",
+                    "6442e2658ac5472f1c3e41bb"
+                ]
+            },
+            {
+                "trt_label": "FTH",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with typical plant density and high nitrogen rate (4 reps)",
+                "pids": [
+                    "6442e2658ac5472f1c3e41ad",
+                    "6442e2658ac5472f1c3e41b0",
+                    "6442e2658ac5472f1c3e41c1",
+                    "6442e2658ac5472f1c3e41c3"
+                ]
+            },
+            {
+                "trt_label": "FDL",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with dense plant density and low nitrogen rate (2 reps)",
+                "pids": [
+                    "6442e2658ac5472f1c3e41c0",
+                    "6442e2658ac5472f1c3e41c2"
+                ]
+            },
+            {
+                "trt_label": "FDH",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with dense plant density and high nitrogen rate (2 reps)",
+                "pids": [
+                    "6442e2658ac5472f1c3e41a8",
+                    "6442e2658ac5472f1c3e41bd"
+                ]
+            },
+            {
+                "trt_label": "NSL",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with Kcb from NDVI, sparse plant density, and low nitrogen rate (2 reps)",
+                "pids": [
+                    "6442e2658ac5472f1c3e41b3",
+                    "6442e2658ac5472f1c3e41b8"
+                ]
+            },
+            {
+                "trt_label": "NSH",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with Kcb from NDVI, sparse plant density, and high nitrogen rate (2 reps)",
+                "pids": [
+                    "6442e2658ac5472f1c3e41be",
+                    "6442e2658ac5472f1c3e41c4"
+                ]
+            },
+            {
+                "trt_label": "NTL",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with Kcb from NDVI, typical plant density, and low nitrogen rate (4 reps)",
+                "pids": [
+                    "6442e2658ac5472f1c3e41a9",
+                    "6442e2658ac5472f1c3e41ac",
+                    "6442e2658ac5472f1c3e41b6",
+                    "6442e2658ac5472f1c3e41c5"
+                ]
+            },
+            {
+                "trt_label": "NTH",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with Kcb from NDVI, typical plant density, and high nitrogen rate (4 reps)",
+                "pids": [
+                    "6442e2658ac5472f1c3e41ab",
+                    "6442e2658ac5472f1c3e41af",
+                    "6442e2658ac5472f1c3e41bc",
+                    "6442e2658ac5472f1c3e41bf"
+                ]
+            },
+            {
+                "trt_label": "NDL",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with Kcb from NDVI, dense plant density, and low nitrogen rate (2 reps)",
+                "pids": [
+                    "6442e2658ac5472f1c3e41aa",
+                    "6442e2658ac5472f1c3e41ae"
+                ]
+            },
+            {
+                "trt_label": "NDH",
+                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with Kcb from NDVI, dense plant density, and high nitogen rate (2 reps)",
+                "pids": [
+                    "6442e2658ac5472f1c3e41b1",
+                    "6442e2658ac5472f1c3e41ba"
+                ]
+            }
+        ],
+        "EXP_AREA": 8982.668278,
+        "EXNAME": "FAO-56 Irrigation Scheduling Experiment (FISE), Season 2 of 2",
+        "OBJECTIVES": "See Hunsaker, D. J., Barnes, E. M., Clarke, T. R., Fitzgerald, G. J., Pinter, Jr., P. J., 2005. Cotton irrigation scheduling using remotely sensed and FAO-56 basal crop coefficients. Transactions of the ASAE. 48(4):1395-1407. doi:10.13031/2013.19197",
+        "EXP_NARR": "See Hunsaker, D. J., Barnes, E. M., Clarke, T. R., Fitzgerald, G. J., Pinter, Jr., P. J., 2005. Cotton irrigation scheduling using remotely sensed and FAO-56 basal crop coefficients. Transactions of the ASAE. 48(4):1395-1407. doi:10.13031/2013.19197",
+        "MAIN_FACTOR": "Irrigation scheduling method: stand-alone models versus soil water assisted models",
+        "FACTORS": "Six irrigation scheduling methods and two cotton varieties",
+        "TRT_NO": 12,
+        "REP_NO": 4,
+        "METHODS": "See Hunsaker, D. J., Barnes, E. M., Clarke, T. R., Fitzgerald, G. J., Pinter, Jr., P. J., 2005. Cotton irrigation scheduling using remotely sensed and FAO-56 basal crop coefficients. Transactions of the ASAE. 48(4):1395-1407. doi:10.13031/2013.19197",
+        "EXPER_TYPE": "ET001",
+        "SITE_NAME": "Maricopa Agricultural Center, Field 105",
+        "SITE_TYPE": "ST001",
+        "MGMT_TYPE": "MT001",
+        "EXP_YEAR": "2003",
+        "EXP_DUR": 1,
+        "CR_SYSTEM": "Cotton after winter barley cover crop",
+        "LAST_NAME": "Hunsaker",
+        "FIRST_NAME": "Douglas",
+        "MID_INITIAL": "J",
+        "PERSON_NOTES": "Field technicians: C. Arterberry, A. Ashley, M. Conley, R. Jackson, S. Johnson, C. Jones, W. Luckett, S. Maneely, C. O\u2019Brien, D. Powers, S. Richards, and R. Rokey",
+        "EX_ADDRESS": "4331 E. Broadway Rd, Phoenix, Arizona 85040",
+        "EX_EMAIL": "doug.hunsaker@usda.gov",
+        "INSTITUTION": "USDA Agricultural Research Service, Phoenix, Arizona",
+        "IN_TYPE": "IT004",
+        "IN_ROLE": "IL001",
+        "CMPLC": "",
+        "SUITE_NAME": "FAO-56 Irrigation Scheduling Experiment (FISE)",
+        "SUITE_OBJ": "See Hunsaker, D. J., Barnes, E. M., Clarke, T. R., Fitzgerald, G. J., Pinter, Jr., P. J., 2005. Cotton irrigation scheduling using remotely sensed and FAO-56 basal crop coefficients. Transactions of the ASAE. 48(4):1395-1407. doi:10.13031/2013.19197",
+        "FL_NAME": "Field 105",
+        "FL_LAT": 33.067406,
+        "FL_LONG": -111.971473,
+        "FLELE": 361
+    },
+    "_id": "6442e4708ac54730825a7c13",
+    "eid": "6442e4708ac54730825a7c13"
+}
