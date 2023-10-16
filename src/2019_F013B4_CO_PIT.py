@@ -141,6 +141,8 @@ shapefile = '../Data/'+fname+'/'+fname+'_Zones.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
+yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yld = pd.read_excel(yfile,sheet_name='Zone Scale',skiprows=5)
 zones = list()
 for feature in layer:
     zid = feature.GetField('ObjectId')
@@ -153,6 +155,9 @@ for feature in layer:
     zon_area = geometry.GetArea()
     myzone = zone.Zone(zid=zid,geometry=geometry,zon_label=zon_label)
     myzone.setproperty('ZON_AREA',round(zon_area,6))
+    #Yield data
+    row = yld.loc[yld['ZID'] == zon_label]
+    myzone.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))
     for plot in plots:
         if plot.plt_label == zon_label[:2]:
             plot.addzid(myzone.getid())
