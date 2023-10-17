@@ -125,7 +125,7 @@ for feature in layer:
 
 ########################################################################
 #Zones
-shapefile = '../Data/'+fname+'/'+fname+'_Zones.shp'
+shapefile = '../Data/'+fname+'/'+fname+'_Zones2.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
