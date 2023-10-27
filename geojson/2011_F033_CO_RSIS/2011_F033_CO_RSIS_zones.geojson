@@ -29,7 +29,17 @@
     },
     "properties": {
         "zon_label": "p0101",
-        "ZON_AREA": 58.801512
+        "ZON_AREA": 58.801512,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3761.0,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3492,
+        "SFRAC": 0.5587,
+        "TFRAC": 0.0921,
+        "WFWAH": 1313.4,
+        "WSWAH": 2101.4,
+        "WSCWAH": 3414.8
     },
     "_id": "652effaf8ac54740e3e3c8c3",
     "zid": "652effaf8ac54740e3e3c8c3"
@@ -64,7 +74,17 @@
     },
     "properties": {
         "zon_label": "p0102",
-        "ZON_AREA": 58.77256
+        "ZON_AREA": 58.77256,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3398.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3392,
+        "SFRAC": 0.5583,
+        "TFRAC": 0.1025,
+        "WFWAH": 1152.9,
+        "WSWAH": 1897.5,
+        "WSCWAH": 3050.4
     },
     "_id": "652effaf8ac54740e3e3c8c4",
     "zid": "652effaf8ac54740e3e3c8c4"
@@ -99,7 +119,17 @@
     },
     "properties": {
         "zon_label": "p0103",
-        "ZON_AREA": 58.77256
+        "ZON_AREA": 58.77256,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3976.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3627,
+        "SFRAC": 0.5588,
+        "TFRAC": 0.0784,
+        "WFWAH": 1442.6,
+        "WSWAH": 2222.4,
+        "WSCWAH": 3665.0
     },
     "_id": "652effaf8ac54740e3e3c8c5",
     "zid": "652effaf8ac54740e3e3c8c5"
@@ -134,7 +164,17 @@
     },
     "properties": {
         "zon_label": "p0104",
-        "ZON_AREA": 58.77256
+        "ZON_AREA": 58.77256,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4347.0,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3434,
+        "SFRAC": 0.5512,
+        "TFRAC": 0.1054,
+        "WFWAH": 1492.6,
+        "WSWAH": 2396.1,
+        "WSCWAH": 3888.7
     },
     "_id": "652effaf8ac54740e3e3c8c6",
     "zid": "652effaf8ac54740e3e3c8c6"
@@ -169,7 +209,17 @@
     },
     "properties": {
         "zon_label": "p0105",
-        "ZON_AREA": 58.77256
+        "ZON_AREA": 58.77256,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4185.1,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3531,
+        "SFRAC": 0.5565,
+        "TFRAC": 0.0904,
+        "WFWAH": 1477.8,
+        "WSWAH": 2329.0,
+        "WSCWAH": 3806.8
     },
     "_id": "652effaf8ac54740e3e3c8c7",
     "zid": "652effaf8ac54740e3e3c8c7"
@@ -204,7 +254,17 @@
     },
     "properties": {
         "zon_label": "p0106",
-        "ZON_AREA": 58.77256
+        "ZON_AREA": 58.77256,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3953.8,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.354,
+        "SFRAC": 0.562,
+        "TFRAC": 0.0839,
+        "WFWAH": 1399.7,
+        "WSWAH": 2222.2,
+        "WSCWAH": 3621.9
     },
     "_id": "652effaf8ac54740e3e3c8c8",
     "zid": "652effaf8ac54740e3e3c8c8"
@@ -239,7 +299,17 @@
     },
     "properties": {
         "zon_label": "p0107",
-        "ZON_AREA": 58.77256
+        "ZON_AREA": 58.77256,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4385.5,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3442,
+        "SFRAC": 0.5616,
+        "TFRAC": 0.0942,
+        "WFWAH": 1509.5,
+        "WSWAH": 2462.9,
+        "WSCWAH": 3972.4
     },
     "_id": "652effaf8ac54740e3e3c8c9",
     "zid": "652effaf8ac54740e3e3c8c9"
@@ -274,7 +344,17 @@
     },
     "properties": {
         "zon_label": "p0108",
-        "ZON_AREA": 58.77256
+        "ZON_AREA": 58.77256,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3730.2,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3535,
+        "SFRAC": 0.5529,
+        "TFRAC": 0.0937,
+        "WFWAH": 1318.5,
+        "WSWAH": 2062.3,
+        "WSCWAH": 3380.8
     },
     "_id": "652effaf8ac54740e3e3c8ca",
     "zid": "652effaf8ac54740e3e3c8ca"
@@ -309,7 +389,17 @@
     },
     "properties": {
         "zon_label": "p0109",
-        "ZON_AREA": 58.77256
+        "ZON_AREA": 58.77256,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3491.2,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.35,
+        "SFRAC": 0.5467,
+        "TFRAC": 0.1033,
+        "WFWAH": 1221.9,
+        "WSWAH": 1908.5,
+        "WSCWAH": 3130.4
     },
     "_id": "652effaf8ac54740e3e3c8cb",
     "zid": "652effaf8ac54740e3e3c8cb"
@@ -344,7 +434,17 @@
     },
     "properties": {
         "zon_label": "p0110",
-        "ZON_AREA": 58.77256
+        "ZON_AREA": 58.77256,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3205.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3545,
+        "SFRAC": 0.5585,
+        "TFRAC": 0.087,
+        "WFWAH": 1136.5,
+        "WSWAH": 1790.6,
+        "WSCWAH": 2927.1
     },
     "_id": "652effaf8ac54740e3e3c8cc",
     "zid": "652effaf8ac54740e3e3c8cc"
@@ -379,7 +479,17 @@
     },
     "properties": {
         "zon_label": "p0111",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3976.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3433,
+        "SFRAC": 0.57,
+        "TFRAC": 0.0867,
+        "WFWAH": 1365.4,
+        "WSWAH": 2266.8,
+        "WSCWAH": 3632.2
     },
     "_id": "652effaf8ac54740e3e3c8cd",
     "zid": "652effaf8ac54740e3e3c8cd"
@@ -414,7 +524,17 @@
     },
     "properties": {
         "zon_label": "p0112",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4146.5,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3446,
+        "SFRAC": 0.5477,
+        "TFRAC": 0.1077,
+        "WFWAH": 1429.0,
+        "WSWAH": 2271.0,
+        "WSCWAH": 3700.0
     },
     "_id": "652effaf8ac54740e3e3c8ce",
     "zid": "652effaf8ac54740e3e3c8ce"
@@ -449,7 +569,17 @@
     },
     "properties": {
         "zon_label": "p0113",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3707.0,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3468,
+        "SFRAC": 0.5488,
+        "TFRAC": 0.1044,
+        "WFWAH": 1285.6,
+        "WSWAH": 2034.5,
+        "WSCWAH": 3320.1
     },
     "_id": "652effaf8ac54740e3e3c8cf",
     "zid": "652effaf8ac54740e3e3c8cf"
@@ -484,7 +614,17 @@
     },
     "properties": {
         "zon_label": "p0114",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4832.7,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3512,
+        "SFRAC": 0.5686,
+        "TFRAC": 0.0803,
+        "WFWAH": 1697.1,
+        "WSWAH": 2747.7,
+        "WSCWAH": 4444.8
     },
     "_id": "652effaf8ac54740e3e3c8d0",
     "zid": "652effaf8ac54740e3e3c8d0"
@@ -519,7 +659,17 @@
     },
     "properties": {
         "zon_label": "p0115",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4794.2,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3432,
+        "SFRAC": 0.5562,
+        "TFRAC": 0.1006,
+        "WFWAH": 1645.3,
+        "WSWAH": 2666.6,
+        "WSCWAH": 4311.9
     },
     "_id": "652effaf8ac54740e3e3c8d1",
     "zid": "652effaf8ac54740e3e3c8d1"
@@ -554,7 +704,17 @@
     },
     "properties": {
         "zon_label": "p0116",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4508.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3397,
+        "SFRAC": 0.5524,
+        "TFRAC": 0.1079,
+        "WFWAH": 1531.6,
+        "WSWAH": 2490.6,
+        "WSCWAH": 4022.2
     },
     "_id": "652effaf8ac54740e3e3c8d2",
     "zid": "652effaf8ac54740e3e3c8d2"
@@ -589,7 +749,17 @@
     },
     "properties": {
         "zon_label": "p0117",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4678.5,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3436,
+        "SFRAC": 0.5637,
+        "TFRAC": 0.0927,
+        "WFWAH": 1607.7,
+        "WSWAH": 2637.3,
+        "WSCWAH": 4245.0
     },
     "_id": "652effaf8ac54740e3e3c8d3",
     "zid": "652effaf8ac54740e3e3c8d3"
@@ -624,7 +794,17 @@
     },
     "properties": {
         "zon_label": "p0118",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3892.1,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3417,
+        "SFRAC": 0.5517,
+        "TFRAC": 0.1066,
+        "WFWAH": 1329.9,
+        "WSWAH": 2147.4,
+        "WSCWAH": 3477.3
     },
     "_id": "652effaf8ac54740e3e3c8d4",
     "zid": "652effaf8ac54740e3e3c8d4"
@@ -659,7 +839,17 @@
     },
     "properties": {
         "zon_label": "p0119",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4161.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.346,
+        "SFRAC": 0.5543,
+        "TFRAC": 0.0997,
+        "WFWAH": 1440.2,
+        "WSWAH": 2306.8,
+        "WSCWAH": 3747.0
     },
     "_id": "652effaf8ac54740e3e3c8d5",
     "zid": "652effaf8ac54740e3e3c8d5"
@@ -694,7 +884,17 @@
     },
     "properties": {
         "zon_label": "p0120",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3360.1,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3453,
+        "SFRAC": 0.5586,
+        "TFRAC": 0.0961,
+        "WFWAH": 1160.4,
+        "WSWAH": 1876.8,
+        "WSCWAH": 3037.2
     },
     "_id": "652effaf8ac54740e3e3c8d6",
     "zid": "652effaf8ac54740e3e3c8d6"
@@ -729,7 +929,17 @@
     },
     "properties": {
         "zon_label": "p0201",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4686.2,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5767,
+        "TFRAC": 0.0899,
+        "WFWAH": 1562.1,
+        "WSWAH": 2702.6,
+        "WSCWAH": 4264.7
     },
     "_id": "652effaf8ac54740e3e3c8d7",
     "zid": "652effaf8ac54740e3e3c8d7"
@@ -764,7 +974,17 @@
     },
     "properties": {
         "zon_label": "p0202",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5264.5,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.342,
+        "SFRAC": 0.5891,
+        "TFRAC": 0.069,
+        "WFWAH": 1800.2,
+        "WSWAH": 3101.2,
+        "WSCWAH": 4901.4
     },
     "_id": "652effaf8ac54740e3e3c8d8",
     "zid": "652effaf8ac54740e3e3c8d8"
@@ -799,7 +1019,17 @@
     },
     "properties": {
         "zon_label": "p0203",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4532.0,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3324,
+        "SFRAC": 0.5788,
+        "TFRAC": 0.0888,
+        "WFWAH": 1506.3,
+        "WSWAH": 2623.1,
+        "WSCWAH": 4129.5
     },
     "_id": "652effaf8ac54740e3e3c8d9",
     "zid": "652effaf8ac54740e3e3c8d9"
@@ -834,7 +1064,17 @@
     },
     "properties": {
         "zon_label": "p0204",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4023.2,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3323,
+        "SFRAC": 0.5783,
+        "TFRAC": 0.0895,
+        "WFWAH": 1336.8,
+        "WSWAH": 2326.5,
+        "WSCWAH": 3663.3
     },
     "_id": "652effaf8ac54740e3e3c8da",
     "zid": "652effaf8ac54740e3e3c8da"
@@ -869,7 +1109,17 @@
     },
     "properties": {
         "zon_label": "p0205",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4771.0,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5818,
+        "TFRAC": 0.0849,
+        "WFWAH": 1590.3,
+        "WSWAH": 2775.6,
+        "WSCWAH": 4366.0
     },
     "_id": "652effaf8ac54740e3e3c8db",
     "zid": "652effaf8ac54740e3e3c8db"
@@ -904,7 +1154,17 @@
     },
     "properties": {
         "zon_label": "p0206",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4686.2,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3195,
+        "SFRAC": 0.5719,
+        "TFRAC": 0.1086,
+        "WFWAH": 1497.2,
+        "WSWAH": 2680.0,
+        "WSCWAH": 4177.2
     },
     "_id": "652effaf8ac54740e3e3c8dc",
     "zid": "652effaf8ac54740e3e3c8dc"
@@ -939,7 +1199,17 @@
     },
     "properties": {
         "zon_label": "p0207",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4593.7,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3314,
+        "SFRAC": 0.5751,
+        "TFRAC": 0.0935,
+        "WFWAH": 1522.6,
+        "WSWAH": 2641.7,
+        "WSCWAH": 4164.3
     },
     "_id": "652effaf8ac54740e3e3c8dd",
     "zid": "652effaf8ac54740e3e3c8dd"
@@ -974,7 +1244,17 @@
     },
     "properties": {
         "zon_label": "p0208",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4470.3,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3255,
+        "SFRAC": 0.566,
+        "TFRAC": 0.1085,
+        "WFWAH": 1455.2,
+        "WSWAH": 2530.1,
+        "WSCWAH": 3985.3
     },
     "_id": "652effaf8ac54740e3e3c8de",
     "zid": "652effaf8ac54740e3e3c8de"
@@ -1009,7 +1289,17 @@
     },
     "properties": {
         "zon_label": "p0209",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4817.3,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3343,
+        "SFRAC": 0.5783,
+        "TFRAC": 0.0873,
+        "WFWAH": 1610.6,
+        "WSWAH": 2785.9,
+        "WSCWAH": 4396.5
     },
     "_id": "652effaf8ac54740e3e3c8df",
     "zid": "652effaf8ac54740e3e3c8df"
@@ -1044,7 +1334,17 @@
     },
     "properties": {
         "zon_label": "p0210",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4030.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3344,
+        "SFRAC": 0.5644,
+        "TFRAC": 0.1012,
+        "WFWAH": 1347.7,
+        "WSWAH": 2275.1,
+        "WSCWAH": 3622.8
     },
     "_id": "652effaf8ac54740e3e3c8e0",
     "zid": "652effaf8ac54740e3e3c8e0"
@@ -1079,7 +1379,17 @@
     },
     "properties": {
         "zon_label": "p0211",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5071.7,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.34,
+        "SFRAC": 0.58,
+        "TFRAC": 0.08,
+        "WFWAH": 1724.4,
+        "WSWAH": 2941.6,
+        "WSCWAH": 4666.0
     },
     "_id": "652effaf8ac54740e3e3c8e1",
     "zid": "652effaf8ac54740e3e3c8e1"
@@ -1114,7 +1424,17 @@
     },
     "properties": {
         "zon_label": "p0212",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5233.7,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.329,
+        "SFRAC": 0.5742,
+        "TFRAC": 0.0968,
+        "WFWAH": 1722.0,
+        "WSWAH": 3005.1,
+        "WSCWAH": 4727.2
     },
     "_id": "652effaf8ac54740e3e3c8e2",
     "zid": "652effaf8ac54740e3e3c8e2"
@@ -1149,7 +1469,17 @@
     },
     "properties": {
         "zon_label": "p0213",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4809.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.581,
+        "TFRAC": 0.0856,
+        "WFWAH": 1603.2,
+        "WSWAH": 2794.6,
+        "WSCWAH": 4397.8
     },
     "_id": "652effaf8ac54740e3e3c8e3",
     "zid": "652effaf8ac54740e3e3c8e3"
@@ -1184,7 +1514,17 @@
     },
     "properties": {
         "zon_label": "p0214",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4709.4,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3305,
+        "SFRAC": 0.569,
+        "TFRAC": 0.1006,
+        "WFWAH": 1556.3,
+        "WSWAH": 2679.5,
+        "WSCWAH": 4235.7
     },
     "_id": "652effaf8ac54740e3e3c8e4",
     "zid": "652effaf8ac54740e3e3c8e4"
@@ -1219,7 +1559,17 @@
     },
     "properties": {
         "zon_label": "p0215",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4462.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3289,
+        "SFRAC": 0.5789,
+        "TFRAC": 0.0921,
+        "WFWAH": 1468.0,
+        "WSWAH": 2583.6,
+        "WSCWAH": 4051.6
     },
     "_id": "652effaf8ac54740e3e3c8e5",
     "zid": "652effaf8ac54740e3e3c8e5"
@@ -1254,7 +1604,17 @@
     },
     "properties": {
         "zon_label": "p0216",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5472.7,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3298,
+        "SFRAC": 0.5752,
+        "TFRAC": 0.095,
+        "WFWAH": 1805.0,
+        "WSWAH": 3147.9,
+        "WSCWAH": 4952.8
     },
     "_id": "652effaf8ac54740e3e3c8e6",
     "zid": "652effaf8ac54740e3e3c8e6"
@@ -1289,7 +1649,17 @@
     },
     "properties": {
         "zon_label": "p0217",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4963.8,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3263,
+        "SFRAC": 0.5659,
+        "TFRAC": 0.1078,
+        "WFWAH": 1619.9,
+        "WSWAH": 2808.9,
+        "WSCWAH": 4428.8
     },
     "_id": "652effaf8ac54740e3e3c8e7",
     "zid": "652effaf8ac54740e3e3c8e7"
@@ -1324,7 +1694,17 @@
     },
     "properties": {
         "zon_label": "p0218",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4678.5,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3324,
+        "SFRAC": 0.5784,
+        "TFRAC": 0.0892,
+        "WFWAH": 1555.3,
+        "WSWAH": 2706.0,
+        "WSCWAH": 4261.2
     },
     "_id": "652effaf8ac54740e3e3c8e8",
     "zid": "652effaf8ac54740e3e3c8e8"
@@ -1359,7 +1739,17 @@
     },
     "properties": {
         "zon_label": "p0219",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4994.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3214,
+        "SFRAC": 0.5769,
+        "TFRAC": 0.1016,
+        "WFWAH": 1605.4,
+        "WSWAH": 2881.5,
+        "WSCWAH": 4486.9
     },
     "_id": "652effaf8ac54740e3e3c8e9",
     "zid": "652effaf8ac54740e3e3c8e9"
@@ -1394,7 +1784,17 @@
     },
     "properties": {
         "zon_label": "p0220",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4084.8,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3343,
+        "SFRAC": 0.5769,
+        "TFRAC": 0.0888,
+        "WFWAH": 1365.6,
+        "WSWAH": 2356.6,
+        "WSCWAH": 3722.3
     },
     "_id": "652effaf8ac54740e3e3c8ea",
     "zid": "652effaf8ac54740e3e3c8ea"
@@ -1429,7 +1829,17 @@
     },
     "properties": {
         "zon_label": "p0301",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3683.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3272,
+        "SFRAC": 0.571,
+        "TFRAC": 0.1019,
+        "WFWAH": 1205.2,
+        "WSWAH": 2103.5,
+        "WSCWAH": 3308.7
     },
     "_id": "652effaf8ac54740e3e3c8eb",
     "zid": "652effaf8ac54740e3e3c8eb"
@@ -1464,7 +1874,17 @@
     },
     "properties": {
         "zon_label": "p0302",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4763.3,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3377,
+        "SFRAC": 0.5672,
+        "TFRAC": 0.0951,
+        "WFWAH": 1608.6,
+        "WSWAH": 2701.8,
+        "WSCWAH": 4310.4
     },
     "_id": "652effaf8ac54740e3e3c8ec",
     "zid": "652effaf8ac54740e3e3c8ec"
@@ -1499,7 +1919,17 @@
     },
     "properties": {
         "zon_label": "p0303",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4501.2,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3393,
+        "SFRAC": 0.5857,
+        "TFRAC": 0.075,
+        "WFWAH": 1527.2,
+        "WSWAH": 2636.4,
+        "WSCWAH": 4163.6
     },
     "_id": "652effaf8ac54740e3e3c8ed",
     "zid": "652effaf8ac54740e3e3c8ed"
@@ -1534,7 +1964,17 @@
     },
     "properties": {
         "zon_label": "p0304",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4478.1,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3254,
+        "SFRAC": 0.5797,
+        "TFRAC": 0.0949,
+        "WFWAH": 1457.3,
+        "WSWAH": 2595.8,
+        "WSCWAH": 4053.0
     },
     "_id": "652effaf8ac54740e3e3c8ee",
     "zid": "652effaf8ac54740e3e3c8ee"
@@ -1569,7 +2009,17 @@
     },
     "properties": {
         "zon_label": "p0305",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3992.3,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3225,
+        "SFRAC": 0.5798,
+        "TFRAC": 0.0977,
+        "WFWAH": 1287.4,
+        "WSWAH": 2314.8,
+        "WSCWAH": 3602.2
     },
     "_id": "652effaf8ac54740e3e3c8ef",
     "zid": "652effaf8ac54740e3e3c8ef"
@@ -1604,7 +2054,17 @@
     },
     "properties": {
         "zon_label": "p0306",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4393.2,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3275,
+        "SFRAC": 0.588,
+        "TFRAC": 0.0845,
+        "WFWAH": 1438.6,
+        "WSWAH": 2583.4,
+        "WSCWAH": 4022.0
     },
     "_id": "652effaf8ac54740e3e3c8f0",
     "zid": "652effaf8ac54740e3e3c8f0"
@@ -1639,7 +2099,17 @@
     },
     "properties": {
         "zon_label": "p0307",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4269.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3302,
+        "SFRAC": 0.5841,
+        "TFRAC": 0.0857,
+        "WFWAH": 1409.7,
+        "WSWAH": 2494.2,
+        "WSCWAH": 3903.9
     },
     "_id": "652effaf8ac54740e3e3c8f1",
     "zid": "652effaf8ac54740e3e3c8f1"
@@ -1674,7 +2144,17 @@
     },
     "properties": {
         "zon_label": "p0308",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3869.0,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3312,
+        "SFRAC": 0.5773,
+        "TFRAC": 0.0915,
+        "WFWAH": 1281.5,
+        "WSWAH": 2233.5,
+        "WSCWAH": 3515.0
     },
     "_id": "652effaf8ac54740e3e3c8f2",
     "zid": "652effaf8ac54740e3e3c8f2"
@@ -1709,7 +2189,17 @@
     },
     "properties": {
         "zon_label": "p0309",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4485.8,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3237,
+        "SFRAC": 0.5801,
+        "TFRAC": 0.0962,
+        "WFWAH": 1452.1,
+        "WSWAH": 2602.3,
+        "WSCWAH": 4054.4
     },
     "_id": "652effaf8ac54740e3e3c8f3",
     "zid": "652effaf8ac54740e3e3c8f3"
@@ -1744,7 +2234,17 @@
     },
     "properties": {
         "zon_label": "p0310",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 2658.5,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3308,
+        "SFRAC": 0.5665,
+        "TFRAC": 0.1027,
+        "WFWAH": 879.4,
+        "WSWAH": 1506.1,
+        "WSCWAH": 2385.5
     },
     "_id": "652effaf8ac54740e3e3c8f4",
     "zid": "652effaf8ac54740e3e3c8f4"
@@ -1779,7 +2279,17 @@
     },
     "properties": {
         "zon_label": "p0311",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3861.2,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3364,
+        "SFRAC": 0.5826,
+        "TFRAC": 0.081,
+        "WFWAH": 1299.1,
+        "WSWAH": 2249.4,
+        "WSCWAH": 3548.5
     },
     "_id": "652effaf8ac54740e3e3c8f5",
     "zid": "652effaf8ac54740e3e3c8f5"
@@ -1814,7 +2324,17 @@
     },
     "properties": {
         "zon_label": "p0312",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4624.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3344,
+        "SFRAC": 0.5659,
+        "TFRAC": 0.0997,
+        "WFWAH": 1546.5,
+        "WSWAH": 2617.1,
+        "WSCWAH": 4163.6
     },
     "_id": "652effaf8ac54740e3e3c8f6",
     "zid": "652effaf8ac54740e3e3c8f6"
@@ -1849,7 +2369,17 @@
     },
     "properties": {
         "zon_label": "p0313",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4601.4,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3345,
+        "SFRAC": 0.5818,
+        "TFRAC": 0.0836,
+        "WFWAH": 1539.4,
+        "WSWAH": 2677.2,
+        "WSCWAH": 4216.6
     },
     "_id": "652effaf8ac54740e3e3c8f7",
     "zid": "652effaf8ac54740e3e3c8f7"
@@ -1884,7 +2414,17 @@
     },
     "properties": {
         "zon_label": "p0314",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4855.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5673,
+        "TFRAC": 0.0994,
+        "WFWAH": 1618.6,
+        "WSWAH": 2754.5,
+        "WSCWAH": 4373.1
     },
     "_id": "652effaf8ac54740e3e3c8f8",
     "zid": "652effaf8ac54740e3e3c8f8"
@@ -1919,7 +2459,17 @@
     },
     "properties": {
         "zon_label": "p0315",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4161.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3222,
+        "SFRAC": 0.5866,
+        "TFRAC": 0.0912,
+        "WFWAH": 1340.9,
+        "WSWAH": 2441.5,
+        "WSCWAH": 3782.4
     },
     "_id": "652effaf8ac54740e3e3c8f9",
     "zid": "652effaf8ac54740e3e3c8f9"
@@ -1954,7 +2504,17 @@
     },
     "properties": {
         "zon_label": "p0316",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4555.2,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3238,
+        "SFRAC": 0.5778,
+        "TFRAC": 0.0984,
+        "WFWAH": 1475.0,
+        "WSWAH": 2631.9,
+        "WSCWAH": 4106.9
     },
     "_id": "652effaf8ac54740e3e3c8fa",
     "zid": "652effaf8ac54740e3e3c8fa"
@@ -1989,7 +2549,17 @@
     },
     "properties": {
         "zon_label": "p0317",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3930.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3204,
+        "SFRAC": 0.589,
+        "TFRAC": 0.0906,
+        "WFWAH": 1259.3,
+        "WSWAH": 2315.1,
+        "WSCWAH": 3574.5
     },
     "_id": "652effaf8ac54740e3e3c8fb",
     "zid": "652effaf8ac54740e3e3c8fb"
@@ -2024,7 +2594,17 @@
     },
     "properties": {
         "zon_label": "p0318",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3753.3,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3366,
+        "SFRAC": 0.5809,
+        "TFRAC": 0.0825,
+        "WFWAH": 1263.5,
+        "WSWAH": 2180.1,
+        "WSCWAH": 3443.6
     },
     "_id": "652effaf8ac54740e3e3c8fc",
     "zid": "652effaf8ac54740e3e3c8fc"
@@ -2059,7 +2639,17 @@
     },
     "properties": {
         "zon_label": "p0319",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4640.0,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5784,
+        "TFRAC": 0.0882,
+        "WFWAH": 1546.7,
+        "WSWAH": 2683.9,
+        "WSCWAH": 4230.6
     },
     "_id": "652effaf8ac54740e3e3c8fd",
     "zid": "652effaf8ac54740e3e3c8fd"
@@ -2094,7 +2684,17 @@
     },
     "properties": {
         "zon_label": "p0320",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 2689.3,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3432,
+        "SFRAC": 0.5875,
+        "TFRAC": 0.0693,
+        "WFWAH": 923.1,
+        "WSWAH": 1579.9,
+        "WSCWAH": 2502.9
     },
     "_id": "652effaf8ac54740e3e3c8fe",
     "zid": "652effaf8ac54740e3e3c8fe"
@@ -2129,7 +2729,17 @@
     },
     "properties": {
         "zon_label": "p0401",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4532.0,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3121,
+        "SFRAC": 0.5772,
+        "TFRAC": 0.1107,
+        "WFWAH": 1414.4,
+        "WSWAH": 2615.8,
+        "WSCWAH": 4030.2
     },
     "_id": "652effaf8ac54740e3e3c8ff",
     "zid": "652effaf8ac54740e3e3c8ff"
@@ -2164,7 +2774,17 @@
     },
     "properties": {
         "zon_label": "p0402",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5364.7,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3383,
+        "SFRAC": 0.5874,
+        "TFRAC": 0.0743,
+        "WFWAH": 1814.8,
+        "WSWAH": 3151.0,
+        "WSCWAH": 4965.9
     },
     "_id": "652effaf8ac54740e3e3c900",
     "zid": "652effaf8ac54740e3e3c900"
@@ -2199,7 +2819,17 @@
     },
     "properties": {
         "zon_label": "p0403",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5349.3,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3209,
+        "SFRAC": 0.5672,
+        "TFRAC": 0.1119,
+        "WFWAH": 1716.6,
+        "WSWAH": 3033.9,
+        "WSCWAH": 4750.5
     },
     "_id": "652effaf8ac54740e3e3c901",
     "zid": "652effaf8ac54740e3e3c901"
@@ -2234,7 +2864,17 @@
     },
     "properties": {
         "zon_label": "p0404",
-        "ZON_AREA": 58.196832
+        "ZON_AREA": 58.196832,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 6097.2,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3322,
+        "SFRAC": 0.5744,
+        "TFRAC": 0.0934,
+        "WFWAH": 2025.4,
+        "WSWAH": 3502.2,
+        "WSCWAH": 5527.6
     },
     "_id": "652effaf8ac54740e3e3c902",
     "zid": "652effaf8ac54740e3e3c902"
@@ -2269,7 +2909,17 @@
     },
     "properties": {
         "zon_label": "p0405",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5711.7,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3322,
+        "SFRAC": 0.5748,
+        "TFRAC": 0.093,
+        "WFWAH": 1897.6,
+        "WSWAH": 3282.8,
+        "WSCWAH": 5180.4
     },
     "_id": "652effaf8ac54740e3e3c903",
     "zid": "652effaf8ac54740e3e3c903"
@@ -2304,7 +2954,17 @@
     },
     "properties": {
         "zon_label": "p0406",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5781.1,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3323,
+        "SFRAC": 0.5621,
+        "TFRAC": 0.1056,
+        "WFWAH": 1921.0,
+        "WSWAH": 3249.6,
+        "WSCWAH": 5170.7
     },
     "_id": "652effaf8ac54740e3e3c904",
     "zid": "652effaf8ac54740e3e3c904"
@@ -2339,7 +2999,17 @@
     },
     "properties": {
         "zon_label": "p0407",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5372.4,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3313,
+        "SFRAC": 0.5781,
+        "TFRAC": 0.0906,
+        "WFWAH": 1779.6,
+        "WSWAH": 3105.9,
+        "WSCWAH": 4885.6
     },
     "_id": "652effaf8ac54740e3e3c905",
     "zid": "652effaf8ac54740e3e3c905"
@@ -2374,7 +3044,17 @@
     },
     "properties": {
         "zon_label": "p0408",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5094.9,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3364,
+        "SFRAC": 0.5719,
+        "TFRAC": 0.0917,
+        "WFWAH": 1713.9,
+        "WSWAH": 2913.6,
+        "WSCWAH": 4627.5
     },
     "_id": "652effaf8ac54740e3e3c906",
     "zid": "652effaf8ac54740e3e3c906"
@@ -2409,7 +3089,17 @@
     },
     "properties": {
         "zon_label": "p0409",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5048.6,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3323,
+        "SFRAC": 0.5674,
+        "TFRAC": 0.1003,
+        "WFWAH": 1677.6,
+        "WSWAH": 2864.6,
+        "WSCWAH": 4542.2
     },
     "_id": "652effaf8ac54740e3e3c907",
     "zid": "652effaf8ac54740e3e3c907"
@@ -2444,7 +3134,17 @@
     },
     "properties": {
         "zon_label": "p0410",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3938.3,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3309,
+        "SFRAC": 0.5818,
+        "TFRAC": 0.0873,
+        "WFWAH": 1303.2,
+        "WSWAH": 2291.4,
+        "WSCWAH": 3594.6
     },
     "_id": "652effaf8ac54740e3e3c908",
     "zid": "652effaf8ac54740e3e3c908"
@@ -2479,7 +3179,17 @@
     },
     "properties": {
         "zon_label": "p0411",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4508.9,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3193,
+        "SFRAC": 0.5719,
+        "TFRAC": 0.1088,
+        "WFWAH": 1439.7,
+        "WSWAH": 2578.8,
+        "WSCWAH": 4018.5
     },
     "_id": "652effaf8ac54740e3e3c909",
     "zid": "652effaf8ac54740e3e3c909"
@@ -2514,7 +3224,17 @@
     },
     "properties": {
         "zon_label": "p0412",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5202.8,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3262,
+        "SFRAC": 0.5735,
+        "TFRAC": 0.1004,
+        "WFWAH": 1697.0,
+        "WSWAH": 2983.7,
+        "WSCWAH": 4680.7
     },
     "_id": "652effaf8ac54740e3e3c90a",
     "zid": "652effaf8ac54740e3e3c90a"
@@ -2549,7 +3269,17 @@
     },
     "properties": {
         "zon_label": "p0413",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5387.9,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3321,
+        "SFRAC": 0.5607,
+        "TFRAC": 0.1071,
+        "WFWAH": 1789.5,
+        "WSWAH": 3021.0,
+        "WSCWAH": 4810.6
     },
     "_id": "652effaf8ac54740e3e3c90b",
     "zid": "652effaf8ac54740e3e3c90b"
@@ -2584,7 +3314,17 @@
     },
     "properties": {
         "zon_label": "p0414",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5966.1,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3253,
+        "SFRAC": 0.5709,
+        "TFRAC": 0.1038,
+        "WFWAH": 1940.5,
+        "WSWAH": 3406.3,
+        "WSCWAH": 5346.8
     },
     "_id": "652effaf8ac54740e3e3c90c",
     "zid": "652effaf8ac54740e3e3c90c"
@@ -2619,7 +3359,17 @@
     },
     "properties": {
         "zon_label": "p0415",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 6128.0,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3357,
+        "SFRAC": 0.5664,
+        "TFRAC": 0.0979,
+        "WFWAH": 2057.0,
+        "WSWAH": 3471.1,
+        "WSCWAH": 5528.1
     },
     "_id": "652effaf8ac54740e3e3c90d",
     "zid": "652effaf8ac54740e3e3c90d"
@@ -2654,7 +3404,17 @@
     },
     "properties": {
         "zon_label": "p0416",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5064.0,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3345,
+        "SFRAC": 0.5777,
+        "TFRAC": 0.0878,
+        "WFWAH": 1693.7,
+        "WSWAH": 2925.5,
+        "WSCWAH": 4619.2
     },
     "_id": "652effaf8ac54740e3e3c90e",
     "zid": "652effaf8ac54740e3e3c90e"
@@ -2689,7 +3449,17 @@
     },
     "properties": {
         "zon_label": "p0417",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5465.0,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5714,
+        "TFRAC": 0.0952,
+        "WFWAH": 1821.7,
+        "WSWAH": 3122.8,
+        "WSCWAH": 4944.5
     },
     "_id": "652effaf8ac54740e3e3c90f",
     "zid": "652effaf8ac54740e3e3c90f"
@@ -2724,7 +3494,17 @@
     },
     "properties": {
         "zon_label": "p0418",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4801.9,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3185,
+        "SFRAC": 0.5815,
+        "TFRAC": 0.1,
+        "WFWAH": 1529.5,
+        "WSWAH": 2792.2,
+        "WSCWAH": 4321.7
     },
     "_id": "652effaf8ac54740e3e3c910",
     "zid": "652effaf8ac54740e3e3c910"
@@ -2759,7 +3539,17 @@
     },
     "properties": {
         "zon_label": "p0419",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4493.5,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3275,
+        "SFRAC": 0.5784,
+        "TFRAC": 0.0941,
+        "WFWAH": 1471.7,
+        "WSWAH": 2599.0,
+        "WSCWAH": 4070.7
     },
     "_id": "652effaf8ac54740e3e3c911",
     "zid": "652effaf8ac54740e3e3c911"
@@ -2794,7 +3584,17 @@
     },
     "properties": {
         "zon_label": "p0420",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 3514.3,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.32,
+        "SFRAC": 0.59,
+        "TFRAC": 0.09,
+        "WFWAH": 1124.6,
+        "WSWAH": 2073.4,
+        "WSCWAH": 3198.0
     },
     "_id": "652effaf8ac54740e3e3c912",
     "zid": "652effaf8ac54740e3e3c912"
@@ -2829,7 +3629,17 @@
     },
     "properties": {
         "zon_label": "p0501",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5202.8,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3346,
+        "SFRAC": 0.5588,
+        "TFRAC": 0.1066,
+        "WFWAH": 1740.6,
+        "WSWAH": 2907.5,
+        "WSCWAH": 4648.1
     },
     "_id": "652effaf8ac54740e3e3c913",
     "zid": "652effaf8ac54740e3e3c913"
@@ -2864,7 +3674,17 @@
     },
     "properties": {
         "zon_label": "p0502",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5472.7,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3308,
+        "SFRAC": 0.5627,
+        "TFRAC": 0.1065,
+        "WFWAH": 1810.4,
+        "WSWAH": 3079.7,
+        "WSCWAH": 4890.0
     },
     "_id": "652effaf8ac54740e3e3c914",
     "zid": "652effaf8ac54740e3e3c914"
@@ -2899,7 +3719,17 @@
     },
     "properties": {
         "zon_label": "p0503",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5148.8,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3373,
+        "SFRAC": 0.5569,
+        "TFRAC": 0.1059,
+        "WFWAH": 1736.5,
+        "WSWAH": 2867.2,
+        "WSCWAH": 4603.7
     },
     "_id": "652effaf8ac54740e3e3c915",
     "zid": "652effaf8ac54740e3e3c915"
@@ -2934,7 +3764,17 @@
     },
     "properties": {
         "zon_label": "p0504",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5087.2,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3397,
+        "SFRAC": 0.5687,
+        "TFRAC": 0.0916,
+        "WFWAH": 1728.1,
+        "WSWAH": 2893.1,
+        "WSCWAH": 4621.2
     },
     "_id": "652effaf8ac54740e3e3c916",
     "zid": "652effaf8ac54740e3e3c916"
@@ -2969,7 +3809,17 @@
     },
     "properties": {
         "zon_label": "p0505",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5518.9,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3359,
+        "SFRAC": 0.5534,
+        "TFRAC": 0.1107,
+        "WFWAH": 1853.7,
+        "WSWAH": 3054.4,
+        "WSCWAH": 4908.1
     },
     "_id": "652effaf8ac54740e3e3c917",
     "zid": "652effaf8ac54740e3e3c917"
@@ -3004,7 +3854,17 @@
     },
     "properties": {
         "zon_label": "p0506",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5665.4,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3309,
+        "SFRAC": 0.5673,
+        "TFRAC": 0.1018,
+        "WFWAH": 1874.7,
+        "WSWAH": 3213.8,
+        "WSCWAH": 5088.6
     },
     "_id": "652effaf8ac54740e3e3c918",
     "zid": "652effaf8ac54740e3e3c918"
@@ -3039,7 +3899,17 @@
     },
     "properties": {
         "zon_label": "p0507",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4717.1,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3247,
+        "SFRAC": 0.5609,
+        "TFRAC": 0.1144,
+        "WFWAH": 1531.7,
+        "WSWAH": 2645.7,
+        "WSCWAH": 4177.5
     },
     "_id": "652effaf8ac54740e3e3c919",
     "zid": "652effaf8ac54740e3e3c919"
@@ -3074,7 +3944,17 @@
     },
     "properties": {
         "zon_label": "p0508",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5650.0,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3211,
+        "SFRAC": 0.5552,
+        "TFRAC": 0.1237,
+        "WFWAH": 1814.0,
+        "WSWAH": 3136.8,
+        "WSCWAH": 4950.8
     },
     "_id": "652effaf8ac54740e3e3c91a",
     "zid": "652effaf8ac54740e3e3c91a"
@@ -3109,7 +3989,17 @@
     },
     "properties": {
         "zon_label": "p0509",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5279.9,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3321,
+        "SFRAC": 0.5746,
+        "TFRAC": 0.0933,
+        "WFWAH": 1753.4,
+        "WSWAH": 3034.0,
+        "WSCWAH": 4787.4
     },
     "_id": "652effaf8ac54740e3e3c91b",
     "zid": "652effaf8ac54740e3e3c91b"
@@ -3144,7 +4034,17 @@
     },
     "properties": {
         "zon_label": "p0510",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4470.3,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3297,
+        "SFRAC": 0.5735,
+        "TFRAC": 0.0968,
+        "WFWAH": 1474.1,
+        "WSWAH": 2563.6,
+        "WSCWAH": 4037.7
     },
     "_id": "652effaf8ac54740e3e3c91c",
     "zid": "652effaf8ac54740e3e3c91c"
@@ -3179,7 +4079,17 @@
     },
     "properties": {
         "zon_label": "p0511",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4956.1,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3265,
+        "SFRAC": 0.5612,
+        "TFRAC": 0.1122,
+        "WFWAH": 1618.3,
+        "WSWAH": 2781.5,
+        "WSCWAH": 4399.8
     },
     "_id": "652effaf8ac54740e3e3c91d",
     "zid": "652effaf8ac54740e3e3c91d"
@@ -3214,7 +4124,17 @@
     },
     "properties": {
         "zon_label": "p0512",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5164.3,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.332,
+        "SFRAC": 0.5676,
+        "TFRAC": 0.1004,
+        "WFWAH": 1714.8,
+        "WSWAH": 2931.1,
+        "WSCWAH": 4645.8
     },
     "_id": "652effaf8ac54740e3e3c91e",
     "zid": "652effaf8ac54740e3e3c91e"
@@ -3249,7 +4169,17 @@
     },
     "properties": {
         "zon_label": "p0513",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5056.3,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5741,
+        "TFRAC": 0.0926,
+        "WFWAH": 1685.4,
+        "WSWAH": 2902.7,
+        "WSCWAH": 4588.1
     },
     "_id": "652effaf8ac54740e3e3c91f",
     "zid": "652effaf8ac54740e3e3c91f"
@@ -3284,7 +4214,17 @@
     },
     "properties": {
         "zon_label": "p0514",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5064.0,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3415,
+        "SFRAC": 0.5691,
+        "TFRAC": 0.0894,
+        "WFWAH": 1729.2,
+        "WSWAH": 2882.0,
+        "WSCWAH": 4611.1
     },
     "_id": "652effaf8ac54740e3e3c920",
     "zid": "652effaf8ac54740e3e3c920"
@@ -3319,7 +4259,17 @@
     },
     "properties": {
         "zon_label": "p0515",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5495.8,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3307,
+        "SFRAC": 0.5669,
+        "TFRAC": 0.1024,
+        "WFWAH": 1817.5,
+        "WSWAH": 3115.7,
+        "WSCWAH": 4933.2
     },
     "_id": "652effaf8ac54740e3e3c921",
     "zid": "652effaf8ac54740e3e3c921"
@@ -3354,7 +4304,17 @@
     },
     "properties": {
         "zon_label": "p0516",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5318.5,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3356,
+        "SFRAC": 0.5571,
+        "TFRAC": 0.1073,
+        "WFWAH": 1785.1,
+        "WSWAH": 2962.9,
+        "WSCWAH": 4748.0
     },
     "_id": "652effaf8ac54740e3e3c922",
     "zid": "652effaf8ac54740e3e3c922"
@@ -3389,7 +4349,17 @@
     },
     "properties": {
         "zon_label": "p0517",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 5488.1,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3282,
+        "SFRAC": 0.5598,
+        "TFRAC": 0.112,
+        "WFWAH": 1801.1,
+        "WSWAH": 3072.5,
+        "WSCWAH": 4873.6
     },
     "_id": "652effaf8ac54740e3e3c923",
     "zid": "652effaf8ac54740e3e3c923"
@@ -3424,7 +4394,17 @@
     },
     "properties": {
         "zon_label": "p0518",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4732.5,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.332,
+        "SFRAC": 0.5652,
+        "TFRAC": 0.1028,
+        "WFWAH": 1571.3,
+        "WSWAH": 2674.9,
+        "WSCWAH": 4246.2
     },
     "_id": "652effaf8ac54740e3e3c924",
     "zid": "652effaf8ac54740e3e3c924"
@@ -3459,7 +4439,17 @@
     },
     "properties": {
         "zon_label": "p0519",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4902.1,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3298,
+        "SFRAC": 0.5579,
+        "TFRAC": 0.1123,
+        "WFWAH": 1616.8,
+        "WSWAH": 2734.9,
+        "WSCWAH": 4351.7
     },
     "_id": "652effaf8ac54740e3e3c925",
     "zid": "652effaf8ac54740e3e3c925"
@@ -3494,7 +4484,17 @@
     },
     "properties": {
         "zon_label": "p0520",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/11/2011",
+        "WBWAH": 4362.4,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3399,
+        "SFRAC": 0.5652,
+        "TFRAC": 0.0949,
+        "WFWAH": 1482.9,
+        "WSWAH": 2465.7,
+        "WSCWAH": 3948.6
     },
     "_id": "652effaf8ac54740e3e3c926",
     "zid": "652effaf8ac54740e3e3c926"
@@ -3529,7 +4529,17 @@
     },
     "properties": {
         "zon_label": "p0601",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 3799.6,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3236,
+        "SFRAC": 0.5517,
+        "TFRAC": 0.1247,
+        "WFWAH": 1229.6,
+        "WSWAH": 2096.3,
+        "WSCWAH": 3325.9
     },
     "_id": "652effaf8ac54740e3e3c927",
     "zid": "652effaf8ac54740e3e3c927"
@@ -3564,7 +4574,17 @@
     },
     "properties": {
         "zon_label": "p0602",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5017.8,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.336,
+        "SFRAC": 0.5691,
+        "TFRAC": 0.0949,
+        "WFWAH": 1686.2,
+        "WSWAH": 2855.6,
+        "WSCWAH": 4541.8
     },
     "_id": "652effaf8ac54740e3e3c928",
     "zid": "652effaf8ac54740e3e3c928"
@@ -3599,7 +4619,17 @@
     },
     "properties": {
         "zon_label": "p0603",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5326.2,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5719,
+        "TFRAC": 0.0948,
+        "WFWAH": 1775.4,
+        "WSWAH": 3046.0,
+        "WSCWAH": 4821.4
     },
     "_id": "652effaf8ac54740e3e3c929",
     "zid": "652effaf8ac54740e3e3c929"
@@ -3634,7 +4664,17 @@
     },
     "properties": {
         "zon_label": "p0604",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5241.4,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3344,
+        "SFRAC": 0.5759,
+        "TFRAC": 0.0898,
+        "WFWAH": 1752.5,
+        "WSWAH": 3018.2,
+        "WSCWAH": 4770.8
     },
     "_id": "652effaf8ac54740e3e3c92a",
     "zid": "652effaf8ac54740e3e3c92a"
@@ -3669,7 +4709,17 @@
     },
     "properties": {
         "zon_label": "p0605",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5603.7,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3262,
+        "SFRAC": 0.5627,
+        "TFRAC": 0.1111,
+        "WFWAH": 1827.7,
+        "WSWAH": 3153.4,
+        "WSCWAH": 4981.1
     },
     "_id": "652effaf8ac54740e3e3c92b",
     "zid": "652effaf8ac54740e3e3c92b"
@@ -3704,7 +4754,17 @@
     },
     "properties": {
         "zon_label": "p0606",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5534.3,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3311,
+        "SFRAC": 0.5719,
+        "TFRAC": 0.097,
+        "WFWAH": 1832.4,
+        "WSWAH": 3165.1,
+        "WSCWAH": 4997.6
     },
     "_id": "652effaf8ac54740e3e3c92c",
     "zid": "652effaf8ac54740e3e3c92c"
@@ -3739,7 +4799,17 @@
     },
     "properties": {
         "zon_label": "p0607",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4971.5,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3301,
+        "SFRAC": 0.5599,
+        "TFRAC": 0.11,
+        "WFWAH": 1641.1,
+        "WSWAH": 2783.4,
+        "WSCWAH": 4424.5
     },
     "_id": "652effaf8ac54740e3e3c92d",
     "zid": "652effaf8ac54740e3e3c92d"
@@ -3774,7 +4844,17 @@
     },
     "properties": {
         "zon_label": "p0608",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4940.7,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3379,
+        "SFRAC": 0.5597,
+        "TFRAC": 0.1024,
+        "WFWAH": 1669.4,
+        "WSWAH": 2765.4,
+        "WSCWAH": 4434.8
     },
     "_id": "652effaf8ac54740e3e3c92e",
     "zid": "652effaf8ac54740e3e3c92e"
@@ -3809,7 +4889,17 @@
     },
     "properties": {
         "zon_label": "p0609",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4555.2,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5692,
+        "TFRAC": 0.0975,
+        "WFWAH": 1518.4,
+        "WSWAH": 2592.7,
+        "WSCWAH": 4111.1
     },
     "_id": "652effaf8ac54740e3e3c92f",
     "zid": "652effaf8ac54740e3e3c92f"
@@ -3844,7 +4934,17 @@
     },
     "properties": {
         "zon_label": "p0610",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4431.8,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3325,
+        "SFRAC": 0.555,
+        "TFRAC": 0.1126,
+        "WFWAH": 1473.4,
+        "WSWAH": 2459.5,
+        "WSCWAH": 3932.9
     },
     "_id": "652effaf8ac54740e3e3c930",
     "zid": "652effaf8ac54740e3e3c930"
@@ -3879,7 +4979,17 @@
     },
     "properties": {
         "zon_label": "p0611",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 3784.1,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.328,
+        "SFRAC": 0.5788,
+        "TFRAC": 0.0932,
+        "WFWAH": 1241.1,
+        "WSWAH": 2190.2,
+        "WSCWAH": 3431.3
     },
     "_id": "652effaf8ac54740e3e3c931",
     "zid": "652effaf8ac54740e3e3c931"
@@ -3914,7 +5024,17 @@
     },
     "properties": {
         "zon_label": "p0612",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4624.6,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3312,
+        "SFRAC": 0.575,
+        "TFRAC": 0.0938,
+        "WFWAH": 1531.9,
+        "WSWAH": 2659.1,
+        "WSCWAH": 4191.0
     },
     "_id": "652effaf8ac54740e3e3c932",
     "zid": "652effaf8ac54740e3e3c932"
@@ -3949,7 +5069,17 @@
     },
     "properties": {
         "zon_label": "p0613",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5310.8,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5686,
+        "TFRAC": 0.098,
+        "WFWAH": 1770.3,
+        "WSWAH": 3019.8,
+        "WSCWAH": 4790.1
     },
     "_id": "652effaf8ac54740e3e3c933",
     "zid": "652effaf8ac54740e3e3c933"
@@ -3984,7 +5114,17 @@
     },
     "properties": {
         "zon_label": "p0614",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4925.2,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.322,
+        "SFRAC": 0.5695,
+        "TFRAC": 0.1085,
+        "WFWAH": 1586.1,
+        "WSWAH": 2804.9,
+        "WSCWAH": 4391.0
     },
     "_id": "652effaf8ac54740e3e3c934",
     "zid": "652effaf8ac54740e3e3c934"
@@ -4019,7 +5159,17 @@
     },
     "properties": {
         "zon_label": "p0615",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5418.7,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5714,
+        "TFRAC": 0.0952,
+        "WFWAH": 1806.2,
+        "WSWAH": 3096.4,
+        "WSCWAH": 4902.6
     },
     "_id": "652effaf8ac54740e3e3c935",
     "zid": "652effaf8ac54740e3e3c935"
@@ -4054,7 +5204,17 @@
     },
     "properties": {
         "zon_label": "p0616",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4940.7,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3423,
+        "SFRAC": 0.5736,
+        "TFRAC": 0.0841,
+        "WFWAH": 1691.4,
+        "WSWAH": 2833.8,
+        "WSCWAH": 4525.2
     },
     "_id": "652effaf8ac54740e3e3c936",
     "zid": "652effaf8ac54740e3e3c936"
@@ -4089,7 +5249,17 @@
     },
     "properties": {
         "zon_label": "p0617",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4747.9,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3242,
+        "SFRAC": 0.5529,
+        "TFRAC": 0.1229,
+        "WFWAH": 1539.4,
+        "WSWAH": 2625.1,
+        "WSCWAH": 4164.6
     },
     "_id": "652effaf8ac54740e3e3c937",
     "zid": "652effaf8ac54740e3e3c937"
@@ -4124,7 +5294,17 @@
     },
     "properties": {
         "zon_label": "p0618",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4562.9,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3299,
+        "SFRAC": 0.5833,
+        "TFRAC": 0.0868,
+        "WFWAH": 1505.1,
+        "WSWAH": 2661.7,
+        "WSCWAH": 4166.8
     },
     "_id": "652effaf8ac54740e3e3c938",
     "zid": "652effaf8ac54740e3e3c938"
@@ -4159,7 +5339,17 @@
     },
     "properties": {
         "zon_label": "p0619",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4508.9,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3343,
+        "SFRAC": 0.5602,
+        "TFRAC": 0.1054,
+        "WFWAH": 1507.5,
+        "WSWAH": 2526.1,
+        "WSCWAH": 4033.6
     },
     "_id": "652effaf8ac54740e3e3c939",
     "zid": "652effaf8ac54740e3e3c939"
@@ -4194,7 +5384,17 @@
     },
     "properties": {
         "zon_label": "p0620",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4100.3,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3322,
+        "SFRAC": 0.5714,
+        "TFRAC": 0.0963,
+        "WFWAH": 1362.2,
+        "WSWAH": 2343.0,
+        "WSCWAH": 3705.2
     },
     "_id": "652effaf8ac54740e3e3c93a",
     "zid": "652effaf8ac54740e3e3c93a"
@@ -4229,7 +5429,17 @@
     },
     "properties": {
         "zon_label": "p0701",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4963.8,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3351,
+        "SFRAC": 0.5749,
+        "TFRAC": 0.0899,
+        "WFWAH": 1663.6,
+        "WSWAH": 2853.8,
+        "WSCWAH": 4517.5
     },
     "_id": "652effaf8ac54740e3e3c93b",
     "zid": "652effaf8ac54740e3e3c93b"
@@ -4264,7 +5474,17 @@
     },
     "properties": {
         "zon_label": "p0702",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5079.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3275,
+        "SFRAC": 0.5702,
+        "TFRAC": 0.1023,
+        "WFWAH": 1663.4,
+        "WSWAH": 2896.2,
+        "WSCWAH": 4559.6
     },
     "_id": "652effaf8ac54740e3e3c93c",
     "zid": "652effaf8ac54740e3e3c93c"
@@ -4299,7 +5519,17 @@
     },
     "properties": {
         "zon_label": "p0703",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5518.9,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3262,
+        "SFRAC": 0.5663,
+        "TFRAC": 0.1075,
+        "WFWAH": 1800.1,
+        "WSWAH": 3125.4,
+        "WSCWAH": 4925.5
     },
     "_id": "652effaf8ac54740e3e3c93d",
     "zid": "652effaf8ac54740e3e3c93d"
@@ -4334,7 +5564,17 @@
     },
     "properties": {
         "zon_label": "p0704",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5696.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3288,
+        "SFRAC": 0.5616,
+        "TFRAC": 0.1096,
+        "WFWAH": 1872.7,
+        "WSWAH": 3199.3,
+        "WSCWAH": 5072.0
     },
     "_id": "652effaf8ac54740e3e3c93e",
     "zid": "652effaf8ac54740e3e3c93e"
@@ -4369,7 +5609,17 @@
     },
     "properties": {
         "zon_label": "p0705",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5156.6,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3269,
+        "SFRAC": 0.5801,
+        "TFRAC": 0.0929,
+        "WFWAH": 1685.8,
+        "WSWAH": 2991.5,
+        "WSCWAH": 4677.3
     },
     "_id": "652effaf8ac54740e3e3c93f",
     "zid": "652effaf8ac54740e3e3c93f"
@@ -4404,7 +5654,17 @@
     },
     "properties": {
         "zon_label": "p0706",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4547.4,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3205,
+        "SFRAC": 0.5869,
+        "TFRAC": 0.0927,
+        "WFWAH": 1457.3,
+        "WSWAH": 2668.8,
+        "WSCWAH": 4126.1
     },
     "_id": "652effaf8ac54740e3e3c940",
     "zid": "652effaf8ac54740e3e3c940"
@@ -4439,7 +5699,17 @@
     },
     "properties": {
         "zon_label": "p0707",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4586.0,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.324,
+        "SFRAC": 0.5645,
+        "TFRAC": 0.1115,
+        "WFWAH": 1486.1,
+        "WSWAH": 2588.6,
+        "WSCWAH": 4074.7
     },
     "_id": "652effaf8ac54740e3e3c941",
     "zid": "652effaf8ac54740e3e3c941"
@@ -4474,7 +5744,17 @@
     },
     "properties": {
         "zon_label": "p0708",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4956.1,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3289,
+        "SFRAC": 0.5789,
+        "TFRAC": 0.0921,
+        "WFWAH": 1630.3,
+        "WSWAH": 2869.3,
+        "WSCWAH": 4499.6
     },
     "_id": "652effaf8ac54740e3e3c942",
     "zid": "652effaf8ac54740e3e3c942"
@@ -4509,7 +5789,17 @@
     },
     "properties": {
         "zon_label": "p0709",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4840.4,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5771,
+        "TFRAC": 0.0896,
+        "WFWAH": 1613.5,
+        "WSWAH": 2793.2,
+        "WSCWAH": 4406.7
     },
     "_id": "652effaf8ac54740e3e3c943",
     "zid": "652effaf8ac54740e3e3c943"
@@ -4544,7 +5834,17 @@
     },
     "properties": {
         "zon_label": "p0710",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4624.6,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3373,
+        "SFRAC": 0.5642,
+        "TFRAC": 0.0985,
+        "WFWAH": 1559.9,
+        "WSWAH": 2609.1,
+        "WSCWAH": 4169.0
     },
     "_id": "652effaf8ac54740e3e3c944",
     "zid": "652effaf8ac54740e3e3c944"
@@ -4579,7 +5879,17 @@
     },
     "properties": {
         "zon_label": "p0711",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4917.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3136,
+        "SFRAC": 0.571,
+        "TFRAC": 0.1154,
+        "WFWAH": 1542.2,
+        "WSWAH": 2807.9,
+        "WSCWAH": 4350.1
     },
     "_id": "652effaf8ac54740e3e3c945",
     "zid": "652effaf8ac54740e3e3c945"
@@ -4614,7 +5924,17 @@
     },
     "properties": {
         "zon_label": "p0712",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5318.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3292,
+        "SFRAC": 0.5714,
+        "TFRAC": 0.0994,
+        "WFWAH": 1750.8,
+        "WSWAH": 3039.1,
+        "WSCWAH": 4789.9
     },
     "_id": "652effaf8ac54740e3e3c946",
     "zid": "652effaf8ac54740e3e3c946"
@@ -4649,7 +5969,17 @@
     },
     "properties": {
         "zon_label": "p0713",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5696.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.331,
+        "SFRAC": 0.5739,
+        "TFRAC": 0.0951,
+        "WFWAH": 1885.4,
+        "WSWAH": 3269.3,
+        "WSCWAH": 5154.7
     },
     "_id": "652effaf8ac54740e3e3c947",
     "zid": "652effaf8ac54740e3e3c947"
@@ -4684,7 +6014,17 @@
     },
     "properties": {
         "zon_label": "p0714",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5842.8,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3353,
+        "SFRAC": 0.568,
+        "TFRAC": 0.0967,
+        "WFWAH": 1959.4,
+        "WSWAH": 3318.5,
+        "WSCWAH": 5277.9
     },
     "_id": "652effaf8ac54740e3e3c948",
     "zid": "652effaf8ac54740e3e3c948"
@@ -4719,7 +6059,17 @@
     },
     "properties": {
         "zon_label": "p0715",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5511.2,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3314,
+        "SFRAC": 0.5748,
+        "TFRAC": 0.0938,
+        "WFWAH": 1826.3,
+        "WSWAH": 3167.7,
+        "WSCWAH": 4994.0
     },
     "_id": "652effaf8ac54740e3e3c949",
     "zid": "652effaf8ac54740e3e3c949"
@@ -4754,7 +6104,17 @@
     },
     "properties": {
         "zon_label": "p0716",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4917.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3208,
+        "SFRAC": 0.566,
+        "TFRAC": 0.1132,
+        "WFWAH": 1577.3,
+        "WSWAH": 2783.5,
+        "WSCWAH": 4360.8
     },
     "_id": "652effaf8ac54740e3e3c94a",
     "zid": "652effaf8ac54740e3e3c94a"
@@ -4789,7 +6149,17 @@
     },
     "properties": {
         "zon_label": "p0717",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4616.8,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3225,
+        "SFRAC": 0.57,
+        "TFRAC": 0.1075,
+        "WFWAH": 1488.8,
+        "WSWAH": 2631.7,
+        "WSCWAH": 4120.6
     },
     "_id": "652effaf8ac54740e3e3c94b",
     "zid": "652effaf8ac54740e3e3c94b"
@@ -4824,7 +6194,17 @@
     },
     "properties": {
         "zon_label": "p0718",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5264.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3144,
+        "SFRAC": 0.5449,
+        "TFRAC": 0.1407,
+        "WFWAH": 1655.0,
+        "WSWAH": 2868.7,
+        "WSCWAH": 4523.7
     },
     "_id": "652effaf8ac54740e3e3c94c",
     "zid": "652effaf8ac54740e3e3c94c"
@@ -4859,7 +6239,17 @@
     },
     "properties": {
         "zon_label": "p0719",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5364.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3287,
+        "SFRAC": 0.5839,
+        "TFRAC": 0.0874,
+        "WFWAH": 1763.2,
+        "WSWAH": 3132.5,
+        "WSCWAH": 4895.8
     },
     "_id": "652effaf8ac54740e3e3c94d",
     "zid": "652effaf8ac54740e3e3c94d"
@@ -4894,7 +6284,17 @@
     },
     "properties": {
         "zon_label": "p0720",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4701.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3301,
+        "SFRAC": 0.5686,
+        "TFRAC": 0.1013,
+        "WFWAH": 1551.9,
+        "WSWAH": 2673.5,
+        "WSCWAH": 4225.3
     },
     "_id": "652effaf8ac54740e3e3c94e",
     "zid": "652effaf8ac54740e3e3c94e"
@@ -4929,7 +6329,17 @@
     },
     "properties": {
         "zon_label": "p0801",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5087.2,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5628,
+        "TFRAC": 0.1038,
+        "WFWAH": 1695.7,
+        "WSWAH": 2863.3,
+        "WSCWAH": 4559.0
     },
     "_id": "652effaf8ac54740e3e3c94f",
     "zid": "652effaf8ac54740e3e3c94f"
@@ -4964,7 +6374,17 @@
     },
     "properties": {
         "zon_label": "p0802",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5503.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3315,
+        "SFRAC": 0.5663,
+        "TFRAC": 0.1022,
+        "WFWAH": 1824.4,
+        "WSWAH": 3116.6,
+        "WSCWAH": 4941.0
     },
     "_id": "652effaf8ac54740e3e3c950",
     "zid": "652effaf8ac54740e3e3c950"
@@ -4999,7 +6419,17 @@
     },
     "properties": {
         "zon_label": "p0803",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5426.4,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3389,
+        "SFRAC": 0.5638,
+        "TFRAC": 0.0973,
+        "WFWAH": 1839.2,
+        "WSWAH": 3059.2,
+        "WSCWAH": 4898.3
     },
     "_id": "652effaf8ac54740e3e3c951",
     "zid": "652effaf8ac54740e3e3c951"
@@ -5034,7 +6464,17 @@
     },
     "properties": {
         "zon_label": "p0804",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5750.2,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3376,
+        "SFRAC": 0.5627,
+        "TFRAC": 0.0997,
+        "WFWAH": 1941.4,
+        "WSWAH": 3235.7,
+        "WSCWAH": 5177.1
     },
     "_id": "652effaf8ac54740e3e3c952",
     "zid": "652effaf8ac54740e3e3c952"
@@ -5069,7 +6509,17 @@
     },
     "properties": {
         "zon_label": "p0805",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5997.0,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3411,
+        "SFRAC": 0.5629,
+        "TFRAC": 0.096,
+        "WFWAH": 2045.3,
+        "WSWAH": 3375.8,
+        "WSCWAH": 5421.1
     },
     "_id": "652effaf8ac54740e3e3c953",
     "zid": "652effaf8ac54740e3e3c953"
@@ -5104,7 +6554,17 @@
     },
     "properties": {
         "zon_label": "p0806",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5125.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3486,
+        "SFRAC": 0.5566,
+        "TFRAC": 0.0948,
+        "WFWAH": 1786.9,
+        "WSWAH": 2852.8,
+        "WSCWAH": 4639.8
     },
     "_id": "652effaf8ac54740e3e3c954",
     "zid": "652effaf8ac54740e3e3c954"
@@ -5139,7 +6599,17 @@
     },
     "properties": {
         "zon_label": "p0807",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4971.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3449,
+        "SFRAC": 0.5665,
+        "TFRAC": 0.0886,
+        "WFWAH": 1714.9,
+        "WSWAH": 2816.1,
+        "WSCWAH": 4531.0
     },
     "_id": "652effaf8ac54740e3e3c955",
     "zid": "652effaf8ac54740e3e3c955"
@@ -5174,7 +6644,17 @@
     },
     "properties": {
         "zon_label": "p0808",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4971.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3492,
+        "SFRAC": 0.5587,
+        "TFRAC": 0.0921,
+        "WFWAH": 1736.1,
+        "WSWAH": 2777.7,
+        "WSCWAH": 4513.8
     },
     "_id": "652effaf8ac54740e3e3c956",
     "zid": "652effaf8ac54740e3e3c956"
@@ -5209,7 +6689,17 @@
     },
     "properties": {
         "zon_label": "p0809",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4763.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3392,
+        "SFRAC": 0.5585,
+        "TFRAC": 0.1023,
+        "WFWAH": 1615.6,
+        "WSWAH": 2660.2,
+        "WSCWAH": 4275.9
     },
     "_id": "652effaf8ac54740e3e3c957",
     "zid": "652effaf8ac54740e3e3c957"
@@ -5244,7 +6734,17 @@
     },
     "properties": {
         "zon_label": "p0810",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4169.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3466,
+        "SFRAC": 0.5704,
+        "TFRAC": 0.083,
+        "WFWAH": 1445.1,
+        "WSWAH": 2378.4,
+        "WSCWAH": 3823.4
     },
     "_id": "652effaf8ac54740e3e3c958",
     "zid": "652effaf8ac54740e3e3c958"
@@ -5279,7 +6779,17 @@
     },
     "properties": {
         "zon_label": "p0811",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5187.4,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3275,
+        "SFRAC": 0.554,
+        "TFRAC": 0.1185,
+        "WFWAH": 1699.0,
+        "WSWAH": 2873.9,
+        "WSCWAH": 4572.9
     },
     "_id": "652effaf8ac54740e3e3c959",
     "zid": "652effaf8ac54740e3e3c959"
@@ -5314,7 +6824,17 @@
     },
     "properties": {
         "zon_label": "p0812",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4956.1,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3393,
+        "SFRAC": 0.5643,
+        "TFRAC": 0.0964,
+        "WFWAH": 1681.5,
+        "WSWAH": 2796.6,
+        "WSCWAH": 4478.2
     },
     "_id": "652effaf8ac54740e3e3c95a",
     "zid": "652effaf8ac54740e3e3c95a"
@@ -5349,7 +6869,17 @@
     },
     "properties": {
         "zon_label": "p0813",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4956.1,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3322,
+        "SFRAC": 0.549,
+        "TFRAC": 0.1189,
+        "WFWAH": 1646.3,
+        "WSWAH": 2720.6,
+        "WSCWAH": 4366.9
     },
     "_id": "652effaf8ac54740e3e3c95b",
     "zid": "652effaf8ac54740e3e3c95b"
@@ -5384,7 +6914,17 @@
     },
     "properties": {
         "zon_label": "p0814",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5896.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3434,
+        "SFRAC": 0.566,
+        "TFRAC": 0.0906,
+        "WFWAH": 2024.9,
+        "WSWAH": 3337.8,
+        "WSCWAH": 5362.7
     },
     "_id": "652effaf8ac54740e3e3c95c",
     "zid": "652effaf8ac54740e3e3c95c"
@@ -5419,7 +6959,17 @@
     },
     "properties": {
         "zon_label": "p0815",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5788.8,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3451,
+        "SFRAC": 0.5608,
+        "TFRAC": 0.0941,
+        "WFWAH": 1997.7,
+        "WSWAH": 3246.3,
+        "WSCWAH": 5244.0
     },
     "_id": "652effaf8ac54740e3e3c95d",
     "zid": "652effaf8ac54740e3e3c95d"
@@ -5454,7 +7004,17 @@
     },
     "properties": {
         "zon_label": "p0816",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5449.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3429,
+        "SFRAC": 0.5648,
+        "TFRAC": 0.0922,
+        "WFWAH": 1868.9,
+        "WSWAH": 3078.1,
+        "WSCWAH": 4947.0
     },
     "_id": "652effaf8ac54740e3e3c95e",
     "zid": "652effaf8ac54740e3e3c95e"
@@ -5489,7 +7049,17 @@
     },
     "properties": {
         "zon_label": "p0817",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5241.4,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3344,
+        "SFRAC": 0.5531,
+        "TFRAC": 0.1125,
+        "WFWAH": 1752.6,
+        "WSWAH": 2899.1,
+        "WSCWAH": 4651.7
     },
     "_id": "652effaf8ac54740e3e3c95f",
     "zid": "652effaf8ac54740e3e3c95f"
@@ -5524,7 +7094,17 @@
     },
     "properties": {
         "zon_label": "p0818",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5295.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3448,
+        "SFRAC": 0.5776,
+        "TFRAC": 0.0776,
+        "WFWAH": 1826.0,
+        "WSWAH": 3058.5,
+        "WSCWAH": 4884.5
     },
     "_id": "652effaf8ac54740e3e3c960",
     "zid": "652effaf8ac54740e3e3c960"
@@ -5559,7 +7139,17 @@
     },
     "properties": {
         "zon_label": "p0819",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4778.8,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3416,
+        "SFRAC": 0.5652,
+        "TFRAC": 0.0932,
+        "WFWAH": 1632.5,
+        "WSWAH": 2701.0,
+        "WSCWAH": 4333.5
     },
     "_id": "652effaf8ac54740e3e3c961",
     "zid": "652effaf8ac54740e3e3c961"
@@ -5594,7 +7184,17 @@
     },
     "properties": {
         "zon_label": "p0820",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 3992.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3379,
+        "SFRAC": 0.5666,
+        "TFRAC": 0.0956,
+        "WFWAH": 1348.9,
+        "WSWAH": 2261.9,
+        "WSCWAH": 3610.8
     },
     "_id": "652effaf8ac54740e3e3c962",
     "zid": "652effaf8ac54740e3e3c962"
@@ -5629,7 +7229,17 @@
     },
     "properties": {
         "zon_label": "p0901",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5195.1,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3401,
+        "SFRAC": 0.5657,
+        "TFRAC": 0.0943,
+        "WFWAH": 1766.7,
+        "WSWAH": 2938.6,
+        "WSCWAH": 4705.3
     },
     "_id": "652effaf8ac54740e3e3c963",
     "zid": "652effaf8ac54740e3e3c963"
@@ -5664,7 +7274,17 @@
     },
     "properties": {
         "zon_label": "p0902",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4632.3,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.35,
+        "SFRAC": 0.5643,
+        "TFRAC": 0.0857,
+        "WFWAH": 1621.3,
+        "WSWAH": 2613.9,
+        "WSCWAH": 4235.2
     },
     "_id": "652effaf8ac54740e3e3c964",
     "zid": "652effaf8ac54740e3e3c964"
@@ -5699,7 +7319,17 @@
     },
     "properties": {
         "zon_label": "p0903",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4763.3,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5523,
+        "TFRAC": 0.1144,
+        "WFWAH": 1587.8,
+        "WSWAH": 2630.7,
+        "WSCWAH": 4218.5
     },
     "_id": "652effaf8ac54740e3e3c965",
     "zid": "652effaf8ac54740e3e3c965"
@@ -5734,7 +7364,17 @@
     },
     "properties": {
         "zon_label": "p0904",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4624.6,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3397,
+        "SFRAC": 0.542,
+        "TFRAC": 0.1183,
+        "WFWAH": 1570.9,
+        "WSWAH": 2506.4,
+        "WSCWAH": 4077.4
     },
     "_id": "652effaf8ac54740e3e3c966",
     "zid": "652effaf8ac54740e3e3c966"
@@ -5769,7 +7409,17 @@
     },
     "properties": {
         "zon_label": "p0905",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4701.7,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3374,
+        "SFRAC": 0.5471,
+        "TFRAC": 0.1155,
+        "WFWAH": 1586.3,
+        "WSWAH": 2572.3,
+        "WSCWAH": 4158.6
     },
     "_id": "652effaf8ac54740e3e3c967",
     "zid": "652effaf8ac54740e3e3c967"
@@ -5804,7 +7454,17 @@
     },
     "properties": {
         "zon_label": "p0906",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4138.8,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3384,
+        "SFRAC": 0.5703,
+        "TFRAC": 0.0913,
+        "WFWAH": 1400.6,
+        "WSWAH": 2360.5,
+        "WSCWAH": 3761.1
     },
     "_id": "652effaf8ac54740e3e3c968",
     "zid": "652effaf8ac54740e3e3c968"
@@ -5839,7 +7499,17 @@
     },
     "properties": {
         "zon_label": "p0907",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4223.6,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3473,
+        "SFRAC": 0.5691,
+        "TFRAC": 0.0836,
+        "WFWAH": 1466.7,
+        "WSWAH": 2403.8,
+        "WSCWAH": 3870.5
     },
     "_id": "652effaf8ac54740e3e3c969",
     "zid": "652effaf8ac54740e3e3c969"
@@ -5874,7 +7544,17 @@
     },
     "properties": {
         "zon_label": "p0908",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4416.4,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3464,
+        "SFRAC": 0.5714,
+        "TFRAC": 0.0821,
+        "WFWAH": 1530.0,
+        "WSWAH": 2523.6,
+        "WSCWAH": 4053.6
     },
     "_id": "652effaf8ac54740e3e3c96a",
     "zid": "652effaf8ac54740e3e3c96a"
@@ -5909,7 +7589,17 @@
     },
     "properties": {
         "zon_label": "p0909",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 3568.3,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3395,
+        "SFRAC": 0.5553,
+        "TFRAC": 0.1053,
+        "WFWAH": 1211.3,
+        "WSWAH": 1981.3,
+        "WSCWAH": 3192.7
     },
     "_id": "652effaf8ac54740e3e3c96b",
     "zid": "652effaf8ac54740e3e3c96b"
@@ -5944,7 +7634,17 @@
     },
     "properties": {
         "zon_label": "p0910",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 2797.2,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3396,
+        "SFRAC": 0.5639,
+        "TFRAC": 0.0966,
+        "WFWAH": 949.8,
+        "WSWAH": 1577.3,
+        "WSCWAH": 2527.1
     },
     "_id": "652effaf8ac54740e3e3c96c",
     "zid": "652effaf8ac54740e3e3c96c"
@@ -5979,7 +7679,17 @@
     },
     "properties": {
         "zon_label": "p0911",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4370.1,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3377,
+        "SFRAC": 0.5682,
+        "TFRAC": 0.0942,
+        "WFWAH": 1475.6,
+        "WSWAH": 2483.0,
+        "WSCWAH": 3958.6
     },
     "_id": "652effaf8ac54740e3e3c96d",
     "zid": "652effaf8ac54740e3e3c96d"
@@ -6014,7 +7724,17 @@
     },
     "properties": {
         "zon_label": "p0912",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4462.6,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3463,
+        "SFRAC": 0.5618,
+        "TFRAC": 0.0919,
+        "WFWAH": 1545.4,
+        "WSWAH": 2507.3,
+        "WSCWAH": 4052.6
     },
     "_id": "652effaf8ac54740e3e3c96e",
     "zid": "652effaf8ac54740e3e3c96e"
@@ -6049,7 +7769,17 @@
     },
     "properties": {
         "zon_label": "p0913",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4848.1,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3349,
+        "SFRAC": 0.5694,
+        "TFRAC": 0.0957,
+        "WFWAH": 1623.8,
+        "WSWAH": 2760.4,
+        "WSCWAH": 4384.2
     },
     "_id": "652effaf8ac54740e3e3c96f",
     "zid": "652effaf8ac54740e3e3c96f"
@@ -6084,7 +7814,17 @@
     },
     "properties": {
         "zon_label": "p0914",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4717.1,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3432,
+        "SFRAC": 0.5678,
+        "TFRAC": 0.089,
+        "WFWAH": 1619.0,
+        "WSWAH": 2678.3,
+        "WSCWAH": 4297.3
     },
     "_id": "652effaf8ac54740e3e3c970",
     "zid": "652effaf8ac54740e3e3c970"
@@ -6119,7 +7859,17 @@
     },
     "properties": {
         "zon_label": "p0915",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4601.4,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3384,
+        "SFRAC": 0.5665,
+        "TFRAC": 0.0951,
+        "WFWAH": 1557.1,
+        "WSWAH": 2606.9,
+        "WSCWAH": 4164.0
     },
     "_id": "652effaf8ac54740e3e3c971",
     "zid": "652effaf8ac54740e3e3c971"
@@ -6154,7 +7904,17 @@
     },
     "properties": {
         "zon_label": "p0916",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4023.2,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3415,
+        "SFRAC": 0.5714,
+        "TFRAC": 0.0871,
+        "WFWAH": 1373.8,
+        "WSWAH": 2298.9,
+        "WSCWAH": 3672.7
     },
     "_id": "652effaf8ac54740e3e3c972",
     "zid": "652effaf8ac54740e3e3c972"
@@ -6189,7 +7949,17 @@
     },
     "properties": {
         "zon_label": "p0917",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4208.2,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3422,
+        "SFRAC": 0.5714,
+        "TFRAC": 0.0864,
+        "WFWAH": 1440.0,
+        "WSWAH": 2404.7,
+        "WSCWAH": 3844.7
     },
     "_id": "652effaf8ac54740e3e3c973",
     "zid": "652effaf8ac54740e3e3c973"
@@ -6224,7 +7994,17 @@
     },
     "properties": {
         "zon_label": "p0918",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 4809.6,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3426,
+        "SFRAC": 0.5675,
+        "TFRAC": 0.09,
+        "WFWAH": 1647.6,
+        "WSWAH": 2729.3,
+        "WSCWAH": 4376.9
     },
     "_id": "652effaf8ac54740e3e3c974",
     "zid": "652effaf8ac54740e3e3c974"
@@ -6259,7 +8039,17 @@
     },
     "properties": {
         "zon_label": "p0919",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 3861.2,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3302,
+        "SFRAC": 0.5628,
+        "TFRAC": 0.107,
+        "WFWAH": 1275.1,
+        "WSWAH": 2173.1,
+        "WSCWAH": 3448.2
     },
     "_id": "652effaf8ac54740e3e3c975",
     "zid": "652effaf8ac54740e3e3c975"
@@ -6294,7 +8084,17 @@
     },
     "properties": {
         "zon_label": "p0920",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 2974.6,
+        "GNDAT": "01/27/2010",
+        "FFRAC": 0.3305,
+        "SFRAC": 0.5665,
+        "TFRAC": 0.103,
+        "WFWAH": 983.0,
+        "WSWAH": 1685.2,
+        "WSCWAH": 2668.2
     },
     "_id": "652effaf8ac54740e3e3c976",
     "zid": "652effaf8ac54740e3e3c976"
@@ -6329,7 +8129,17 @@
     },
     "properties": {
         "zon_label": "p1001",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5989.2,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3323,
+        "SFRAC": 0.5742,
+        "TFRAC": 0.0935,
+        "WFWAH": 1990.0,
+        "WSWAH": 3439.0,
+        "WSCWAH": 5429.0
     },
     "_id": "652effaf8ac54740e3e3c977",
     "zid": "652effaf8ac54740e3e3c977"
@@ -6364,7 +8174,17 @@
     },
     "properties": {
         "zon_label": "p1002",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5572.9,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3266,
+        "SFRAC": 0.5589,
+        "TFRAC": 0.1145,
+        "WFWAH": 1820.1,
+        "WSWAH": 3114.8,
+        "WSCWAH": 4934.9
     },
     "_id": "652effaf8ac54740e3e3c978",
     "zid": "652effaf8ac54740e3e3c978"
@@ -6399,7 +8219,17 @@
     },
     "properties": {
         "zon_label": "p1003",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 6289.9,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3285,
+        "SFRAC": 0.5803,
+        "TFRAC": 0.0912,
+        "WFWAH": 2066.0,
+        "WSWAH": 3650.0,
+        "WSCWAH": 5716.0
     },
     "_id": "652effaf8ac54740e3e3c979",
     "zid": "652effaf8ac54740e3e3c979"
@@ -6434,7 +8264,17 @@
     },
     "properties": {
         "zon_label": "p1004",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5796.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3225,
+        "SFRAC": 0.5688,
+        "TFRAC": 0.1087,
+        "WFWAH": 1869.2,
+        "WSWAH": 3297.3,
+        "WSCWAH": 5166.4
     },
     "_id": "652effaf8ac54740e3e3c97a",
     "zid": "652effaf8ac54740e3e3c97a"
@@ -6469,7 +8309,17 @@
     },
     "properties": {
         "zon_label": "p1005",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5611.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3302,
+        "SFRAC": 0.5767,
+        "TFRAC": 0.093,
+        "WFWAH": 1853.1,
+        "WSWAH": 3236.4,
+        "WSCWAH": 5089.5
     },
     "_id": "652effaf8ac54740e3e3c97b",
     "zid": "652effaf8ac54740e3e3c97b"
@@ -6504,7 +8354,17 @@
     },
     "properties": {
         "zon_label": "p1006",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5657.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3261,
+        "SFRAC": 0.5616,
+        "TFRAC": 0.1123,
+        "WFWAH": 1844.9,
+        "WSWAH": 3177.3,
+        "WSCWAH": 5022.2
     },
     "_id": "652effaf8ac54740e3e3c97c",
     "zid": "652effaf8ac54740e3e3c97c"
@@ -6539,7 +8399,17 @@
     },
     "properties": {
         "zon_label": "p1007",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5480.4,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3226,
+        "SFRAC": 0.5565,
+        "TFRAC": 0.121,
+        "WFWAH": 1767.9,
+        "WSWAH": 3049.6,
+        "WSCWAH": 4817.4
     },
     "_id": "652effaf8ac54740e3e3c97d",
     "zid": "652effaf8ac54740e3e3c97d"
@@ -6574,7 +8444,17 @@
     },
     "properties": {
         "zon_label": "p1008",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5881.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.33,
+        "SFRAC": 0.5633,
+        "TFRAC": 0.1067,
+        "WFWAH": 1940.8,
+        "WSWAH": 3313.1,
+        "WSCWAH": 5254.0
     },
     "_id": "652effaf8ac54740e3e3c97e",
     "zid": "652effaf8ac54740e3e3c97e"
@@ -6609,7 +8489,17 @@
     },
     "properties": {
         "zon_label": "p1009",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5357.0,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3211,
+        "SFRAC": 0.5619,
+        "TFRAC": 0.1171,
+        "WFWAH": 1720.0,
+        "WSWAH": 3010.0,
+        "WSCWAH": 4729.9
     },
     "_id": "652effaf8ac54740e3e3c97f",
     "zid": "652effaf8ac54740e3e3c97f"
@@ -6644,7 +8534,17 @@
     },
     "properties": {
         "zon_label": "p1010",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5341.6,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3308,
+        "SFRAC": 0.5654,
+        "TFRAC": 0.1038,
+        "WFWAH": 1766.8,
+        "WSWAH": 3020.1,
+        "WSCWAH": 4786.9
     },
     "_id": "652effaf8ac54740e3e3c980",
     "zid": "652effaf8ac54740e3e3c980"
@@ -6679,7 +8579,17 @@
     },
     "properties": {
         "zon_label": "p1011",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5827.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3323,
+        "SFRAC": 0.5608,
+        "TFRAC": 0.1068,
+        "WFWAH": 1936.7,
+        "WSWAH": 3268.1,
+        "WSCWAH": 5204.8
     },
     "_id": "652effaf8ac54740e3e3c981",
     "zid": "652effaf8ac54740e3e3c981"
@@ -6714,7 +8624,17 @@
     },
     "properties": {
         "zon_label": "p1012",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5264.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3342,
+        "SFRAC": 0.5587,
+        "TFRAC": 0.107,
+        "WFWAH": 1759.4,
+        "WSWAH": 2941.5,
+        "WSCWAH": 4700.9
     },
     "_id": "652effaf8ac54740e3e3c982",
     "zid": "652effaf8ac54740e3e3c982"
@@ -6749,7 +8669,17 @@
     },
     "properties": {
         "zon_label": "p1013",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 6482.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3361,
+        "SFRAC": 0.5639,
+        "TFRAC": 0.1,
+        "WFWAH": 2178.9,
+        "WSWAH": 3655.5,
+        "WSCWAH": 5834.4
     },
     "_id": "652effaf8ac54740e3e3c983",
     "zid": "652effaf8ac54740e3e3c983"
@@ -6784,7 +8714,17 @@
     },
     "properties": {
         "zon_label": "p1014",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 6328.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3344,
+        "SFRAC": 0.5672,
+        "TFRAC": 0.0984,
+        "WFWAH": 2116.4,
+        "WSWAH": 3589.6,
+        "WSCWAH": 5706.0
     },
     "_id": "652effaf8ac54740e3e3c984",
     "zid": "652effaf8ac54740e3e3c984"
@@ -6819,7 +8759,17 @@
     },
     "properties": {
         "zon_label": "p1015",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5927.6,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3378,
+        "SFRAC": 0.5676,
+        "TFRAC": 0.0946,
+        "WFWAH": 2002.6,
+        "WSWAH": 3364.3,
+        "WSCWAH": 5366.9
     },
     "_id": "652effaf8ac54740e3e3c985",
     "zid": "652effaf8ac54740e3e3c985"
@@ -6854,7 +8804,17 @@
     },
     "properties": {
         "zon_label": "p1016",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 6243.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3298,
+        "SFRAC": 0.5638,
+        "TFRAC": 0.1064,
+        "WFWAH": 2059.1,
+        "WSWAH": 3520.4,
+        "WSCWAH": 5579.5
     },
     "_id": "652effaf8ac54740e3e3c986",
     "zid": "652effaf8ac54740e3e3c986"
@@ -6889,7 +8849,17 @@
     },
     "properties": {
         "zon_label": "p1017",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5711.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3294,
+        "SFRAC": 0.5765,
+        "TFRAC": 0.0941,
+        "WFWAH": 1881.5,
+        "WSWAH": 3292.6,
+        "WSCWAH": 5174.1
     },
     "_id": "652effaf8ac54740e3e3c987",
     "zid": "652effaf8ac54740e3e3c987"
@@ -6924,7 +8894,17 @@
     },
     "properties": {
         "zon_label": "p1018",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 6413.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3304,
+        "SFRAC": 0.5673,
+        "TFRAC": 0.1023,
+        "WFWAH": 2119.0,
+        "WSWAH": 3638.0,
+        "WSCWAH": 5757.0
     },
     "_id": "652effaf8ac54740e3e3c988",
     "zid": "652effaf8ac54740e3e3c988"
@@ -6959,7 +8939,17 @@
     },
     "properties": {
         "zon_label": "p1019",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5989.2,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3219,
+        "SFRAC": 0.5687,
+        "TFRAC": 0.1094,
+        "WFWAH": 1927.8,
+        "WSWAH": 3406.4,
+        "WSCWAH": 5334.2
     },
     "_id": "652effaf8ac54740e3e3c989",
     "zid": "652effaf8ac54740e3e3c989"
@@ -6994,7 +8984,17 @@
     },
     "properties": {
         "zon_label": "p1020",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/12/2011",
+        "WBWAH": 5341.6,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3405,
+        "SFRAC": 0.5706,
+        "TFRAC": 0.089,
+        "WFWAH": 1818.8,
+        "WSWAH": 3047.7,
+        "WSCWAH": 4866.4
     },
     "_id": "652effaf8ac54740e3e3c98a",
     "zid": "652effaf8ac54740e3e3c98a"
@@ -7029,7 +9029,17 @@
     },
     "properties": {
         "zon_label": "p1101",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4447.2,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3457,
+        "SFRAC": 0.5629,
+        "TFRAC": 0.0914,
+        "WFWAH": 1537.5,
+        "WSWAH": 2503.1,
+        "WSCWAH": 4040.6
     },
     "_id": "652effaf8ac54740e3e3c98b",
     "zid": "652effaf8ac54740e3e3c98b"
@@ -7064,7 +9074,17 @@
     },
     "properties": {
         "zon_label": "p1102",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5118.0,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3324,
+        "SFRAC": 0.5647,
+        "TFRAC": 0.1029,
+        "WFWAH": 1701.0,
+        "WSWAH": 2890.2,
+        "WSCWAH": 4591.1
     },
     "_id": "652effaf8ac54740e3e3c98c",
     "zid": "652effaf8ac54740e3e3c98c"
@@ -7099,7 +9119,17 @@
     },
     "properties": {
         "zon_label": "p1103",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5742.5,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3278,
+        "SFRAC": 0.5662,
+        "TFRAC": 0.106,
+        "WFWAH": 1882.5,
+        "WSWAH": 3251.6,
+        "WSCWAH": 5134.0
     },
     "_id": "652effaf8ac54740e3e3c98d",
     "zid": "652effaf8ac54740e3e3c98d"
@@ -7134,7 +9164,17 @@
     },
     "properties": {
         "zon_label": "p1104",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 6020.1,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3289,
+        "SFRAC": 0.5632,
+        "TFRAC": 0.1079,
+        "WFWAH": 1980.3,
+        "WSWAH": 3390.3,
+        "WSCWAH": 5370.6
     },
     "_id": "652effaf8ac54740e3e3c98e",
     "zid": "652effaf8ac54740e3e3c98e"
@@ -7169,7 +9209,17 @@
     },
     "properties": {
         "zon_label": "p1105",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5195.1,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5595,
+        "TFRAC": 0.1071,
+        "WFWAH": 1731.7,
+        "WSWAH": 2906.8,
+        "WSCWAH": 4638.5
     },
     "_id": "652effaf8ac54740e3e3c98f",
     "zid": "652effaf8ac54740e3e3c98f"
@@ -7204,7 +9254,17 @@
     },
     "properties": {
         "zon_label": "p1106",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5611.5,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3383,
+        "SFRAC": 0.5589,
+        "TFRAC": 0.1028,
+        "WFWAH": 1898.6,
+        "WSWAH": 3136.2,
+        "WSCWAH": 5034.8
     },
     "_id": "652effaf8ac54740e3e3c990",
     "zid": "652effaf8ac54740e3e3c990"
@@ -7239,7 +9299,17 @@
     },
     "properties": {
         "zon_label": "p1107",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5518.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3323,
+        "SFRAC": 0.5776,
+        "TFRAC": 0.0901,
+        "WFWAH": 1833.9,
+        "WSWAH": 3188.0,
+        "WSCWAH": 5021.9
     },
     "_id": "652effaf8ac54740e3e3c991",
     "zid": "652effaf8ac54740e3e3c991"
@@ -7274,7 +9344,17 @@
     },
     "properties": {
         "zon_label": "p1108",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5048.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3203,
+        "SFRAC": 0.5655,
+        "TFRAC": 0.1142,
+        "WFWAH": 1617.2,
+        "WSWAH": 2854.8,
+        "WSCWAH": 4472.0
     },
     "_id": "652effaf8ac54740e3e3c992",
     "zid": "652effaf8ac54740e3e3c992"
@@ -7309,7 +9389,17 @@
     },
     "properties": {
         "zon_label": "p1109",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5341.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3381,
+        "SFRAC": 0.5767,
+        "TFRAC": 0.0852,
+        "WFWAH": 1805.8,
+        "WSWAH": 3080.5,
+        "WSCWAH": 4886.3
     },
     "_id": "652effaf8ac54740e3e3c993",
     "zid": "652effaf8ac54740e3e3c993"
@@ -7344,7 +9434,17 @@
     },
     "properties": {
         "zon_label": "p1110",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4562.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3361,
+        "SFRAC": 0.5792,
+        "TFRAC": 0.0847,
+        "WFWAH": 1533.4,
+        "WSWAH": 2643.0,
+        "WSCWAH": 4176.4
     },
     "_id": "652effaf8ac54740e3e3c994",
     "zid": "652effaf8ac54740e3e3c994"
@@ -7379,7 +9479,17 @@
     },
     "properties": {
         "zon_label": "p1111",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4308.4,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3278,
+        "SFRAC": 0.5464,
+        "TFRAC": 0.1258,
+        "WFWAH": 1412.4,
+        "WSWAH": 2353.9,
+        "WSCWAH": 3766.3
     },
     "_id": "652effaf8ac54740e3e3c995",
     "zid": "652effaf8ac54740e3e3c995"
@@ -7414,7 +9524,17 @@
     },
     "properties": {
         "zon_label": "p1112",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4994.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3474,
+        "SFRAC": 0.5789,
+        "TFRAC": 0.0737,
+        "WFWAH": 1735.0,
+        "WSWAH": 2891.6,
+        "WSCWAH": 4626.6
     },
     "_id": "652effaf8ac54740e3e3c996",
     "zid": "652effaf8ac54740e3e3c996"
@@ -7449,7 +9569,17 @@
     },
     "properties": {
         "zon_label": "p1113",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5680.8,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3301,
+        "SFRAC": 0.555,
+        "TFRAC": 0.1149,
+        "WFWAH": 1875.1,
+        "WSWAH": 3152.9,
+        "WSCWAH": 5028.0
     },
     "_id": "652effaf8ac54740e3e3c997",
     "zid": "652effaf8ac54740e3e3c997"
@@ -7484,7 +9614,17 @@
     },
     "properties": {
         "zon_label": "p1114",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 6004.7,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3343,
+        "SFRAC": 0.5745,
+        "TFRAC": 0.0912,
+        "WFWAH": 2007.6,
+        "WSWAH": 3449.5,
+        "WSCWAH": 5457.1
     },
     "_id": "652effaf8ac54740e3e3c998",
     "zid": "652effaf8ac54740e3e3c998"
@@ -7519,7 +9659,17 @@
     },
     "properties": {
         "zon_label": "p1115",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5102.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3508,
+        "SFRAC": 0.5569,
+        "TFRAC": 0.0923,
+        "WFWAH": 1789.8,
+        "WSWAH": 2841.7,
+        "WSCWAH": 4631.6
     },
     "_id": "652effaf8ac54740e3e3c999",
     "zid": "652effaf8ac54740e3e3c999"
@@ -7554,7 +9704,17 @@
     },
     "properties": {
         "zon_label": "p1116",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5665.4,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3394,
+        "SFRAC": 0.577,
+        "TFRAC": 0.0836,
+        "WFWAH": 1923.0,
+        "WSWAH": 3269.1,
+        "WSCWAH": 5192.1
     },
     "_id": "652effaf8ac54740e3e3c99a",
     "zid": "652effaf8ac54740e3e3c99a"
@@ -7589,7 +9749,17 @@
     },
     "properties": {
         "zon_label": "p1117",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5480.4,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3235,
+        "SFRAC": 0.5535,
+        "TFRAC": 0.123,
+        "WFWAH": 1773.1,
+        "WSWAH": 3033.3,
+        "WSCWAH": 4806.3
     },
     "_id": "652effaf8ac54740e3e3c99b",
     "zid": "652effaf8ac54740e3e3c99b"
@@ -7624,7 +9794,17 @@
     },
     "properties": {
         "zon_label": "p1118",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5495.8,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3395,
+        "SFRAC": 0.5809,
+        "TFRAC": 0.0796,
+        "WFWAH": 1865.9,
+        "WSWAH": 3192.5,
+        "WSCWAH": 5058.5
     },
     "_id": "652effaf8ac54740e3e3c99c",
     "zid": "652effaf8ac54740e3e3c99c"
@@ -7659,7 +9839,17 @@
     },
     "properties": {
         "zon_label": "p1119",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5364.7,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3221,
+        "SFRAC": 0.5638,
+        "TFRAC": 0.1141,
+        "WFWAH": 1728.2,
+        "WSWAH": 3024.4,
+        "WSCWAH": 4752.6
     },
     "_id": "652effaf8ac54740e3e3c99d",
     "zid": "652effaf8ac54740e3e3c99d"
@@ -7694,7 +9884,17 @@
     },
     "properties": {
         "zon_label": "p1120",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4069.4,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3463,
+        "SFRAC": 0.5762,
+        "TFRAC": 0.0775,
+        "WFWAH": 1409.0,
+        "WSWAH": 2344.9,
+        "WSCWAH": 3754.0
     },
     "_id": "652effaf8ac54740e3e3c99e",
     "zid": "652effaf8ac54740e3e3c99e"
@@ -7729,7 +9929,17 @@
     },
     "properties": {
         "zon_label": "p1201",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 3976.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3201,
+        "SFRAC": 0.5779,
+        "TFRAC": 0.102,
+        "WFWAH": 1273.1,
+        "WSWAH": 2298.3,
+        "WSCWAH": 3571.3
     },
     "_id": "652effaf8ac54740e3e3c99f",
     "zid": "652effaf8ac54740e3e3c99f"
@@ -7764,7 +9974,17 @@
     },
     "properties": {
         "zon_label": "p1202",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4693.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3195,
+        "SFRAC": 0.5714,
+        "TFRAC": 0.109,
+        "WFWAH": 1499.9,
+        "WSWAH": 2682.3,
+        "WSCWAH": 4182.2
     },
     "_id": "652effaf8ac54740e3e3c9a0",
     "zid": "652effaf8ac54740e3e3c9a0"
@@ -7799,7 +10019,17 @@
     },
     "properties": {
         "zon_label": "p1203",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5172.0,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3243,
+        "SFRAC": 0.5736,
+        "TFRAC": 0.1021,
+        "WFWAH": 1677.4,
+        "WSWAH": 2966.5,
+        "WSCWAH": 4643.9
     },
     "_id": "652effaf8ac54740e3e3c9a1",
     "zid": "652effaf8ac54740e3e3c9a1"
@@ -7834,7 +10064,17 @@
     },
     "properties": {
         "zon_label": "p1204",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4863.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3267,
+        "SFRAC": 0.5743,
+        "TFRAC": 0.099,
+        "WFWAH": 1589.1,
+        "WSWAH": 2792.9,
+        "WSCWAH": 4382.0
     },
     "_id": "652effaf8ac54740e3e3c9a2",
     "zid": "652effaf8ac54740e3e3c9a2"
@@ -7869,7 +10109,17 @@
     },
     "properties": {
         "zon_label": "p1205",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4478.1,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3275,
+        "SFRAC": 0.5702,
+        "TFRAC": 0.1023,
+        "WFWAH": 1466.5,
+        "WSWAH": 2553.3,
+        "WSCWAH": 4019.8
     },
     "_id": "652effaf8ac54740e3e3c9a3",
     "zid": "652effaf8ac54740e3e3c9a3"
@@ -7904,7 +10154,17 @@
     },
     "properties": {
         "zon_label": "p1206",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5010.1,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3265,
+        "SFRAC": 0.5808,
+        "TFRAC": 0.0928,
+        "WFWAH": 1635.6,
+        "WSWAH": 2909.6,
+        "WSCWAH": 4545.2
     },
     "_id": "652effaf8ac54740e3e3c9a4",
     "zid": "652effaf8ac54740e3e3c9a4"
@@ -7939,7 +10199,17 @@
     },
     "properties": {
         "zon_label": "p1207",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4755.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5796,
+        "TFRAC": 0.0871,
+        "WFWAH": 1585.2,
+        "WSWAH": 2756.3,
+        "WSCWAH": 4341.5
     },
     "_id": "652effaf8ac54740e3e3c9a5",
     "zid": "652effaf8ac54740e3e3c9a5"
@@ -7974,7 +10244,17 @@
     },
     "properties": {
         "zon_label": "p1208",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4308.4,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3276,
+        "SFRAC": 0.5718,
+        "TFRAC": 0.1006,
+        "WFWAH": 1411.4,
+        "WSWAH": 2463.7,
+        "WSCWAH": 3875.1
     },
     "_id": "652effaf8ac54740e3e3c9a6",
     "zid": "652effaf8ac54740e3e3c9a6"
@@ -8009,7 +10289,17 @@
     },
     "properties": {
         "zon_label": "p1209",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4732.5,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3302,
+        "SFRAC": 0.5619,
+        "TFRAC": 0.1079,
+        "WFWAH": 1562.5,
+        "WSWAH": 2659.2,
+        "WSCWAH": 4221.7
     },
     "_id": "652effaf8ac54740e3e3c9a7",
     "zid": "652effaf8ac54740e3e3c9a7"
@@ -8044,7 +10334,17 @@
     },
     "properties": {
         "zon_label": "p1210",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 3344.7,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3249,
+        "SFRAC": 0.5642,
+        "TFRAC": 0.1108,
+        "WFWAH": 1086.8,
+        "WSWAH": 1887.2,
+        "WSCWAH": 2974.0
     },
     "_id": "652effaf8ac54740e3e3c9a8",
     "zid": "652effaf8ac54740e3e3c9a8"
@@ -8079,7 +10379,17 @@
     },
     "properties": {
         "zon_label": "p1211",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 3745.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3287,
+        "SFRAC": 0.5709,
+        "TFRAC": 0.1003,
+        "WFWAH": 1231.3,
+        "WSWAH": 2138.5,
+        "WSCWAH": 3369.7
     },
     "_id": "652effaf8ac54740e3e3c9a9",
     "zid": "652effaf8ac54740e3e3c9a9"
@@ -8114,7 +10424,17 @@
     },
     "properties": {
         "zon_label": "p1212",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 3899.8,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3176,
+        "SFRAC": 0.5669,
+        "TFRAC": 0.1155,
+        "WFWAH": 1238.5,
+        "WSWAH": 2210.9,
+        "WSCWAH": 3449.4
     },
     "_id": "652effaf8ac54740e3e3c9aa",
     "zid": "652effaf8ac54740e3e3c9aa"
@@ -8149,7 +10469,17 @@
     },
     "properties": {
         "zon_label": "p1213",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4377.8,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3193,
+        "SFRAC": 0.5663,
+        "TFRAC": 0.1145,
+        "WFWAH": 1397.7,
+        "WSWAH": 2479.0,
+        "WSCWAH": 3876.7
     },
     "_id": "652effaf8ac54740e3e3c9ab",
     "zid": "652effaf8ac54740e3e3c9ab"
@@ -8184,7 +10514,17 @@
     },
     "properties": {
         "zon_label": "p1214",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4454.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3324,
+        "SFRAC": 0.5838,
+        "TFRAC": 0.0838,
+        "WFWAH": 1480.7,
+        "WSWAH": 2600.9,
+        "WSCWAH": 4081.5
     },
     "_id": "652effaf8ac54740e3e3c9ac",
     "zid": "652effaf8ac54740e3e3c9ac"
@@ -8219,7 +10559,17 @@
     },
     "properties": {
         "zon_label": "p1215",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 3629.9,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3256,
+        "SFRAC": 0.5788,
+        "TFRAC": 0.0956,
+        "WFWAH": 1181.8,
+        "WSWAH": 2101.1,
+        "WSCWAH": 3282.9
     },
     "_id": "652effaf8ac54740e3e3c9ad",
     "zid": "652effaf8ac54740e3e3c9ad"
@@ -8254,7 +10604,17 @@
     },
     "properties": {
         "zon_label": "p1216",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4038.6,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3236,
+        "SFRAC": 0.5802,
+        "TFRAC": 0.0962,
+        "WFWAH": 1306.9,
+        "WSWAH": 2343.1,
+        "WSCWAH": 3650.0
     },
     "_id": "652effaf8ac54740e3e3c9ae",
     "zid": "652effaf8ac54740e3e3c9ae"
@@ -8289,7 +10649,17 @@
     },
     "properties": {
         "zon_label": "p1217",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4239.0,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3218,
+        "SFRAC": 0.564,
+        "TFRAC": 0.1142,
+        "WFWAH": 1364.1,
+        "WSWAH": 2390.9,
+        "WSCWAH": 3755.0
     },
     "_id": "652effaf8ac54740e3e3c9af",
     "zid": "652effaf8ac54740e3e3c9af"
@@ -8324,7 +10694,17 @@
     },
     "properties": {
         "zon_label": "p1218",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4231.3,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3199,
+        "SFRAC": 0.5768,
+        "TFRAC": 0.1033,
+        "WFWAH": 1353.6,
+        "WSWAH": 2440.7,
+        "WSCWAH": 3794.3
     },
     "_id": "652effaf8ac54740e3e3c9b0",
     "zid": "652effaf8ac54740e3e3c9b0"
@@ -8359,7 +10739,17 @@
     },
     "properties": {
         "zon_label": "p1219",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4108.0,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3251,
+        "SFRAC": 0.5792,
+        "TFRAC": 0.0956,
+        "WFWAH": 1335.7,
+        "WSWAH": 2379.5,
+        "WSCWAH": 3715.1
     },
     "_id": "652effaf8ac54740e3e3c9b1",
     "zid": "652effaf8ac54740e3e3c9b1"
@@ -8394,7 +10784,17 @@
     },
     "properties": {
         "zon_label": "p1220",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 2997.7,
+        "GNDAT": "01/22/2010",
+        "FFRAC": 0.3285,
+        "SFRAC": 0.5879,
+        "TFRAC": 0.0836,
+        "WFWAH": 984.8,
+        "WSWAH": 1762.3,
+        "WSCWAH": 2747.2
     },
     "_id": "652effaf8ac54740e3e3c9b2",
     "zid": "652effaf8ac54740e3e3c9b2"
@@ -8429,7 +10829,17 @@
     },
     "properties": {
         "zon_label": "p1301",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4092.6,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3372,
+        "SFRAC": 0.5689,
+        "TFRAC": 0.0938,
+        "WFWAH": 1380.2,
+        "WSWAH": 2328.3,
+        "WSCWAH": 3708.5
     },
     "_id": "652effaf8ac54740e3e3c9b3",
     "zid": "652effaf8ac54740e3e3c9b3"
@@ -8464,7 +10874,17 @@
     },
     "properties": {
         "zon_label": "p1302",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4424.1,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3343,
+        "SFRAC": 0.5743,
+        "TFRAC": 0.0914,
+        "WFWAH": 1478.9,
+        "WSWAH": 2540.7,
+        "WSCWAH": 4019.6
     },
     "_id": "652effaf8ac54740e3e3c9b4",
     "zid": "652effaf8ac54740e3e3c9b4"
@@ -8499,7 +10919,17 @@
     },
     "properties": {
         "zon_label": "p1303",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 5094.9,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3438,
+        "SFRAC": 0.5812,
+        "TFRAC": 0.075,
+        "WFWAH": 1751.4,
+        "WSWAH": 2961.4,
+        "WSCWAH": 4712.8
     },
     "_id": "652effaf8ac54740e3e3c9b5",
     "zid": "652effaf8ac54740e3e3c9b5"
@@ -8534,7 +10964,17 @@
     },
     "properties": {
         "zon_label": "p1304",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4408.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3414,
+        "SFRAC": 0.571,
+        "TFRAC": 0.0876,
+        "WFWAH": 1505.1,
+        "WSWAH": 2517.3,
+        "WSCWAH": 4022.4
     },
     "_id": "652effaf8ac54740e3e3c9b6",
     "zid": "652effaf8ac54740e3e3c9b6"
@@ -8569,7 +11009,17 @@
     },
     "properties": {
         "zon_label": "p1305",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4732.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.335,
+        "SFRAC": 0.5761,
+        "TFRAC": 0.0888,
+        "WFWAH": 1585.5,
+        "WSWAH": 2726.6,
+        "WSCWAH": 4312.1
     },
     "_id": "652effaf8ac54740e3e3c9b7",
     "zid": "652effaf8ac54740e3e3c9b7"
@@ -8604,7 +11054,17 @@
     },
     "properties": {
         "zon_label": "p1306",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 6004.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3416,
+        "SFRAC": 0.5745,
+        "TFRAC": 0.0839,
+        "WFWAH": 2051.3,
+        "WSWAH": 3449.9,
+        "WSCWAH": 5501.2
     },
     "_id": "652effaf8ac54740e3e3c9b8",
     "zid": "652effaf8ac54740e3e3c9b8"
@@ -8639,7 +11099,17 @@
     },
     "properties": {
         "zon_label": "p1307",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 3753.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3413,
+        "SFRAC": 0.5767,
+        "TFRAC": 0.082,
+        "WFWAH": 1280.9,
+        "WSWAH": 2164.6,
+        "WSCWAH": 3445.5
     },
     "_id": "652effaf8ac54740e3e3c9b9",
     "zid": "652effaf8ac54740e3e3c9b9"
@@ -8674,7 +11144,17 @@
     },
     "properties": {
         "zon_label": "p1308",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4817.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3354,
+        "SFRAC": 0.5791,
+        "TFRAC": 0.0854,
+        "WFWAH": 1615.9,
+        "WSWAH": 2789.8,
+        "WSCWAH": 4405.7
     },
     "_id": "652effaf8ac54740e3e3c9ba",
     "zid": "652effaf8ac54740e3e3c9ba"
@@ -8709,7 +11189,17 @@
     },
     "properties": {
         "zon_label": "p1309",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4555.2,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5946,
+        "TFRAC": 0.0721,
+        "WFWAH": 1518.4,
+        "WSWAH": 2708.5,
+        "WSCWAH": 4226.9
     },
     "_id": "652effaf8ac54740e3e3c9bb",
     "zid": "652effaf8ac54740e3e3c9bb"
@@ -8744,7 +11234,17 @@
     },
     "properties": {
         "zon_label": "p1310",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4740.2,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3344,
+        "SFRAC": 0.5836,
+        "TFRAC": 0.082,
+        "WFWAH": 1585.1,
+        "WSWAH": 2766.4,
+        "WSCWAH": 4351.4
     },
     "_id": "652effaf8ac54740e3e3c9bc",
     "zid": "652effaf8ac54740e3e3c9bc"
@@ -8779,7 +11279,17 @@
     },
     "properties": {
         "zon_label": "p1311",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 3961.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3343,
+        "SFRAC": 0.5655,
+        "TFRAC": 0.1003,
+        "WFWAH": 1324.2,
+        "WSWAH": 2240.1,
+        "WSCWAH": 3564.2
     },
     "_id": "652effaf8ac54740e3e3c9bd",
     "zid": "652effaf8ac54740e3e3c9bd"
@@ -8814,7 +11324,17 @@
     },
     "properties": {
         "zon_label": "p1312",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 3753.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3303,
+        "SFRAC": 0.578,
+        "TFRAC": 0.0917,
+        "WFWAH": 1239.6,
+        "WSWAH": 2169.3,
+        "WSCWAH": 3409.0
     },
     "_id": "652effaf8ac54740e3e3c9be",
     "zid": "652effaf8ac54740e3e3c9be"
@@ -8849,7 +11369,17 @@
     },
     "properties": {
         "zon_label": "p1313",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4879.0,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3381,
+        "SFRAC": 0.5795,
+        "TFRAC": 0.0824,
+        "WFWAH": 1649.4,
+        "WSWAH": 2827.6,
+        "WSCWAH": 4477.0
     },
     "_id": "652effaf8ac54740e3e3c9bf",
     "zid": "652effaf8ac54740e3e3c9bf"
@@ -8884,7 +11414,17 @@
     },
     "properties": {
         "zon_label": "p1314",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4393.2,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3404,
+        "SFRAC": 0.5805,
+        "TFRAC": 0.079,
+        "WFWAH": 1495.6,
+        "WSWAH": 2550.5,
+        "WSCWAH": 4046.1
     },
     "_id": "652effaf8ac54740e3e3c9c0",
     "zid": "652effaf8ac54740e3e3c9c0"
@@ -8919,7 +11459,17 @@
     },
     "properties": {
         "zon_label": "p1315",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4655.4,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5792,
+        "TFRAC": 0.0874,
+        "WFWAH": 1551.8,
+        "WSWAH": 2696.6,
+        "WSCWAH": 4248.4
     },
     "_id": "652effaf8ac54740e3e3c9c1",
     "zid": "652effaf8ac54740e3e3c9c1"
@@ -8954,7 +11504,17 @@
     },
     "properties": {
         "zon_label": "p1316",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4092.6,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3323,
+        "SFRAC": 0.5745,
+        "TFRAC": 0.0932,
+        "WFWAH": 1359.9,
+        "WSWAH": 2351.3,
+        "WSCWAH": 3711.3
     },
     "_id": "652effaf8ac54740e3e3c9c2",
     "zid": "652effaf8ac54740e3e3c9c2"
@@ -8989,7 +11549,17 @@
     },
     "properties": {
         "zon_label": "p1317",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4462.6,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3324,
+        "SFRAC": 0.5762,
+        "TFRAC": 0.0914,
+        "WFWAH": 1483.4,
+        "WSWAH": 2571.3,
+        "WSCWAH": 4054.7
     },
     "_id": "652effaf8ac54740e3e3c9c3",
     "zid": "652effaf8ac54740e3e3c9c3"
@@ -9024,7 +11594,17 @@
     },
     "properties": {
         "zon_label": "p1318",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4347.0,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3276,
+        "SFRAC": 0.5783,
+        "TFRAC": 0.094,
+        "WFWAH": 1424.2,
+        "WSWAH": 2514.1,
+        "WSCWAH": 3938.3
     },
     "_id": "652effaf8ac54740e3e3c9c4",
     "zid": "652effaf8ac54740e3e3c9c4"
@@ -9059,7 +11639,17 @@
     },
     "properties": {
         "zon_label": "p1319",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4131.1,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3381,
+        "SFRAC": 0.5874,
+        "TFRAC": 0.0745,
+        "WFWAH": 1396.8,
+        "WSWAH": 2426.6,
+        "WSCWAH": 3823.3
     },
     "_id": "652effaf8ac54740e3e3c9c5",
     "zid": "652effaf8ac54740e3e3c9c5"
@@ -9094,7 +11684,17 @@
     },
     "properties": {
         "zon_label": "p1320",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 3606.8,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3229,
+        "SFRAC": 0.5781,
+        "TFRAC": 0.099,
+        "WFWAH": 1164.7,
+        "WSWAH": 2085.2,
+        "WSCWAH": 3249.9
     },
     "_id": "652effaf8ac54740e3e3c9c6",
     "zid": "652effaf8ac54740e3e3c9c6"
@@ -9129,7 +11729,17 @@
     },
     "properties": {
         "zon_label": "p1401",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4285.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.329,
+        "SFRAC": 0.5871,
+        "TFRAC": 0.0839,
+        "WFWAH": 1410.0,
+        "WSWAH": 2515.9,
+        "WSCWAH": 3925.9
     },
     "_id": "652effaf8ac54740e3e3c9c7",
     "zid": "652effaf8ac54740e3e3c9c7"
@@ -9164,7 +11774,17 @@
     },
     "properties": {
         "zon_label": "p1402",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4601.4,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3256,
+        "SFRAC": 0.5711,
+        "TFRAC": 0.1034,
+        "WFWAH": 1498.1,
+        "WSWAH": 2627.7,
+        "WSCWAH": 4125.8
     },
     "_id": "652effaf8ac54740e3e3c9c8",
     "zid": "652effaf8ac54740e3e3c9c8"
@@ -9199,7 +11819,17 @@
     },
     "properties": {
         "zon_label": "p1403",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4986.9,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3254,
+        "SFRAC": 0.5761,
+        "TFRAC": 0.0985,
+        "WFWAH": 1622.6,
+        "WSWAH": 2873.1,
+        "WSCWAH": 4495.7
     },
     "_id": "652effaf8ac54740e3e3c9c9",
     "zid": "652effaf8ac54740e3e3c9c9"
@@ -9234,7 +11864,17 @@
     },
     "properties": {
         "zon_label": "p1404",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4562.9,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3282,
+        "SFRAC": 0.5913,
+        "TFRAC": 0.0805,
+        "WFWAH": 1497.4,
+        "WSWAH": 2698.2,
+        "WSCWAH": 4195.6
     },
     "_id": "652effaf8ac54740e3e3c9ca",
     "zid": "652effaf8ac54740e3e3c9ca"
@@ -9269,7 +11909,17 @@
     },
     "properties": {
         "zon_label": "p1405",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4786.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3284,
+        "SFRAC": 0.5761,
+        "TFRAC": 0.0955,
+        "WFWAH": 1571.7,
+        "WSWAH": 2757.6,
+        "WSCWAH": 4329.2
     },
     "_id": "652effaf8ac54740e3e3c9cb",
     "zid": "652effaf8ac54740e3e3c9cb"
@@ -9304,7 +11954,17 @@
     },
     "properties": {
         "zon_label": "p1406",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4670.8,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3234,
+        "SFRAC": 0.5679,
+        "TFRAC": 0.1087,
+        "WFWAH": 1510.4,
+        "WSWAH": 2652.7,
+        "WSCWAH": 4163.1
     },
     "_id": "652effaf8ac54740e3e3c9cc",
     "zid": "652effaf8ac54740e3e3c9cc"
@@ -9339,7 +11999,17 @@
     },
     "properties": {
         "zon_label": "p1407",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4447.2,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3316,
+        "SFRAC": 0.5782,
+        "TFRAC": 0.0902,
+        "WFWAH": 1474.5,
+        "WSWAH": 2571.6,
+        "WSCWAH": 4046.1
     },
     "_id": "652effaf8ac54740e3e3c9cd",
     "zid": "652effaf8ac54740e3e3c9cd"
@@ -9374,7 +12044,17 @@
     },
     "properties": {
         "zon_label": "p1408",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4971.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3298,
+        "SFRAC": 0.5745,
+        "TFRAC": 0.0957,
+        "WFWAH": 1639.5,
+        "WSWAH": 2856.0,
+        "WSCWAH": 4495.5
     },
     "_id": "652effaf8ac54740e3e3c9ce",
     "zid": "652effaf8ac54740e3e3c9ce"
@@ -9409,7 +12089,17 @@
     },
     "properties": {
         "zon_label": "p1409",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4732.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3295,
+        "SFRAC": 0.5751,
+        "TFRAC": 0.0954,
+        "WFWAH": 1559.3,
+        "WSWAH": 2721.9,
+        "WSCWAH": 4281.1
     },
     "_id": "652effaf8ac54740e3e3c9cf",
     "zid": "652effaf8ac54740e3e3c9cf"
@@ -9444,7 +12134,17 @@
     },
     "properties": {
         "zon_label": "p1410",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4007.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3158,
+        "SFRAC": 0.5668,
+        "TFRAC": 0.1174,
+        "WFWAH": 1265.6,
+        "WSWAH": 2271.6,
+        "WSCWAH": 3537.2
     },
     "_id": "652effaf8ac54740e3e3c9d0",
     "zid": "652effaf8ac54740e3e3c9d0"
@@ -9479,7 +12179,17 @@
     },
     "properties": {
         "zon_label": "p1411",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 3776.4,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3241,
+        "SFRAC": 0.5895,
+        "TFRAC": 0.0864,
+        "WFWAH": 1223.8,
+        "WSWAH": 2226.2,
+        "WSCWAH": 3450.1
     },
     "_id": "652effaf8ac54740e3e3c9d1",
     "zid": "652effaf8ac54740e3e3c9d1"
@@ -9514,7 +12224,17 @@
     },
     "properties": {
         "zon_label": "p1412",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4293.0,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3278,
+        "SFRAC": 0.592,
+        "TFRAC": 0.0803,
+        "WFWAH": 1407.1,
+        "WSWAH": 2541.3,
+        "WSCWAH": 3948.4
     },
     "_id": "652effaf8ac54740e3e3c9d2",
     "zid": "652effaf8ac54740e3e3c9d2"
@@ -9549,7 +12269,17 @@
     },
     "properties": {
         "zon_label": "p1413",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4801.9,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3236,
+        "SFRAC": 0.5728,
+        "TFRAC": 0.1036,
+        "WFWAH": 1554.0,
+        "WSWAH": 2750.6,
+        "WSCWAH": 4304.6
     },
     "_id": "652effaf8ac54740e3e3c9d3",
     "zid": "652effaf8ac54740e3e3c9d3"
@@ -9584,7 +12314,17 @@
     },
     "properties": {
         "zon_label": "p1414",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4385.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3251,
+        "SFRAC": 0.5738,
+        "TFRAC": 0.1011,
+        "WFWAH": 1425.9,
+        "WSWAH": 2516.3,
+        "WSCWAH": 3942.2
     },
     "_id": "652effaf8ac54740e3e3c9d4",
     "zid": "652effaf8ac54740e3e3c9d4"
@@ -9619,7 +12359,17 @@
     },
     "properties": {
         "zon_label": "p1415",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4362.4,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3266,
+        "SFRAC": 0.5825,
+        "TFRAC": 0.0909,
+        "WFWAH": 1424.8,
+        "WSWAH": 2541.1,
+        "WSCWAH": 3965.8
     },
     "_id": "652effaf8ac54740e3e3c9d5",
     "zid": "652effaf8ac54740e3e3c9d5"
@@ -9654,7 +12404,17 @@
     },
     "properties": {
         "zon_label": "p1416",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4401.0,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3322,
+        "SFRAC": 0.5901,
+        "TFRAC": 0.0777,
+        "WFWAH": 1461.8,
+        "WSWAH": 2597.0,
+        "WSCWAH": 4058.8
     },
     "_id": "652effaf8ac54740e3e3c9d6",
     "zid": "652effaf8ac54740e3e3c9d6"
@@ -9689,7 +12449,17 @@
     },
     "properties": {
         "zon_label": "p1417",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4177.4,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3219,
+        "SFRAC": 0.5719,
+        "TFRAC": 0.1062,
+        "WFWAH": 1344.8,
+        "WSWAH": 2389.1,
+        "WSCWAH": 3733.9
     },
     "_id": "652effaf8ac54740e3e3c9d7",
     "zid": "652effaf8ac54740e3e3c9d7"
@@ -9724,7 +12494,17 @@
     },
     "properties": {
         "zon_label": "p1418",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4254.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3175,
+        "SFRAC": 0.5746,
+        "TFRAC": 0.1079,
+        "WFWAH": 1350.6,
+        "WSWAH": 2444.6,
+        "WSCWAH": 3795.3
     },
     "_id": "652effaf8ac54740e3e3c9d8",
     "zid": "652effaf8ac54740e3e3c9d8"
@@ -9759,7 +12539,17 @@
     },
     "properties": {
         "zon_label": "p1419",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 4100.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3232,
+        "SFRAC": 0.5976,
+        "TFRAC": 0.0793,
+        "WFWAH": 1325.1,
+        "WSWAH": 2450.2,
+        "WSCWAH": 3775.2
     },
     "_id": "652effaf8ac54740e3e3c9d9",
     "zid": "652effaf8ac54740e3e3c9d9"
@@ -9794,7 +12584,17 @@
     },
     "properties": {
         "zon_label": "p1420",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/13/2011",
+        "WBWAH": 3768.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3221,
+        "SFRAC": 0.5769,
+        "TFRAC": 0.101,
+        "WFWAH": 1214.0,
+        "WSWAH": 2174.3,
+        "WSCWAH": 3388.2
     },
     "_id": "652effaf8ac54740e3e3c9da",
     "zid": "652effaf8ac54740e3e3c9da"
@@ -9829,7 +12629,17 @@
     },
     "properties": {
         "zon_label": "p1501",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3992.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.342,
+        "SFRAC": 0.5582,
+        "TFRAC": 0.0998,
+        "WFWAH": 1365.5,
+        "WSWAH": 2228.5,
+        "WSCWAH": 3594.0
     },
     "_id": "652effaf8ac54740e3e3c9db",
     "zid": "652effaf8ac54740e3e3c9db"
@@ -9864,7 +12674,17 @@
     },
     "properties": {
         "zon_label": "p1502",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 4863.6,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3405,
+        "SFRAC": 0.5524,
+        "TFRAC": 0.1071,
+        "WFWAH": 1655.9,
+        "WSWAH": 2686.5,
+        "WSCWAH": 4342.5
     },
     "_id": "652effaf8ac54740e3e3c9dc",
     "zid": "652effaf8ac54740e3e3c9dc"
@@ -9899,7 +12719,17 @@
     },
     "properties": {
         "zon_label": "p1503",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 5403.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3405,
+        "SFRAC": 0.5622,
+        "TFRAC": 0.0973,
+        "WFWAH": 1840.0,
+        "WSWAH": 3037.5,
+        "WSCWAH": 4877.6
     },
     "_id": "652effaf8ac54740e3e3c9dd",
     "zid": "652effaf8ac54740e3e3c9dd"
@@ -9934,7 +12764,17 @@
     },
     "properties": {
         "zon_label": "p1504",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 4994.6,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.335,
+        "SFRAC": 0.5516,
+        "TFRAC": 0.1134,
+        "WFWAH": 1673.3,
+        "WSWAH": 2755.2,
+        "WSCWAH": 4428.5
     },
     "_id": "652effaf8ac54740e3e3c9de",
     "zid": "652effaf8ac54740e3e3c9de"
@@ -9969,7 +12809,17 @@
     },
     "properties": {
         "zon_label": "p1505",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 5025.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.337,
+        "SFRAC": 0.5608,
+        "TFRAC": 0.1022,
+        "WFWAH": 1693.7,
+        "WSWAH": 2818.2,
+        "WSCWAH": 4511.8
     },
     "_id": "652effaf8ac54740e3e3c9df",
     "zid": "652effaf8ac54740e3e3c9df"
@@ -10004,7 +12854,17 @@
     },
     "properties": {
         "zon_label": "p1506",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 5210.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.339,
+        "SFRAC": 0.5508,
+        "TFRAC": 0.1102,
+        "WFWAH": 1766.3,
+        "WSWAH": 2870.2,
+        "WSCWAH": 4636.5
     },
     "_id": "652effaf8ac54740e3e3c9e0",
     "zid": "652effaf8ac54740e3e3c9e0"
@@ -10039,7 +12899,17 @@
     },
     "properties": {
         "zon_label": "p1507",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 5148.8,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3386,
+        "SFRAC": 0.5516,
+        "TFRAC": 0.1099,
+        "WFWAH": 1743.2,
+        "WSWAH": 2839.9,
+        "WSCWAH": 4583.2
     },
     "_id": "652effaf8ac54740e3e3c9e1",
     "zid": "652effaf8ac54740e3e3c9e1"
@@ -10074,7 +12944,17 @@
     },
     "properties": {
         "zon_label": "p1508",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 5542.1,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.342,
+        "SFRAC": 0.564,
+        "TFRAC": 0.094,
+        "WFWAH": 1895.6,
+        "WSWAH": 3125.5,
+        "WSCWAH": 5021.1
     },
     "_id": "652effaf8ac54740e3e3c9e2",
     "zid": "652effaf8ac54740e3e3c9e2"
@@ -10109,7 +12989,17 @@
     },
     "properties": {
         "zon_label": "p1509",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 6012.4,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3276,
+        "SFRAC": 0.5552,
+        "TFRAC": 0.1172,
+        "WFWAH": 1969.6,
+        "WSWAH": 3337.9,
+        "WSCWAH": 5307.5
     },
     "_id": "652effaf8ac54740e3e3c9e3",
     "zid": "652effaf8ac54740e3e3c9e3"
@@ -10144,7 +13034,17 @@
     },
     "properties": {
         "zon_label": "p1510",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 5750.2,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.342,
+        "SFRAC": 0.564,
+        "TFRAC": 0.094,
+        "WFWAH": 1966.8,
+        "WSWAH": 3243.0,
+        "WSCWAH": 5209.7
     },
     "_id": "652effaf8ac54740e3e3c9e4",
     "zid": "652effaf8ac54740e3e3c9e4"
@@ -10179,7 +13079,17 @@
     },
     "properties": {
         "zon_label": "p1511",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 5017.8,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3297,
+        "SFRAC": 0.564,
+        "TFRAC": 0.1063,
+        "WFWAH": 1654.4,
+        "WSWAH": 2830.2,
+        "WSCWAH": 4484.5
     },
     "_id": "652effaf8ac54740e3e3c9e5",
     "zid": "652effaf8ac54740e3e3c9e5"
@@ -10214,7 +13124,17 @@
     },
     "properties": {
         "zon_label": "p1512",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 4339.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3344,
+        "SFRAC": 0.5629,
+        "TFRAC": 0.1026,
+        "WFWAH": 1451.2,
+        "WSWAH": 2442.6,
+        "WSCWAH": 3893.9
     },
     "_id": "652effaf8ac54740e3e3c9e6",
     "zid": "652effaf8ac54740e3e3c9e6"
@@ -10249,7 +13169,17 @@
     },
     "properties": {
         "zon_label": "p1513",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 5025.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3323,
+        "SFRAC": 0.561,
+        "TFRAC": 0.1067,
+        "WFWAH": 1670.1,
+        "WSWAH": 2819.2,
+        "WSCWAH": 4489.2
     },
     "_id": "652effaf8ac54740e3e3c9e7",
     "zid": "652effaf8ac54740e3e3c9e7"
@@ -10284,7 +13214,17 @@
     },
     "properties": {
         "zon_label": "p1514",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 4963.8,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3342,
+        "SFRAC": 0.5642,
+        "TFRAC": 0.1016,
+        "WFWAH": 1659.0,
+        "WSWAH": 2800.4,
+        "WSCWAH": 4459.5
     },
     "_id": "652effaf8ac54740e3e3c9e8",
     "zid": "652effaf8ac54740e3e3c9e8"
@@ -10319,7 +13259,17 @@
     },
     "properties": {
         "zon_label": "p1515",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 4586.0,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3648,
+        "SFRAC": 0.5638,
+        "TFRAC": 0.0714,
+        "WFWAH": 1673.0,
+        "WSWAH": 2585.5,
+        "WSCWAH": 4258.4
     },
     "_id": "652effaf8ac54740e3e3c9e9",
     "zid": "652effaf8ac54740e3e3c9e9"
@@ -10354,7 +13304,17 @@
     },
     "properties": {
         "zon_label": "p1516",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 4794.2,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3271,
+        "SFRAC": 0.5607,
+        "TFRAC": 0.1121,
+        "WFWAH": 1568.2,
+        "WSWAH": 2688.3,
+        "WSCWAH": 4256.5
     },
     "_id": "652effaf8ac54740e3e3c9ea",
     "zid": "652effaf8ac54740e3e3c9ea"
@@ -10389,7 +13349,17 @@
     },
     "properties": {
         "zon_label": "p1517",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 5233.7,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5619,
+        "TFRAC": 0.1048,
+        "WFWAH": 1744.6,
+        "WSWAH": 2940.8,
+        "WSCWAH": 4685.4
     },
     "_id": "652effaf8ac54740e3e3c9eb",
     "zid": "652effaf8ac54740e3e3c9eb"
@@ -10424,7 +13394,17 @@
     },
     "properties": {
         "zon_label": "p1518",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 4794.2,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5519,
+        "TFRAC": 0.1148,
+        "WFWAH": 1598.1,
+        "WSWAH": 2646.0,
+        "WSCWAH": 4244.0
     },
     "_id": "652effaf8ac54740e3e3c9ec",
     "zid": "652effaf8ac54740e3e3c9ec"
@@ -10459,7 +13439,17 @@
     },
     "properties": {
         "zon_label": "p1519",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 5395.6,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3368,
+        "SFRAC": 0.5587,
+        "TFRAC": 0.1044,
+        "WFWAH": 1817.3,
+        "WSWAH": 3014.8,
+        "WSCWAH": 4832.1
     },
     "_id": "652effaf8ac54740e3e3c9ed",
     "zid": "652effaf8ac54740e3e3c9ed"
@@ -10494,7 +13484,17 @@
     },
     "properties": {
         "zon_label": "p1520",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 4801.9,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3315,
+        "SFRAC": 0.5633,
+        "TFRAC": 0.1051,
+        "WFWAH": 1592.0,
+        "WSWAH": 2705.1,
+        "WSCWAH": 4297.1
     },
     "_id": "652effaf8ac54740e3e3c9ee",
     "zid": "652effaf8ac54740e3e3c9ee"
@@ -10529,7 +13529,17 @@
     },
     "properties": {
         "zon_label": "p1601",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3753.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5693,
+        "TFRAC": 0.0973,
+        "WFWAH": 1251.1,
+        "WSWAH": 2136.8,
+        "WSCWAH": 3387.9
     },
     "_id": "652effaf8ac54740e3e3c9ef",
     "zid": "652effaf8ac54740e3e3c9ef"
@@ -10564,7 +13574,17 @@
     },
     "properties": {
         "zon_label": "p1602",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3853.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3405,
+        "SFRAC": 0.5838,
+        "TFRAC": 0.0757,
+        "WFWAH": 1312.3,
+        "WSWAH": 2249.6,
+        "WSCWAH": 3561.9
     },
     "_id": "652effaf8ac54740e3e3c9f0",
     "zid": "652effaf8ac54740e3e3c9f0"
@@ -10599,7 +13619,17 @@
     },
     "properties": {
         "zon_label": "p1603",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3444.9,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3286,
+        "SFRAC": 0.5666,
+        "TFRAC": 0.1048,
+        "WFWAH": 1132.0,
+        "WSWAH": 1951.8,
+        "WSCWAH": 3083.8
     },
     "_id": "652effaf8ac54740e3e3c9f1",
     "zid": "652effaf8ac54740e3e3c9f1"
@@ -10634,7 +13664,17 @@
     },
     "properties": {
         "zon_label": "p1604",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3552.8,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3401,
+        "SFRAC": 0.5669,
+        "TFRAC": 0.093,
+        "WFWAH": 1208.4,
+        "WSWAH": 2014.0,
+        "WSCWAH": 3222.3
     },
     "_id": "652effaf8ac54740e3e3c9f2",
     "zid": "652effaf8ac54740e3e3c9f2"
@@ -10669,7 +13709,17 @@
     },
     "properties": {
         "zon_label": "p1605",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3899.8,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3433,
+        "SFRAC": 0.5368,
+        "TFRAC": 0.1199,
+        "WFWAH": 1338.9,
+        "WSWAH": 2093.4,
+        "WSCWAH": 3432.2
     },
     "_id": "652effaf8ac54740e3e3c9f3",
     "zid": "652effaf8ac54740e3e3c9f3"
@@ -10704,7 +13754,17 @@
     },
     "properties": {
         "zon_label": "p1606",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3892.1,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3307,
+        "SFRAC": 0.5707,
+        "TFRAC": 0.0987,
+        "WFWAH": 1287.0,
+        "WSWAH": 2221.1,
+        "WSCWAH": 3508.1
     },
     "_id": "652effaf8ac54740e3e3c9f4",
     "zid": "652effaf8ac54740e3e3c9f4"
@@ -10739,7 +13799,17 @@
     },
     "properties": {
         "zon_label": "p1607",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 4246.8,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3303,
+        "SFRAC": 0.5706,
+        "TFRAC": 0.0991,
+        "WFWAH": 1402.8,
+        "WSWAH": 2423.1,
+        "WSCWAH": 3825.9
     },
     "_id": "652effaf8ac54740e3e3c9f5",
     "zid": "652effaf8ac54740e3e3c9f5"
@@ -10774,7 +13844,17 @@
     },
     "properties": {
         "zon_label": "p1608",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 4401.0,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3422,
+        "SFRAC": 0.5134,
+        "TFRAC": 0.1444,
+        "WFWAH": 1506.2,
+        "WSWAH": 2259.3,
+        "WSCWAH": 3765.5
     },
     "_id": "652effaf8ac54740e3e3c9f6",
     "zid": "652effaf8ac54740e3e3c9f6"
@@ -10809,7 +13889,17 @@
     },
     "properties": {
         "zon_label": "p1609",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 4516.6,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3419,
+        "SFRAC": 0.5584,
+        "TFRAC": 0.0997,
+        "WFWAH": 1544.1,
+        "WSWAH": 2522.1,
+        "WSCWAH": 4066.2
     },
     "_id": "652effaf8ac54740e3e3c9f7",
     "zid": "652effaf8ac54740e3e3c9f7"
@@ -10844,7 +13934,17 @@
     },
     "properties": {
         "zon_label": "p1610",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 4385.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3396,
+        "SFRAC": 0.5722,
+        "TFRAC": 0.0882,
+        "WFWAH": 1489.2,
+        "WSWAH": 2509.4,
+        "WSCWAH": 3998.6
     },
     "_id": "652effaf8ac54740e3e3c9f8",
     "zid": "652effaf8ac54740e3e3c9f8"
@@ -10879,7 +13979,17 @@
     },
     "properties": {
         "zon_label": "p1611",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3406.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3342,
+        "SFRAC": 0.5679,
+        "TFRAC": 0.0978,
+        "WFWAH": 1138.5,
+        "WSWAH": 1934.6,
+        "WSCWAH": 3073.1
     },
     "_id": "652effaf8ac54740e3e3c9f9",
     "zid": "652effaf8ac54740e3e3c9f9"
@@ -10914,7 +14024,17 @@
     },
     "properties": {
         "zon_label": "p1612",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3321.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3279,
+        "SFRAC": 0.5656,
+        "TFRAC": 0.1066,
+        "WFWAH": 1089.0,
+        "WSWAH": 1878.6,
+        "WSCWAH": 2967.6
     },
     "_id": "652effaf8ac54740e3e3c9fa",
     "zid": "652effaf8ac54740e3e3c9fa"
@@ -10949,7 +14069,17 @@
     },
     "properties": {
         "zon_label": "p1613",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 2959.2,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.337,
+        "SFRAC": 0.5746,
+        "TFRAC": 0.0884,
+        "WFWAH": 997.3,
+        "WSWAH": 1700.3,
+        "WSCWAH": 2697.6
     },
     "_id": "652effaf8ac54740e3e3c9fb",
     "zid": "652effaf8ac54740e3e3c9fb"
@@ -10984,7 +14114,17 @@
     },
     "properties": {
         "zon_label": "p1614",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3036.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3359,
+        "SFRAC": 0.5687,
+        "TFRAC": 0.0954,
+        "WFWAH": 1019.8,
+        "WSWAH": 1726.7,
+        "WSCWAH": 2746.5
     },
     "_id": "652effaf8ac54740e3e3c9fc",
     "zid": "652effaf8ac54740e3e3c9fc"
@@ -11019,7 +14159,17 @@
     },
     "properties": {
         "zon_label": "p1615",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3136.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3333,
+        "SFRAC": 0.5556,
+        "TFRAC": 0.1111,
+        "WFWAH": 1045.5,
+        "WSWAH": 1742.5,
+        "WSCWAH": 2788.0
     },
     "_id": "652effaf8ac54740e3e3c9fd",
     "zid": "652effaf8ac54740e3e3c9fd"
@@ -11054,7 +14204,17 @@
     },
     "properties": {
         "zon_label": "p1616",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3537.4,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3395,
+        "SFRAC": 0.571,
+        "TFRAC": 0.0895,
+        "WFWAH": 1201.0,
+        "WSWAH": 2019.8,
+        "WSCWAH": 3220.8
     },
     "_id": "652effaf8ac54740e3e3c9fe",
     "zid": "652effaf8ac54740e3e3c9fe"
@@ -11089,7 +14249,17 @@
     },
     "properties": {
         "zon_label": "p1617",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3653.1,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3378,
+        "SFRAC": 0.5703,
+        "TFRAC": 0.0919,
+        "WFWAH": 1234.1,
+        "WSWAH": 2083.2,
+        "WSCWAH": 3317.4
     },
     "_id": "652effaf8ac54740e3e3c9ff",
     "zid": "652effaf8ac54740e3e3c9ff"
@@ -11124,7 +14294,17 @@
     },
     "properties": {
         "zon_label": "p1618",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3761.0,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3492,
+        "SFRAC": 0.567,
+        "TFRAC": 0.0838,
+        "WFWAH": 1313.2,
+        "WSWAH": 2132.6,
+        "WSCWAH": 3445.8
     },
     "_id": "652effaf8ac54740e3e3ca00",
     "zid": "652effaf8ac54740e3e3ca00"
@@ -11159,7 +14339,17 @@
     },
     "properties": {
         "zon_label": "p1619",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3514.3,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3299,
+        "SFRAC": 0.5704,
+        "TFRAC": 0.0997,
+        "WFWAH": 1159.4,
+        "WSWAH": 2004.7,
+        "WSCWAH": 3164.1
     },
     "_id": "652effaf8ac54740e3e3ca01",
     "zid": "652effaf8ac54740e3e3ca01"
@@ -11194,7 +14384,17 @@
     },
     "properties": {
         "zon_label": "p1620",
-        "ZON_AREA": 58.830464
+        "ZON_AREA": 58.830464,
+        "HARM": "Machine",
+        "HADAT": "10/14/2011",
+        "WBWAH": 3823.5,
+        "GNDAT": "01/26/2010",
+        "FFRAC": 0.3344,
+        "SFRAC": 0.5585,
+        "TFRAC": 0.107,
+        "WFWAH": 1278.8,
+        "WSWAH": 2135.5,
+        "WSCWAH": 3414.3
     },
     "_id": "652effaf8ac54740e3e3ca02",
     "zid": "652effaf8ac54740e3e3ca02"

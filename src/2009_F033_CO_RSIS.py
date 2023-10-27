@@ -212,7 +212,6 @@ for feature in layer:
     if not found:
         raise Exception('Did not find plot for HA %s' % ha_label)
     hareas.append(myha)
-
 ########################################################################
 
 ########################################################################
@@ -291,5 +290,4 @@ f = open('../geojson/'+fname+'/'+fname+'_cropheight.geojson','w')
 for mycrpht in crphts:
     f.write(mycrpht.__str__())
 f.close()
-
 ########################################################################
