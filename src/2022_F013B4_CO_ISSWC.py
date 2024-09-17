@@ -239,6 +239,8 @@ shapefile = '../Data/'+fname+'/'+fname+'_NeutronSWC.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
+swcfile = '../Data/'+fname+'/'+fname+'_NeutronSWC.xlsx'
+swc = pd.read_excel(swcfile,sheet_name='Summary')
 tubes = list()
 for feature in layer:
     tid = feature.GetField('ObjectId')
@@ -249,10 +251,29 @@ for feature in layer:
         print('Unexpected spatial reference in plot shapefile.')
         sys.exit()
     mytube = neutronswc.NeutronSWC(tid=tid,geometry=geometry,tb_label=tb_label)
-
+    #Neutron soil water content data
+    rows = swc.loc[swc['Tube'] == tb_label]
+    rows = rows.sort_values(by='DOY')
+    depcols = sorted([col for col in rows.columns if col[-2:]=='cm'])
+    swcdata = list()
+    for i, row in rows.iterrows():
+        for depcol in depcols:
+            if not math.isnan(row.loc[depcol]):
+                swcitem = dict()
+                swcitem.update({'YEAR' :row.loc['Year']})
+                swcitem.update({'DOY'  :row.loc['DOY']})
+                swcitem.update({'DEPTH':int(depcol[1:-2])})
+                swcitem.update({'SWLD' :round(row.loc[depcol],5)})
+                swcdata.append(swcitem)
+    mytube.setproperty('SWLD',swcdata)
+    found=False
     for plot in plots:
-        if plot.plt_label == tb_label[:5]:
+        if plot.plt_label == tb_label:
             plot.addtid(mytube.getid())
+            found=True
+            break
+    if not found:
+        raise Exception('Did not find plot for neutron tube %s' % tb_label)
     tubes.append(mytube)
 ########################################################################
 

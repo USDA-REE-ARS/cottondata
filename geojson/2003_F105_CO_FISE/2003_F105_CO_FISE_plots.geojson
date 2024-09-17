@@ -40,7 +40,10 @@
         "TFRAC": 0.0114,
         "WFWAH": 1487.2,
         "WSWAH": 2624.8,
-        "WSCWAH": 4112.0
+        "WSCWAH": 4112.0,
+        "tids": [
+            "6442f7dd8ac54733708dafa7"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41a6",
     "pid": "6442e2658ac5472f1c3e41a6"
@@ -86,7 +89,10 @@
         "TFRAC": 0.0294,
         "WFWAH": 1492.5,
         "WSWAH": 2527.8,
-        "WSCWAH": 4020.3
+        "WSCWAH": 4020.3,
+        "tids": [
+            "6442f7dd8ac54733708dafa8"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41a7",
     "pid": "6442e2658ac5472f1c3e41a7"
@@ -132,7 +138,10 @@
         "TFRAC": 0.0188,
         "WFWAH": 1923.5,
         "WSWAH": 3165.2,
-        "WSCWAH": 5088.7
+        "WSCWAH": 5088.7,
+        "tids": [
+            "6442f7dd8ac54733708dafa9"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41a8",
     "pid": "6442e2658ac5472f1c3e41a8"
@@ -178,7 +187,10 @@
         "TFRAC": 0.0508,
         "WFWAH": 1781.5,
         "WSWAH": 2835.9,
-        "WSCWAH": 4617.4
+        "WSCWAH": 4617.4,
+        "tids": [
+            "6442f7dd8ac54733708dafaa"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41a9",
     "pid": "6442e2658ac5472f1c3e41a9"
@@ -224,7 +236,10 @@
         "TFRAC": 0.0068,
         "WFWAH": 1732.0,
         "WSWAH": 2675.4,
-        "WSCWAH": 4407.4
+        "WSCWAH": 4407.4,
+        "tids": [
+            "6442f7dd8ac54733708dafab"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41aa",
     "pid": "6442e2658ac5472f1c3e41aa"
@@ -270,7 +285,10 @@
         "TFRAC": 0.059,
         "WFWAH": 1818.8,
         "WSWAH": 3268.3,
-        "WSCWAH": 5087.1
+        "WSCWAH": 5087.1,
+        "tids": [
+            "6442f7dd8ac54733708dafac"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41ab",
     "pid": "6442e2658ac5472f1c3e41ab"
@@ -316,7 +334,10 @@
         "TFRAC": 0.0248,
         "WFWAH": 1737.1,
         "WSWAH": 2892.1,
-        "WSCWAH": 4629.2
+        "WSCWAH": 4629.2,
+        "tids": [
+            "6442f7dd8ac54733708dafad"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41ac",
     "pid": "6442e2658ac5472f1c3e41ac"
@@ -362,7 +383,10 @@
         "TFRAC": 0.0339,
         "WFWAH": 2050.7,
         "WSWAH": 3405.6,
-        "WSCWAH": 5456.3
+        "WSCWAH": 5456.3,
+        "tids": [
+            "6442f7dd8ac54733708dafae"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41ad",
     "pid": "6442e2658ac5472f1c3e41ad"
@@ -408,7 +432,10 @@
         "TFRAC": 0.0444,
         "WFWAH": 1687.4,
         "WSWAH": 2605.8,
-        "WSCWAH": 4293.2
+        "WSCWAH": 4293.2,
+        "tids": [
+            "6442f7dd8ac54733708dafaf"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41ae",
     "pid": "6442e2658ac5472f1c3e41ae"
@@ -454,7 +481,10 @@
         "TFRAC": 0.0353,
         "WFWAH": 1749.5,
         "WSWAH": 3062.8,
-        "WSCWAH": 4812.3
+        "WSCWAH": 4812.3,
+        "tids": [
+            "6442f7dd8ac54733708dafb0"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41af",
     "pid": "6442e2658ac5472f1c3e41af"
@@ -500,7 +530,10 @@
         "TFRAC": 0.0416,
         "WFWAH": 1776.1,
         "WSWAH": 2991.9,
-        "WSCWAH": 4768.1
+        "WSCWAH": 4768.1,
+        "tids": [
+            "6442f7dd8ac54733708dafb1"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41b0",
     "pid": "6442e2658ac5472f1c3e41b0"
@@ -546,7 +579,10 @@
         "TFRAC": 0.0124,
         "WFWAH": 1927.5,
         "WSWAH": 3258.8,
-        "WSCWAH": 5186.3
+        "WSCWAH": 5186.3,
+        "tids": [
+            "6442f7dd8ac54733708dafb2"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41b1",
     "pid": "6442e2658ac5472f1c3e41b1"
@@ -592,7 +628,10 @@
         "TFRAC": 0.0504,
         "WFWAH": 1819.3,
         "WSWAH": 3260.6,
-        "WSCWAH": 5079.9
+        "WSCWAH": 5079.9,
+        "tids": [
+            "6442f7dd8ac54733708dafb3"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41b2",
     "pid": "6442e2658ac5472f1c3e41b2"
@@ -638,7 +677,10 @@
         "TFRAC": 0.0516,
         "WFWAH": 1736.3,
         "WSWAH": 2960.7,
-        "WSCWAH": 4697.0
+        "WSCWAH": 4697.0,
+        "tids": [
+            "6442f7dd8ac54733708dafb4"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41b3",
     "pid": "6442e2658ac5472f1c3e41b3"
@@ -684,7 +726,10 @@
         "TFRAC": 0.0345,
         "WFWAH": 1744.2,
         "WSWAH": 2855.0,
-        "WSCWAH": 4599.1
+        "WSCWAH": 4599.1,
+        "tids": [
+            "6442f7dd8ac54733708dafb5"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41b4",
     "pid": "6442e2658ac5472f1c3e41b4"
@@ -730,7 +775,10 @@
         "TFRAC": 0.0417,
         "WFWAH": 1561.5,
         "WSWAH": 2594.0,
-        "WSCWAH": 4155.5
+        "WSCWAH": 4155.5,
+        "tids": [
+            "6442f7dd8ac54733708dafb6"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41b5",
     "pid": "6442e2658ac5472f1c3e41b5"
@@ -776,7 +824,10 @@
         "TFRAC": 0.0257,
         "WFWAH": 1710.6,
         "WSWAH": 2797.4,
-        "WSCWAH": 4508.0
+        "WSCWAH": 4508.0,
+        "tids": [
+            "6442f7dd8ac54733708dafb7"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41b6",
     "pid": "6442e2658ac5472f1c3e41b6"
@@ -822,7 +873,10 @@
         "TFRAC": 0.0362,
         "WFWAH": 1634.7,
         "WSWAH": 2620.9,
-        "WSCWAH": 4255.6
+        "WSCWAH": 4255.6,
+        "tids": [
+            "6442f7dd8ac54733708dafb8"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41b7",
     "pid": "6442e2658ac5472f1c3e41b7"
@@ -868,7 +922,10 @@
         "TFRAC": 0.0483,
         "WFWAH": 1775.1,
         "WSWAH": 3079.9,
-        "WSCWAH": 4855.0
+        "WSCWAH": 4855.0,
+        "tids": [
+            "6442f7dd8ac54733708dafb9"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41b8",
     "pid": "6442e2658ac5472f1c3e41b8"
@@ -914,7 +971,10 @@
         "TFRAC": 0.0266,
         "WFWAH": 1714.4,
         "WSWAH": 2840.7,
-        "WSCWAH": 4555.1
+        "WSCWAH": 4555.1,
+        "tids": [
+            "6442f7dd8ac54733708dafba"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41b9",
     "pid": "6442e2658ac5472f1c3e41b9"
@@ -960,7 +1020,10 @@
         "TFRAC": 0.0464,
         "WFWAH": 1747.3,
         "WSWAH": 2829.0,
-        "WSCWAH": 4576.3
+        "WSCWAH": 4576.3,
+        "tids": [
+            "6442f7dd8ac54733708dafbb"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41ba",
     "pid": "6442e2658ac5472f1c3e41ba"
@@ -1006,7 +1069,10 @@
         "TFRAC": 0.0279,
         "WFWAH": 1629.4,
         "WSWAH": 2652.2,
-        "WSCWAH": 4281.6
+        "WSCWAH": 4281.6,
+        "tids": [
+            "6442f7dd8ac54733708dafbc"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41bb",
     "pid": "6442e2658ac5472f1c3e41bb"
@@ -1052,7 +1118,10 @@
         "TFRAC": 0.0537,
         "WFWAH": 1666.6,
         "WSWAH": 2950.9,
-        "WSCWAH": 4617.5
+        "WSCWAH": 4617.5,
+        "tids": [
+            "6442f7dd8ac54733708dafbd"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41bc",
     "pid": "6442e2658ac5472f1c3e41bc"
@@ -1098,7 +1167,10 @@
         "TFRAC": 0.0367,
         "WFWAH": 1774.7,
         "WSWAH": 2976.0,
-        "WSCWAH": 4750.7
+        "WSCWAH": 4750.7,
+        "tids": [
+            "6442f7dd8ac54733708dafbe"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41bd",
     "pid": "6442e2658ac5472f1c3e41bd"
@@ -1144,7 +1216,10 @@
         "TFRAC": 0.0556,
         "WFWAH": 1237.5,
         "WSWAH": 2324.3,
-        "WSCWAH": 3561.8
+        "WSCWAH": 3561.8,
+        "tids": [
+            "6442f7dd8ac54733708dafbf"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41be",
     "pid": "6442e2658ac5472f1c3e41be"
@@ -1190,7 +1265,10 @@
         "TFRAC": 0.0312,
         "WFWAH": 1596.1,
         "WSWAH": 2839.2,
-        "WSCWAH": 4435.3
+        "WSCWAH": 4435.3,
+        "tids": [
+            "6442f7dd8ac54733708dafc0"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41bf",
     "pid": "6442e2658ac5472f1c3e41bf"
@@ -1236,7 +1314,10 @@
         "TFRAC": 0.0273,
         "WFWAH": 1639.0,
         "WSWAH": 2568.7,
-        "WSCWAH": 4207.7
+        "WSCWAH": 4207.7,
+        "tids": [
+            "6442f7dd8ac54733708dafc1"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41c0",
     "pid": "6442e2658ac5472f1c3e41c0"
@@ -1282,7 +1363,10 @@
         "TFRAC": 0.0507,
         "WFWAH": 1799.8,
         "WSWAH": 3108.4,
-        "WSCWAH": 4908.2
+        "WSCWAH": 4908.2,
+        "tids": [
+            "6442f7dd8ac54733708dafc2"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41c1",
     "pid": "6442e2658ac5472f1c3e41c1"
@@ -1328,7 +1412,10 @@
         "TFRAC": 0.0408,
         "WFWAH": 1584.7,
         "WSWAH": 2492.6,
-        "WSCWAH": 4077.3
+        "WSCWAH": 4077.3,
+        "tids": [
+            "6442f7dd8ac54733708dafc3"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41c2",
     "pid": "6442e2658ac5472f1c3e41c2"
@@ -1374,7 +1461,10 @@
         "TFRAC": 0.0485,
         "WFWAH": 1917.2,
         "WSWAH": 3277.8,
-        "WSCWAH": 5194.9
+        "WSCWAH": 5194.9,
+        "tids": [
+            "6442f7dd8ac54733708dafc4"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41c3",
     "pid": "6442e2658ac5472f1c3e41c3"
@@ -1420,7 +1510,10 @@
         "TFRAC": NaN,
         "WFWAH": NaN,
         "WSWAH": NaN,
-        "WSCWAH": NaN
+        "WSCWAH": NaN,
+        "tids": [
+            "6442f7dd8ac54733708dafc5"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41c4",
     "pid": "6442e2658ac5472f1c3e41c4"
@@ -1466,7 +1559,10 @@
         "TFRAC": 0.0476,
         "WFWAH": 1673.5,
         "WSWAH": 2726.6,
-        "WSCWAH": 4400.1
+        "WSCWAH": 4400.1,
+        "tids": [
+            "6442f7dd8ac54733708dafc6"
+        ]
     },
     "_id": "6442e2658ac5472f1c3e41c5",
     "pid": "6442e2658ac5472f1c3e41c5"

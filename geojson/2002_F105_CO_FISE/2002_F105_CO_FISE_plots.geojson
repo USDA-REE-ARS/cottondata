@@ -48,7 +48,10 @@
         "FBSTR": 30.3,
         "FBCRD": 82.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2e6"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed41e",
     "pid": "6442e19c8ac5472ea32ed41e"
@@ -102,7 +105,10 @@
         "FBSTR": 31.2,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2e7"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed41f",
     "pid": "6442e19c8ac5472ea32ed41f"
@@ -156,7 +162,10 @@
         "FBSTR": 30.5,
         "FBCRD": 82.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.2
+        "FBTAR": 0.2,
+        "tids": [
+            "6442f71a8ac547330e1eb2e8"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed420",
     "pid": "6442e19c8ac5472ea32ed420"
@@ -210,7 +219,10 @@
         "FBSTR": 31.0,
         "FBCRD": 82.0,
         "FBCGR": "21-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2e9"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed421",
     "pid": "6442e19c8ac5472ea32ed421"
@@ -264,7 +276,10 @@
         "FBSTR": 29.0,
         "FBCRD": 81.0,
         "FBCGR": "21-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2ea"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed422",
     "pid": "6442e19c8ac5472ea32ed422"
@@ -318,7 +333,10 @@
         "FBSTR": 31.1,
         "FBCRD": 81.0,
         "FBCGR": "21-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2eb"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed423",
     "pid": "6442e19c8ac5472ea32ed423"
@@ -372,7 +390,10 @@
         "FBSTR": 29.8,
         "FBCRD": 82.0,
         "FBCGR": "21-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2ec"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed424",
     "pid": "6442e19c8ac5472ea32ed424"
@@ -426,7 +447,10 @@
         "FBSTR": 30.0,
         "FBCRD": 82.0,
         "FBCGR": "21-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2ed"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed425",
     "pid": "6442e19c8ac5472ea32ed425"
@@ -480,7 +504,10 @@
         "FBSTR": 29.0,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2ee"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed426",
     "pid": "6442e19c8ac5472ea32ed426"
@@ -534,7 +561,10 @@
         "FBSTR": 30.5,
         "FBCRD": 82.0,
         "FBCGR": "11-2",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2ef"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed427",
     "pid": "6442e19c8ac5472ea32ed427"
@@ -588,7 +618,10 @@
         "FBSTR": 30.3,
         "FBCRD": 82.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2f0"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed428",
     "pid": "6442e19c8ac5472ea32ed428"
@@ -642,7 +675,10 @@
         "FBSTR": 30.3,
         "FBCRD": 81.0,
         "FBCGR": "11-2",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2f1"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed429",
     "pid": "6442e19c8ac5472ea32ed429"
@@ -696,7 +732,10 @@
         "FBSTR": 30.3,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2f2"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed42a",
     "pid": "6442e19c8ac5472ea32ed42a"
@@ -750,7 +789,10 @@
         "FBSTR": 30.8,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2f3"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed42b",
     "pid": "6442e19c8ac5472ea32ed42b"
@@ -804,7 +846,10 @@
         "FBSTR": 29.0,
         "FBCRD": 83.0,
         "FBCGR": "11-2",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2f4"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed42c",
     "pid": "6442e19c8ac5472ea32ed42c"
@@ -858,7 +903,10 @@
         "FBSTR": 30.1,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2f5"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed42d",
     "pid": "6442e19c8ac5472ea32ed42d"
@@ -912,7 +960,10 @@
         "FBSTR": 31.1,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2f6"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed42e",
     "pid": "6442e19c8ac5472ea32ed42e"
@@ -966,7 +1017,10 @@
         "FBSTR": 32.1,
         "FBCRD": 83.0,
         "FBCGR": "21-1",
-        "FBTAR": 0.2
+        "FBTAR": 0.2,
+        "tids": [
+            "6442f71a8ac547330e1eb2f7"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed42f",
     "pid": "6442e19c8ac5472ea32ed42f"
@@ -1020,7 +1074,10 @@
         "FBSTR": 30.7,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2f8"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed430",
     "pid": "6442e19c8ac5472ea32ed430"
@@ -1074,7 +1131,10 @@
         "FBSTR": 30.5,
         "FBCRD": 83.0,
         "FBCGR": "11-2",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2f9"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed431",
     "pid": "6442e19c8ac5472ea32ed431"
@@ -1128,7 +1188,10 @@
         "FBSTR": 29.8,
         "FBCRD": 82.0,
         "FBCGR": "11-2",
-        "FBTAR": 0.2
+        "FBTAR": 0.2,
+        "tids": [
+            "6442f71a8ac547330e1eb2fa"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed432",
     "pid": "6442e19c8ac5472ea32ed432"
@@ -1182,7 +1245,10 @@
         "FBSTR": 28.5,
         "FBCRD": 82.0,
         "FBCGR": "21-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2fb"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed433",
     "pid": "6442e19c8ac5472ea32ed433"
@@ -1236,7 +1302,10 @@
         "FBSTR": 28.9,
         "FBCRD": 82.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2fc"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed434",
     "pid": "6442e19c8ac5472ea32ed434"
@@ -1290,7 +1359,10 @@
         "FBSTR": 30.9,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2fd"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed435",
     "pid": "6442e19c8ac5472ea32ed435"
@@ -1344,7 +1416,10 @@
         "FBSTR": 29.4,
         "FBCRD": 82.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.2
+        "FBTAR": 0.2,
+        "tids": [
+            "6442f71a8ac547330e1eb2fe"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed436",
     "pid": "6442e19c8ac5472ea32ed436"
@@ -1398,7 +1473,10 @@
         "FBSTR": 30.0,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb2ff"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed437",
     "pid": "6442e19c8ac5472ea32ed437"
@@ -1452,7 +1530,10 @@
         "FBSTR": 30.1,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb300"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed438",
     "pid": "6442e19c8ac5472ea32ed438"
@@ -1506,7 +1587,10 @@
         "FBSTR": 30.9,
         "FBCRD": 82.0,
         "FBCGR": "21-1",
-        "FBTAR": 0.2
+        "FBTAR": 0.2,
+        "tids": [
+            "6442f71a8ac547330e1eb301"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed439",
     "pid": "6442e19c8ac5472ea32ed439"
@@ -1560,7 +1644,10 @@
         "FBSTR": 28.8,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb302"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed43a",
     "pid": "6442e19c8ac5472ea32ed43a"
@@ -1614,7 +1701,10 @@
         "FBSTR": 31.5,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb303"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed43b",
     "pid": "6442e19c8ac5472ea32ed43b"
@@ -1668,7 +1758,10 @@
         "FBSTR": 31.4,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.1
+        "FBTAR": 0.1,
+        "tids": [
+            "6442f71a8ac547330e1eb304"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed43c",
     "pid": "6442e19c8ac5472ea32ed43c"
@@ -1722,7 +1815,10 @@
         "FBSTR": 29.7,
         "FBCRD": 83.0,
         "FBCGR": "11-1",
-        "FBTAR": 0.2
+        "FBTAR": 0.2,
+        "tids": [
+            "6442f71a8ac547330e1eb305"
+        ]
     },
     "_id": "6442e19c8ac5472ea32ed43d",
     "pid": "6442e19c8ac5472ea32ed43d"
