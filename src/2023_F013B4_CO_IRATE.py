@@ -5,7 +5,7 @@ import experiment
 import plot
 import harvestarea
 import neutronswc
-import cropheight
+import cropcanopy
 import pandas as pd
 from osgeo import ogr
 
@@ -249,16 +249,15 @@ for feature in layer:
     rows = swc.loc[swc['Tube'] == tb_label]
     rows = rows.sort_values(by='DOY')
     depcols = sorted([col for col in rows.columns if col[-2:]=='cm'])
-    swcdata = list()
+    swcdata = dict()
     for i, row in rows.iterrows():
+        swcitem = dict()
         for depcol in depcols:
             if not math.isnan(row.loc[depcol]):
-                swcitem = dict()
-                swcitem.update({'YEAR' :row.loc['Year']})
-                swcitem.update({'DOY'  :row.loc['DOY']})
-                swcitem.update({'DEPTH':int(depcol[1:-2])})
-                swcitem.update({'SWLD' :round(row.loc[depcol],5)})
-                swcdata.append(swcitem)
+                depth = int(depcol[1:-2])
+                swcitem.update({depth:round(row.loc[depcol],5)})
+        key = '{:04d}{:03d}'.format(row.loc['Year'],row.loc['DOY'])
+        swcdata.update({key:swcitem})
     mytube.setproperty('SWLD',swcdata)
     found=False
     for plot in plots:

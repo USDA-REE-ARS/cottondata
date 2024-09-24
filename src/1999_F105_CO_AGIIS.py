@@ -5,7 +5,7 @@ import experiment
 import plot
 import harvestarea
 import neutronswc
-import cropheight
+import cropcanopy
 import pandas as pd
 from osgeo import ogr
 
@@ -194,16 +194,15 @@ for feature in layer:
     rows = swc.loc[swc['Tube'] == tb_label]
     rows = rows.sort_values(by='DOY')
     depcols = sorted([col for col in rows.columns if col[-2:]=='cm'])
-    swcdata = list()
+    swcdata = dict()
     for i, row in rows.iterrows():
+        swcitem = dict()
         for depcol in depcols:
             if not math.isnan(row.loc[depcol]):
-                swcitem = dict()
-                swcitem.update({'YEAR' :row.loc['Year']})
-                swcitem.update({'DOY'  :row.loc['DOY']})
-                swcitem.update({'DEPTH':int(depcol[1:-2])})
-                swcitem.update({'SWLD' :round(row.loc[depcol],5)})
-                swcdata.append(swcitem)
+                depth = int(depcol[1:-2])
+                swcitem.update({depth:round(row.loc[depcol],5)})
+        key = '{:04d}{:03d}'.format(row.loc['Year'],row.loc['DOY'])
+        swcdata.update({key:swcitem})
     mytube.setproperty('SWLD',swcdata)
     found=False
     for plot in plots:
@@ -214,6 +213,46 @@ for feature in layer:
     if not found:
         raise Exception('Did not find plot for neutron tube %s' % tb_label)
     tubes.append(mytube)
+########################################################################
+
+########################################################################
+#Crop Canopy
+shapefile = '../Data/'+fname+'/'+fname+'_CropCanopy.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+ccfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
+cc = pd.read_excel(ccfile,sheet_name='Canopy')
+crpcns = list()
+for feature in layer:
+    ccid = feature.GetField('ObjectID')
+    cc_label = feature.GetField('CCID')  #(e.g., p01-01)
+    geometry = feature.GetGeometryRef()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in plot shapefile.')
+        sys.exit()
+    mycc = cropcanopy.CropCanopy(ccid=ccid,geometry=geometry,cc_label=cc_label)
+    #Crop canopy data
+    row = cc.loc[cc['CCID'] == cc_label]
+    key = '1999'+cc_label[4:7]
+    PLPAD = float(row.iloc[0]['PLPAD'])
+    mycc.setproperty('PLPAD',{key:round(PLPAD,1)})
+    CHTD = float(row.iloc[0]['CHTDcm'])/100. #m
+    mycc.setproperty('CHTD',{key:round(CHTD,2)})
+    CWID = float(row.iloc[0]['CWIDcm'])/100. #m
+    mycc.setproperty('CWID',{key:round(CWID,2)})
+    STDD = float(row.iloc[0]['STDDmm'])
+    mycc.setproperty('STDD',{key:round(STDD,2)})
+    found = False
+    for plot in plots:
+        if plot.plt_label == cc_label[:3]:
+            plot.addccid(mycc.getid())
+            found = True
+            break
+    if not found:
+        raise Exception('Did not find plot for crop canopy %s' % cc_label)
+    crpcns.append(mycc)
 ########################################################################
 
 ########################################################################
@@ -235,6 +274,11 @@ f.close()
 f = open('../geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
 for mytube in tubes:
     f.write(mytube.__str__())
+f.close()
+
+f = open('../geojson/'+fname+'/'+fname+'_cropcanopy.geojson','w')
+for mycrpcn in crpcns:
+    f.write(mycrpcn.__str__())
 f.close()
 
 ########################################################################

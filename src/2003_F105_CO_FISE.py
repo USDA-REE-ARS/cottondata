@@ -5,7 +5,7 @@ import experiment
 import plot
 import harvestarea
 import neutronswc
-import cropheight
+import cropcanopy
 import pandas as pd
 from osgeo import ogr
 
@@ -101,6 +101,9 @@ layer = shapes.GetLayer()
 #    print(lyrdef.GetFieldDefn(i).GetName())
 yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
+ccfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
+cch = pd.read_excel(ccfile,sheet_name='Height')
+ccw = pd.read_excel(ccfile,sheet_name='Width')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -128,6 +131,26 @@ for feature in layer:
         myplot.setproperty('WFWAH' ,round(row.iloc[0]['WFWAH' ],1))
         myplot.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
         myplot.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
+    #Crop canopy data
+    if plt_label not in ['p901','p903','p905','p907']:
+        htdata = dict()
+        rowh = cch.loc[cch['Plot'] == plt_label]
+        doycols = sorted([col for col in cch.columns if col[:3]=='DOY'])
+        for doycol in doycols:
+            key = '2003'+'{:03d}'.format(int(doycol[3:]))
+            if not math.isnan(rowh.iloc[0][doycol]):
+                CHTD = float(rowh.iloc[0][doycol])/100. #m
+                htdata.update({key:round(CHTD,2)})
+        myplot.setproperty('CHTD',htdata)
+        wddata = dict()
+        roww = ccw.loc[ccw['Plot'] == plt_label]
+        doycols = sorted([col for col in ccw.columns if col[:3]=='DOY'])
+        for doycol in doycols:
+            key = '2003'+'{:03d}'.format(int(doycol[3:]))
+            if not math.isnan(roww.iloc[0][doycol]):
+                CWID = float(roww.iloc[0][doycol])/100. #m
+                wddata.update({key:round(CWID,2)})
+        myplot.setproperty('CWID',wddata)
     plots.append(myplot)
 ########################################################################
 
@@ -153,16 +176,15 @@ for feature in layer:
     rows = swc.loc[swc['Tube'] == tb_label]
     rows = rows.sort_values(by='DOY')
     depcols = sorted([col for col in rows.columns if col[-2:]=='cm'])
-    swcdata = list()
+    swcdata = dict()
     for i, row in rows.iterrows():
+        swcitem = dict()
         for depcol in depcols:
             if not math.isnan(row.loc[depcol]):
-                swcitem = dict()
-                swcitem.update({'YEAR' :row.loc['Year']})
-                swcitem.update({'DOY'  :row.loc['DOY']})
-                swcitem.update({'DEPTH':int(depcol[1:-2])})
-                swcitem.update({'SWLD' :round(row.loc[depcol],3)})
-                swcdata.append(swcitem)
+                depth = int(depcol[1:-2])
+                swcitem.update({depth:round(row.loc[depcol],3)})
+        key = '{:04d}{:03d}'.format(row.loc['Year'],row.loc['DOY'])
+        swcdata.update({key:swcitem})
     mytube.setproperty('SWLD',swcdata)
     found=False
     for plot in plots:
