@@ -94,6 +94,8 @@ layer = shapes.GetLayer()
 #    print(lyrdef.GetFieldDefn(i).GetName())
 yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
+mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
+irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -108,6 +110,20 @@ for feature in layer:
     myplot = plot.Plot(pid=pid,geometry=geometry,plt_label=plt_label,trt_label=trt_label)
     myexp.addpid(trt_label,myplot.getid())
     myplot.setproperty('PLT_AREA',round(plt_area,6))
+    #Management information
+    myplot.setproperty('CUL_NAME', 'NexGen 5007 B2XF')
+    myplot.setproperty('PDATE', '04/18/2019')
+    idata = dict()
+    for index, row in irrig.iterrows():
+        key = str(int(row['Year']))+str(int(row['DOY']))
+        if trt_label in ['MDL','SOL','UAS']:
+            IRVAL = row[trt_label]
+        else:
+            trtplt = trt_label+plt_label[1:]
+            pzones = [pzone for pzone in row.keys() if trtplt in pzone]
+            IRVAL = row[pzones].mean()
+        idata.update({key:round(IRVAL,1)})
+    myplot.setproperty('IRVAL',idata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     myplot.setproperty('HARM'  ,row.iloc[0]['HARM'])
@@ -143,6 +159,8 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Zone Scale',skiprows=5)
+mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
+irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
 zones = list()
 for feature in layer:
     zid = feature.GetField('ObjectId')
@@ -155,6 +173,21 @@ for feature in layer:
     zon_area = geometry.GetArea()
     myzone = zone.Zone(zid=zid,geometry=geometry,zon_label=zon_label)
     myzone.setproperty('ZON_AREA',round(zon_area,6))
+    #Management information
+    idata = dict()
+    for index, row in irrig.iterrows():
+        key = str(int(row['Year']))+str(int(row['DOY']))
+        izid = [izid for izid in row.keys() if zon_label in izid]
+        if len(izid) == 0:
+            continue
+        elif len(izid) == 1:
+            IRVAL = row[izid[0]]
+            idata.update({key:round(IRVAL,1)})
+        else:
+            print('Unexpected zone search result.')
+            sys.exit()
+    if idata:
+        myzone.setproperty('IRVAL',idata)
     #Yield data
     row = yld.loc[yld['ZID'] == zon_label]
     myzone.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))

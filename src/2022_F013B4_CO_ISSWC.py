@@ -37,13 +37,13 @@ myexp.setproperty('EXP_AREA',round(exp_area,6))
 
 expmeta = {
     'EXNAME':'Soil water guided irrigation scheduling models, Season 2 of 2',
-    #'OBJECTIVES':'See Thorp et al., TBD',
-    #'EXP_NARR':'See Thorp et al., TBD',
+    'OBJECTIVES':'See Thorp, K. R., 2023. Combining soil water content data with computer simulation models for improved irrigation scheduling. Journal of the ASABE 66 (5), 1265-1279. doi:10.13031/ja.15591',
+    'EXP_NARR':'See Thorp, K. R., 2023. Combining soil water content data with computer simulation models for improved irrigation scheduling. Journal of the ASABE 66 (5), 1265-1279. doi:10.13031/ja.15591',
     'MAIN_FACTOR':'Irrigation scheduling method: stand-alone models versus soil water assisted models',
     'FACTORS':'Six irrigation scheduling methods and two cotton varieties',
     'TRT_NO':12,
     'REP_NO':4,
-    #'METHODS':'See Thorp et al., TBD',
+    'METHODS':'See Thorp, K. R., 2023. Combining soil water content data with computer simulation models for improved irrigation scheduling. Journal of the ASABE 66 (5), 1265-1279. doi:10.13031/ja.15591',
     'EXPER_TYPE':'ET001',
     'SITE_NAME':'Maricopa Agricultural Center, Field 13, Bench 4',
     'SITE_TYPE':'ST001',
@@ -62,7 +62,7 @@ expmeta = {
     'IN_ROLE':'IL001',
     'CMPLC':'',
     'SUITE_NAME':'Soil water guided irrigation scheduling models',
-    #'SUITE_OBJ':'See Thorp et al., TBD',
+    'SUITE_OBJ':'See Thorp, K. R., 2023. Combining soil water content data with computer simulation models for improved irrigation scheduling. Journal of the ASABE 66 (5), 1265-1279. doi:10.13031/ja.15591',
     'FL_NAME':'Field 13, Bench 4, Spans 4-6',
     'FL_LAT':33.07914, #from Google maps
     'FL_LONG':-111.97737, #from Google maps
@@ -101,6 +101,8 @@ layer = shapes.GetLayer()
 #    print(lyrdef.GetFieldDefn(i).GetName())
 yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
+mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
+irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -115,6 +117,18 @@ for feature in layer:
     myplot = plot.Plot(pid=pid,geometry=geometry,plt_label=plt_label,trt_label=trt_label)
     myexp.addpid(trt_label,myplot.getid())
     myplot.setproperty('PLT_AREA',round(plt_area,6))
+    #Management information
+    if '3195' in trt_label:
+        myplot.setproperty('CUL_NAME', 'NexGen 3195 B3XF')
+    elif '4936' in trt_label:
+        myplot.setproperty('CUL_NAME', 'NexGen 4936 B3XF')
+    myplot.setproperty('PDATE', '04/21/2022')
+    idata = dict()
+    for index, row in irrig.iterrows():
+        key = str(int(row['Year']))+str(int(row['DOY']))
+        IRVAL = row[plt_label]
+        idata.update({key:round(IRVAL,1)})
+    myplot.setproperty('IRVAL',idata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     myplot.setproperty('HARM'  ,row.iloc[0]['HARM'])

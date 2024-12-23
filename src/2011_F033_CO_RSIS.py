@@ -108,6 +108,12 @@ for feature in layer:
     myplot = plot.Plot(pid=pid,geometry=geometry,plt_label=plt_label,trt_label=trt_label)
     myexp.addpid(trt_label,myplot.getid())
     myplot.setproperty('PLT_AREA',round(plt_area,6))
+    #Management information
+    myplot.setproperty('CUL_NAME', 'Deltapine 1044 B2RF')
+    if int(plt_label[1:3]) in range(12,17):
+        myplot.setproperty('PDATE', '04/19/2011')
+    if int(plt_label[1:3]) in range(1,12):
+        myplot.setproperty('PDATE', '04/20/2011')
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     myplot.setproperty('HARM'  ,row.iloc[0]['HARM'])
@@ -131,6 +137,8 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Zone Scale',skiprows=5)
+mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
+irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
 zones = list()
 for feature in layer:
     zid = feature.GetField('ObjectId')
@@ -143,6 +151,16 @@ for feature in layer:
     zon_area = geometry.GetArea()
     myzone = zone.Zone(zid=zid,geometry=geometry,zon_label=zon_label)
     myzone.setproperty('ZON_AREA',round(zon_area,6))
+    #Management information
+    idata = dict()
+    row = irrig[irrig['ZoneID'] == zon_label]
+    for i in range(1,10):
+        IrrDOY = row.iloc[0]['IrrDOY'+str(i)]
+        IRVAL = float(row.iloc[0]['IrrRate'+str(i)])
+        key = '2011'+str(IrrDOY)
+        if round(IRVAL,1) > 0.0:
+            idata.update({key:round(IRVAL,1)})
+    myzone.setproperty('IRVAL',idata)
     #Yield data
     row = yld.loc[yld['ZID'] == zon_label]
     myzone.setproperty('HARM'  ,row.iloc[0]['HARM'])

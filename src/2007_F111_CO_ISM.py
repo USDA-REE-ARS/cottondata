@@ -97,6 +97,8 @@ layer = shapes.GetLayer()
 #    print(lyrdef.GetFieldDefn(i).GetName())
 yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
+mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
+irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -111,6 +113,16 @@ for feature in layer:
     myplot = plot.Plot(pid=pid,geometry=geometry,plt_label=plt_label,trt_label=trt_label)
     myexp.addpid(trt_label,myplot.getid())
     myplot.setproperty('PLT_AREA',round(plt_area,6))
+    #Management information
+    myplot.setproperty('CUL_NAME', 'Deltapine 449 BG/RR')
+    myplot.setproperty('PDATE', '04/30/2007')
+    idata = dict()
+    for index, row in irrig.iterrows():
+        key = str(int(row['Year']))+str(int(row['DOY']))
+        IRVAL = row[plt_label]
+        if not math.isnan(IRVAL):
+            idata.update({key:round(IRVAL,1)})
+    myplot.setproperty('IRVAL',idata)
     #Yield and fiber quality data
     if plt_label not in ['p01','p03']:
         row = yld.loc[yld['PID'] == plt_label]
