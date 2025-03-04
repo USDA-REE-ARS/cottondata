@@ -9,6 +9,7 @@ import neutronswc
 import cropcanopy
 import pandas as pd
 from osgeo import ogr
+import geojson
 
 fname = os.path.basename(__file__)
 fname = os.path.splitext(fname)[0]
@@ -326,32 +327,48 @@ for feature in layer:
 
 ########################################################################
 #Write geojson files
-f = open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w')
-f.write(myexp.__str__())
+fc = geojson.FeatureCollection([myexp.doc])
+with open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
 f.close()
 
-f = open('../geojson/'+fname+'/'+fname+'_plots.geojson','w')
+features = list()
 for myplot in plots:
-    f.write(myplot.__str__())
+    features.append(myplot.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_plots.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
 f.close()
 
-f = open('../geojson/'+fname+'/'+fname+'_zones.geojson','w')
+features = list()
 for myzone in zones:
-    f.write(myzone.__str__())
+    features.append(myzone.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_zones.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
 f.close()
 
-f = open('../geojson/'+fname+'/'+fname+'_harvestareas.geojson','w')
+features = list()
 for myha in hareas:
-    f.write(myha.__str__())
+    features.append(myha.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_harvestareas.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
 f.close()
 
-f = open('../geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
+features = list()
 for mytube in tubes:
-    f.write(mytube.__str__())
+    features.append(mytube.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_neutronswc.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
 f.close()
 
-f = open('../geojson/'+fname+'/'+fname+'_cropcanopy.geojson','w')
+features = list()
 for mycrpcn in crpcns:
-    f.write(mycrpcn.__str__())
+    features.append(mycrpcn.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_cropcanopy.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################

@@ -1,169 +1,174 @@
 {
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.97826959,
-                    33.07847673
-                ],
-                [
-                    -111.97842197,
-                    33.07847748
-                ],
-                [
-                    -111.97857435,
-                    33.07847824
-                ],
-                [
-                    -111.97857309,
-                    33.07865862
-                ],
-                [
-                    -111.97857184,
-                    33.07883901
-                ],
-                [
-                    -111.97857058,
-                    33.07901939
-                ],
-                [
-                    -111.97856932,
-                    33.07919977
-                ],
-                [
-                    -111.97856806,
-                    33.07938016
-                ],
-                [
-                    -111.97856681,
-                    33.07956054
-                ],
-                [
-                    -111.97856555,
-                    33.07974092
-                ],
-                [
-                    -111.97856429,
-                    33.07992131
-                ],
-                [
-                    -111.97841191,
-                    33.07992055
-                ],
-                [
-                    -111.97825952,
-                    33.0799198
-                ],
-                [
-                    -111.97826078,
-                    33.07973942
-                ],
-                [
-                    -111.97826204,
-                    33.07955903
-                ],
-                [
-                    -111.9782633,
-                    33.07937865
-                ],
-                [
-                    -111.97826455,
-                    33.07919826
-                ],
-                [
-                    -111.97826581,
-                    33.07901788
-                ],
-                [
-                    -111.97826707,
-                    33.0788375
-                ],
-                [
-                    -111.97826833,
-                    33.07865711
-                ],
-                [
-                    -111.97826959,
-                    33.07847673
-                ]
-            ]
-        ]
-    },
-    "properties": {
-        "exp_label": "2023_F013B4_CO_IRATE",
-        "trt_info": [
-            {
-                "trt_label": "IR040",
-                "description": "40 percent of full irrigation rate initiated at flowering",
-                "pids": [
-                    "641e1e7e8ac547e72d8d65b5",
-                    "641e1e7e8ac547e72d8d65b1",
-                    "641e1e7e8ac547e72d8d65bb",
-                    "641e1e7e8ac547e72d8d65b6"
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.97826959,
+                            33.07847673
+                        ],
+                        [
+                            -111.97842197,
+                            33.07847748
+                        ],
+                        [
+                            -111.97857435,
+                            33.07847824
+                        ],
+                        [
+                            -111.97857309,
+                            33.07865862
+                        ],
+                        [
+                            -111.97857184,
+                            33.07883901
+                        ],
+                        [
+                            -111.97857058,
+                            33.07901939
+                        ],
+                        [
+                            -111.97856932,
+                            33.07919977
+                        ],
+                        [
+                            -111.97856806,
+                            33.07938016
+                        ],
+                        [
+                            -111.97856681,
+                            33.07956054
+                        ],
+                        [
+                            -111.97856555,
+                            33.07974092
+                        ],
+                        [
+                            -111.97856429,
+                            33.07992131
+                        ],
+                        [
+                            -111.97841191,
+                            33.07992055
+                        ],
+                        [
+                            -111.97825952,
+                            33.0799198
+                        ],
+                        [
+                            -111.97826078,
+                            33.07973942
+                        ],
+                        [
+                            -111.97826204,
+                            33.07955903
+                        ],
+                        [
+                            -111.9782633,
+                            33.07937865
+                        ],
+                        [
+                            -111.97826455,
+                            33.07919826
+                        ],
+                        [
+                            -111.97826581,
+                            33.07901788
+                        ],
+                        [
+                            -111.97826707,
+                            33.0788375
+                        ],
+                        [
+                            -111.97826833,
+                            33.07865711
+                        ],
+                        [
+                            -111.97826959,
+                            33.07847673
+                        ]
+                    ]
                 ]
             },
-            {
-                "trt_label": "IR060",
-                "description": "60 percent of full irrigation rate initiated at flowering",
-                "pids": [
-                    "641e1e7e8ac547e72d8d65b2",
-                    "641e1e7e8ac547e72d8d65ae",
-                    "641e1e7e8ac547e72d8d65bd",
-                    "641e1e7e8ac547e72d8d65b9"
-                ]
+            "properties": {
+                "exp_label": "2023_F013B4_CO_IRATE",
+                "trt_info": [
+                    {
+                        "trt_label": "IR040",
+                        "description": "40 percent of full irrigation rate initiated at flowering",
+                        "pids": [
+                            "641e1e7e8ac547e72d8d65b5",
+                            "641e1e7e8ac547e72d8d65b1",
+                            "641e1e7e8ac547e72d8d65bb",
+                            "641e1e7e8ac547e72d8d65b6"
+                        ]
+                    },
+                    {
+                        "trt_label": "IR060",
+                        "description": "60 percent of full irrigation rate initiated at flowering",
+                        "pids": [
+                            "641e1e7e8ac547e72d8d65b2",
+                            "641e1e7e8ac547e72d8d65ae",
+                            "641e1e7e8ac547e72d8d65bd",
+                            "641e1e7e8ac547e72d8d65b9"
+                        ]
+                    },
+                    {
+                        "trt_label": "IR080",
+                        "description": "80 percent of full irrigation rate initiated at flowering",
+                        "pids": [
+                            "641e1e7e8ac547e72d8d65b3",
+                            "641e1e7e8ac547e72d8d65b0",
+                            "641e1e7e8ac547e72d8d65bc",
+                            "641e1e7e8ac547e72d8d65b7"
+                        ]
+                    },
+                    {
+                        "trt_label": "IR100",
+                        "description": "Full irrigation rate for the entire season",
+                        "pids": [
+                            "641e1e7e8ac547e72d8d65b4",
+                            "641e1e7e8ac547e72d8d65af",
+                            "641e1e7e8ac547e72d8d65ba",
+                            "641e1e7e8ac547e72d8d65b8"
+                        ]
+                    }
+                ],
+                "EXP_AREA": 4551.680015,
+                "EXNAME": "Irrigation rate experiment, Season 2 of 2",
+                "MAIN_FACTOR": "Irrigation rate (40%%, 60%%, 80%%, and 100%% of full irrigation)",
+                "FACTORS": "Four irrigation rates initiated at flowering (40%%, 60%%, 80%%, and 100%% of full irrigation)",
+                "TRT_NO": 4,
+                "REP_NO": 4,
+                "EXPER_TYPE": "ET001",
+                "SITE_NAME": "Maricopa Agricultural Center, Field 13, Bench 4",
+                "SITE_TYPE": "ST001",
+                "MGMT_TYPE": "MT001",
+                "EXP_YEAR": "2023",
+                "EXP_DUR": 1,
+                "CR_SYSTEM": "Strip-till cotton after winter barley cover crop",
+                "LAST_NAME": "Thorp",
+                "FIRST_NAME": "Kelly",
+                "MID_INITIAL": "R",
+                "PERSON_NOTES": "Field technicians: Matt Hagler and Suzette Maneely",
+                "EX_ADDRESS": "21881 N. Cardon Ln., Maricopa, Arizona 85138",
+                "EX_EMAIL": "kelly.thorp@usda.gov",
+                "INSTITUTION": "USDA Agricultural Research Service, Maricopa, Arizona",
+                "IN_TYPE": "IT004",
+                "IN_ROLE": "IL001",
+                "CMPLC": "",
+                "SUITE_NAME": "Irrigation rate experiment",
+                "FL_NAME": "Field 13, Bench 4, Span 7",
+                "FL_LAT": 33.079177,
+                "FL_LONG": -111.97845,
+                "FLELE": 361
             },
-            {
-                "trt_label": "IR080",
-                "description": "80 percent of full irrigation rate initiated at flowering",
-                "pids": [
-                    "641e1e7e8ac547e72d8d65b3",
-                    "641e1e7e8ac547e72d8d65b0",
-                    "641e1e7e8ac547e72d8d65bc",
-                    "641e1e7e8ac547e72d8d65b7"
-                ]
-            },
-            {
-                "trt_label": "IR100",
-                "description": "Full irrigation rate for the entire season",
-                "pids": [
-                    "641e1e7e8ac547e72d8d65b4",
-                    "641e1e7e8ac547e72d8d65af",
-                    "641e1e7e8ac547e72d8d65ba",
-                    "641e1e7e8ac547e72d8d65b8"
-                ]
-            }
-        ],
-        "EXP_AREA": 4551.680015,
-        "EXNAME": "Irrigation rate experiment, Season 2 of 2",
-        "MAIN_FACTOR": "Irrigation rate (40%%, 60%%, 80%%, and 100%% of full irrigation)",
-        "FACTORS": "Four irrigation rates initiated at flowering (40%%, 60%%, 80%%, and 100%% of full irrigation)",
-        "TRT_NO": 4,
-        "REP_NO": 4,
-        "EXPER_TYPE": "ET001",
-        "SITE_NAME": "Maricopa Agricultural Center, Field 13, Bench 4",
-        "SITE_TYPE": "ST001",
-        "MGMT_TYPE": "MT001",
-        "EXP_YEAR": "2023",
-        "EXP_DUR": 1,
-        "CR_SYSTEM": "Strip-till cotton after winter barley cover crop",
-        "LAST_NAME": "Thorp",
-        "FIRST_NAME": "Kelly",
-        "MID_INITIAL": "R",
-        "PERSON_NOTES": "Field technicians: Matt Hagler and Suzette Maneely",
-        "EX_ADDRESS": "21881 N. Cardon Ln., Maricopa, Arizona 85138",
-        "EX_EMAIL": "kelly.thorp@usda.gov",
-        "INSTITUTION": "USDA Agricultural Research Service, Maricopa, Arizona",
-        "IN_TYPE": "IT004",
-        "IN_ROLE": "IL001",
-        "CMPLC": "",
-        "SUITE_NAME": "Irrigation rate experiment",
-        "FL_NAME": "Field 13, Bench 4, Span 7",
-        "FL_LAT": 33.079177,
-        "FL_LONG": -111.97845,
-        "FLELE": 361
-    },
-    "_id": "642327c58ac54747e7780767",
-    "eid": "642327c58ac54747e7780767"
+            "_id": "642327c58ac54747e7780767",
+            "eid": "642327c58ac54747e7780767"
+        }
+    ]
 }

@@ -1,145 +1,150 @@
 {
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.97370179,
-                    33.06803401
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.97370179,
+                            33.06803401
+                        ],
+                        [
+                            -111.97472473,
+                            33.06804071
+                        ],
+                        [
+                            -111.9747208,
+                            33.0690151
+                        ],
+                        [
+                            -111.97369786,
+                            33.0690084
+                        ],
+                        [
+                            -111.97370179,
+                            33.06803401
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "exp_label": "2007_F111_CO_ISM",
+                "trt_info": [
+                    {
+                        "trt_label": "FAO-S",
+                        "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with sparse plant density",
+                        "pids": [
+                            "64405c928ac547e48bc3926e",
+                            "64405c928ac547e48bc39272",
+                            "64405c928ac547e48bc3927f",
+                            "64405c928ac547e48bc3928d"
+                        ]
+                    },
+                    {
+                        "trt_label": "FAO-T",
+                        "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with typical plant density",
+                        "pids": [
+                            "64405c928ac547e48bc3926f",
+                            "64405c928ac547e48bc3927a",
+                            "64405c928ac547e48bc39281",
+                            "64405c928ac547e48bc3928b"
+                        ]
+                    },
+                    {
+                        "trt_label": "ND-S",
+                        "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with Kcb from NDVI and sparse plant density",
+                        "pids": [
+                            "64405c928ac547e48bc39270",
+                            "64405c928ac547e48bc3927c",
+                            "64405c928ac547e48bc39288",
+                            "64405c928ac547e48bc39289"
+                        ]
+                    },
+                    {
+                        "trt_label": "ND-T",
+                        "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with Kcb from NDVI and typical plant density",
+                        "pids": [
+                            "64405c928ac547e48bc39279",
+                            "64405c928ac547e48bc3927b",
+                            "64405c928ac547e48bc3927e",
+                            "64405c928ac547e48bc39283"
+                        ]
+                    },
+                    {
+                        "trt_label": "AZ-S",
+                        "description": "Irrigation scheduling via the AZSched software with sparse plant density",
+                        "pids": [
+                            "64405c928ac547e48bc39275",
+                            "64405c928ac547e48bc39277",
+                            "64405c928ac547e48bc39284",
+                            "64405c928ac547e48bc39287"
+                        ]
+                    },
+                    {
+                        "trt_label": "AZ-T",
+                        "description": "Irrigation scheduling via the AZSched software with typical plant density",
+                        "pids": [
+                            "64405c928ac547e48bc39271",
+                            "64405c928ac547e48bc39273",
+                            "64405c928ac547e48bc39286",
+                            "64405c928ac547e48bc3928c"
+                        ]
+                    },
+                    {
+                        "trt_label": "CM-S",
+                        "description": "Irrigation scheduling via the DSSAT CSM-CROPGRO-Cotton model with sparse plant density",
+                        "pids": [
+                            "64405c928ac547e48bc39274",
+                            "64405c928ac547e48bc39276",
+                            "64405c928ac547e48bc39280",
+                            "64405c928ac547e48bc39282"
+                        ]
+                    },
+                    {
+                        "trt_label": "CM-T",
+                        "description": "Irrigation scheduling via the DSSAT CSM-CROPGRO-Cotton model with typical plant density",
+                        "pids": [
+                            "64405c928ac547e48bc39278",
+                            "64405c928ac547e48bc3927d",
+                            "64405c928ac547e48bc39285",
+                            "64405c928ac547e48bc3928a"
+                        ]
+                    }
                 ],
-                [
-                    -111.97472473,
-                    33.06804071
-                ],
-                [
-                    -111.9747208,
-                    33.0690151
-                ],
-                [
-                    -111.97369786,
-                    33.0690084
-                ],
-                [
-                    -111.97370179,
-                    33.06803401
-                ]
-            ]
-        ]
-    },
-    "properties": {
-        "exp_label": "2007_F111_CO_ISM",
-        "trt_info": [
-            {
-                "trt_label": "FAO-S",
-                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with sparse plant density",
-                "pids": [
-                    "64405c928ac547e48bc3926e",
-                    "64405c928ac547e48bc39272",
-                    "64405c928ac547e48bc3927f",
-                    "64405c928ac547e48bc3928d"
-                ]
+                "EXP_AREA": 10316.786537,
+                "EXNAME": "Irrigation scheduling methods, Season 1 of 1",
+                "MAIN_FACTOR": "Irrigation scheduling method",
+                "FACTORS": "Four irrigation scheduling methods with typical and sparse planting density",
+                "TRT_NO": 8,
+                "REP_NO": 4,
+                "EXPER_TYPE": "ET001",
+                "SITE_NAME": "Maricopa Agricultural Center, Field 111",
+                "SITE_TYPE": "ST001",
+                "MGMT_TYPE": "MT001",
+                "EXP_YEAR": "2007",
+                "EXP_DUR": 1,
+                "CR_SYSTEM": "Cotton after camelina",
+                "LAST_NAME": "Hunsaker",
+                "FIRST_NAME": "Douglas",
+                "MID_INITIAL": "J",
+                "PERSON_NOTES": "Field technicians: Tom Clarke, Don Powers, Suzette Maneely, and Bill Luckett",
+                "EX_ADDRESS": "21881 N. Cardon Ln., Maricopa, Arizona 85138",
+                "EX_EMAIL": "doug.hunsaker@usda.gov",
+                "INSTITUTION": "USDA Agricultural Research Service, Maricopa, Arizona",
+                "IN_TYPE": "IT004",
+                "IN_ROLE": "IL001",
+                "CMPLC": "",
+                "SUITE_NAME": "Irrigation scheduling methods",
+                "FL_NAME": "Field 111",
+                "FL_LAT": 33.068602,
+                "FL_LONG": -111.974241,
+                "FLELE": 361
             },
-            {
-                "trt_label": "FAO-T",
-                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with typical plant density",
-                "pids": [
-                    "64405c928ac547e48bc3926f",
-                    "64405c928ac547e48bc3927a",
-                    "64405c928ac547e48bc39281",
-                    "64405c928ac547e48bc3928b"
-                ]
-            },
-            {
-                "trt_label": "ND-S",
-                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with Kcb from NDVI and sparse plant density",
-                "pids": [
-                    "64405c928ac547e48bc39270",
-                    "64405c928ac547e48bc3927c",
-                    "64405c928ac547e48bc39288",
-                    "64405c928ac547e48bc39289"
-                ]
-            },
-            {
-                "trt_label": "ND-T",
-                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with Kcb from NDVI and typical plant density",
-                "pids": [
-                    "64405c928ac547e48bc39279",
-                    "64405c928ac547e48bc3927b",
-                    "64405c928ac547e48bc3927e",
-                    "64405c928ac547e48bc39283"
-                ]
-            },
-            {
-                "trt_label": "AZ-S",
-                "description": "Irrigation scheduling via the AZSched software with sparse plant density",
-                "pids": [
-                    "64405c928ac547e48bc39275",
-                    "64405c928ac547e48bc39277",
-                    "64405c928ac547e48bc39284",
-                    "64405c928ac547e48bc39287"
-                ]
-            },
-            {
-                "trt_label": "AZ-T",
-                "description": "Irrigation scheduling via the AZSched software with typical plant density",
-                "pids": [
-                    "64405c928ac547e48bc39271",
-                    "64405c928ac547e48bc39273",
-                    "64405c928ac547e48bc39286",
-                    "64405c928ac547e48bc3928c"
-                ]
-            },
-            {
-                "trt_label": "CM-S",
-                "description": "Irrigation scheduling via the DSSAT CSM-CROPGRO-Cotton model with sparse plant density",
-                "pids": [
-                    "64405c928ac547e48bc39274",
-                    "64405c928ac547e48bc39276",
-                    "64405c928ac547e48bc39280",
-                    "64405c928ac547e48bc39282"
-                ]
-            },
-            {
-                "trt_label": "CM-T",
-                "description": "Irrigation scheduling via the DSSAT CSM-CROPGRO-Cotton model with typical plant density",
-                "pids": [
-                    "64405c928ac547e48bc39278",
-                    "64405c928ac547e48bc3927d",
-                    "64405c928ac547e48bc39285",
-                    "64405c928ac547e48bc3928a"
-                ]
-            }
-        ],
-        "EXP_AREA": 10316.786537,
-        "EXNAME": "Irrigation scheduling methods, Season 1 of 1",
-        "MAIN_FACTOR": "Irrigation scheduling method",
-        "FACTORS": "Four irrigation scheduling methods with typical and sparse planting density",
-        "TRT_NO": 8,
-        "REP_NO": 4,
-        "EXPER_TYPE": "ET001",
-        "SITE_NAME": "Maricopa Agricultural Center, Field 111",
-        "SITE_TYPE": "ST001",
-        "MGMT_TYPE": "MT001",
-        "EXP_YEAR": "2007",
-        "EXP_DUR": 1,
-        "CR_SYSTEM": "Cotton after camelina",
-        "LAST_NAME": "Hunsaker",
-        "FIRST_NAME": "Douglas",
-        "MID_INITIAL": "J",
-        "PERSON_NOTES": "Field technicians: Tom Clarke, Don Powers, Suzette Maneely, and Bill Luckett",
-        "EX_ADDRESS": "21881 N. Cardon Ln., Maricopa, Arizona 85138",
-        "EX_EMAIL": "doug.hunsaker@usda.gov",
-        "INSTITUTION": "USDA Agricultural Research Service, Maricopa, Arizona",
-        "IN_TYPE": "IT004",
-        "IN_ROLE": "IL001",
-        "CMPLC": "",
-        "SUITE_NAME": "Irrigation scheduling methods",
-        "FL_NAME": "Field 111",
-        "FL_LAT": 33.068602,
-        "FL_LONG": -111.974241,
-        "FLELE": 361
-    },
-    "_id": "64405ddd8ac547e55be3087e",
-    "eid": "64405ddd8ac547e55be3087e"
+            "_id": "64405ddd8ac547e55be3087e",
+            "eid": "64405ddd8ac547e55be3087e"
+        }
+    ]
 }

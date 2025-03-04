@@ -1,2017 +1,2037 @@
 {
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99001308,
-                    33.07348276
-                ],
-                [
-                    -111.99010015,
-                    33.07348207
-                ],
-                [
-                    -111.99011631,
-                    33.0749251
-                ],
-                [
-                    -111.99002924,
-                    33.07492579
-                ],
-                [
-                    -111.99001308,
-                    33.07348276
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99001308,
+                            33.07348276
+                        ],
+                        [
+                            -111.99010015,
+                            33.07348207
+                        ],
+                        [
+                            -111.99011631,
+                            33.0749251
+                        ],
+                        [
+                            -111.99002924,
+                            33.07492579
+                        ],
+                        [
+                            -111.99001308,
+                            33.07348276
+                        ]
+                    ]
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p01",
-        "trt_label": "MAC",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/20/2011",
-        "HARM": "Machine",
-        "HADAT": "10/11/2011",
-        "WBWAH": 4024.7,
-        "GNDAT": "01/22/2010",
-        "FFRAC": 0.3475,
-        "SFRAC": 0.5566,
-        "TFRAC": 0.0959,
-        "WFWAH": 1398.5,
-        "WSWAH": 2240.3,
-        "WSCWAH": 3638.9,
-        "zids": [
-            "652effaf8ac54740e3e3c8c3",
-            "652effaf8ac54740e3e3c8c4",
-            "652effaf8ac54740e3e3c8c5",
-            "652effaf8ac54740e3e3c8c6",
-            "652effaf8ac54740e3e3c8c7",
-            "652effaf8ac54740e3e3c8c8",
-            "652effaf8ac54740e3e3c8c9",
-            "652effaf8ac54740e3e3c8ca",
-            "652effaf8ac54740e3e3c8cb",
-            "652effaf8ac54740e3e3c8cc",
-            "652effaf8ac54740e3e3c8cd",
-            "652effaf8ac54740e3e3c8ce",
-            "652effaf8ac54740e3e3c8cf",
-            "652effaf8ac54740e3e3c8d0",
-            "652effaf8ac54740e3e3c8d1",
-            "652effaf8ac54740e3e3c8d2",
-            "652effaf8ac54740e3e3c8d3",
-            "652effaf8ac54740e3e3c8d4",
-            "652effaf8ac54740e3e3c8d5",
-            "652effaf8ac54740e3e3c8d6"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c6eb",
-            "643f29338ac547c4baf5c6ec",
-            "643f29338ac547c4baf5c6ed",
-            "643f29338ac547c4baf5c6ee",
-            "643f29338ac547c4baf5c6ef",
-            "643f29338ac547c4baf5c6f0",
-            "643f29338ac547c4baf5c6f1",
-            "643f29338ac547c4baf5c6f2",
-            "643f29338ac547c4baf5c6f3",
-            "643f29338ac547c4baf5c6f4",
-            "643f29338ac547c4baf5c6f5",
-            "643f29338ac547c4baf5c6f6",
-            "643f29338ac547c4baf5c6f7",
-            "643f29338ac547c4baf5c6f8",
-            "643f29338ac547c4baf5c6f9",
-            "643f29338ac547c4baf5c6fa",
-            "643f29338ac547c4baf5c6fb",
-            "643f29338ac547c4baf5c6fc",
-            "643f29338ac547c4baf5c6fd",
-            "643f29338ac547c4baf5c6fe",
-            "643f29338ac547c4baf5c6ff",
-            "643f29338ac547c4baf5c700",
-            "643f29338ac547c4baf5c701",
-            "643f29338ac547c4baf5c702",
-            "643f29338ac547c4baf5c703",
-            "643f29338ac547c4baf5c704",
-            "643f29338ac547c4baf5c705",
-            "643f29338ac547c4baf5c706",
-            "643f29338ac547c4baf5c707",
-            "643f29338ac547c4baf5c708",
-            "643f29338ac547c4baf5c709",
-            "643f29338ac547c4baf5c70a",
-            "643f29338ac547c4baf5c70b",
-            "643f29338ac547c4baf5c70c",
-            "643f29338ac547c4baf5c70d",
-            "643f29338ac547c4baf5c70e",
-            "643f29338ac547c4baf5c70f",
-            "643f29338ac547c4baf5c710",
-            "643f29338ac547c4baf5c711",
-            "643f29338ac547c4baf5c712"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a31a",
-            "643f2b2e8ac547c568f7a31b",
-            "643f2b2e8ac547c568f7a31c",
-            "643f2b2e8ac547c568f7a31d",
-            "643f2b2e8ac547c568f7a31e",
-            "643f2b2e8ac547c568f7a31f",
-            "643f2b2e8ac547c568f7a320"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759dbb",
-            "643f2d738ac547c638759dbc",
-            "643f2d738ac547c638759dbd"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e484fd",
-    "pid": "643f25fe8ac547c328e484fd"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99025252,
-                    33.07348086
+            },
+            "properties": {
+                "plt_label": "p01",
+                "trt_label": "MAC",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/20/2011",
+                "HARM": "Machine",
+                "HADAT": "10/11/2011",
+                "WBWAH": 4024.7,
+                "GNDAT": "01/22/2010",
+                "FFRAC": 0.3475,
+                "SFRAC": 0.5566,
+                "TFRAC": 0.0959,
+                "WFWAH": 1398.5,
+                "WSWAH": 2240.3,
+                "WSCWAH": 3638.9,
+                "zids": [
+                    "652effaf8ac54740e3e3c8c3",
+                    "652effaf8ac54740e3e3c8c4",
+                    "652effaf8ac54740e3e3c8c5",
+                    "652effaf8ac54740e3e3c8c6",
+                    "652effaf8ac54740e3e3c8c7",
+                    "652effaf8ac54740e3e3c8c8",
+                    "652effaf8ac54740e3e3c8c9",
+                    "652effaf8ac54740e3e3c8ca",
+                    "652effaf8ac54740e3e3c8cb",
+                    "652effaf8ac54740e3e3c8cc",
+                    "652effaf8ac54740e3e3c8cd",
+                    "652effaf8ac54740e3e3c8ce",
+                    "652effaf8ac54740e3e3c8cf",
+                    "652effaf8ac54740e3e3c8d0",
+                    "652effaf8ac54740e3e3c8d1",
+                    "652effaf8ac54740e3e3c8d2",
+                    "652effaf8ac54740e3e3c8d3",
+                    "652effaf8ac54740e3e3c8d4",
+                    "652effaf8ac54740e3e3c8d5",
+                    "652effaf8ac54740e3e3c8d6"
                 ],
-                [
-                    -111.99026868,
-                    33.07492389
+                "haids": [
+                    "643f29338ac547c4baf5c6eb",
+                    "643f29338ac547c4baf5c6ec",
+                    "643f29338ac547c4baf5c6ed",
+                    "643f29338ac547c4baf5c6ee",
+                    "643f29338ac547c4baf5c6ef",
+                    "643f29338ac547c4baf5c6f0",
+                    "643f29338ac547c4baf5c6f1",
+                    "643f29338ac547c4baf5c6f2",
+                    "643f29338ac547c4baf5c6f3",
+                    "643f29338ac547c4baf5c6f4",
+                    "643f29338ac547c4baf5c6f5",
+                    "643f29338ac547c4baf5c6f6",
+                    "643f29338ac547c4baf5c6f7",
+                    "643f29338ac547c4baf5c6f8",
+                    "643f29338ac547c4baf5c6f9",
+                    "643f29338ac547c4baf5c6fa",
+                    "643f29338ac547c4baf5c6fb",
+                    "643f29338ac547c4baf5c6fc",
+                    "643f29338ac547c4baf5c6fd",
+                    "643f29338ac547c4baf5c6fe",
+                    "643f29338ac547c4baf5c6ff",
+                    "643f29338ac547c4baf5c700",
+                    "643f29338ac547c4baf5c701",
+                    "643f29338ac547c4baf5c702",
+                    "643f29338ac547c4baf5c703",
+                    "643f29338ac547c4baf5c704",
+                    "643f29338ac547c4baf5c705",
+                    "643f29338ac547c4baf5c706",
+                    "643f29338ac547c4baf5c707",
+                    "643f29338ac547c4baf5c708",
+                    "643f29338ac547c4baf5c709",
+                    "643f29338ac547c4baf5c70a",
+                    "643f29338ac547c4baf5c70b",
+                    "643f29338ac547c4baf5c70c",
+                    "643f29338ac547c4baf5c70d",
+                    "643f29338ac547c4baf5c70e",
+                    "643f29338ac547c4baf5c70f",
+                    "643f29338ac547c4baf5c710",
+                    "643f29338ac547c4baf5c711",
+                    "643f29338ac547c4baf5c712"
                 ],
-                [
-                    -111.99018161,
-                    33.07492458
+                "tids": [
+                    "643f2b2e8ac547c568f7a31a",
+                    "643f2b2e8ac547c568f7a31b",
+                    "643f2b2e8ac547c568f7a31c",
+                    "643f2b2e8ac547c568f7a31d",
+                    "643f2b2e8ac547c568f7a31e",
+                    "643f2b2e8ac547c568f7a31f",
+                    "643f2b2e8ac547c568f7a320"
                 ],
-                [
-                    -111.99016545,
-                    33.07348155
-                ],
-                [
-                    -111.99025252,
-                    33.07348086
+                "ccids": [
+                    "643f2d738ac547c638759dbb",
+                    "643f2d738ac547c638759dbc",
+                    "643f2d738ac547c638759dbd"
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p02",
-        "trt_label": "VI_B",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/20/2011",
-        "HARM": "Machine",
-        "HADAT": "10/11/2011",
-        "WBWAH": 4717.8,
-        "GNDAT": "01/22/2010",
-        "FFRAC": 0.3313,
-        "SFRAC": 0.5759,
-        "TFRAC": 0.0929,
-        "WFWAH": 1562.9,
-        "WSWAH": 2716.8,
-        "WSCWAH": 4279.7,
-        "zids": [
-            "652effaf8ac54740e3e3c8d7",
-            "652effaf8ac54740e3e3c8d8",
-            "652effaf8ac54740e3e3c8d9",
-            "652effaf8ac54740e3e3c8da",
-            "652effaf8ac54740e3e3c8db",
-            "652effaf8ac54740e3e3c8dc",
-            "652effaf8ac54740e3e3c8dd",
-            "652effaf8ac54740e3e3c8de",
-            "652effaf8ac54740e3e3c8df",
-            "652effaf8ac54740e3e3c8e0",
-            "652effaf8ac54740e3e3c8e1",
-            "652effaf8ac54740e3e3c8e2",
-            "652effaf8ac54740e3e3c8e3",
-            "652effaf8ac54740e3e3c8e4",
-            "652effaf8ac54740e3e3c8e5",
-            "652effaf8ac54740e3e3c8e6",
-            "652effaf8ac54740e3e3c8e7",
-            "652effaf8ac54740e3e3c8e8",
-            "652effaf8ac54740e3e3c8e9",
-            "652effaf8ac54740e3e3c8ea"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c713",
-            "643f29338ac547c4baf5c714",
-            "643f29338ac547c4baf5c715",
-            "643f29338ac547c4baf5c716",
-            "643f29338ac547c4baf5c717",
-            "643f29338ac547c4baf5c718",
-            "643f29338ac547c4baf5c719",
-            "643f29338ac547c4baf5c71a",
-            "643f29338ac547c4baf5c71b",
-            "643f29338ac547c4baf5c71c",
-            "643f29338ac547c4baf5c71d",
-            "643f29338ac547c4baf5c71e",
-            "643f29338ac547c4baf5c71f",
-            "643f29338ac547c4baf5c720",
-            "643f29338ac547c4baf5c721",
-            "643f29338ac547c4baf5c722",
-            "643f29338ac547c4baf5c723",
-            "643f29338ac547c4baf5c724",
-            "643f29338ac547c4baf5c725",
-            "643f29338ac547c4baf5c726",
-            "643f29338ac547c4baf5c727",
-            "643f29338ac547c4baf5c728",
-            "643f29338ac547c4baf5c729",
-            "643f29338ac547c4baf5c72a",
-            "643f29338ac547c4baf5c72b",
-            "643f29338ac547c4baf5c72c",
-            "643f29338ac547c4baf5c72d",
-            "643f29338ac547c4baf5c72e",
-            "643f29338ac547c4baf5c72f",
-            "643f29338ac547c4baf5c730",
-            "643f29338ac547c4baf5c731",
-            "643f29338ac547c4baf5c732",
-            "643f29338ac547c4baf5c733",
-            "643f29338ac547c4baf5c734",
-            "643f29338ac547c4baf5c735",
-            "643f29338ac547c4baf5c736",
-            "643f29338ac547c4baf5c737",
-            "643f29338ac547c4baf5c738",
-            "643f29338ac547c4baf5c739",
-            "643f29338ac547c4baf5c73a"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a321",
-            "643f2b2e8ac547c568f7a322",
-            "643f2b2e8ac547c568f7a323",
-            "643f2b2e8ac547c568f7a324",
-            "643f2b2e8ac547c568f7a325",
-            "643f2b2e8ac547c568f7a326",
-            "643f2b2e8ac547c568f7a327"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759dbe",
-            "643f2d738ac547c638759dbf",
-            "643f2d738ac547c638759dc0"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e484fe",
-    "pid": "643f25fe8ac547c328e484fe"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99040488,
-                    33.07347965
-                ],
-                [
-                    -111.99042105,
-                    33.07492268
-                ],
-                [
-                    -111.99033398,
-                    33.07492337
-                ],
-                [
-                    -111.99031782,
-                    33.07348034
-                ],
-                [
-                    -111.99040488,
-                    33.07347965
+            },
+            "_id": "643f25fe8ac547c328e484fd",
+            "pid": "643f25fe8ac547c328e484fd"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99025252,
+                            33.07348086
+                        ],
+                        [
+                            -111.99026868,
+                            33.07492389
+                        ],
+                        [
+                            -111.99018161,
+                            33.07492458
+                        ],
+                        [
+                            -111.99016545,
+                            33.07348155
+                        ],
+                        [
+                            -111.99025252,
+                            33.07348086
+                        ]
+                    ]
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p03",
-        "trt_label": "FAO",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/20/2011",
-        "HARM": "Machine",
-        "HADAT": "10/11/2011",
-        "WBWAH": 4138.4,
-        "GNDAT": "01/22/2010",
-        "FFRAC": 0.3306,
-        "SFRAC": 0.5788,
-        "TFRAC": 0.0906,
-        "WFWAH": 1368.2,
-        "WSWAH": 2395.4,
-        "WSCWAH": 3763.6,
-        "zids": [
-            "652effaf8ac54740e3e3c8eb",
-            "652effaf8ac54740e3e3c8ec",
-            "652effaf8ac54740e3e3c8ed",
-            "652effaf8ac54740e3e3c8ee",
-            "652effaf8ac54740e3e3c8ef",
-            "652effaf8ac54740e3e3c8f0",
-            "652effaf8ac54740e3e3c8f1",
-            "652effaf8ac54740e3e3c8f2",
-            "652effaf8ac54740e3e3c8f3",
-            "652effaf8ac54740e3e3c8f4",
-            "652effaf8ac54740e3e3c8f5",
-            "652effaf8ac54740e3e3c8f6",
-            "652effaf8ac54740e3e3c8f7",
-            "652effaf8ac54740e3e3c8f8",
-            "652effaf8ac54740e3e3c8f9",
-            "652effaf8ac54740e3e3c8fa",
-            "652effaf8ac54740e3e3c8fb",
-            "652effaf8ac54740e3e3c8fc",
-            "652effaf8ac54740e3e3c8fd",
-            "652effaf8ac54740e3e3c8fe"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c73b",
-            "643f29338ac547c4baf5c73c",
-            "643f29338ac547c4baf5c73d",
-            "643f29338ac547c4baf5c73e",
-            "643f29338ac547c4baf5c73f",
-            "643f29338ac547c4baf5c740",
-            "643f29338ac547c4baf5c741",
-            "643f29338ac547c4baf5c742",
-            "643f29338ac547c4baf5c743",
-            "643f29338ac547c4baf5c744",
-            "643f29338ac547c4baf5c745",
-            "643f29338ac547c4baf5c746",
-            "643f29338ac547c4baf5c747",
-            "643f29338ac547c4baf5c748",
-            "643f29338ac547c4baf5c749",
-            "643f29338ac547c4baf5c74a",
-            "643f29338ac547c4baf5c74b",
-            "643f29338ac547c4baf5c74c",
-            "643f29338ac547c4baf5c74d",
-            "643f29338ac547c4baf5c74e",
-            "643f29338ac547c4baf5c74f",
-            "643f29338ac547c4baf5c750",
-            "643f29338ac547c4baf5c751",
-            "643f29338ac547c4baf5c752",
-            "643f29338ac547c4baf5c753",
-            "643f29338ac547c4baf5c754",
-            "643f29338ac547c4baf5c755",
-            "643f29338ac547c4baf5c756",
-            "643f29338ac547c4baf5c757",
-            "643f29338ac547c4baf5c758",
-            "643f29338ac547c4baf5c759",
-            "643f29338ac547c4baf5c75a",
-            "643f29338ac547c4baf5c75b",
-            "643f29338ac547c4baf5c75c",
-            "643f29338ac547c4baf5c75d",
-            "643f29338ac547c4baf5c75e",
-            "643f29338ac547c4baf5c75f",
-            "643f29338ac547c4baf5c760",
-            "643f29338ac547c4baf5c761",
-            "643f29338ac547c4baf5c762"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a328",
-            "643f2b2e8ac547c568f7a329",
-            "643f2b2e8ac547c568f7a32a",
-            "643f2b2e8ac547c568f7a32b",
-            "643f2b2e8ac547c568f7a32c",
-            "643f2b2e8ac547c568f7a32d",
-            "643f2b2e8ac547c568f7a32e"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759dc1",
-            "643f2d738ac547c638759dc2",
-            "643f2d738ac547c638759dc3"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e484ff",
-    "pid": "643f25fe8ac547c328e484ff"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99055725,
-                    33.07347844
+            },
+            "properties": {
+                "plt_label": "p02",
+                "trt_label": "VI_B",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/20/2011",
+                "HARM": "Machine",
+                "HADAT": "10/11/2011",
+                "WBWAH": 4717.8,
+                "GNDAT": "01/22/2010",
+                "FFRAC": 0.3313,
+                "SFRAC": 0.5759,
+                "TFRAC": 0.0929,
+                "WFWAH": 1562.9,
+                "WSWAH": 2716.8,
+                "WSCWAH": 4279.7,
+                "zids": [
+                    "652effaf8ac54740e3e3c8d7",
+                    "652effaf8ac54740e3e3c8d8",
+                    "652effaf8ac54740e3e3c8d9",
+                    "652effaf8ac54740e3e3c8da",
+                    "652effaf8ac54740e3e3c8db",
+                    "652effaf8ac54740e3e3c8dc",
+                    "652effaf8ac54740e3e3c8dd",
+                    "652effaf8ac54740e3e3c8de",
+                    "652effaf8ac54740e3e3c8df",
+                    "652effaf8ac54740e3e3c8e0",
+                    "652effaf8ac54740e3e3c8e1",
+                    "652effaf8ac54740e3e3c8e2",
+                    "652effaf8ac54740e3e3c8e3",
+                    "652effaf8ac54740e3e3c8e4",
+                    "652effaf8ac54740e3e3c8e5",
+                    "652effaf8ac54740e3e3c8e6",
+                    "652effaf8ac54740e3e3c8e7",
+                    "652effaf8ac54740e3e3c8e8",
+                    "652effaf8ac54740e3e3c8e9",
+                    "652effaf8ac54740e3e3c8ea"
                 ],
-                [
-                    -111.99057343,
-                    33.07492147
+                "haids": [
+                    "643f29338ac547c4baf5c713",
+                    "643f29338ac547c4baf5c714",
+                    "643f29338ac547c4baf5c715",
+                    "643f29338ac547c4baf5c716",
+                    "643f29338ac547c4baf5c717",
+                    "643f29338ac547c4baf5c718",
+                    "643f29338ac547c4baf5c719",
+                    "643f29338ac547c4baf5c71a",
+                    "643f29338ac547c4baf5c71b",
+                    "643f29338ac547c4baf5c71c",
+                    "643f29338ac547c4baf5c71d",
+                    "643f29338ac547c4baf5c71e",
+                    "643f29338ac547c4baf5c71f",
+                    "643f29338ac547c4baf5c720",
+                    "643f29338ac547c4baf5c721",
+                    "643f29338ac547c4baf5c722",
+                    "643f29338ac547c4baf5c723",
+                    "643f29338ac547c4baf5c724",
+                    "643f29338ac547c4baf5c725",
+                    "643f29338ac547c4baf5c726",
+                    "643f29338ac547c4baf5c727",
+                    "643f29338ac547c4baf5c728",
+                    "643f29338ac547c4baf5c729",
+                    "643f29338ac547c4baf5c72a",
+                    "643f29338ac547c4baf5c72b",
+                    "643f29338ac547c4baf5c72c",
+                    "643f29338ac547c4baf5c72d",
+                    "643f29338ac547c4baf5c72e",
+                    "643f29338ac547c4baf5c72f",
+                    "643f29338ac547c4baf5c730",
+                    "643f29338ac547c4baf5c731",
+                    "643f29338ac547c4baf5c732",
+                    "643f29338ac547c4baf5c733",
+                    "643f29338ac547c4baf5c734",
+                    "643f29338ac547c4baf5c735",
+                    "643f29338ac547c4baf5c736",
+                    "643f29338ac547c4baf5c737",
+                    "643f29338ac547c4baf5c738",
+                    "643f29338ac547c4baf5c739",
+                    "643f29338ac547c4baf5c73a"
                 ],
-                [
-                    -111.99048636,
-                    33.07492216
+                "tids": [
+                    "643f2b2e8ac547c568f7a321",
+                    "643f2b2e8ac547c568f7a322",
+                    "643f2b2e8ac547c568f7a323",
+                    "643f2b2e8ac547c568f7a324",
+                    "643f2b2e8ac547c568f7a325",
+                    "643f2b2e8ac547c568f7a326",
+                    "643f2b2e8ac547c568f7a327"
                 ],
-                [
-                    -111.99047019,
-                    33.07347913
-                ],
-                [
-                    -111.99055725,
-                    33.07347844
+                "ccids": [
+                    "643f2d738ac547c638759dbe",
+                    "643f2d738ac547c638759dbf",
+                    "643f2d738ac547c638759dc0"
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p04",
-        "trt_label": "VI_A",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/20/2011",
-        "HARM": "Machine",
-        "HADAT": "10/11/2011",
-        "WBWAH": 5141.1,
-        "GNDAT": "01/27/2010",
-        "FFRAC": 0.3287,
-        "SFRAC": 0.5741,
-        "TFRAC": 0.0972,
-        "WFWAH": 1689.8,
-        "WSWAH": 2951.7,
-        "WSCWAH": 4641.5,
-        "zids": [
-            "652effaf8ac54740e3e3c8ff",
-            "652effaf8ac54740e3e3c900",
-            "652effaf8ac54740e3e3c901",
-            "652effaf8ac54740e3e3c902",
-            "652effaf8ac54740e3e3c903",
-            "652effaf8ac54740e3e3c904",
-            "652effaf8ac54740e3e3c905",
-            "652effaf8ac54740e3e3c906",
-            "652effaf8ac54740e3e3c907",
-            "652effaf8ac54740e3e3c908",
-            "652effaf8ac54740e3e3c909",
-            "652effaf8ac54740e3e3c90a",
-            "652effaf8ac54740e3e3c90b",
-            "652effaf8ac54740e3e3c90c",
-            "652effaf8ac54740e3e3c90d",
-            "652effaf8ac54740e3e3c90e",
-            "652effaf8ac54740e3e3c90f",
-            "652effaf8ac54740e3e3c910",
-            "652effaf8ac54740e3e3c911",
-            "652effaf8ac54740e3e3c912"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c763",
-            "643f29338ac547c4baf5c764",
-            "643f29338ac547c4baf5c765",
-            "643f29338ac547c4baf5c766",
-            "643f29338ac547c4baf5c767",
-            "643f29338ac547c4baf5c768",
-            "643f29338ac547c4baf5c769",
-            "643f29338ac547c4baf5c76a",
-            "643f29338ac547c4baf5c76b",
-            "643f29338ac547c4baf5c76c",
-            "643f29338ac547c4baf5c76d",
-            "643f29338ac547c4baf5c76e",
-            "643f29338ac547c4baf5c76f",
-            "643f29338ac547c4baf5c770",
-            "643f29338ac547c4baf5c771",
-            "643f29338ac547c4baf5c772",
-            "643f29338ac547c4baf5c773",
-            "643f29338ac547c4baf5c774",
-            "643f29338ac547c4baf5c775",
-            "643f29338ac547c4baf5c776",
-            "643f29338ac547c4baf5c777",
-            "643f29338ac547c4baf5c778",
-            "643f29338ac547c4baf5c779",
-            "643f29338ac547c4baf5c77a",
-            "643f29338ac547c4baf5c77b",
-            "643f29338ac547c4baf5c77c",
-            "643f29338ac547c4baf5c77d",
-            "643f29338ac547c4baf5c77e",
-            "643f29338ac547c4baf5c77f",
-            "643f29338ac547c4baf5c780",
-            "643f29338ac547c4baf5c781",
-            "643f29338ac547c4baf5c782",
-            "643f29338ac547c4baf5c783",
-            "643f29338ac547c4baf5c784",
-            "643f29338ac547c4baf5c785",
-            "643f29338ac547c4baf5c786",
-            "643f29338ac547c4baf5c787",
-            "643f29338ac547c4baf5c788",
-            "643f29338ac547c4baf5c789",
-            "643f29338ac547c4baf5c78a"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a32f",
-            "643f2b2e8ac547c568f7a330",
-            "643f2b2e8ac547c568f7a331",
-            "643f2b2e8ac547c568f7a332",
-            "643f2b2e8ac547c568f7a333",
-            "643f2b2e8ac547c568f7a334",
-            "643f2b2e8ac547c568f7a335"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759dc4",
-            "643f2d738ac547c638759dc5",
-            "643f2d738ac547c638759dc6"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e48500",
-    "pid": "643f25fe8ac547c328e48500"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99070962,
-                    33.07347723
-                ],
-                [
-                    -111.9907258,
-                    33.07492026
-                ],
-                [
-                    -111.99063873,
-                    33.07492095
-                ],
-                [
-                    -111.99062255,
-                    33.07347792
-                ],
-                [
-                    -111.99070962,
-                    33.07347723
+            },
+            "_id": "643f25fe8ac547c328e484fe",
+            "pid": "643f25fe8ac547c328e484fe"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99040488,
+                            33.07347965
+                        ],
+                        [
+                            -111.99042105,
+                            33.07492268
+                        ],
+                        [
+                            -111.99033398,
+                            33.07492337
+                        ],
+                        [
+                            -111.99031782,
+                            33.07348034
+                        ],
+                        [
+                            -111.99040488,
+                            33.07347965
+                        ]
+                    ]
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p05",
-        "trt_label": "MAC",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/20/2011",
-        "HARM": "Machine",
-        "HADAT": "10/11/2011",
-        "WBWAH": 5137.7,
-        "GNDAT": "01/27/2010",
-        "FFRAC": 0.3322,
-        "SFRAC": 0.5637,
-        "TFRAC": 0.1041,
-        "WFWAH": 1706.5,
-        "WSWAH": 2896.2,
-        "WSCWAH": 4602.6,
-        "zids": [
-            "652effaf8ac54740e3e3c913",
-            "652effaf8ac54740e3e3c914",
-            "652effaf8ac54740e3e3c915",
-            "652effaf8ac54740e3e3c916",
-            "652effaf8ac54740e3e3c917",
-            "652effaf8ac54740e3e3c918",
-            "652effaf8ac54740e3e3c919",
-            "652effaf8ac54740e3e3c91a",
-            "652effaf8ac54740e3e3c91b",
-            "652effaf8ac54740e3e3c91c",
-            "652effaf8ac54740e3e3c91d",
-            "652effaf8ac54740e3e3c91e",
-            "652effaf8ac54740e3e3c91f",
-            "652effaf8ac54740e3e3c920",
-            "652effaf8ac54740e3e3c921",
-            "652effaf8ac54740e3e3c922",
-            "652effaf8ac54740e3e3c923",
-            "652effaf8ac54740e3e3c924",
-            "652effaf8ac54740e3e3c925",
-            "652effaf8ac54740e3e3c926"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c78b",
-            "643f29338ac547c4baf5c78c",
-            "643f29338ac547c4baf5c78d",
-            "643f29338ac547c4baf5c78e",
-            "643f29338ac547c4baf5c78f",
-            "643f29338ac547c4baf5c790",
-            "643f29338ac547c4baf5c791",
-            "643f29338ac547c4baf5c792",
-            "643f29338ac547c4baf5c793",
-            "643f29338ac547c4baf5c794",
-            "643f29338ac547c4baf5c795",
-            "643f29338ac547c4baf5c796",
-            "643f29338ac547c4baf5c797",
-            "643f29338ac547c4baf5c798",
-            "643f29338ac547c4baf5c799",
-            "643f29338ac547c4baf5c79a",
-            "643f29338ac547c4baf5c79b",
-            "643f29338ac547c4baf5c79c",
-            "643f29338ac547c4baf5c79d",
-            "643f29338ac547c4baf5c79e",
-            "643f29338ac547c4baf5c79f",
-            "643f29338ac547c4baf5c7a0",
-            "643f29338ac547c4baf5c7a1",
-            "643f29338ac547c4baf5c7a2",
-            "643f29338ac547c4baf5c7a3",
-            "643f29338ac547c4baf5c7a4",
-            "643f29338ac547c4baf5c7a5",
-            "643f29338ac547c4baf5c7a6",
-            "643f29338ac547c4baf5c7a7",
-            "643f29338ac547c4baf5c7a8",
-            "643f29338ac547c4baf5c7a9",
-            "643f29338ac547c4baf5c7aa",
-            "643f29338ac547c4baf5c7ab",
-            "643f29338ac547c4baf5c7ac",
-            "643f29338ac547c4baf5c7ad",
-            "643f29338ac547c4baf5c7ae",
-            "643f29338ac547c4baf5c7af",
-            "643f29338ac547c4baf5c7b0",
-            "643f29338ac547c4baf5c7b1",
-            "643f29338ac547c4baf5c7b2"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a336",
-            "643f2b2e8ac547c568f7a337",
-            "643f2b2e8ac547c568f7a338",
-            "643f2b2e8ac547c568f7a339",
-            "643f2b2e8ac547c568f7a33a",
-            "643f2b2e8ac547c568f7a33b",
-            "643f2b2e8ac547c568f7a33c"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759dc7",
-            "643f2d738ac547c638759dc8",
-            "643f2d738ac547c638759dc9"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e48501",
-    "pid": "643f25fe8ac547c328e48501"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99086199,
-                    33.07347602
+            },
+            "properties": {
+                "plt_label": "p03",
+                "trt_label": "FAO",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/20/2011",
+                "HARM": "Machine",
+                "HADAT": "10/11/2011",
+                "WBWAH": 4138.4,
+                "GNDAT": "01/22/2010",
+                "FFRAC": 0.3306,
+                "SFRAC": 0.5788,
+                "TFRAC": 0.0906,
+                "WFWAH": 1368.2,
+                "WSWAH": 2395.4,
+                "WSCWAH": 3763.6,
+                "zids": [
+                    "652effaf8ac54740e3e3c8eb",
+                    "652effaf8ac54740e3e3c8ec",
+                    "652effaf8ac54740e3e3c8ed",
+                    "652effaf8ac54740e3e3c8ee",
+                    "652effaf8ac54740e3e3c8ef",
+                    "652effaf8ac54740e3e3c8f0",
+                    "652effaf8ac54740e3e3c8f1",
+                    "652effaf8ac54740e3e3c8f2",
+                    "652effaf8ac54740e3e3c8f3",
+                    "652effaf8ac54740e3e3c8f4",
+                    "652effaf8ac54740e3e3c8f5",
+                    "652effaf8ac54740e3e3c8f6",
+                    "652effaf8ac54740e3e3c8f7",
+                    "652effaf8ac54740e3e3c8f8",
+                    "652effaf8ac54740e3e3c8f9",
+                    "652effaf8ac54740e3e3c8fa",
+                    "652effaf8ac54740e3e3c8fb",
+                    "652effaf8ac54740e3e3c8fc",
+                    "652effaf8ac54740e3e3c8fd",
+                    "652effaf8ac54740e3e3c8fe"
                 ],
-                [
-                    -111.99087817,
-                    33.07491905
+                "haids": [
+                    "643f29338ac547c4baf5c73b",
+                    "643f29338ac547c4baf5c73c",
+                    "643f29338ac547c4baf5c73d",
+                    "643f29338ac547c4baf5c73e",
+                    "643f29338ac547c4baf5c73f",
+                    "643f29338ac547c4baf5c740",
+                    "643f29338ac547c4baf5c741",
+                    "643f29338ac547c4baf5c742",
+                    "643f29338ac547c4baf5c743",
+                    "643f29338ac547c4baf5c744",
+                    "643f29338ac547c4baf5c745",
+                    "643f29338ac547c4baf5c746",
+                    "643f29338ac547c4baf5c747",
+                    "643f29338ac547c4baf5c748",
+                    "643f29338ac547c4baf5c749",
+                    "643f29338ac547c4baf5c74a",
+                    "643f29338ac547c4baf5c74b",
+                    "643f29338ac547c4baf5c74c",
+                    "643f29338ac547c4baf5c74d",
+                    "643f29338ac547c4baf5c74e",
+                    "643f29338ac547c4baf5c74f",
+                    "643f29338ac547c4baf5c750",
+                    "643f29338ac547c4baf5c751",
+                    "643f29338ac547c4baf5c752",
+                    "643f29338ac547c4baf5c753",
+                    "643f29338ac547c4baf5c754",
+                    "643f29338ac547c4baf5c755",
+                    "643f29338ac547c4baf5c756",
+                    "643f29338ac547c4baf5c757",
+                    "643f29338ac547c4baf5c758",
+                    "643f29338ac547c4baf5c759",
+                    "643f29338ac547c4baf5c75a",
+                    "643f29338ac547c4baf5c75b",
+                    "643f29338ac547c4baf5c75c",
+                    "643f29338ac547c4baf5c75d",
+                    "643f29338ac547c4baf5c75e",
+                    "643f29338ac547c4baf5c75f",
+                    "643f29338ac547c4baf5c760",
+                    "643f29338ac547c4baf5c761",
+                    "643f29338ac547c4baf5c762"
                 ],
-                [
-                    -111.9907911,
-                    33.07491974
+                "tids": [
+                    "643f2b2e8ac547c568f7a328",
+                    "643f2b2e8ac547c568f7a329",
+                    "643f2b2e8ac547c568f7a32a",
+                    "643f2b2e8ac547c568f7a32b",
+                    "643f2b2e8ac547c568f7a32c",
+                    "643f2b2e8ac547c568f7a32d",
+                    "643f2b2e8ac547c568f7a32e"
                 ],
-                [
-                    -111.99077492,
-                    33.07347671
-                ],
-                [
-                    -111.99086199,
-                    33.07347602
+                "ccids": [
+                    "643f2d738ac547c638759dc1",
+                    "643f2d738ac547c638759dc2",
+                    "643f2d738ac547c638759dc3"
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p06",
-        "trt_label": "FAO",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/20/2011",
-        "HARM": "Machine",
-        "HADAT": "10/12/2011",
-        "WBWAH": 4817.3,
-        "GNDAT": "01/27/2010",
-        "FFRAC": 0.3315,
-        "SFRAC": 0.5673,
-        "TFRAC": 0.1012,
-        "WFWAH": 1597.1,
-        "WSWAH": 2732.9,
-        "WSCWAH": 4330.0,
-        "zids": [
-            "652effaf8ac54740e3e3c927",
-            "652effaf8ac54740e3e3c928",
-            "652effaf8ac54740e3e3c929",
-            "652effaf8ac54740e3e3c92a",
-            "652effaf8ac54740e3e3c92b",
-            "652effaf8ac54740e3e3c92c",
-            "652effaf8ac54740e3e3c92d",
-            "652effaf8ac54740e3e3c92e",
-            "652effaf8ac54740e3e3c92f",
-            "652effaf8ac54740e3e3c930",
-            "652effaf8ac54740e3e3c931",
-            "652effaf8ac54740e3e3c932",
-            "652effaf8ac54740e3e3c933",
-            "652effaf8ac54740e3e3c934",
-            "652effaf8ac54740e3e3c935",
-            "652effaf8ac54740e3e3c936",
-            "652effaf8ac54740e3e3c937",
-            "652effaf8ac54740e3e3c938",
-            "652effaf8ac54740e3e3c939",
-            "652effaf8ac54740e3e3c93a"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c7b3",
-            "643f29338ac547c4baf5c7b4",
-            "643f29338ac547c4baf5c7b5",
-            "643f29338ac547c4baf5c7b6",
-            "643f29338ac547c4baf5c7b7",
-            "643f29338ac547c4baf5c7b8",
-            "643f29338ac547c4baf5c7b9",
-            "643f29338ac547c4baf5c7ba",
-            "643f29338ac547c4baf5c7bb",
-            "643f29338ac547c4baf5c7bc",
-            "643f29338ac547c4baf5c7bd",
-            "643f29338ac547c4baf5c7be",
-            "643f29338ac547c4baf5c7bf",
-            "643f29338ac547c4baf5c7c0",
-            "643f29338ac547c4baf5c7c1",
-            "643f29338ac547c4baf5c7c2",
-            "643f29338ac547c4baf5c7c3",
-            "643f29338ac547c4baf5c7c4",
-            "643f29338ac547c4baf5c7c5",
-            "643f29338ac547c4baf5c7c6",
-            "643f29338ac547c4baf5c7c7",
-            "643f29338ac547c4baf5c7c8",
-            "643f29338ac547c4baf5c7c9",
-            "643f29338ac547c4baf5c7ca",
-            "643f29338ac547c4baf5c7cb",
-            "643f29338ac547c4baf5c7cc",
-            "643f29338ac547c4baf5c7cd",
-            "643f29338ac547c4baf5c7ce",
-            "643f29338ac547c4baf5c7cf",
-            "643f29338ac547c4baf5c7d0",
-            "643f29338ac547c4baf5c7d1",
-            "643f29338ac547c4baf5c7d2",
-            "643f29338ac547c4baf5c7d3",
-            "643f29338ac547c4baf5c7d4",
-            "643f29338ac547c4baf5c7d5",
-            "643f29338ac547c4baf5c7d6",
-            "643f29338ac547c4baf5c7d7",
-            "643f29338ac547c4baf5c7d8",
-            "643f29338ac547c4baf5c7d9",
-            "643f29338ac547c4baf5c7da"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a33d",
-            "643f2b2e8ac547c568f7a33e",
-            "643f2b2e8ac547c568f7a33f",
-            "643f2b2e8ac547c568f7a340",
-            "643f2b2e8ac547c568f7a341",
-            "643f2b2e8ac547c568f7a342",
-            "643f2b2e8ac547c568f7a343"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759dca",
-            "643f2d738ac547c638759dcb",
-            "643f2d738ac547c638759dcc"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e48502",
-    "pid": "643f25fe8ac547c328e48502"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99101436,
-                    33.07347481
-                ],
-                [
-                    -111.99103054,
-                    33.07491784
-                ],
-                [
-                    -111.99094347,
-                    33.07491853
-                ],
-                [
-                    -111.99092729,
-                    33.0734755
-                ],
-                [
-                    -111.99101436,
-                    33.07347481
+            },
+            "_id": "643f25fe8ac547c328e484ff",
+            "pid": "643f25fe8ac547c328e484ff"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99055725,
+                            33.07347844
+                        ],
+                        [
+                            -111.99057343,
+                            33.07492147
+                        ],
+                        [
+                            -111.99048636,
+                            33.07492216
+                        ],
+                        [
+                            -111.99047019,
+                            33.07347913
+                        ],
+                        [
+                            -111.99055725,
+                            33.07347844
+                        ]
+                    ]
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p07",
-        "trt_label": "VI_A",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/20/2011",
-        "HARM": "Machine",
-        "HADAT": "10/12/2011",
-        "WBWAH": 5106.1,
-        "GNDAT": "01/26/2010",
-        "FFRAC": 0.3273,
-        "SFRAC": 0.5706,
-        "TFRAC": 0.102,
-        "WFWAH": 1671.4,
-        "WSWAH": 2913.6,
-        "WSCWAH": 4585.0,
-        "zids": [
-            "652effaf8ac54740e3e3c93b",
-            "652effaf8ac54740e3e3c93c",
-            "652effaf8ac54740e3e3c93d",
-            "652effaf8ac54740e3e3c93e",
-            "652effaf8ac54740e3e3c93f",
-            "652effaf8ac54740e3e3c940",
-            "652effaf8ac54740e3e3c941",
-            "652effaf8ac54740e3e3c942",
-            "652effaf8ac54740e3e3c943",
-            "652effaf8ac54740e3e3c944",
-            "652effaf8ac54740e3e3c945",
-            "652effaf8ac54740e3e3c946",
-            "652effaf8ac54740e3e3c947",
-            "652effaf8ac54740e3e3c948",
-            "652effaf8ac54740e3e3c949",
-            "652effaf8ac54740e3e3c94a",
-            "652effaf8ac54740e3e3c94b",
-            "652effaf8ac54740e3e3c94c",
-            "652effaf8ac54740e3e3c94d",
-            "652effaf8ac54740e3e3c94e"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c7db",
-            "643f29338ac547c4baf5c7dc",
-            "643f29338ac547c4baf5c7dd",
-            "643f29338ac547c4baf5c7de",
-            "643f29338ac547c4baf5c7df",
-            "643f29338ac547c4baf5c7e0",
-            "643f29338ac547c4baf5c7e1",
-            "643f29338ac547c4baf5c7e2",
-            "643f29338ac547c4baf5c7e3",
-            "643f29338ac547c4baf5c7e4",
-            "643f29338ac547c4baf5c7e5",
-            "643f29338ac547c4baf5c7e6",
-            "643f29338ac547c4baf5c7e7",
-            "643f29338ac547c4baf5c7e8",
-            "643f29338ac547c4baf5c7e9",
-            "643f29338ac547c4baf5c7ea",
-            "643f29338ac547c4baf5c7eb",
-            "643f29338ac547c4baf5c7ec",
-            "643f29338ac547c4baf5c7ed",
-            "643f29338ac547c4baf5c7ee",
-            "643f29338ac547c4baf5c7ef",
-            "643f29338ac547c4baf5c7f0",
-            "643f29338ac547c4baf5c7f1",
-            "643f29338ac547c4baf5c7f2",
-            "643f29338ac547c4baf5c7f3",
-            "643f29338ac547c4baf5c7f4",
-            "643f29338ac547c4baf5c7f5",
-            "643f29338ac547c4baf5c7f6",
-            "643f29338ac547c4baf5c7f7",
-            "643f29338ac547c4baf5c7f8",
-            "643f29338ac547c4baf5c7f9",
-            "643f29338ac547c4baf5c7fa",
-            "643f29338ac547c4baf5c7fb",
-            "643f29338ac547c4baf5c7fc",
-            "643f29338ac547c4baf5c7fd",
-            "643f29338ac547c4baf5c7fe",
-            "643f29338ac547c4baf5c7ff",
-            "643f29338ac547c4baf5c800",
-            "643f29338ac547c4baf5c801",
-            "643f29338ac547c4baf5c802"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a344",
-            "643f2b2e8ac547c568f7a345",
-            "643f2b2e8ac547c568f7a346",
-            "643f2b2e8ac547c568f7a347",
-            "643f2b2e8ac547c568f7a348",
-            "643f2b2e8ac547c568f7a349",
-            "643f2b2e8ac547c568f7a34a"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759dcd",
-            "643f2d738ac547c638759dce",
-            "643f2d738ac547c638759dcf"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e48503",
-    "pid": "643f25fe8ac547c328e48503"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99116673,
-                    33.0734736
+            },
+            "properties": {
+                "plt_label": "p04",
+                "trt_label": "VI_A",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/20/2011",
+                "HARM": "Machine",
+                "HADAT": "10/11/2011",
+                "WBWAH": 5141.1,
+                "GNDAT": "01/27/2010",
+                "FFRAC": 0.3287,
+                "SFRAC": 0.5741,
+                "TFRAC": 0.0972,
+                "WFWAH": 1689.8,
+                "WSWAH": 2951.7,
+                "WSCWAH": 4641.5,
+                "zids": [
+                    "652effaf8ac54740e3e3c8ff",
+                    "652effaf8ac54740e3e3c900",
+                    "652effaf8ac54740e3e3c901",
+                    "652effaf8ac54740e3e3c902",
+                    "652effaf8ac54740e3e3c903",
+                    "652effaf8ac54740e3e3c904",
+                    "652effaf8ac54740e3e3c905",
+                    "652effaf8ac54740e3e3c906",
+                    "652effaf8ac54740e3e3c907",
+                    "652effaf8ac54740e3e3c908",
+                    "652effaf8ac54740e3e3c909",
+                    "652effaf8ac54740e3e3c90a",
+                    "652effaf8ac54740e3e3c90b",
+                    "652effaf8ac54740e3e3c90c",
+                    "652effaf8ac54740e3e3c90d",
+                    "652effaf8ac54740e3e3c90e",
+                    "652effaf8ac54740e3e3c90f",
+                    "652effaf8ac54740e3e3c910",
+                    "652effaf8ac54740e3e3c911",
+                    "652effaf8ac54740e3e3c912"
                 ],
-                [
-                    -111.99118291,
-                    33.07491662
+                "haids": [
+                    "643f29338ac547c4baf5c763",
+                    "643f29338ac547c4baf5c764",
+                    "643f29338ac547c4baf5c765",
+                    "643f29338ac547c4baf5c766",
+                    "643f29338ac547c4baf5c767",
+                    "643f29338ac547c4baf5c768",
+                    "643f29338ac547c4baf5c769",
+                    "643f29338ac547c4baf5c76a",
+                    "643f29338ac547c4baf5c76b",
+                    "643f29338ac547c4baf5c76c",
+                    "643f29338ac547c4baf5c76d",
+                    "643f29338ac547c4baf5c76e",
+                    "643f29338ac547c4baf5c76f",
+                    "643f29338ac547c4baf5c770",
+                    "643f29338ac547c4baf5c771",
+                    "643f29338ac547c4baf5c772",
+                    "643f29338ac547c4baf5c773",
+                    "643f29338ac547c4baf5c774",
+                    "643f29338ac547c4baf5c775",
+                    "643f29338ac547c4baf5c776",
+                    "643f29338ac547c4baf5c777",
+                    "643f29338ac547c4baf5c778",
+                    "643f29338ac547c4baf5c779",
+                    "643f29338ac547c4baf5c77a",
+                    "643f29338ac547c4baf5c77b",
+                    "643f29338ac547c4baf5c77c",
+                    "643f29338ac547c4baf5c77d",
+                    "643f29338ac547c4baf5c77e",
+                    "643f29338ac547c4baf5c77f",
+                    "643f29338ac547c4baf5c780",
+                    "643f29338ac547c4baf5c781",
+                    "643f29338ac547c4baf5c782",
+                    "643f29338ac547c4baf5c783",
+                    "643f29338ac547c4baf5c784",
+                    "643f29338ac547c4baf5c785",
+                    "643f29338ac547c4baf5c786",
+                    "643f29338ac547c4baf5c787",
+                    "643f29338ac547c4baf5c788",
+                    "643f29338ac547c4baf5c789",
+                    "643f29338ac547c4baf5c78a"
                 ],
-                [
-                    -111.99109584,
-                    33.07491732
+                "tids": [
+                    "643f2b2e8ac547c568f7a32f",
+                    "643f2b2e8ac547c568f7a330",
+                    "643f2b2e8ac547c568f7a331",
+                    "643f2b2e8ac547c568f7a332",
+                    "643f2b2e8ac547c568f7a333",
+                    "643f2b2e8ac547c568f7a334",
+                    "643f2b2e8ac547c568f7a335"
                 ],
-                [
-                    -111.99107966,
-                    33.07347429
-                ],
-                [
-                    -111.99116673,
-                    33.0734736
+                "ccids": [
+                    "643f2d738ac547c638759dc4",
+                    "643f2d738ac547c638759dc5",
+                    "643f2d738ac547c638759dc6"
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p08",
-        "trt_label": "VI_B",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/20/2011",
-        "HARM": "Machine",
-        "HADAT": "10/12/2011",
-        "WBWAH": 5165.4,
-        "GNDAT": "01/26/2010",
-        "FFRAC": 0.3398,
-        "SFRAC": 0.5623,
-        "TFRAC": 0.0978,
-        "WFWAH": 1755.4,
-        "WSWAH": 2904.8,
-        "WSCWAH": 4660.1,
-        "zids": [
-            "652effaf8ac54740e3e3c94f",
-            "652effaf8ac54740e3e3c950",
-            "652effaf8ac54740e3e3c951",
-            "652effaf8ac54740e3e3c952",
-            "652effaf8ac54740e3e3c953",
-            "652effaf8ac54740e3e3c954",
-            "652effaf8ac54740e3e3c955",
-            "652effaf8ac54740e3e3c956",
-            "652effaf8ac54740e3e3c957",
-            "652effaf8ac54740e3e3c958",
-            "652effaf8ac54740e3e3c959",
-            "652effaf8ac54740e3e3c95a",
-            "652effaf8ac54740e3e3c95b",
-            "652effaf8ac54740e3e3c95c",
-            "652effaf8ac54740e3e3c95d",
-            "652effaf8ac54740e3e3c95e",
-            "652effaf8ac54740e3e3c95f",
-            "652effaf8ac54740e3e3c960",
-            "652effaf8ac54740e3e3c961",
-            "652effaf8ac54740e3e3c962"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c803",
-            "643f29338ac547c4baf5c804",
-            "643f29338ac547c4baf5c805",
-            "643f29338ac547c4baf5c806",
-            "643f29338ac547c4baf5c807",
-            "643f29338ac547c4baf5c808",
-            "643f29338ac547c4baf5c809",
-            "643f29338ac547c4baf5c80a",
-            "643f29338ac547c4baf5c80b",
-            "643f29338ac547c4baf5c80c",
-            "643f29338ac547c4baf5c80d",
-            "643f29338ac547c4baf5c80e",
-            "643f29338ac547c4baf5c80f",
-            "643f29338ac547c4baf5c810",
-            "643f29338ac547c4baf5c811",
-            "643f29338ac547c4baf5c812",
-            "643f29338ac547c4baf5c813",
-            "643f29338ac547c4baf5c814",
-            "643f29338ac547c4baf5c815",
-            "643f29338ac547c4baf5c816",
-            "643f29338ac547c4baf5c817",
-            "643f29338ac547c4baf5c818",
-            "643f29338ac547c4baf5c819",
-            "643f29338ac547c4baf5c81a",
-            "643f29338ac547c4baf5c81b",
-            "643f29338ac547c4baf5c81c",
-            "643f29338ac547c4baf5c81d",
-            "643f29338ac547c4baf5c81e",
-            "643f29338ac547c4baf5c81f",
-            "643f29338ac547c4baf5c820",
-            "643f29338ac547c4baf5c821",
-            "643f29338ac547c4baf5c822",
-            "643f29338ac547c4baf5c823",
-            "643f29338ac547c4baf5c824",
-            "643f29338ac547c4baf5c825",
-            "643f29338ac547c4baf5c826",
-            "643f29338ac547c4baf5c827",
-            "643f29338ac547c4baf5c828",
-            "643f29338ac547c4baf5c829",
-            "643f29338ac547c4baf5c82a"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a34b",
-            "643f2b2e8ac547c568f7a34c",
-            "643f2b2e8ac547c568f7a34d",
-            "643f2b2e8ac547c568f7a34e",
-            "643f2b2e8ac547c568f7a34f",
-            "643f2b2e8ac547c568f7a350",
-            "643f2b2e8ac547c568f7a351"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759dd0",
-            "643f2d738ac547c638759dd1",
-            "643f2d738ac547c638759dd2"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e48504",
-    "pid": "643f25fe8ac547c328e48504"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.9913191,
-                    33.07347239
-                ],
-                [
-                    -111.99133528,
-                    33.07491541
-                ],
-                [
-                    -111.99124821,
-                    33.0749161
-                ],
-                [
-                    -111.99123203,
-                    33.07347308
-                ],
-                [
-                    -111.9913191,
-                    33.07347239
+            },
+            "_id": "643f25fe8ac547c328e48500",
+            "pid": "643f25fe8ac547c328e48500"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99070962,
+                            33.07347723
+                        ],
+                        [
+                            -111.9907258,
+                            33.07492026
+                        ],
+                        [
+                            -111.99063873,
+                            33.07492095
+                        ],
+                        [
+                            -111.99062255,
+                            33.07347792
+                        ],
+                        [
+                            -111.99070962,
+                            33.07347723
+                        ]
+                    ]
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p09",
-        "trt_label": "FAO",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/20/2011",
-        "HARM": "Machine",
-        "HADAT": "10/12/2011",
-        "WBWAH": 4296.9,
-        "GNDAT": "01/27/2010",
-        "FFRAC": 0.3402,
-        "SFRAC": 0.5634,
-        "TFRAC": 0.0964,
-        "WFWAH": 1461.7,
-        "WSWAH": 2420.9,
-        "WSCWAH": 3882.6,
-        "zids": [
-            "652effaf8ac54740e3e3c963",
-            "652effaf8ac54740e3e3c964",
-            "652effaf8ac54740e3e3c965",
-            "652effaf8ac54740e3e3c966",
-            "652effaf8ac54740e3e3c967",
-            "652effaf8ac54740e3e3c968",
-            "652effaf8ac54740e3e3c969",
-            "652effaf8ac54740e3e3c96a",
-            "652effaf8ac54740e3e3c96b",
-            "652effaf8ac54740e3e3c96c",
-            "652effaf8ac54740e3e3c96d",
-            "652effaf8ac54740e3e3c96e",
-            "652effaf8ac54740e3e3c96f",
-            "652effaf8ac54740e3e3c970",
-            "652effaf8ac54740e3e3c971",
-            "652effaf8ac54740e3e3c972",
-            "652effaf8ac54740e3e3c973",
-            "652effaf8ac54740e3e3c974",
-            "652effaf8ac54740e3e3c975",
-            "652effaf8ac54740e3e3c976"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c82b",
-            "643f29338ac547c4baf5c82c",
-            "643f29338ac547c4baf5c82d",
-            "643f29338ac547c4baf5c82e",
-            "643f29338ac547c4baf5c82f",
-            "643f29338ac547c4baf5c830",
-            "643f29338ac547c4baf5c831",
-            "643f29338ac547c4baf5c832",
-            "643f29338ac547c4baf5c833",
-            "643f29338ac547c4baf5c834",
-            "643f29338ac547c4baf5c835",
-            "643f29338ac547c4baf5c836",
-            "643f29338ac547c4baf5c837",
-            "643f29338ac547c4baf5c838",
-            "643f29338ac547c4baf5c839",
-            "643f29338ac547c4baf5c83a",
-            "643f29338ac547c4baf5c83b",
-            "643f29338ac547c4baf5c83c",
-            "643f29338ac547c4baf5c83d",
-            "643f29338ac547c4baf5c83e",
-            "643f29338ac547c4baf5c83f",
-            "643f29338ac547c4baf5c840",
-            "643f29338ac547c4baf5c841",
-            "643f29338ac547c4baf5c842",
-            "643f29338ac547c4baf5c843",
-            "643f29338ac547c4baf5c844",
-            "643f29338ac547c4baf5c845",
-            "643f29338ac547c4baf5c846",
-            "643f29338ac547c4baf5c847",
-            "643f29338ac547c4baf5c848",
-            "643f29338ac547c4baf5c849",
-            "643f29338ac547c4baf5c84a",
-            "643f29338ac547c4baf5c84b",
-            "643f29338ac547c4baf5c84c",
-            "643f29338ac547c4baf5c84d",
-            "643f29338ac547c4baf5c84e",
-            "643f29338ac547c4baf5c84f",
-            "643f29338ac547c4baf5c850",
-            "643f29338ac547c4baf5c851",
-            "643f29338ac547c4baf5c852"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a352",
-            "643f2b2e8ac547c568f7a353",
-            "643f2b2e8ac547c568f7a354",
-            "643f2b2e8ac547c568f7a355",
-            "643f2b2e8ac547c568f7a356",
-            "643f2b2e8ac547c568f7a357",
-            "643f2b2e8ac547c568f7a358"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759dd3",
-            "643f2d738ac547c638759dd4",
-            "643f2d738ac547c638759dd5"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e48505",
-    "pid": "643f25fe8ac547c328e48505"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99147147,
-                    33.07347117
+            },
+            "properties": {
+                "plt_label": "p05",
+                "trt_label": "MAC",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/20/2011",
+                "HARM": "Machine",
+                "HADAT": "10/11/2011",
+                "WBWAH": 5137.7,
+                "GNDAT": "01/27/2010",
+                "FFRAC": 0.3322,
+                "SFRAC": 0.5637,
+                "TFRAC": 0.1041,
+                "WFWAH": 1706.5,
+                "WSWAH": 2896.2,
+                "WSCWAH": 4602.6,
+                "zids": [
+                    "652effaf8ac54740e3e3c913",
+                    "652effaf8ac54740e3e3c914",
+                    "652effaf8ac54740e3e3c915",
+                    "652effaf8ac54740e3e3c916",
+                    "652effaf8ac54740e3e3c917",
+                    "652effaf8ac54740e3e3c918",
+                    "652effaf8ac54740e3e3c919",
+                    "652effaf8ac54740e3e3c91a",
+                    "652effaf8ac54740e3e3c91b",
+                    "652effaf8ac54740e3e3c91c",
+                    "652effaf8ac54740e3e3c91d",
+                    "652effaf8ac54740e3e3c91e",
+                    "652effaf8ac54740e3e3c91f",
+                    "652effaf8ac54740e3e3c920",
+                    "652effaf8ac54740e3e3c921",
+                    "652effaf8ac54740e3e3c922",
+                    "652effaf8ac54740e3e3c923",
+                    "652effaf8ac54740e3e3c924",
+                    "652effaf8ac54740e3e3c925",
+                    "652effaf8ac54740e3e3c926"
                 ],
-                [
-                    -111.99148765,
-                    33.0749142
+                "haids": [
+                    "643f29338ac547c4baf5c78b",
+                    "643f29338ac547c4baf5c78c",
+                    "643f29338ac547c4baf5c78d",
+                    "643f29338ac547c4baf5c78e",
+                    "643f29338ac547c4baf5c78f",
+                    "643f29338ac547c4baf5c790",
+                    "643f29338ac547c4baf5c791",
+                    "643f29338ac547c4baf5c792",
+                    "643f29338ac547c4baf5c793",
+                    "643f29338ac547c4baf5c794",
+                    "643f29338ac547c4baf5c795",
+                    "643f29338ac547c4baf5c796",
+                    "643f29338ac547c4baf5c797",
+                    "643f29338ac547c4baf5c798",
+                    "643f29338ac547c4baf5c799",
+                    "643f29338ac547c4baf5c79a",
+                    "643f29338ac547c4baf5c79b",
+                    "643f29338ac547c4baf5c79c",
+                    "643f29338ac547c4baf5c79d",
+                    "643f29338ac547c4baf5c79e",
+                    "643f29338ac547c4baf5c79f",
+                    "643f29338ac547c4baf5c7a0",
+                    "643f29338ac547c4baf5c7a1",
+                    "643f29338ac547c4baf5c7a2",
+                    "643f29338ac547c4baf5c7a3",
+                    "643f29338ac547c4baf5c7a4",
+                    "643f29338ac547c4baf5c7a5",
+                    "643f29338ac547c4baf5c7a6",
+                    "643f29338ac547c4baf5c7a7",
+                    "643f29338ac547c4baf5c7a8",
+                    "643f29338ac547c4baf5c7a9",
+                    "643f29338ac547c4baf5c7aa",
+                    "643f29338ac547c4baf5c7ab",
+                    "643f29338ac547c4baf5c7ac",
+                    "643f29338ac547c4baf5c7ad",
+                    "643f29338ac547c4baf5c7ae",
+                    "643f29338ac547c4baf5c7af",
+                    "643f29338ac547c4baf5c7b0",
+                    "643f29338ac547c4baf5c7b1",
+                    "643f29338ac547c4baf5c7b2"
                 ],
-                [
-                    -111.99140058,
-                    33.07491489
+                "tids": [
+                    "643f2b2e8ac547c568f7a336",
+                    "643f2b2e8ac547c568f7a337",
+                    "643f2b2e8ac547c568f7a338",
+                    "643f2b2e8ac547c568f7a339",
+                    "643f2b2e8ac547c568f7a33a",
+                    "643f2b2e8ac547c568f7a33b",
+                    "643f2b2e8ac547c568f7a33c"
                 ],
-                [
-                    -111.9913844,
-                    33.07347187
-                ],
-                [
-                    -111.99147147,
-                    33.07347117
+                "ccids": [
+                    "643f2d738ac547c638759dc7",
+                    "643f2d738ac547c638759dc8",
+                    "643f2d738ac547c638759dc9"
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p10",
-        "trt_label": "VI_B",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/20/2011",
-        "HARM": "Machine",
-        "HADAT": "10/12/2011",
-        "WBWAH": 5825.4,
-        "GNDAT": "01/26/2010",
-        "FFRAC": 0.3302,
-        "SFRAC": 0.5665,
-        "TFRAC": 0.1033,
-        "WFWAH": 1923.7,
-        "WSWAH": 3299.9,
-        "WSCWAH": 5223.6,
-        "zids": [
-            "652effaf8ac54740e3e3c977",
-            "652effaf8ac54740e3e3c978",
-            "652effaf8ac54740e3e3c979",
-            "652effaf8ac54740e3e3c97a",
-            "652effaf8ac54740e3e3c97b",
-            "652effaf8ac54740e3e3c97c",
-            "652effaf8ac54740e3e3c97d",
-            "652effaf8ac54740e3e3c97e",
-            "652effaf8ac54740e3e3c97f",
-            "652effaf8ac54740e3e3c980",
-            "652effaf8ac54740e3e3c981",
-            "652effaf8ac54740e3e3c982",
-            "652effaf8ac54740e3e3c983",
-            "652effaf8ac54740e3e3c984",
-            "652effaf8ac54740e3e3c985",
-            "652effaf8ac54740e3e3c986",
-            "652effaf8ac54740e3e3c987",
-            "652effaf8ac54740e3e3c988",
-            "652effaf8ac54740e3e3c989",
-            "652effaf8ac54740e3e3c98a"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c853",
-            "643f29338ac547c4baf5c854",
-            "643f29338ac547c4baf5c855",
-            "643f29338ac547c4baf5c856",
-            "643f29338ac547c4baf5c857",
-            "643f29338ac547c4baf5c858",
-            "643f29338ac547c4baf5c859",
-            "643f29338ac547c4baf5c85a",
-            "643f29338ac547c4baf5c85b",
-            "643f29338ac547c4baf5c85c",
-            "643f29338ac547c4baf5c85d",
-            "643f29338ac547c4baf5c85e",
-            "643f29338ac547c4baf5c85f",
-            "643f29338ac547c4baf5c860",
-            "643f29338ac547c4baf5c861",
-            "643f29338ac547c4baf5c862",
-            "643f29338ac547c4baf5c863",
-            "643f29338ac547c4baf5c864",
-            "643f29338ac547c4baf5c865",
-            "643f29338ac547c4baf5c866",
-            "643f29338ac547c4baf5c867",
-            "643f29338ac547c4baf5c868",
-            "643f29338ac547c4baf5c869",
-            "643f29338ac547c4baf5c86a",
-            "643f29338ac547c4baf5c86b",
-            "643f29338ac547c4baf5c86c",
-            "643f29338ac547c4baf5c86d",
-            "643f29338ac547c4baf5c86e",
-            "643f29338ac547c4baf5c86f",
-            "643f29338ac547c4baf5c870",
-            "643f29338ac547c4baf5c871",
-            "643f29338ac547c4baf5c872",
-            "643f29338ac547c4baf5c873",
-            "643f29338ac547c4baf5c874",
-            "643f29338ac547c4baf5c875",
-            "643f29338ac547c4baf5c876",
-            "643f29338ac547c4baf5c877",
-            "643f29338ac547c4baf5c878",
-            "643f29338ac547c4baf5c879",
-            "643f29338ac547c4baf5c87a"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a359",
-            "643f2b2e8ac547c568f7a35a",
-            "643f2b2e8ac547c568f7a35b",
-            "643f2b2e8ac547c568f7a35c",
-            "643f2b2e8ac547c568f7a35d",
-            "643f2b2e8ac547c568f7a35e",
-            "643f2b2e8ac547c568f7a35f"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759dd6",
-            "643f2d738ac547c638759dd7",
-            "643f2d738ac547c638759dd8"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e48506",
-    "pid": "643f25fe8ac547c328e48506"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99162384,
-                    33.07346996
-                ],
-                [
-                    -111.99164003,
-                    33.07491299
-                ],
-                [
-                    -111.99155296,
-                    33.07491368
-                ],
-                [
-                    -111.99153677,
-                    33.07347066
-                ],
-                [
-                    -111.99162384,
-                    33.07346996
+            },
+            "_id": "643f25fe8ac547c328e48501",
+            "pid": "643f25fe8ac547c328e48501"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99086199,
+                            33.07347602
+                        ],
+                        [
+                            -111.99087817,
+                            33.07491905
+                        ],
+                        [
+                            -111.9907911,
+                            33.07491974
+                        ],
+                        [
+                            -111.99077492,
+                            33.07347671
+                        ],
+                        [
+                            -111.99086199,
+                            33.07347602
+                        ]
+                    ]
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p11",
-        "trt_label": "MAC",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/20/2011",
-        "HARM": "Machine",
-        "HADAT": "10/13/2011",
-        "WBWAH": 5238.7,
-        "GNDAT": "01/22/2010",
-        "FFRAC": 0.3348,
-        "SFRAC": 0.5669,
-        "TFRAC": 0.0984,
-        "WFWAH": 1753.7,
-        "WSWAH": 2969.7,
-        "WSCWAH": 4723.4,
-        "zids": [
-            "652effaf8ac54740e3e3c98b",
-            "652effaf8ac54740e3e3c98c",
-            "652effaf8ac54740e3e3c98d",
-            "652effaf8ac54740e3e3c98e",
-            "652effaf8ac54740e3e3c98f",
-            "652effaf8ac54740e3e3c990",
-            "652effaf8ac54740e3e3c991",
-            "652effaf8ac54740e3e3c992",
-            "652effaf8ac54740e3e3c993",
-            "652effaf8ac54740e3e3c994",
-            "652effaf8ac54740e3e3c995",
-            "652effaf8ac54740e3e3c996",
-            "652effaf8ac54740e3e3c997",
-            "652effaf8ac54740e3e3c998",
-            "652effaf8ac54740e3e3c999",
-            "652effaf8ac54740e3e3c99a",
-            "652effaf8ac54740e3e3c99b",
-            "652effaf8ac54740e3e3c99c",
-            "652effaf8ac54740e3e3c99d",
-            "652effaf8ac54740e3e3c99e"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c87b",
-            "643f29338ac547c4baf5c87c",
-            "643f29338ac547c4baf5c87d",
-            "643f29338ac547c4baf5c87e",
-            "643f29338ac547c4baf5c87f",
-            "643f29338ac547c4baf5c880",
-            "643f29338ac547c4baf5c881",
-            "643f29338ac547c4baf5c882",
-            "643f29338ac547c4baf5c883",
-            "643f29338ac547c4baf5c884",
-            "643f29338ac547c4baf5c885",
-            "643f29338ac547c4baf5c886",
-            "643f29338ac547c4baf5c887",
-            "643f29338ac547c4baf5c888",
-            "643f29338ac547c4baf5c889",
-            "643f29338ac547c4baf5c88a",
-            "643f29338ac547c4baf5c88b",
-            "643f29338ac547c4baf5c88c",
-            "643f29338ac547c4baf5c88d",
-            "643f29338ac547c4baf5c88e",
-            "643f29338ac547c4baf5c88f",
-            "643f29338ac547c4baf5c890",
-            "643f29338ac547c4baf5c891",
-            "643f29338ac547c4baf5c892",
-            "643f29338ac547c4baf5c893",
-            "643f29338ac547c4baf5c894",
-            "643f29338ac547c4baf5c895",
-            "643f29338ac547c4baf5c896",
-            "643f29338ac547c4baf5c897",
-            "643f29338ac547c4baf5c898",
-            "643f29338ac547c4baf5c899",
-            "643f29338ac547c4baf5c89a",
-            "643f29338ac547c4baf5c89b",
-            "643f29338ac547c4baf5c89c",
-            "643f29338ac547c4baf5c89d",
-            "643f29338ac547c4baf5c89e",
-            "643f29338ac547c4baf5c89f",
-            "643f29338ac547c4baf5c8a0",
-            "643f29338ac547c4baf5c8a1",
-            "643f29338ac547c4baf5c8a2"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a360",
-            "643f2b2e8ac547c568f7a361",
-            "643f2b2e8ac547c568f7a362",
-            "643f2b2e8ac547c568f7a363",
-            "643f2b2e8ac547c568f7a364",
-            "643f2b2e8ac547c568f7a365",
-            "643f2b2e8ac547c568f7a366"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759dd9",
-            "643f2d738ac547c638759dda",
-            "643f2d738ac547c638759ddb"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e48507",
-    "pid": "643f25fe8ac547c328e48507"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.9917762,
-                    33.07346875
+            },
+            "properties": {
+                "plt_label": "p06",
+                "trt_label": "FAO",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/20/2011",
+                "HARM": "Machine",
+                "HADAT": "10/12/2011",
+                "WBWAH": 4817.3,
+                "GNDAT": "01/27/2010",
+                "FFRAC": 0.3315,
+                "SFRAC": 0.5673,
+                "TFRAC": 0.1012,
+                "WFWAH": 1597.1,
+                "WSWAH": 2732.9,
+                "WSCWAH": 4330.0,
+                "zids": [
+                    "652effaf8ac54740e3e3c927",
+                    "652effaf8ac54740e3e3c928",
+                    "652effaf8ac54740e3e3c929",
+                    "652effaf8ac54740e3e3c92a",
+                    "652effaf8ac54740e3e3c92b",
+                    "652effaf8ac54740e3e3c92c",
+                    "652effaf8ac54740e3e3c92d",
+                    "652effaf8ac54740e3e3c92e",
+                    "652effaf8ac54740e3e3c92f",
+                    "652effaf8ac54740e3e3c930",
+                    "652effaf8ac54740e3e3c931",
+                    "652effaf8ac54740e3e3c932",
+                    "652effaf8ac54740e3e3c933",
+                    "652effaf8ac54740e3e3c934",
+                    "652effaf8ac54740e3e3c935",
+                    "652effaf8ac54740e3e3c936",
+                    "652effaf8ac54740e3e3c937",
+                    "652effaf8ac54740e3e3c938",
+                    "652effaf8ac54740e3e3c939",
+                    "652effaf8ac54740e3e3c93a"
                 ],
-                [
-                    -111.9917924,
-                    33.07491178
+                "haids": [
+                    "643f29338ac547c4baf5c7b3",
+                    "643f29338ac547c4baf5c7b4",
+                    "643f29338ac547c4baf5c7b5",
+                    "643f29338ac547c4baf5c7b6",
+                    "643f29338ac547c4baf5c7b7",
+                    "643f29338ac547c4baf5c7b8",
+                    "643f29338ac547c4baf5c7b9",
+                    "643f29338ac547c4baf5c7ba",
+                    "643f29338ac547c4baf5c7bb",
+                    "643f29338ac547c4baf5c7bc",
+                    "643f29338ac547c4baf5c7bd",
+                    "643f29338ac547c4baf5c7be",
+                    "643f29338ac547c4baf5c7bf",
+                    "643f29338ac547c4baf5c7c0",
+                    "643f29338ac547c4baf5c7c1",
+                    "643f29338ac547c4baf5c7c2",
+                    "643f29338ac547c4baf5c7c3",
+                    "643f29338ac547c4baf5c7c4",
+                    "643f29338ac547c4baf5c7c5",
+                    "643f29338ac547c4baf5c7c6",
+                    "643f29338ac547c4baf5c7c7",
+                    "643f29338ac547c4baf5c7c8",
+                    "643f29338ac547c4baf5c7c9",
+                    "643f29338ac547c4baf5c7ca",
+                    "643f29338ac547c4baf5c7cb",
+                    "643f29338ac547c4baf5c7cc",
+                    "643f29338ac547c4baf5c7cd",
+                    "643f29338ac547c4baf5c7ce",
+                    "643f29338ac547c4baf5c7cf",
+                    "643f29338ac547c4baf5c7d0",
+                    "643f29338ac547c4baf5c7d1",
+                    "643f29338ac547c4baf5c7d2",
+                    "643f29338ac547c4baf5c7d3",
+                    "643f29338ac547c4baf5c7d4",
+                    "643f29338ac547c4baf5c7d5",
+                    "643f29338ac547c4baf5c7d6",
+                    "643f29338ac547c4baf5c7d7",
+                    "643f29338ac547c4baf5c7d8",
+                    "643f29338ac547c4baf5c7d9",
+                    "643f29338ac547c4baf5c7da"
                 ],
-                [
-                    -111.99170533,
-                    33.07491247
+                "tids": [
+                    "643f2b2e8ac547c568f7a33d",
+                    "643f2b2e8ac547c568f7a33e",
+                    "643f2b2e8ac547c568f7a33f",
+                    "643f2b2e8ac547c568f7a340",
+                    "643f2b2e8ac547c568f7a341",
+                    "643f2b2e8ac547c568f7a342",
+                    "643f2b2e8ac547c568f7a343"
                 ],
-                [
-                    -111.99168914,
-                    33.07346944
-                ],
-                [
-                    -111.9917762,
-                    33.07346875
+                "ccids": [
+                    "643f2d738ac547c638759dca",
+                    "643f2d738ac547c638759dcb",
+                    "643f2d738ac547c638759dcc"
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p12",
-        "trt_label": "VI_A",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/19/2011",
-        "HARM": "Machine",
-        "HADAT": "10/13/2011",
-        "WBWAH": 4252.9,
-        "GNDAT": "01/22/2010",
-        "FFRAC": 0.3251,
-        "SFRAC": 0.5741,
-        "TFRAC": 0.1008,
-        "WFWAH": 1382.6,
-        "WSWAH": 2441.7,
-        "WSCWAH": 3824.4,
-        "zids": [
-            "652effaf8ac54740e3e3c99f",
-            "652effaf8ac54740e3e3c9a0",
-            "652effaf8ac54740e3e3c9a1",
-            "652effaf8ac54740e3e3c9a2",
-            "652effaf8ac54740e3e3c9a3",
-            "652effaf8ac54740e3e3c9a4",
-            "652effaf8ac54740e3e3c9a5",
-            "652effaf8ac54740e3e3c9a6",
-            "652effaf8ac54740e3e3c9a7",
-            "652effaf8ac54740e3e3c9a8",
-            "652effaf8ac54740e3e3c9a9",
-            "652effaf8ac54740e3e3c9aa",
-            "652effaf8ac54740e3e3c9ab",
-            "652effaf8ac54740e3e3c9ac",
-            "652effaf8ac54740e3e3c9ad",
-            "652effaf8ac54740e3e3c9ae",
-            "652effaf8ac54740e3e3c9af",
-            "652effaf8ac54740e3e3c9b0",
-            "652effaf8ac54740e3e3c9b1",
-            "652effaf8ac54740e3e3c9b2"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c8a3",
-            "643f29338ac547c4baf5c8a4",
-            "643f29338ac547c4baf5c8a5",
-            "643f29338ac547c4baf5c8a6",
-            "643f29338ac547c4baf5c8a7",
-            "643f29338ac547c4baf5c8a8",
-            "643f29338ac547c4baf5c8a9",
-            "643f29338ac547c4baf5c8aa",
-            "643f29338ac547c4baf5c8ab",
-            "643f29338ac547c4baf5c8ac",
-            "643f29338ac547c4baf5c8ad",
-            "643f29338ac547c4baf5c8ae",
-            "643f29338ac547c4baf5c8af",
-            "643f29338ac547c4baf5c8b0",
-            "643f29338ac547c4baf5c8b1",
-            "643f29338ac547c4baf5c8b2",
-            "643f29338ac547c4baf5c8b3",
-            "643f29338ac547c4baf5c8b4",
-            "643f29338ac547c4baf5c8b5",
-            "643f29338ac547c4baf5c8b6",
-            "643f29338ac547c4baf5c8b7",
-            "643f29338ac547c4baf5c8b8",
-            "643f29338ac547c4baf5c8b9",
-            "643f29338ac547c4baf5c8ba",
-            "643f29338ac547c4baf5c8bb",
-            "643f29338ac547c4baf5c8bc",
-            "643f29338ac547c4baf5c8bd",
-            "643f29338ac547c4baf5c8be",
-            "643f29338ac547c4baf5c8bf",
-            "643f29338ac547c4baf5c8c0",
-            "643f29338ac547c4baf5c8c1",
-            "643f29338ac547c4baf5c8c2",
-            "643f29338ac547c4baf5c8c3",
-            "643f29338ac547c4baf5c8c4",
-            "643f29338ac547c4baf5c8c5",
-            "643f29338ac547c4baf5c8c6",
-            "643f29338ac547c4baf5c8c7",
-            "643f29338ac547c4baf5c8c8",
-            "643f29338ac547c4baf5c8c9",
-            "643f29338ac547c4baf5c8ca"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a367",
-            "643f2b2e8ac547c568f7a368",
-            "643f2b2e8ac547c568f7a369",
-            "643f2b2e8ac547c568f7a36a",
-            "643f2b2e8ac547c568f7a36b",
-            "643f2b2e8ac547c568f7a36c",
-            "643f2b2e8ac547c568f7a36d"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759ddc",
-            "643f2d738ac547c638759ddd",
-            "643f2d738ac547c638759dde"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e48508",
-    "pid": "643f25fe8ac547c328e48508"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99208094,
-                    33.07346633
-                ],
-                [
-                    -111.99209714,
-                    33.07490935
-                ],
-                [
-                    -111.99201007,
-                    33.07491005
-                ],
-                [
-                    -111.99199387,
-                    33.07346702
-                ],
-                [
-                    -111.99208094,
-                    33.07346633
+            },
+            "_id": "643f25fe8ac547c328e48502",
+            "pid": "643f25fe8ac547c328e48502"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99101436,
+                            33.07347481
+                        ],
+                        [
+                            -111.99103054,
+                            33.07491784
+                        ],
+                        [
+                            -111.99094347,
+                            33.07491853
+                        ],
+                        [
+                            -111.99092729,
+                            33.0734755
+                        ],
+                        [
+                            -111.99101436,
+                            33.07347481
+                        ]
+                    ]
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p13",
-        "trt_label": "FAO",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/19/2011",
-        "HARM": "Machine",
-        "HADAT": "10/13/2011",
-        "WBWAH": 4445.3,
-        "GNDAT": "01/26/2010",
-        "FFRAC": 0.3353,
-        "SFRAC": 0.5778,
-        "TFRAC": 0.0869,
-        "WFWAH": 1490.4,
-        "WSWAH": 2568.5,
-        "WSCWAH": 4058.9,
-        "zids": [
-            "652effaf8ac54740e3e3c9b3",
-            "652effaf8ac54740e3e3c9b4",
-            "652effaf8ac54740e3e3c9b5",
-            "652effaf8ac54740e3e3c9b6",
-            "652effaf8ac54740e3e3c9b7",
-            "652effaf8ac54740e3e3c9b8",
-            "652effaf8ac54740e3e3c9b9",
-            "652effaf8ac54740e3e3c9ba",
-            "652effaf8ac54740e3e3c9bb",
-            "652effaf8ac54740e3e3c9bc",
-            "652effaf8ac54740e3e3c9bd",
-            "652effaf8ac54740e3e3c9be",
-            "652effaf8ac54740e3e3c9bf",
-            "652effaf8ac54740e3e3c9c0",
-            "652effaf8ac54740e3e3c9c1",
-            "652effaf8ac54740e3e3c9c2",
-            "652effaf8ac54740e3e3c9c3",
-            "652effaf8ac54740e3e3c9c4",
-            "652effaf8ac54740e3e3c9c5",
-            "652effaf8ac54740e3e3c9c6"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c8cb",
-            "643f29338ac547c4baf5c8cc",
-            "643f29338ac547c4baf5c8cd",
-            "643f29338ac547c4baf5c8ce",
-            "643f29338ac547c4baf5c8cf",
-            "643f29338ac547c4baf5c8d0",
-            "643f29338ac547c4baf5c8d1",
-            "643f29338ac547c4baf5c8d2",
-            "643f29338ac547c4baf5c8d3",
-            "643f29338ac547c4baf5c8d4",
-            "643f29338ac547c4baf5c8d5",
-            "643f29338ac547c4baf5c8d6",
-            "643f29338ac547c4baf5c8d7",
-            "643f29338ac547c4baf5c8d8",
-            "643f29338ac547c4baf5c8d9",
-            "643f29338ac547c4baf5c8da",
-            "643f29338ac547c4baf5c8db",
-            "643f29338ac547c4baf5c8dc",
-            "643f29338ac547c4baf5c8dd",
-            "643f29338ac547c4baf5c8de",
-            "643f29338ac547c4baf5c8df",
-            "643f29338ac547c4baf5c8e0",
-            "643f29338ac547c4baf5c8e1",
-            "643f29338ac547c4baf5c8e2",
-            "643f29338ac547c4baf5c8e3",
-            "643f29338ac547c4baf5c8e4",
-            "643f29338ac547c4baf5c8e5",
-            "643f29338ac547c4baf5c8e6",
-            "643f29338ac547c4baf5c8e7",
-            "643f29338ac547c4baf5c8e8",
-            "643f29338ac547c4baf5c8e9",
-            "643f29338ac547c4baf5c8ea",
-            "643f29338ac547c4baf5c8eb",
-            "643f29338ac547c4baf5c8ec",
-            "643f29338ac547c4baf5c8ed",
-            "643f29338ac547c4baf5c8ee",
-            "643f29338ac547c4baf5c8ef",
-            "643f29338ac547c4baf5c8f0",
-            "643f29338ac547c4baf5c8f1",
-            "643f29338ac547c4baf5c8f2"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a36e",
-            "643f2b2e8ac547c568f7a36f",
-            "643f2b2e8ac547c568f7a370",
-            "643f2b2e8ac547c568f7a371",
-            "643f2b2e8ac547c568f7a372",
-            "643f2b2e8ac547c568f7a373",
-            "643f2b2e8ac547c568f7a374"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759ddf",
-            "643f2d738ac547c638759de0",
-            "643f2d738ac547c638759de1"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e48509",
-    "pid": "643f25fe8ac547c328e48509"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99223331,
-                    33.07346511
+            },
+            "properties": {
+                "plt_label": "p07",
+                "trt_label": "VI_A",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/20/2011",
+                "HARM": "Machine",
+                "HADAT": "10/12/2011",
+                "WBWAH": 5106.1,
+                "GNDAT": "01/26/2010",
+                "FFRAC": 0.3273,
+                "SFRAC": 0.5706,
+                "TFRAC": 0.102,
+                "WFWAH": 1671.4,
+                "WSWAH": 2913.6,
+                "WSCWAH": 4585.0,
+                "zids": [
+                    "652effaf8ac54740e3e3c93b",
+                    "652effaf8ac54740e3e3c93c",
+                    "652effaf8ac54740e3e3c93d",
+                    "652effaf8ac54740e3e3c93e",
+                    "652effaf8ac54740e3e3c93f",
+                    "652effaf8ac54740e3e3c940",
+                    "652effaf8ac54740e3e3c941",
+                    "652effaf8ac54740e3e3c942",
+                    "652effaf8ac54740e3e3c943",
+                    "652effaf8ac54740e3e3c944",
+                    "652effaf8ac54740e3e3c945",
+                    "652effaf8ac54740e3e3c946",
+                    "652effaf8ac54740e3e3c947",
+                    "652effaf8ac54740e3e3c948",
+                    "652effaf8ac54740e3e3c949",
+                    "652effaf8ac54740e3e3c94a",
+                    "652effaf8ac54740e3e3c94b",
+                    "652effaf8ac54740e3e3c94c",
+                    "652effaf8ac54740e3e3c94d",
+                    "652effaf8ac54740e3e3c94e"
                 ],
-                [
-                    -111.99224951,
-                    33.07490814
+                "haids": [
+                    "643f29338ac547c4baf5c7db",
+                    "643f29338ac547c4baf5c7dc",
+                    "643f29338ac547c4baf5c7dd",
+                    "643f29338ac547c4baf5c7de",
+                    "643f29338ac547c4baf5c7df",
+                    "643f29338ac547c4baf5c7e0",
+                    "643f29338ac547c4baf5c7e1",
+                    "643f29338ac547c4baf5c7e2",
+                    "643f29338ac547c4baf5c7e3",
+                    "643f29338ac547c4baf5c7e4",
+                    "643f29338ac547c4baf5c7e5",
+                    "643f29338ac547c4baf5c7e6",
+                    "643f29338ac547c4baf5c7e7",
+                    "643f29338ac547c4baf5c7e8",
+                    "643f29338ac547c4baf5c7e9",
+                    "643f29338ac547c4baf5c7ea",
+                    "643f29338ac547c4baf5c7eb",
+                    "643f29338ac547c4baf5c7ec",
+                    "643f29338ac547c4baf5c7ed",
+                    "643f29338ac547c4baf5c7ee",
+                    "643f29338ac547c4baf5c7ef",
+                    "643f29338ac547c4baf5c7f0",
+                    "643f29338ac547c4baf5c7f1",
+                    "643f29338ac547c4baf5c7f2",
+                    "643f29338ac547c4baf5c7f3",
+                    "643f29338ac547c4baf5c7f4",
+                    "643f29338ac547c4baf5c7f5",
+                    "643f29338ac547c4baf5c7f6",
+                    "643f29338ac547c4baf5c7f7",
+                    "643f29338ac547c4baf5c7f8",
+                    "643f29338ac547c4baf5c7f9",
+                    "643f29338ac547c4baf5c7fa",
+                    "643f29338ac547c4baf5c7fb",
+                    "643f29338ac547c4baf5c7fc",
+                    "643f29338ac547c4baf5c7fd",
+                    "643f29338ac547c4baf5c7fe",
+                    "643f29338ac547c4baf5c7ff",
+                    "643f29338ac547c4baf5c800",
+                    "643f29338ac547c4baf5c801",
+                    "643f29338ac547c4baf5c802"
                 ],
-                [
-                    -111.99216244,
-                    33.07490883
+                "tids": [
+                    "643f2b2e8ac547c568f7a344",
+                    "643f2b2e8ac547c568f7a345",
+                    "643f2b2e8ac547c568f7a346",
+                    "643f2b2e8ac547c568f7a347",
+                    "643f2b2e8ac547c568f7a348",
+                    "643f2b2e8ac547c568f7a349",
+                    "643f2b2e8ac547c568f7a34a"
                 ],
-                [
-                    -111.99214624,
-                    33.07346581
-                ],
-                [
-                    -111.99223331,
-                    33.07346511
+                "ccids": [
+                    "643f2d738ac547c638759dcd",
+                    "643f2d738ac547c638759dce",
+                    "643f2d738ac547c638759dcf"
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p14",
-        "trt_label": "VI_A",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/19/2011",
-        "HARM": "Machine",
-        "HADAT": "10/13/2011",
-        "WBWAH": 4418.7,
-        "GNDAT": "01/26/2010",
-        "FFRAC": 0.3297,
-        "SFRAC": 0.5852,
-        "TFRAC": 0.0851,
-        "WFWAH": 1457.0,
-        "WSWAH": 2585.7,
-        "WSCWAH": 4042.7,
-        "zids": [
-            "652effaf8ac54740e3e3c9c7",
-            "652effaf8ac54740e3e3c9c8",
-            "652effaf8ac54740e3e3c9c9",
-            "652effaf8ac54740e3e3c9ca",
-            "652effaf8ac54740e3e3c9cb",
-            "652effaf8ac54740e3e3c9cc",
-            "652effaf8ac54740e3e3c9cd",
-            "652effaf8ac54740e3e3c9ce",
-            "652effaf8ac54740e3e3c9cf",
-            "652effaf8ac54740e3e3c9d0",
-            "652effaf8ac54740e3e3c9d1",
-            "652effaf8ac54740e3e3c9d2",
-            "652effaf8ac54740e3e3c9d3",
-            "652effaf8ac54740e3e3c9d4",
-            "652effaf8ac54740e3e3c9d5",
-            "652effaf8ac54740e3e3c9d6",
-            "652effaf8ac54740e3e3c9d7",
-            "652effaf8ac54740e3e3c9d8",
-            "652effaf8ac54740e3e3c9d9",
-            "652effaf8ac54740e3e3c9da"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c8f3",
-            "643f29338ac547c4baf5c8f4",
-            "643f29338ac547c4baf5c8f5",
-            "643f29338ac547c4baf5c8f6",
-            "643f29338ac547c4baf5c8f7",
-            "643f29338ac547c4baf5c8f8",
-            "643f29338ac547c4baf5c8f9",
-            "643f29338ac547c4baf5c8fa",
-            "643f29338ac547c4baf5c8fb",
-            "643f29338ac547c4baf5c8fc",
-            "643f29338ac547c4baf5c8fd",
-            "643f29338ac547c4baf5c8fe",
-            "643f29338ac547c4baf5c8ff",
-            "643f29338ac547c4baf5c900",
-            "643f29338ac547c4baf5c901",
-            "643f29338ac547c4baf5c902",
-            "643f29338ac547c4baf5c903",
-            "643f29338ac547c4baf5c904",
-            "643f29338ac547c4baf5c905",
-            "643f29338ac547c4baf5c906",
-            "643f29338ac547c4baf5c907",
-            "643f29338ac547c4baf5c908",
-            "643f29338ac547c4baf5c909",
-            "643f29338ac547c4baf5c90a",
-            "643f29338ac547c4baf5c90b",
-            "643f29338ac547c4baf5c90c",
-            "643f29338ac547c4baf5c90d",
-            "643f29338ac547c4baf5c90e",
-            "643f29338ac547c4baf5c90f",
-            "643f29338ac547c4baf5c910",
-            "643f29338ac547c4baf5c911",
-            "643f29338ac547c4baf5c912",
-            "643f29338ac547c4baf5c913",
-            "643f29338ac547c4baf5c914",
-            "643f29338ac547c4baf5c915",
-            "643f29338ac547c4baf5c916",
-            "643f29338ac547c4baf5c917",
-            "643f29338ac547c4baf5c918",
-            "643f29338ac547c4baf5c919",
-            "643f29338ac547c4baf5c91a"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a375",
-            "643f2b2e8ac547c568f7a376",
-            "643f2b2e8ac547c568f7a377",
-            "643f2b2e8ac547c568f7a378",
-            "643f2b2e8ac547c568f7a379",
-            "643f2b2e8ac547c568f7a37a",
-            "643f2b2e8ac547c568f7a37b"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759de2",
-            "643f2d738ac547c638759de3",
-            "643f2d738ac547c638759de4"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e4850a",
-    "pid": "643f25fe8ac547c328e4850a"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99238568,
-                    33.0734639
-                ],
-                [
-                    -111.99240188,
-                    33.07490693
-                ],
-                [
-                    -111.99231481,
-                    33.07490762
-                ],
-                [
-                    -111.99229861,
-                    33.07346459
-                ],
-                [
-                    -111.99238568,
-                    33.0734639
+            },
+            "_id": "643f25fe8ac547c328e48503",
+            "pid": "643f25fe8ac547c328e48503"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99116673,
+                            33.0734736
+                        ],
+                        [
+                            -111.99118291,
+                            33.07491662
+                        ],
+                        [
+                            -111.99109584,
+                            33.07491732
+                        ],
+                        [
+                            -111.99107966,
+                            33.07347429
+                        ],
+                        [
+                            -111.99116673,
+                            33.0734736
+                        ]
+                    ]
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p15",
-        "trt_label": "MAC",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/19/2011",
-        "HARM": "Machine",
-        "HADAT": "10/14/2011",
-        "WBWAH": 5044.8,
-        "GNDAT": "01/26/2010",
-        "FFRAC": 0.3374,
-        "SFRAC": 0.5591,
-        "TFRAC": 0.1035,
-        "WFWAH": 1702.4,
-        "WSWAH": 2820.3,
-        "WSCWAH": 4522.7,
-        "zids": [
-            "652effaf8ac54740e3e3c9db",
-            "652effaf8ac54740e3e3c9dc",
-            "652effaf8ac54740e3e3c9dd",
-            "652effaf8ac54740e3e3c9de",
-            "652effaf8ac54740e3e3c9df",
-            "652effaf8ac54740e3e3c9e0",
-            "652effaf8ac54740e3e3c9e1",
-            "652effaf8ac54740e3e3c9e2",
-            "652effaf8ac54740e3e3c9e3",
-            "652effaf8ac54740e3e3c9e4",
-            "652effaf8ac54740e3e3c9e5",
-            "652effaf8ac54740e3e3c9e6",
-            "652effaf8ac54740e3e3c9e7",
-            "652effaf8ac54740e3e3c9e8",
-            "652effaf8ac54740e3e3c9e9",
-            "652effaf8ac54740e3e3c9ea",
-            "652effaf8ac54740e3e3c9eb",
-            "652effaf8ac54740e3e3c9ec",
-            "652effaf8ac54740e3e3c9ed",
-            "652effaf8ac54740e3e3c9ee"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c91b",
-            "643f29338ac547c4baf5c91c",
-            "643f29338ac547c4baf5c91d",
-            "643f29338ac547c4baf5c91e",
-            "643f29338ac547c4baf5c91f",
-            "643f29338ac547c4baf5c920",
-            "643f29338ac547c4baf5c921",
-            "643f29338ac547c4baf5c922",
-            "643f29338ac547c4baf5c923",
-            "643f29338ac547c4baf5c924",
-            "643f29338ac547c4baf5c925",
-            "643f29338ac547c4baf5c926",
-            "643f29338ac547c4baf5c927",
-            "643f29338ac547c4baf5c928",
-            "643f29338ac547c4baf5c929",
-            "643f29338ac547c4baf5c92a",
-            "643f29338ac547c4baf5c92b",
-            "643f29338ac547c4baf5c92c",
-            "643f29338ac547c4baf5c92d",
-            "643f29338ac547c4baf5c92e",
-            "643f29338ac547c4baf5c92f",
-            "643f29338ac547c4baf5c930",
-            "643f29338ac547c4baf5c931",
-            "643f29338ac547c4baf5c932",
-            "643f29338ac547c4baf5c933",
-            "643f29338ac547c4baf5c934",
-            "643f29338ac547c4baf5c935",
-            "643f29338ac547c4baf5c936",
-            "643f29338ac547c4baf5c937",
-            "643f29338ac547c4baf5c938",
-            "643f29338ac547c4baf5c939",
-            "643f29338ac547c4baf5c93a",
-            "643f29338ac547c4baf5c93b",
-            "643f29338ac547c4baf5c93c",
-            "643f29338ac547c4baf5c93d",
-            "643f29338ac547c4baf5c93e",
-            "643f29338ac547c4baf5c93f",
-            "643f29338ac547c4baf5c940",
-            "643f29338ac547c4baf5c941",
-            "643f29338ac547c4baf5c942"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a37c",
-            "643f2b2e8ac547c568f7a37d",
-            "643f2b2e8ac547c568f7a37e",
-            "643f2b2e8ac547c568f7a37f",
-            "643f2b2e8ac547c568f7a380",
-            "643f2b2e8ac547c568f7a381",
-            "643f2b2e8ac547c568f7a382"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759de5",
-            "643f2d738ac547c638759de6",
-            "643f2d738ac547c638759de7"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e4850b",
-    "pid": "643f25fe8ac547c328e4850b"
-}{
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.99253805,
-                    33.07346269
+            },
+            "properties": {
+                "plt_label": "p08",
+                "trt_label": "VI_B",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/20/2011",
+                "HARM": "Machine",
+                "HADAT": "10/12/2011",
+                "WBWAH": 5165.4,
+                "GNDAT": "01/26/2010",
+                "FFRAC": 0.3398,
+                "SFRAC": 0.5623,
+                "TFRAC": 0.0978,
+                "WFWAH": 1755.4,
+                "WSWAH": 2904.8,
+                "WSCWAH": 4660.1,
+                "zids": [
+                    "652effaf8ac54740e3e3c94f",
+                    "652effaf8ac54740e3e3c950",
+                    "652effaf8ac54740e3e3c951",
+                    "652effaf8ac54740e3e3c952",
+                    "652effaf8ac54740e3e3c953",
+                    "652effaf8ac54740e3e3c954",
+                    "652effaf8ac54740e3e3c955",
+                    "652effaf8ac54740e3e3c956",
+                    "652effaf8ac54740e3e3c957",
+                    "652effaf8ac54740e3e3c958",
+                    "652effaf8ac54740e3e3c959",
+                    "652effaf8ac54740e3e3c95a",
+                    "652effaf8ac54740e3e3c95b",
+                    "652effaf8ac54740e3e3c95c",
+                    "652effaf8ac54740e3e3c95d",
+                    "652effaf8ac54740e3e3c95e",
+                    "652effaf8ac54740e3e3c95f",
+                    "652effaf8ac54740e3e3c960",
+                    "652effaf8ac54740e3e3c961",
+                    "652effaf8ac54740e3e3c962"
                 ],
-                [
-                    -111.99255425,
-                    33.07490572
+                "haids": [
+                    "643f29338ac547c4baf5c803",
+                    "643f29338ac547c4baf5c804",
+                    "643f29338ac547c4baf5c805",
+                    "643f29338ac547c4baf5c806",
+                    "643f29338ac547c4baf5c807",
+                    "643f29338ac547c4baf5c808",
+                    "643f29338ac547c4baf5c809",
+                    "643f29338ac547c4baf5c80a",
+                    "643f29338ac547c4baf5c80b",
+                    "643f29338ac547c4baf5c80c",
+                    "643f29338ac547c4baf5c80d",
+                    "643f29338ac547c4baf5c80e",
+                    "643f29338ac547c4baf5c80f",
+                    "643f29338ac547c4baf5c810",
+                    "643f29338ac547c4baf5c811",
+                    "643f29338ac547c4baf5c812",
+                    "643f29338ac547c4baf5c813",
+                    "643f29338ac547c4baf5c814",
+                    "643f29338ac547c4baf5c815",
+                    "643f29338ac547c4baf5c816",
+                    "643f29338ac547c4baf5c817",
+                    "643f29338ac547c4baf5c818",
+                    "643f29338ac547c4baf5c819",
+                    "643f29338ac547c4baf5c81a",
+                    "643f29338ac547c4baf5c81b",
+                    "643f29338ac547c4baf5c81c",
+                    "643f29338ac547c4baf5c81d",
+                    "643f29338ac547c4baf5c81e",
+                    "643f29338ac547c4baf5c81f",
+                    "643f29338ac547c4baf5c820",
+                    "643f29338ac547c4baf5c821",
+                    "643f29338ac547c4baf5c822",
+                    "643f29338ac547c4baf5c823",
+                    "643f29338ac547c4baf5c824",
+                    "643f29338ac547c4baf5c825",
+                    "643f29338ac547c4baf5c826",
+                    "643f29338ac547c4baf5c827",
+                    "643f29338ac547c4baf5c828",
+                    "643f29338ac547c4baf5c829",
+                    "643f29338ac547c4baf5c82a"
                 ],
-                [
-                    -111.99246718,
-                    33.07490641
+                "tids": [
+                    "643f2b2e8ac547c568f7a34b",
+                    "643f2b2e8ac547c568f7a34c",
+                    "643f2b2e8ac547c568f7a34d",
+                    "643f2b2e8ac547c568f7a34e",
+                    "643f2b2e8ac547c568f7a34f",
+                    "643f2b2e8ac547c568f7a350",
+                    "643f2b2e8ac547c568f7a351"
                 ],
-                [
-                    -111.99245098,
-                    33.07346338
-                ],
-                [
-                    -111.99253805,
-                    33.07346269
+                "ccids": [
+                    "643f2d738ac547c638759dd0",
+                    "643f2d738ac547c638759dd1",
+                    "643f2d738ac547c638759dd2"
                 ]
-            ]
-        ]
-    },
-    "properties": {
-        "plt_label": "p16",
-        "trt_label": "VI_B",
-        "PLT_AREA": 1300.48,
-        "CUL_NAME": "Deltapine 1044 B2RF",
-        "PDATE": "04/19/2011",
-        "HARM": "Machine",
-        "HADAT": "10/14/2011",
-        "WBWAH": 3704.8,
-        "GNDAT": "01/26/2010",
-        "FFRAC": 0.3368,
-        "SFRAC": 0.5637,
-        "TFRAC": 0.0995,
-        "WFWAH": 1247.7,
-        "WSWAH": 2088.4,
-        "WSCWAH": 3336.0,
-        "zids": [
-            "652effaf8ac54740e3e3c9ef",
-            "652effaf8ac54740e3e3c9f0",
-            "652effaf8ac54740e3e3c9f1",
-            "652effaf8ac54740e3e3c9f2",
-            "652effaf8ac54740e3e3c9f3",
-            "652effaf8ac54740e3e3c9f4",
-            "652effaf8ac54740e3e3c9f5",
-            "652effaf8ac54740e3e3c9f6",
-            "652effaf8ac54740e3e3c9f7",
-            "652effaf8ac54740e3e3c9f8",
-            "652effaf8ac54740e3e3c9f9",
-            "652effaf8ac54740e3e3c9fa",
-            "652effaf8ac54740e3e3c9fb",
-            "652effaf8ac54740e3e3c9fc",
-            "652effaf8ac54740e3e3c9fd",
-            "652effaf8ac54740e3e3c9fe",
-            "652effaf8ac54740e3e3c9ff",
-            "652effaf8ac54740e3e3ca00",
-            "652effaf8ac54740e3e3ca01",
-            "652effaf8ac54740e3e3ca02"
-        ],
-        "haids": [
-            "643f29338ac547c4baf5c943",
-            "643f29338ac547c4baf5c944",
-            "643f29338ac547c4baf5c945",
-            "643f29338ac547c4baf5c946",
-            "643f29338ac547c4baf5c947",
-            "643f29338ac547c4baf5c948",
-            "643f29338ac547c4baf5c949",
-            "643f29338ac547c4baf5c94a",
-            "643f29338ac547c4baf5c94b",
-            "643f29338ac547c4baf5c94c",
-            "643f29338ac547c4baf5c94d",
-            "643f29338ac547c4baf5c94e",
-            "643f29338ac547c4baf5c94f",
-            "643f29338ac547c4baf5c950",
-            "643f29338ac547c4baf5c951",
-            "643f29338ac547c4baf5c952",
-            "643f29338ac547c4baf5c953",
-            "643f29338ac547c4baf5c954",
-            "643f29338ac547c4baf5c955",
-            "643f29338ac547c4baf5c956",
-            "643f29338ac547c4baf5c957",
-            "643f29338ac547c4baf5c958",
-            "643f29338ac547c4baf5c959",
-            "643f29338ac547c4baf5c95a",
-            "643f29338ac547c4baf5c95b",
-            "643f29338ac547c4baf5c95c",
-            "643f29338ac547c4baf5c95d",
-            "643f29338ac547c4baf5c95e",
-            "643f29338ac547c4baf5c95f",
-            "643f29338ac547c4baf5c960",
-            "643f29338ac547c4baf5c961",
-            "643f29338ac547c4baf5c962",
-            "643f29338ac547c4baf5c963",
-            "643f29338ac547c4baf5c964",
-            "643f29338ac547c4baf5c965",
-            "643f29338ac547c4baf5c966",
-            "643f29338ac547c4baf5c967",
-            "643f29338ac547c4baf5c968",
-            "643f29338ac547c4baf5c969",
-            "643f29338ac547c4baf5c96a"
-        ],
-        "tids": [
-            "643f2b2e8ac547c568f7a383",
-            "643f2b2e8ac547c568f7a384",
-            "643f2b2e8ac547c568f7a385",
-            "643f2b2e8ac547c568f7a386",
-            "643f2b2e8ac547c568f7a387",
-            "643f2b2e8ac547c568f7a388",
-            "643f2b2e8ac547c568f7a389"
-        ],
-        "ccids": [
-            "643f2d738ac547c638759de8",
-            "643f2d738ac547c638759de9",
-            "643f2d738ac547c638759dea"
-        ]
-    },
-    "_id": "643f25fe8ac547c328e4850c",
-    "pid": "643f25fe8ac547c328e4850c"
+            },
+            "_id": "643f25fe8ac547c328e48504",
+            "pid": "643f25fe8ac547c328e48504"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.9913191,
+                            33.07347239
+                        ],
+                        [
+                            -111.99133528,
+                            33.07491541
+                        ],
+                        [
+                            -111.99124821,
+                            33.0749161
+                        ],
+                        [
+                            -111.99123203,
+                            33.07347308
+                        ],
+                        [
+                            -111.9913191,
+                            33.07347239
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "plt_label": "p09",
+                "trt_label": "FAO",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/20/2011",
+                "HARM": "Machine",
+                "HADAT": "10/12/2011",
+                "WBWAH": 4296.9,
+                "GNDAT": "01/27/2010",
+                "FFRAC": 0.3402,
+                "SFRAC": 0.5634,
+                "TFRAC": 0.0964,
+                "WFWAH": 1461.7,
+                "WSWAH": 2420.9,
+                "WSCWAH": 3882.6,
+                "zids": [
+                    "652effaf8ac54740e3e3c963",
+                    "652effaf8ac54740e3e3c964",
+                    "652effaf8ac54740e3e3c965",
+                    "652effaf8ac54740e3e3c966",
+                    "652effaf8ac54740e3e3c967",
+                    "652effaf8ac54740e3e3c968",
+                    "652effaf8ac54740e3e3c969",
+                    "652effaf8ac54740e3e3c96a",
+                    "652effaf8ac54740e3e3c96b",
+                    "652effaf8ac54740e3e3c96c",
+                    "652effaf8ac54740e3e3c96d",
+                    "652effaf8ac54740e3e3c96e",
+                    "652effaf8ac54740e3e3c96f",
+                    "652effaf8ac54740e3e3c970",
+                    "652effaf8ac54740e3e3c971",
+                    "652effaf8ac54740e3e3c972",
+                    "652effaf8ac54740e3e3c973",
+                    "652effaf8ac54740e3e3c974",
+                    "652effaf8ac54740e3e3c975",
+                    "652effaf8ac54740e3e3c976"
+                ],
+                "haids": [
+                    "643f29338ac547c4baf5c82b",
+                    "643f29338ac547c4baf5c82c",
+                    "643f29338ac547c4baf5c82d",
+                    "643f29338ac547c4baf5c82e",
+                    "643f29338ac547c4baf5c82f",
+                    "643f29338ac547c4baf5c830",
+                    "643f29338ac547c4baf5c831",
+                    "643f29338ac547c4baf5c832",
+                    "643f29338ac547c4baf5c833",
+                    "643f29338ac547c4baf5c834",
+                    "643f29338ac547c4baf5c835",
+                    "643f29338ac547c4baf5c836",
+                    "643f29338ac547c4baf5c837",
+                    "643f29338ac547c4baf5c838",
+                    "643f29338ac547c4baf5c839",
+                    "643f29338ac547c4baf5c83a",
+                    "643f29338ac547c4baf5c83b",
+                    "643f29338ac547c4baf5c83c",
+                    "643f29338ac547c4baf5c83d",
+                    "643f29338ac547c4baf5c83e",
+                    "643f29338ac547c4baf5c83f",
+                    "643f29338ac547c4baf5c840",
+                    "643f29338ac547c4baf5c841",
+                    "643f29338ac547c4baf5c842",
+                    "643f29338ac547c4baf5c843",
+                    "643f29338ac547c4baf5c844",
+                    "643f29338ac547c4baf5c845",
+                    "643f29338ac547c4baf5c846",
+                    "643f29338ac547c4baf5c847",
+                    "643f29338ac547c4baf5c848",
+                    "643f29338ac547c4baf5c849",
+                    "643f29338ac547c4baf5c84a",
+                    "643f29338ac547c4baf5c84b",
+                    "643f29338ac547c4baf5c84c",
+                    "643f29338ac547c4baf5c84d",
+                    "643f29338ac547c4baf5c84e",
+                    "643f29338ac547c4baf5c84f",
+                    "643f29338ac547c4baf5c850",
+                    "643f29338ac547c4baf5c851",
+                    "643f29338ac547c4baf5c852"
+                ],
+                "tids": [
+                    "643f2b2e8ac547c568f7a352",
+                    "643f2b2e8ac547c568f7a353",
+                    "643f2b2e8ac547c568f7a354",
+                    "643f2b2e8ac547c568f7a355",
+                    "643f2b2e8ac547c568f7a356",
+                    "643f2b2e8ac547c568f7a357",
+                    "643f2b2e8ac547c568f7a358"
+                ],
+                "ccids": [
+                    "643f2d738ac547c638759dd3",
+                    "643f2d738ac547c638759dd4",
+                    "643f2d738ac547c638759dd5"
+                ]
+            },
+            "_id": "643f25fe8ac547c328e48505",
+            "pid": "643f25fe8ac547c328e48505"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99147147,
+                            33.07347117
+                        ],
+                        [
+                            -111.99148765,
+                            33.0749142
+                        ],
+                        [
+                            -111.99140058,
+                            33.07491489
+                        ],
+                        [
+                            -111.9913844,
+                            33.07347187
+                        ],
+                        [
+                            -111.99147147,
+                            33.07347117
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "plt_label": "p10",
+                "trt_label": "VI_B",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/20/2011",
+                "HARM": "Machine",
+                "HADAT": "10/12/2011",
+                "WBWAH": 5825.4,
+                "GNDAT": "01/26/2010",
+                "FFRAC": 0.3302,
+                "SFRAC": 0.5665,
+                "TFRAC": 0.1033,
+                "WFWAH": 1923.7,
+                "WSWAH": 3299.9,
+                "WSCWAH": 5223.6,
+                "zids": [
+                    "652effaf8ac54740e3e3c977",
+                    "652effaf8ac54740e3e3c978",
+                    "652effaf8ac54740e3e3c979",
+                    "652effaf8ac54740e3e3c97a",
+                    "652effaf8ac54740e3e3c97b",
+                    "652effaf8ac54740e3e3c97c",
+                    "652effaf8ac54740e3e3c97d",
+                    "652effaf8ac54740e3e3c97e",
+                    "652effaf8ac54740e3e3c97f",
+                    "652effaf8ac54740e3e3c980",
+                    "652effaf8ac54740e3e3c981",
+                    "652effaf8ac54740e3e3c982",
+                    "652effaf8ac54740e3e3c983",
+                    "652effaf8ac54740e3e3c984",
+                    "652effaf8ac54740e3e3c985",
+                    "652effaf8ac54740e3e3c986",
+                    "652effaf8ac54740e3e3c987",
+                    "652effaf8ac54740e3e3c988",
+                    "652effaf8ac54740e3e3c989",
+                    "652effaf8ac54740e3e3c98a"
+                ],
+                "haids": [
+                    "643f29338ac547c4baf5c853",
+                    "643f29338ac547c4baf5c854",
+                    "643f29338ac547c4baf5c855",
+                    "643f29338ac547c4baf5c856",
+                    "643f29338ac547c4baf5c857",
+                    "643f29338ac547c4baf5c858",
+                    "643f29338ac547c4baf5c859",
+                    "643f29338ac547c4baf5c85a",
+                    "643f29338ac547c4baf5c85b",
+                    "643f29338ac547c4baf5c85c",
+                    "643f29338ac547c4baf5c85d",
+                    "643f29338ac547c4baf5c85e",
+                    "643f29338ac547c4baf5c85f",
+                    "643f29338ac547c4baf5c860",
+                    "643f29338ac547c4baf5c861",
+                    "643f29338ac547c4baf5c862",
+                    "643f29338ac547c4baf5c863",
+                    "643f29338ac547c4baf5c864",
+                    "643f29338ac547c4baf5c865",
+                    "643f29338ac547c4baf5c866",
+                    "643f29338ac547c4baf5c867",
+                    "643f29338ac547c4baf5c868",
+                    "643f29338ac547c4baf5c869",
+                    "643f29338ac547c4baf5c86a",
+                    "643f29338ac547c4baf5c86b",
+                    "643f29338ac547c4baf5c86c",
+                    "643f29338ac547c4baf5c86d",
+                    "643f29338ac547c4baf5c86e",
+                    "643f29338ac547c4baf5c86f",
+                    "643f29338ac547c4baf5c870",
+                    "643f29338ac547c4baf5c871",
+                    "643f29338ac547c4baf5c872",
+                    "643f29338ac547c4baf5c873",
+                    "643f29338ac547c4baf5c874",
+                    "643f29338ac547c4baf5c875",
+                    "643f29338ac547c4baf5c876",
+                    "643f29338ac547c4baf5c877",
+                    "643f29338ac547c4baf5c878",
+                    "643f29338ac547c4baf5c879",
+                    "643f29338ac547c4baf5c87a"
+                ],
+                "tids": [
+                    "643f2b2e8ac547c568f7a359",
+                    "643f2b2e8ac547c568f7a35a",
+                    "643f2b2e8ac547c568f7a35b",
+                    "643f2b2e8ac547c568f7a35c",
+                    "643f2b2e8ac547c568f7a35d",
+                    "643f2b2e8ac547c568f7a35e",
+                    "643f2b2e8ac547c568f7a35f"
+                ],
+                "ccids": [
+                    "643f2d738ac547c638759dd6",
+                    "643f2d738ac547c638759dd7",
+                    "643f2d738ac547c638759dd8"
+                ]
+            },
+            "_id": "643f25fe8ac547c328e48506",
+            "pid": "643f25fe8ac547c328e48506"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99162384,
+                            33.07346996
+                        ],
+                        [
+                            -111.99164003,
+                            33.07491299
+                        ],
+                        [
+                            -111.99155296,
+                            33.07491368
+                        ],
+                        [
+                            -111.99153677,
+                            33.07347066
+                        ],
+                        [
+                            -111.99162384,
+                            33.07346996
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "plt_label": "p11",
+                "trt_label": "MAC",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/20/2011",
+                "HARM": "Machine",
+                "HADAT": "10/13/2011",
+                "WBWAH": 5238.7,
+                "GNDAT": "01/22/2010",
+                "FFRAC": 0.3348,
+                "SFRAC": 0.5669,
+                "TFRAC": 0.0984,
+                "WFWAH": 1753.7,
+                "WSWAH": 2969.7,
+                "WSCWAH": 4723.4,
+                "zids": [
+                    "652effaf8ac54740e3e3c98b",
+                    "652effaf8ac54740e3e3c98c",
+                    "652effaf8ac54740e3e3c98d",
+                    "652effaf8ac54740e3e3c98e",
+                    "652effaf8ac54740e3e3c98f",
+                    "652effaf8ac54740e3e3c990",
+                    "652effaf8ac54740e3e3c991",
+                    "652effaf8ac54740e3e3c992",
+                    "652effaf8ac54740e3e3c993",
+                    "652effaf8ac54740e3e3c994",
+                    "652effaf8ac54740e3e3c995",
+                    "652effaf8ac54740e3e3c996",
+                    "652effaf8ac54740e3e3c997",
+                    "652effaf8ac54740e3e3c998",
+                    "652effaf8ac54740e3e3c999",
+                    "652effaf8ac54740e3e3c99a",
+                    "652effaf8ac54740e3e3c99b",
+                    "652effaf8ac54740e3e3c99c",
+                    "652effaf8ac54740e3e3c99d",
+                    "652effaf8ac54740e3e3c99e"
+                ],
+                "haids": [
+                    "643f29338ac547c4baf5c87b",
+                    "643f29338ac547c4baf5c87c",
+                    "643f29338ac547c4baf5c87d",
+                    "643f29338ac547c4baf5c87e",
+                    "643f29338ac547c4baf5c87f",
+                    "643f29338ac547c4baf5c880",
+                    "643f29338ac547c4baf5c881",
+                    "643f29338ac547c4baf5c882",
+                    "643f29338ac547c4baf5c883",
+                    "643f29338ac547c4baf5c884",
+                    "643f29338ac547c4baf5c885",
+                    "643f29338ac547c4baf5c886",
+                    "643f29338ac547c4baf5c887",
+                    "643f29338ac547c4baf5c888",
+                    "643f29338ac547c4baf5c889",
+                    "643f29338ac547c4baf5c88a",
+                    "643f29338ac547c4baf5c88b",
+                    "643f29338ac547c4baf5c88c",
+                    "643f29338ac547c4baf5c88d",
+                    "643f29338ac547c4baf5c88e",
+                    "643f29338ac547c4baf5c88f",
+                    "643f29338ac547c4baf5c890",
+                    "643f29338ac547c4baf5c891",
+                    "643f29338ac547c4baf5c892",
+                    "643f29338ac547c4baf5c893",
+                    "643f29338ac547c4baf5c894",
+                    "643f29338ac547c4baf5c895",
+                    "643f29338ac547c4baf5c896",
+                    "643f29338ac547c4baf5c897",
+                    "643f29338ac547c4baf5c898",
+                    "643f29338ac547c4baf5c899",
+                    "643f29338ac547c4baf5c89a",
+                    "643f29338ac547c4baf5c89b",
+                    "643f29338ac547c4baf5c89c",
+                    "643f29338ac547c4baf5c89d",
+                    "643f29338ac547c4baf5c89e",
+                    "643f29338ac547c4baf5c89f",
+                    "643f29338ac547c4baf5c8a0",
+                    "643f29338ac547c4baf5c8a1",
+                    "643f29338ac547c4baf5c8a2"
+                ],
+                "tids": [
+                    "643f2b2e8ac547c568f7a360",
+                    "643f2b2e8ac547c568f7a361",
+                    "643f2b2e8ac547c568f7a362",
+                    "643f2b2e8ac547c568f7a363",
+                    "643f2b2e8ac547c568f7a364",
+                    "643f2b2e8ac547c568f7a365",
+                    "643f2b2e8ac547c568f7a366"
+                ],
+                "ccids": [
+                    "643f2d738ac547c638759dd9",
+                    "643f2d738ac547c638759dda",
+                    "643f2d738ac547c638759ddb"
+                ]
+            },
+            "_id": "643f25fe8ac547c328e48507",
+            "pid": "643f25fe8ac547c328e48507"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.9917762,
+                            33.07346875
+                        ],
+                        [
+                            -111.9917924,
+                            33.07491178
+                        ],
+                        [
+                            -111.99170533,
+                            33.07491247
+                        ],
+                        [
+                            -111.99168914,
+                            33.07346944
+                        ],
+                        [
+                            -111.9917762,
+                            33.07346875
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "plt_label": "p12",
+                "trt_label": "VI_A",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/19/2011",
+                "HARM": "Machine",
+                "HADAT": "10/13/2011",
+                "WBWAH": 4252.9,
+                "GNDAT": "01/22/2010",
+                "FFRAC": 0.3251,
+                "SFRAC": 0.5741,
+                "TFRAC": 0.1008,
+                "WFWAH": 1382.6,
+                "WSWAH": 2441.7,
+                "WSCWAH": 3824.4,
+                "zids": [
+                    "652effaf8ac54740e3e3c99f",
+                    "652effaf8ac54740e3e3c9a0",
+                    "652effaf8ac54740e3e3c9a1",
+                    "652effaf8ac54740e3e3c9a2",
+                    "652effaf8ac54740e3e3c9a3",
+                    "652effaf8ac54740e3e3c9a4",
+                    "652effaf8ac54740e3e3c9a5",
+                    "652effaf8ac54740e3e3c9a6",
+                    "652effaf8ac54740e3e3c9a7",
+                    "652effaf8ac54740e3e3c9a8",
+                    "652effaf8ac54740e3e3c9a9",
+                    "652effaf8ac54740e3e3c9aa",
+                    "652effaf8ac54740e3e3c9ab",
+                    "652effaf8ac54740e3e3c9ac",
+                    "652effaf8ac54740e3e3c9ad",
+                    "652effaf8ac54740e3e3c9ae",
+                    "652effaf8ac54740e3e3c9af",
+                    "652effaf8ac54740e3e3c9b0",
+                    "652effaf8ac54740e3e3c9b1",
+                    "652effaf8ac54740e3e3c9b2"
+                ],
+                "haids": [
+                    "643f29338ac547c4baf5c8a3",
+                    "643f29338ac547c4baf5c8a4",
+                    "643f29338ac547c4baf5c8a5",
+                    "643f29338ac547c4baf5c8a6",
+                    "643f29338ac547c4baf5c8a7",
+                    "643f29338ac547c4baf5c8a8",
+                    "643f29338ac547c4baf5c8a9",
+                    "643f29338ac547c4baf5c8aa",
+                    "643f29338ac547c4baf5c8ab",
+                    "643f29338ac547c4baf5c8ac",
+                    "643f29338ac547c4baf5c8ad",
+                    "643f29338ac547c4baf5c8ae",
+                    "643f29338ac547c4baf5c8af",
+                    "643f29338ac547c4baf5c8b0",
+                    "643f29338ac547c4baf5c8b1",
+                    "643f29338ac547c4baf5c8b2",
+                    "643f29338ac547c4baf5c8b3",
+                    "643f29338ac547c4baf5c8b4",
+                    "643f29338ac547c4baf5c8b5",
+                    "643f29338ac547c4baf5c8b6",
+                    "643f29338ac547c4baf5c8b7",
+                    "643f29338ac547c4baf5c8b8",
+                    "643f29338ac547c4baf5c8b9",
+                    "643f29338ac547c4baf5c8ba",
+                    "643f29338ac547c4baf5c8bb",
+                    "643f29338ac547c4baf5c8bc",
+                    "643f29338ac547c4baf5c8bd",
+                    "643f29338ac547c4baf5c8be",
+                    "643f29338ac547c4baf5c8bf",
+                    "643f29338ac547c4baf5c8c0",
+                    "643f29338ac547c4baf5c8c1",
+                    "643f29338ac547c4baf5c8c2",
+                    "643f29338ac547c4baf5c8c3",
+                    "643f29338ac547c4baf5c8c4",
+                    "643f29338ac547c4baf5c8c5",
+                    "643f29338ac547c4baf5c8c6",
+                    "643f29338ac547c4baf5c8c7",
+                    "643f29338ac547c4baf5c8c8",
+                    "643f29338ac547c4baf5c8c9",
+                    "643f29338ac547c4baf5c8ca"
+                ],
+                "tids": [
+                    "643f2b2e8ac547c568f7a367",
+                    "643f2b2e8ac547c568f7a368",
+                    "643f2b2e8ac547c568f7a369",
+                    "643f2b2e8ac547c568f7a36a",
+                    "643f2b2e8ac547c568f7a36b",
+                    "643f2b2e8ac547c568f7a36c",
+                    "643f2b2e8ac547c568f7a36d"
+                ],
+                "ccids": [
+                    "643f2d738ac547c638759ddc",
+                    "643f2d738ac547c638759ddd",
+                    "643f2d738ac547c638759dde"
+                ]
+            },
+            "_id": "643f25fe8ac547c328e48508",
+            "pid": "643f25fe8ac547c328e48508"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99208094,
+                            33.07346633
+                        ],
+                        [
+                            -111.99209714,
+                            33.07490935
+                        ],
+                        [
+                            -111.99201007,
+                            33.07491005
+                        ],
+                        [
+                            -111.99199387,
+                            33.07346702
+                        ],
+                        [
+                            -111.99208094,
+                            33.07346633
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "plt_label": "p13",
+                "trt_label": "FAO",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/19/2011",
+                "HARM": "Machine",
+                "HADAT": "10/13/2011",
+                "WBWAH": 4445.3,
+                "GNDAT": "01/26/2010",
+                "FFRAC": 0.3353,
+                "SFRAC": 0.5778,
+                "TFRAC": 0.0869,
+                "WFWAH": 1490.4,
+                "WSWAH": 2568.5,
+                "WSCWAH": 4058.9,
+                "zids": [
+                    "652effaf8ac54740e3e3c9b3",
+                    "652effaf8ac54740e3e3c9b4",
+                    "652effaf8ac54740e3e3c9b5",
+                    "652effaf8ac54740e3e3c9b6",
+                    "652effaf8ac54740e3e3c9b7",
+                    "652effaf8ac54740e3e3c9b8",
+                    "652effaf8ac54740e3e3c9b9",
+                    "652effaf8ac54740e3e3c9ba",
+                    "652effaf8ac54740e3e3c9bb",
+                    "652effaf8ac54740e3e3c9bc",
+                    "652effaf8ac54740e3e3c9bd",
+                    "652effaf8ac54740e3e3c9be",
+                    "652effaf8ac54740e3e3c9bf",
+                    "652effaf8ac54740e3e3c9c0",
+                    "652effaf8ac54740e3e3c9c1",
+                    "652effaf8ac54740e3e3c9c2",
+                    "652effaf8ac54740e3e3c9c3",
+                    "652effaf8ac54740e3e3c9c4",
+                    "652effaf8ac54740e3e3c9c5",
+                    "652effaf8ac54740e3e3c9c6"
+                ],
+                "haids": [
+                    "643f29338ac547c4baf5c8cb",
+                    "643f29338ac547c4baf5c8cc",
+                    "643f29338ac547c4baf5c8cd",
+                    "643f29338ac547c4baf5c8ce",
+                    "643f29338ac547c4baf5c8cf",
+                    "643f29338ac547c4baf5c8d0",
+                    "643f29338ac547c4baf5c8d1",
+                    "643f29338ac547c4baf5c8d2",
+                    "643f29338ac547c4baf5c8d3",
+                    "643f29338ac547c4baf5c8d4",
+                    "643f29338ac547c4baf5c8d5",
+                    "643f29338ac547c4baf5c8d6",
+                    "643f29338ac547c4baf5c8d7",
+                    "643f29338ac547c4baf5c8d8",
+                    "643f29338ac547c4baf5c8d9",
+                    "643f29338ac547c4baf5c8da",
+                    "643f29338ac547c4baf5c8db",
+                    "643f29338ac547c4baf5c8dc",
+                    "643f29338ac547c4baf5c8dd",
+                    "643f29338ac547c4baf5c8de",
+                    "643f29338ac547c4baf5c8df",
+                    "643f29338ac547c4baf5c8e0",
+                    "643f29338ac547c4baf5c8e1",
+                    "643f29338ac547c4baf5c8e2",
+                    "643f29338ac547c4baf5c8e3",
+                    "643f29338ac547c4baf5c8e4",
+                    "643f29338ac547c4baf5c8e5",
+                    "643f29338ac547c4baf5c8e6",
+                    "643f29338ac547c4baf5c8e7",
+                    "643f29338ac547c4baf5c8e8",
+                    "643f29338ac547c4baf5c8e9",
+                    "643f29338ac547c4baf5c8ea",
+                    "643f29338ac547c4baf5c8eb",
+                    "643f29338ac547c4baf5c8ec",
+                    "643f29338ac547c4baf5c8ed",
+                    "643f29338ac547c4baf5c8ee",
+                    "643f29338ac547c4baf5c8ef",
+                    "643f29338ac547c4baf5c8f0",
+                    "643f29338ac547c4baf5c8f1",
+                    "643f29338ac547c4baf5c8f2"
+                ],
+                "tids": [
+                    "643f2b2e8ac547c568f7a36e",
+                    "643f2b2e8ac547c568f7a36f",
+                    "643f2b2e8ac547c568f7a370",
+                    "643f2b2e8ac547c568f7a371",
+                    "643f2b2e8ac547c568f7a372",
+                    "643f2b2e8ac547c568f7a373",
+                    "643f2b2e8ac547c568f7a374"
+                ],
+                "ccids": [
+                    "643f2d738ac547c638759ddf",
+                    "643f2d738ac547c638759de0",
+                    "643f2d738ac547c638759de1"
+                ]
+            },
+            "_id": "643f25fe8ac547c328e48509",
+            "pid": "643f25fe8ac547c328e48509"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99223331,
+                            33.07346511
+                        ],
+                        [
+                            -111.99224951,
+                            33.07490814
+                        ],
+                        [
+                            -111.99216244,
+                            33.07490883
+                        ],
+                        [
+                            -111.99214624,
+                            33.07346581
+                        ],
+                        [
+                            -111.99223331,
+                            33.07346511
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "plt_label": "p14",
+                "trt_label": "VI_A",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/19/2011",
+                "HARM": "Machine",
+                "HADAT": "10/13/2011",
+                "WBWAH": 4418.7,
+                "GNDAT": "01/26/2010",
+                "FFRAC": 0.3297,
+                "SFRAC": 0.5852,
+                "TFRAC": 0.0851,
+                "WFWAH": 1457.0,
+                "WSWAH": 2585.7,
+                "WSCWAH": 4042.7,
+                "zids": [
+                    "652effaf8ac54740e3e3c9c7",
+                    "652effaf8ac54740e3e3c9c8",
+                    "652effaf8ac54740e3e3c9c9",
+                    "652effaf8ac54740e3e3c9ca",
+                    "652effaf8ac54740e3e3c9cb",
+                    "652effaf8ac54740e3e3c9cc",
+                    "652effaf8ac54740e3e3c9cd",
+                    "652effaf8ac54740e3e3c9ce",
+                    "652effaf8ac54740e3e3c9cf",
+                    "652effaf8ac54740e3e3c9d0",
+                    "652effaf8ac54740e3e3c9d1",
+                    "652effaf8ac54740e3e3c9d2",
+                    "652effaf8ac54740e3e3c9d3",
+                    "652effaf8ac54740e3e3c9d4",
+                    "652effaf8ac54740e3e3c9d5",
+                    "652effaf8ac54740e3e3c9d6",
+                    "652effaf8ac54740e3e3c9d7",
+                    "652effaf8ac54740e3e3c9d8",
+                    "652effaf8ac54740e3e3c9d9",
+                    "652effaf8ac54740e3e3c9da"
+                ],
+                "haids": [
+                    "643f29338ac547c4baf5c8f3",
+                    "643f29338ac547c4baf5c8f4",
+                    "643f29338ac547c4baf5c8f5",
+                    "643f29338ac547c4baf5c8f6",
+                    "643f29338ac547c4baf5c8f7",
+                    "643f29338ac547c4baf5c8f8",
+                    "643f29338ac547c4baf5c8f9",
+                    "643f29338ac547c4baf5c8fa",
+                    "643f29338ac547c4baf5c8fb",
+                    "643f29338ac547c4baf5c8fc",
+                    "643f29338ac547c4baf5c8fd",
+                    "643f29338ac547c4baf5c8fe",
+                    "643f29338ac547c4baf5c8ff",
+                    "643f29338ac547c4baf5c900",
+                    "643f29338ac547c4baf5c901",
+                    "643f29338ac547c4baf5c902",
+                    "643f29338ac547c4baf5c903",
+                    "643f29338ac547c4baf5c904",
+                    "643f29338ac547c4baf5c905",
+                    "643f29338ac547c4baf5c906",
+                    "643f29338ac547c4baf5c907",
+                    "643f29338ac547c4baf5c908",
+                    "643f29338ac547c4baf5c909",
+                    "643f29338ac547c4baf5c90a",
+                    "643f29338ac547c4baf5c90b",
+                    "643f29338ac547c4baf5c90c",
+                    "643f29338ac547c4baf5c90d",
+                    "643f29338ac547c4baf5c90e",
+                    "643f29338ac547c4baf5c90f",
+                    "643f29338ac547c4baf5c910",
+                    "643f29338ac547c4baf5c911",
+                    "643f29338ac547c4baf5c912",
+                    "643f29338ac547c4baf5c913",
+                    "643f29338ac547c4baf5c914",
+                    "643f29338ac547c4baf5c915",
+                    "643f29338ac547c4baf5c916",
+                    "643f29338ac547c4baf5c917",
+                    "643f29338ac547c4baf5c918",
+                    "643f29338ac547c4baf5c919",
+                    "643f29338ac547c4baf5c91a"
+                ],
+                "tids": [
+                    "643f2b2e8ac547c568f7a375",
+                    "643f2b2e8ac547c568f7a376",
+                    "643f2b2e8ac547c568f7a377",
+                    "643f2b2e8ac547c568f7a378",
+                    "643f2b2e8ac547c568f7a379",
+                    "643f2b2e8ac547c568f7a37a",
+                    "643f2b2e8ac547c568f7a37b"
+                ],
+                "ccids": [
+                    "643f2d738ac547c638759de2",
+                    "643f2d738ac547c638759de3",
+                    "643f2d738ac547c638759de4"
+                ]
+            },
+            "_id": "643f25fe8ac547c328e4850a",
+            "pid": "643f25fe8ac547c328e4850a"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99238568,
+                            33.0734639
+                        ],
+                        [
+                            -111.99240188,
+                            33.07490693
+                        ],
+                        [
+                            -111.99231481,
+                            33.07490762
+                        ],
+                        [
+                            -111.99229861,
+                            33.07346459
+                        ],
+                        [
+                            -111.99238568,
+                            33.0734639
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "plt_label": "p15",
+                "trt_label": "MAC",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/19/2011",
+                "HARM": "Machine",
+                "HADAT": "10/14/2011",
+                "WBWAH": 5044.8,
+                "GNDAT": "01/26/2010",
+                "FFRAC": 0.3374,
+                "SFRAC": 0.5591,
+                "TFRAC": 0.1035,
+                "WFWAH": 1702.4,
+                "WSWAH": 2820.3,
+                "WSCWAH": 4522.7,
+                "zids": [
+                    "652effaf8ac54740e3e3c9db",
+                    "652effaf8ac54740e3e3c9dc",
+                    "652effaf8ac54740e3e3c9dd",
+                    "652effaf8ac54740e3e3c9de",
+                    "652effaf8ac54740e3e3c9df",
+                    "652effaf8ac54740e3e3c9e0",
+                    "652effaf8ac54740e3e3c9e1",
+                    "652effaf8ac54740e3e3c9e2",
+                    "652effaf8ac54740e3e3c9e3",
+                    "652effaf8ac54740e3e3c9e4",
+                    "652effaf8ac54740e3e3c9e5",
+                    "652effaf8ac54740e3e3c9e6",
+                    "652effaf8ac54740e3e3c9e7",
+                    "652effaf8ac54740e3e3c9e8",
+                    "652effaf8ac54740e3e3c9e9",
+                    "652effaf8ac54740e3e3c9ea",
+                    "652effaf8ac54740e3e3c9eb",
+                    "652effaf8ac54740e3e3c9ec",
+                    "652effaf8ac54740e3e3c9ed",
+                    "652effaf8ac54740e3e3c9ee"
+                ],
+                "haids": [
+                    "643f29338ac547c4baf5c91b",
+                    "643f29338ac547c4baf5c91c",
+                    "643f29338ac547c4baf5c91d",
+                    "643f29338ac547c4baf5c91e",
+                    "643f29338ac547c4baf5c91f",
+                    "643f29338ac547c4baf5c920",
+                    "643f29338ac547c4baf5c921",
+                    "643f29338ac547c4baf5c922",
+                    "643f29338ac547c4baf5c923",
+                    "643f29338ac547c4baf5c924",
+                    "643f29338ac547c4baf5c925",
+                    "643f29338ac547c4baf5c926",
+                    "643f29338ac547c4baf5c927",
+                    "643f29338ac547c4baf5c928",
+                    "643f29338ac547c4baf5c929",
+                    "643f29338ac547c4baf5c92a",
+                    "643f29338ac547c4baf5c92b",
+                    "643f29338ac547c4baf5c92c",
+                    "643f29338ac547c4baf5c92d",
+                    "643f29338ac547c4baf5c92e",
+                    "643f29338ac547c4baf5c92f",
+                    "643f29338ac547c4baf5c930",
+                    "643f29338ac547c4baf5c931",
+                    "643f29338ac547c4baf5c932",
+                    "643f29338ac547c4baf5c933",
+                    "643f29338ac547c4baf5c934",
+                    "643f29338ac547c4baf5c935",
+                    "643f29338ac547c4baf5c936",
+                    "643f29338ac547c4baf5c937",
+                    "643f29338ac547c4baf5c938",
+                    "643f29338ac547c4baf5c939",
+                    "643f29338ac547c4baf5c93a",
+                    "643f29338ac547c4baf5c93b",
+                    "643f29338ac547c4baf5c93c",
+                    "643f29338ac547c4baf5c93d",
+                    "643f29338ac547c4baf5c93e",
+                    "643f29338ac547c4baf5c93f",
+                    "643f29338ac547c4baf5c940",
+                    "643f29338ac547c4baf5c941",
+                    "643f29338ac547c4baf5c942"
+                ],
+                "tids": [
+                    "643f2b2e8ac547c568f7a37c",
+                    "643f2b2e8ac547c568f7a37d",
+                    "643f2b2e8ac547c568f7a37e",
+                    "643f2b2e8ac547c568f7a37f",
+                    "643f2b2e8ac547c568f7a380",
+                    "643f2b2e8ac547c568f7a381",
+                    "643f2b2e8ac547c568f7a382"
+                ],
+                "ccids": [
+                    "643f2d738ac547c638759de5",
+                    "643f2d738ac547c638759de6",
+                    "643f2d738ac547c638759de7"
+                ]
+            },
+            "_id": "643f25fe8ac547c328e4850b",
+            "pid": "643f25fe8ac547c328e4850b"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.99253805,
+                            33.07346269
+                        ],
+                        [
+                            -111.99255425,
+                            33.07490572
+                        ],
+                        [
+                            -111.99246718,
+                            33.07490641
+                        ],
+                        [
+                            -111.99245098,
+                            33.07346338
+                        ],
+                        [
+                            -111.99253805,
+                            33.07346269
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "plt_label": "p16",
+                "trt_label": "VI_B",
+                "PLT_AREA": 1300.48,
+                "CUL_NAME": "Deltapine 1044 B2RF",
+                "PDATE": "04/19/2011",
+                "HARM": "Machine",
+                "HADAT": "10/14/2011",
+                "WBWAH": 3704.8,
+                "GNDAT": "01/26/2010",
+                "FFRAC": 0.3368,
+                "SFRAC": 0.5637,
+                "TFRAC": 0.0995,
+                "WFWAH": 1247.7,
+                "WSWAH": 2088.4,
+                "WSCWAH": 3336.0,
+                "zids": [
+                    "652effaf8ac54740e3e3c9ef",
+                    "652effaf8ac54740e3e3c9f0",
+                    "652effaf8ac54740e3e3c9f1",
+                    "652effaf8ac54740e3e3c9f2",
+                    "652effaf8ac54740e3e3c9f3",
+                    "652effaf8ac54740e3e3c9f4",
+                    "652effaf8ac54740e3e3c9f5",
+                    "652effaf8ac54740e3e3c9f6",
+                    "652effaf8ac54740e3e3c9f7",
+                    "652effaf8ac54740e3e3c9f8",
+                    "652effaf8ac54740e3e3c9f9",
+                    "652effaf8ac54740e3e3c9fa",
+                    "652effaf8ac54740e3e3c9fb",
+                    "652effaf8ac54740e3e3c9fc",
+                    "652effaf8ac54740e3e3c9fd",
+                    "652effaf8ac54740e3e3c9fe",
+                    "652effaf8ac54740e3e3c9ff",
+                    "652effaf8ac54740e3e3ca00",
+                    "652effaf8ac54740e3e3ca01",
+                    "652effaf8ac54740e3e3ca02"
+                ],
+                "haids": [
+                    "643f29338ac547c4baf5c943",
+                    "643f29338ac547c4baf5c944",
+                    "643f29338ac547c4baf5c945",
+                    "643f29338ac547c4baf5c946",
+                    "643f29338ac547c4baf5c947",
+                    "643f29338ac547c4baf5c948",
+                    "643f29338ac547c4baf5c949",
+                    "643f29338ac547c4baf5c94a",
+                    "643f29338ac547c4baf5c94b",
+                    "643f29338ac547c4baf5c94c",
+                    "643f29338ac547c4baf5c94d",
+                    "643f29338ac547c4baf5c94e",
+                    "643f29338ac547c4baf5c94f",
+                    "643f29338ac547c4baf5c950",
+                    "643f29338ac547c4baf5c951",
+                    "643f29338ac547c4baf5c952",
+                    "643f29338ac547c4baf5c953",
+                    "643f29338ac547c4baf5c954",
+                    "643f29338ac547c4baf5c955",
+                    "643f29338ac547c4baf5c956",
+                    "643f29338ac547c4baf5c957",
+                    "643f29338ac547c4baf5c958",
+                    "643f29338ac547c4baf5c959",
+                    "643f29338ac547c4baf5c95a",
+                    "643f29338ac547c4baf5c95b",
+                    "643f29338ac547c4baf5c95c",
+                    "643f29338ac547c4baf5c95d",
+                    "643f29338ac547c4baf5c95e",
+                    "643f29338ac547c4baf5c95f",
+                    "643f29338ac547c4baf5c960",
+                    "643f29338ac547c4baf5c961",
+                    "643f29338ac547c4baf5c962",
+                    "643f29338ac547c4baf5c963",
+                    "643f29338ac547c4baf5c964",
+                    "643f29338ac547c4baf5c965",
+                    "643f29338ac547c4baf5c966",
+                    "643f29338ac547c4baf5c967",
+                    "643f29338ac547c4baf5c968",
+                    "643f29338ac547c4baf5c969",
+                    "643f29338ac547c4baf5c96a"
+                ],
+                "tids": [
+                    "643f2b2e8ac547c568f7a383",
+                    "643f2b2e8ac547c568f7a384",
+                    "643f2b2e8ac547c568f7a385",
+                    "643f2b2e8ac547c568f7a386",
+                    "643f2b2e8ac547c568f7a387",
+                    "643f2b2e8ac547c568f7a388",
+                    "643f2b2e8ac547c568f7a389"
+                ],
+                "ccids": [
+                    "643f2d738ac547c638759de8",
+                    "643f2d738ac547c638759de9",
+                    "643f2d738ac547c638759dea"
+                ]
+            },
+            "_id": "643f25fe8ac547c328e4850c",
+            "pid": "643f25fe8ac547c328e4850c"
+        }
+    ]
 }

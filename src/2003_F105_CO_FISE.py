@@ -8,6 +8,7 @@ import neutronswc
 import cropcanopy
 import pandas as pd
 from osgeo import ogr
+import geojson
 
 fname = os.path.basename(__file__)
 fname = os.path.splitext(fname)[0]
@@ -221,18 +222,24 @@ for feature in layer:
 
 ########################################################################
 #Write geojson files
-f = open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w')
-f.write(myexp.__str__())
+fc = geojson.FeatureCollection([myexp.doc])
+with open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
 f.close()
 
-f = open('../geojson/'+fname+'/'+fname+'_plots.geojson','w')
+features = list()
 for myplot in plots:
-    f.write(myplot.__str__())
+    features.append(myplot.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_plots.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
 f.close()
 
-f = open('../geojson/'+fname+'/'+fname+'_neutronswc.geojson','w')
+features = list()
 for mytube in tubes:
-    f.write(mytube.__str__())
+    features.append(mytube.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_neutronswc.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
 f.close()
-
 ########################################################################

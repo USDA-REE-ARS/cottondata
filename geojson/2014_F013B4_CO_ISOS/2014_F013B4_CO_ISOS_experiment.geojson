@@ -1,114 +1,119 @@
 {
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.97526552,
-                    33.07834144
-                ],
-                [
-                    -111.97855261,
-                    33.07835781
-                ],
-                [
-                    -111.97854159,
-                    33.07993851
-                ],
-                [
-                    -111.9747102,
-                    33.07991942
-                ],
-                [
-                    -111.97472066,
-                    33.0784289
-                ],
-                [
-                    -111.97526552,
-                    33.07834144
-                ]
-            ]
-        ]
-    },
-    "properties": {
-        "exp_label": "2014_F013B4_CO_ISOS",
-        "trt_info": [
-            {
-                "trt_label": "FAO",
-                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model",
-                "pids": [
-                    "64381c2f8ac547ec9067a09c",
-                    "64381c2f8ac547ec9067a0a4"
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.97526552,
+                            33.07834144
+                        ],
+                        [
+                            -111.97855261,
+                            33.07835781
+                        ],
+                        [
+                            -111.97854159,
+                            33.07993851
+                        ],
+                        [
+                            -111.9747102,
+                            33.07991942
+                        ],
+                        [
+                            -111.97472066,
+                            33.0784289
+                        ],
+                        [
+                            -111.97526552,
+                            33.07834144
+                        ]
+                    ]
                 ]
             },
-            {
-                "trt_label": "CropMod",
-                "description": "Irrigation scheduling via the DSSAT CSM-CROPGRO-Cotton model",
-                "pids": [
-                    "64381c2f8ac547ec9067a09d",
-                    "64381c2f8ac547ec9067a0a1",
-                    "64381c2f8ac547ec9067a0a5"
-                ]
+            "properties": {
+                "exp_label": "2014_F013B4_CO_ISOS",
+                "trt_info": [
+                    {
+                        "trt_label": "FAO",
+                        "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model",
+                        "pids": [
+                            "64381c2f8ac547ec9067a09c",
+                            "64381c2f8ac547ec9067a0a4"
+                        ]
+                    },
+                    {
+                        "trt_label": "CropMod",
+                        "description": "Irrigation scheduling via the DSSAT CSM-CROPGRO-Cotton model",
+                        "pids": [
+                            "64381c2f8ac547ec9067a09d",
+                            "64381c2f8ac547ec9067a0a1",
+                            "64381c2f8ac547ec9067a0a5"
+                        ]
+                    },
+                    {
+                        "trt_label": "SEB",
+                        "description": "Irrigation scheduling via a surface energy balance model (unrealized)",
+                        "pids": [
+                            "64381c2f8ac547ec9067a09e",
+                            "64381c2f8ac547ec9067a0a2"
+                        ]
+                    },
+                    {
+                        "trt_label": "NDVI",
+                        "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with Kcb from remotely sensed NDVI (unrealized)",
+                        "pids": [
+                            "64381c2f8ac547ec9067a09f",
+                            "64381c2f8ac547ec9067a0a3"
+                        ]
+                    },
+                    {
+                        "trt_label": "Stress",
+                        "description": "Water stressed treatment with 30%% of the FAO irrigation amount",
+                        "pids": [
+                            "64381c2f8ac547ec9067a09b",
+                            "64381c2f8ac547ec9067a0a0"
+                        ]
+                    }
+                ],
+                "EXP_AREA": 62424.763672,
+                "EXNAME": "Irrigation scheduling methods for overhead sprinkler, Season 1 of 2",
+                "OBJECTIVES": "See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323",
+                "EXP_NARR": "See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323",
+                "MAIN_FACTOR": "Irrigation scheduling method: stand-alone models versus soil water assisted models",
+                "FACTORS": "Six irrigation scheduling methods and two cotton varieties",
+                "TRT_NO": 5,
+                "REP_NO": 2,
+                "METHODS": "See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323",
+                "EXPER_TYPE": "ET001",
+                "SITE_NAME": "Maricopa Agricultural Center, Field 13, Bench 4",
+                "SITE_TYPE": "ST001",
+                "MGMT_TYPE": "MT001",
+                "EXP_YEAR": "2014",
+                "EXP_DUR": 1,
+                "CR_SYSTEM": "Cotton after fallow",
+                "LAST_NAME": "Thorp",
+                "FIRST_NAME": "Kelly",
+                "MID_INITIAL": "R",
+                "PERSON_NOTES": "Field technicians: Matt Hagler, Suzette Maneely, and Bill Luckett",
+                "EX_ADDRESS": "21881 N. Cardon Ln., Maricopa, Arizona 85138",
+                "EX_EMAIL": "kelly.thorp@usda.gov",
+                "INSTITUTION": "USDA Agricultural Research Service, Maricopa, Arizona",
+                "IN_TYPE": "IT004",
+                "IN_ROLE": "IL001",
+                "CMPLC": "Errors in sprinkler chart led to underwatering",
+                "SUITE_NAME": "Irrigation scheduling methods for overhead sprinkler",
+                "SUITE_OBJ": "See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323",
+                "FL_NAME": "Field 13, Bench 4, Spans 1-5 and 7",
+                "FL_LAT": 33.07914,
+                "FL_LONG": -111.97737,
+                "FLELE": 361
             },
-            {
-                "trt_label": "SEB",
-                "description": "Irrigation scheduling via a surface energy balance model (unrealized)",
-                "pids": [
-                    "64381c2f8ac547ec9067a09e",
-                    "64381c2f8ac547ec9067a0a2"
-                ]
-            },
-            {
-                "trt_label": "NDVI",
-                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with Kcb from remotely sensed NDVI (unrealized)",
-                "pids": [
-                    "64381c2f8ac547ec9067a09f",
-                    "64381c2f8ac547ec9067a0a3"
-                ]
-            },
-            {
-                "trt_label": "Stress",
-                "description": "Water stressed treatment with 30%% of the FAO irrigation amount",
-                "pids": [
-                    "64381c2f8ac547ec9067a09b",
-                    "64381c2f8ac547ec9067a0a0"
-                ]
-            }
-        ],
-        "EXP_AREA": 62424.763672,
-        "EXNAME": "Irrigation scheduling methods for overhead sprinkler, Season 1 of 2",
-        "OBJECTIVES": "See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323",
-        "EXP_NARR": "See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323",
-        "MAIN_FACTOR": "Irrigation scheduling method: stand-alone models versus soil water assisted models",
-        "FACTORS": "Six irrigation scheduling methods and two cotton varieties",
-        "TRT_NO": 5,
-        "REP_NO": 2,
-        "METHODS": "See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323",
-        "EXPER_TYPE": "ET001",
-        "SITE_NAME": "Maricopa Agricultural Center, Field 13, Bench 4",
-        "SITE_TYPE": "ST001",
-        "MGMT_TYPE": "MT001",
-        "EXP_YEAR": "2014",
-        "EXP_DUR": 1,
-        "CR_SYSTEM": "Cotton after fallow",
-        "LAST_NAME": "Thorp",
-        "FIRST_NAME": "Kelly",
-        "MID_INITIAL": "R",
-        "PERSON_NOTES": "Field technicians: Matt Hagler, Suzette Maneely, and Bill Luckett",
-        "EX_ADDRESS": "21881 N. Cardon Ln., Maricopa, Arizona 85138",
-        "EX_EMAIL": "kelly.thorp@usda.gov",
-        "INSTITUTION": "USDA Agricultural Research Service, Maricopa, Arizona",
-        "IN_TYPE": "IT004",
-        "IN_ROLE": "IL001",
-        "CMPLC": "Errors in sprinkler chart led to underwatering",
-        "SUITE_NAME": "Irrigation scheduling methods for overhead sprinkler",
-        "SUITE_OBJ": "See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323",
-        "FL_NAME": "Field 13, Bench 4, Spans 1-5 and 7",
-        "FL_LAT": 33.07914,
-        "FL_LONG": -111.97737,
-        "FLELE": 361
-    },
-    "_id": "6434b5f08ac547a71ab9602f",
-    "eid": "6434b5f08ac547a71ab9602f"
+            "_id": "6434b5f08ac547a71ab9602f",
+            "eid": "6434b5f08ac547a71ab9602f"
+        }
+    ]
 }

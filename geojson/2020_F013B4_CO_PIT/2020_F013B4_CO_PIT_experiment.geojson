@@ -1,117 +1,122 @@
 {
-    "type": "Feature",
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-            [
-                [
-                    -111.9764537,
-                    33.07846143
-                ],
-                [
-                    -111.97825875,
-                    33.07847038
-                ],
-                [
-                    -111.97824859,
-                    33.07992604
-                ],
-                [
-                    -111.97644351,
-                    33.07991708
-                ],
-                [
-                    -111.9764537,
-                    33.07846143
-                ]
-            ]
-        ]
-    },
-    "properties": {
-        "exp_label": "2020_F013B4_CO_PIT",
-        "trt_info": [
-            {
-                "trt_label": "MDL",
-                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model, uniform irrigation",
-                "pids": [
-                    "64246dc78ac5470a33c9fe15",
-                    "64246dc78ac5470a33c9fe18",
-                    "64246dc78ac5470a33c9fe1f",
-                    "64246dc78ac5470a33c9fe22",
-                    "64246dc78ac5470a33c9fe26",
-                    "64246dc78ac5470a33c9fe2c"
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.9764537,
+                            33.07846143
+                        ],
+                        [
+                            -111.97825875,
+                            33.07847038
+                        ],
+                        [
+                            -111.97824859,
+                            33.07992604
+                        ],
+                        [
+                            -111.97644351,
+                            33.07991708
+                        ],
+                        [
+                            -111.9764537,
+                            33.07846143
+                        ]
+                    ]
                 ]
             },
-            {
-                "trt_label": "SOL",
-                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with site-specific soil inputs, site-specific irrigation",
-                "pids": [
-                    "64246dc78ac5470a33c9fe1a",
-                    "64246dc78ac5470a33c9fe1c",
-                    "64246dc78ac5470a33c9fe1e",
-                    "64246dc78ac5470a33c9fe20",
-                    "64246dc78ac5470a33c9fe25",
-                    "64246dc78ac5470a33c9fe2b"
-                ]
+            "properties": {
+                "exp_label": "2020_F013B4_CO_PIT",
+                "trt_info": [
+                    {
+                        "trt_label": "MDL",
+                        "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model, uniform irrigation",
+                        "pids": [
+                            "64246dc78ac5470a33c9fe15",
+                            "64246dc78ac5470a33c9fe18",
+                            "64246dc78ac5470a33c9fe1f",
+                            "64246dc78ac5470a33c9fe22",
+                            "64246dc78ac5470a33c9fe26",
+                            "64246dc78ac5470a33c9fe2c"
+                        ]
+                    },
+                    {
+                        "trt_label": "SOL",
+                        "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with site-specific soil inputs, site-specific irrigation",
+                        "pids": [
+                            "64246dc78ac5470a33c9fe1a",
+                            "64246dc78ac5470a33c9fe1c",
+                            "64246dc78ac5470a33c9fe1e",
+                            "64246dc78ac5470a33c9fe20",
+                            "64246dc78ac5470a33c9fe25",
+                            "64246dc78ac5470a33c9fe2b"
+                        ]
+                    },
+                    {
+                        "trt_label": "UAS",
+                        "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with site-specific soil inputs and basal crop coefficients, uniform irrigation",
+                        "pids": [
+                            "64246dc78ac5470a33c9fe16",
+                            "64246dc78ac5470a33c9fe17",
+                            "64246dc78ac5470a33c9fe21",
+                            "64246dc78ac5470a33c9fe23",
+                            "64246dc78ac5470a33c9fe28",
+                            "64246dc78ac5470a33c9fe2a"
+                        ]
+                    },
+                    {
+                        "trt_label": "VRI",
+                        "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with site-specific soil inputs and basal crop coefficients, site-specific irrigation",
+                        "pids": [
+                            "64246dc78ac5470a33c9fe19",
+                            "64246dc78ac5470a33c9fe1b",
+                            "64246dc78ac5470a33c9fe1d",
+                            "64246dc78ac5470a33c9fe24",
+                            "64246dc78ac5470a33c9fe27",
+                            "64246dc78ac5470a33c9fe29"
+                        ]
+                    }
+                ],
+                "EXP_AREA": 27193.688504,
+                "EXNAME": "Precision irrigation technologies, Season 2 of 2",
+                "OBJECTIVES": "See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950",
+                "EXP_NARR": "See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950",
+                "MAIN_FACTOR": "Irrigation management methods: increasing complexity of technologies used",
+                "FACTORS": "Four irrigation management methods",
+                "TRT_NO": 4,
+                "REP_NO": 6,
+                "METHODS": "See See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950",
+                "EXPER_TYPE": "ET001",
+                "SITE_NAME": "Maricopa Agricultural Center, Field 13, Bench 4",
+                "SITE_TYPE": "ST001",
+                "MGMT_TYPE": "MT001",
+                "EXP_YEAR": "2020",
+                "EXP_DUR": 1,
+                "CR_SYSTEM": "No-till cotton after winter barley cover crop",
+                "LAST_NAME": "Thorp",
+                "FIRST_NAME": "Kelly",
+                "MID_INITIAL": "R",
+                "PERSON_NOTES": "Field technicians: Matt Hagler and Suzette Maneely",
+                "EX_ADDRESS": "21881 N. Cardon Ln., Maricopa, Arizona 85138",
+                "EX_EMAIL": "kelly.thorp@usda.gov",
+                "INSTITUTION": "USDA Agricultural Research Service, Maricopa, Arizona",
+                "IN_TYPE": "IT004",
+                "IN_ROLE": "IL001",
+                "CMPLC": "Intense heat stress in late summer",
+                "SUITE_NAME": "Precision irrigation technologies",
+                "SUITE_OBJ": "See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950",
+                "FL_NAME": "Field 13, Bench 4, Spans 4-6",
+                "FL_LAT": 33.07914,
+                "FL_LONG": -111.97737,
+                "FLELE": 361
             },
-            {
-                "trt_label": "UAS",
-                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with site-specific soil inputs and basal crop coefficients, uniform irrigation",
-                "pids": [
-                    "64246dc78ac5470a33c9fe16",
-                    "64246dc78ac5470a33c9fe17",
-                    "64246dc78ac5470a33c9fe21",
-                    "64246dc78ac5470a33c9fe23",
-                    "64246dc78ac5470a33c9fe28",
-                    "64246dc78ac5470a33c9fe2a"
-                ]
-            },
-            {
-                "trt_label": "VRI",
-                "description": "Irrigation scheduling via an ET-based FAO56 soil water balance model with site-specific soil inputs and basal crop coefficients, site-specific irrigation",
-                "pids": [
-                    "64246dc78ac5470a33c9fe19",
-                    "64246dc78ac5470a33c9fe1b",
-                    "64246dc78ac5470a33c9fe1d",
-                    "64246dc78ac5470a33c9fe24",
-                    "64246dc78ac5470a33c9fe27",
-                    "64246dc78ac5470a33c9fe29"
-                ]
-            }
-        ],
-        "EXP_AREA": 27193.688504,
-        "EXNAME": "Precision irrigation technologies, Season 2 of 2",
-        "OBJECTIVES": "See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950",
-        "EXP_NARR": "See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950",
-        "MAIN_FACTOR": "Irrigation management methods: increasing complexity of technologies used",
-        "FACTORS": "Four irrigation management methods",
-        "TRT_NO": 4,
-        "REP_NO": 6,
-        "METHODS": "See See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950",
-        "EXPER_TYPE": "ET001",
-        "SITE_NAME": "Maricopa Agricultural Center, Field 13, Bench 4",
-        "SITE_TYPE": "ST001",
-        "MGMT_TYPE": "MT001",
-        "EXP_YEAR": "2020",
-        "EXP_DUR": 1,
-        "CR_SYSTEM": "No-till cotton after winter barley cover crop",
-        "LAST_NAME": "Thorp",
-        "FIRST_NAME": "Kelly",
-        "MID_INITIAL": "R",
-        "PERSON_NOTES": "Field technicians: Matt Hagler and Suzette Maneely",
-        "EX_ADDRESS": "21881 N. Cardon Ln., Maricopa, Arizona 85138",
-        "EX_EMAIL": "kelly.thorp@usda.gov",
-        "INSTITUTION": "USDA Agricultural Research Service, Maricopa, Arizona",
-        "IN_TYPE": "IT004",
-        "IN_ROLE": "IL001",
-        "CMPLC": "Intense heat stress in late summer",
-        "SUITE_NAME": "Precision irrigation technologies",
-        "SUITE_OBJ": "See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950",
-        "FL_NAME": "Field 13, Bench 4, Spans 4-6",
-        "FL_LAT": 33.07914,
-        "FL_LONG": -111.97737,
-        "FLELE": 361
-    },
-    "_id": "642467e18ac54707a0fbb8c7",
-    "eid": "642467e18ac54707a0fbb8c7"
+            "_id": "642467e18ac54707a0fbb8c7",
+            "eid": "642467e18ac54707a0fbb8c7"
+        }
+    ]
 }
