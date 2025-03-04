@@ -106,6 +106,7 @@ cch = pd.read_excel(ccfile,sheet_name='Height')
 ccw = pd.read_excel(ccfile,sheet_name='Width')
 mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
+fert = pd.read_excel(mfile,sheet_name='FertilizerDF')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -131,6 +132,14 @@ for feature in layer:
             idata.update({key:round(IRVAL,1)})
     if idata:
         myplot.setproperty('IRVAL',idata)
+    fdata = dict()
+    for index, row in fert.iterrows():
+        key = str(int(row['Year']))+str(int(row['DOY']))
+        FEAMN = row[plt_label]
+        if not math.isnan(FEAMN):
+            fdata.update({key:round(FEAMN,1)})
+    if fdata:
+        myplot.setproperty('FEAMN',fdata)
     #Yield and fiber quality data
     if plt_label not in ['p901','p903','p905','p907']:
         row = yld.loc[yld['PID'] == plt_label]

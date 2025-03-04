@@ -95,6 +95,7 @@ yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
+fert = pd.read_excel(mfile,sheet_name='FertilizerDF')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -119,6 +120,13 @@ for feature in layer:
         if float(IRVAL)>0.0:
             idata.update({key:round(IRVAL,1)})
     myplot.setproperty('IRVAL',idata)
+    fdata = dict()
+    for index, row in fert.iterrows():
+        key = str(int(row['Year']))+str(int(row['DOY']))
+        FEAMN = row[plt_label]
+        if float(FEAMN)>0.0:
+            fdata.update({key:round(FEAMN,1)})
+    myplot.setproperty('FEAMN',fdata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     myplot.setproperty('HARM'  ,row.iloc[0]['HARM'])
