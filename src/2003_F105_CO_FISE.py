@@ -144,16 +144,26 @@ for feature in layer:
     #Yield and fiber quality data
     if plt_label not in ['p901','p903','p905','p907']:
         row = yld.loc[yld['PID'] == plt_label]
-        myplot.setproperty('HARM'  ,row.iloc[0]['HARM'])
-        myplot.setproperty('HADAT' ,row.iloc[0]['HADAT'].strftime('%m/%d/%Y'))
-        myplot.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))
-        myplot.setproperty('GNDAT' ,row.iloc[0]['GNDAT'].strftime('%m/%d/%Y'))
-        myplot.setproperty('FFRAC' ,round(row.iloc[0]['FFRAC' ],4))
-        myplot.setproperty('SFRAC' ,round(row.iloc[0]['SFRAC' ],4))
-        myplot.setproperty('TFRAC' ,round(row.iloc[0]['TFRAC' ],4))
-        myplot.setproperty('WFWAH' ,round(row.iloc[0]['WFWAH' ],1))
-        myplot.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
-        myplot.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
+        if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
+            myplot.setproperty('HARM'  ,row.iloc[0]['HARM'])
+        if not str(row.iloc[0]['HADAT']) in ['nan','NaT']:
+            myplot.setproperty('HADAT' ,row.iloc[0]['HADAT'].strftime('%m/%d/%Y'))
+        if not math.isnan(row.iloc[0]['WBWAH']):
+            myplot.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))
+        if not str(row.iloc[0]['GNDAT']) in ['nan','NaT']:
+            myplot.setproperty('GNDAT' ,row.iloc[0]['GNDAT'].strftime('%m/%d/%Y'))
+        if not math.isnan(row.iloc[0]['FFRAC']):
+            myplot.setproperty('FFRAC' ,round(row.iloc[0]['FFRAC' ],4))
+        if not math.isnan(row.iloc[0]['SFRAC']):
+            myplot.setproperty('SFRAC' ,round(row.iloc[0]['SFRAC' ],4))
+        if not math.isnan(row.iloc[0]['TFRAC']):
+            myplot.setproperty('TFRAC' ,round(row.iloc[0]['TFRAC' ],4))
+        if not math.isnan(row.iloc[0]['WFWAH']):
+            myplot.setproperty('WFWAH' ,round(row.iloc[0]['WFWAH' ],1))
+        if not math.isnan(row.iloc[0]['WSWAH']):
+            myplot.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
+        if not math.isnan(row.iloc[0]['WSCWAH']):
+            myplot.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
     #Crop canopy data
     if plt_label not in ['p901','p903','p905','p907']:
         htdata = dict()
@@ -164,7 +174,8 @@ for feature in layer:
             if not math.isnan(rowh.iloc[0][doycol]):
                 CHTD = float(rowh.iloc[0][doycol])/100. #m
                 htdata.update({key:round(CHTD,2)})
-        myplot.setproperty('CHTD',htdata)
+        if htdata:
+            myplot.setproperty('CHTD',htdata)
         wddata = dict()
         roww = ccw.loc[ccw['Plot'] == plt_label]
         doycols = sorted([col for col in ccw.columns if col[:3]=='DOY'])
@@ -173,7 +184,8 @@ for feature in layer:
             if not math.isnan(roww.iloc[0][doycol]):
                 CWID = float(roww.iloc[0][doycol])/100. #m
                 wddata.update({key:round(CWID,2)})
-        myplot.setproperty('CWID',wddata)
+        if wddata:
+            myplot.setproperty('CWID',wddata)
     plots.append(myplot)
 ########################################################################
 
@@ -207,8 +219,10 @@ for feature in layer:
                 depth = int(depcol[1:-2])
                 swcitem.update({depth:round(row.loc[depcol],3)})
         key = '{:04d}{:03d}'.format(row.loc['Year'],row.loc['DOY'])
-        swcdata.update({key:swcitem})
-    mytube.setproperty('SWLD',swcdata)
+        if swcitem:
+            swcdata.update({key:swcitem})
+    if swcdata:
+        mytube.setproperty('SWLD',swcdata)
     found=False
     for plot in plots:
         if int(plot.plt_label[1:]) == int(tb_label):

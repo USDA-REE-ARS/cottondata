@@ -120,24 +120,40 @@ for feature in layer:
         IRVAL = row[trt_label]
         if round(IRVAL,1) > 0.0:
             idata.update({key:round(IRVAL,1)})
-    myplot.setproperty('IRVAL',idata)
+    if idata:
+        myplot.setproperty('IRVAL',idata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
-    myplot.setproperty('HARM'  ,row.iloc[0]['HARM'])
-    myplot.setproperty('HADAT' ,row.iloc[0]['HADAT'].strftime('%m/%d/%Y'))
-    myplot.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))
-    myplot.setproperty('BWCAH' ,round(row.iloc[0]['BWCAH' ],2))
-    myplot.setproperty('DBWAH' ,round(row.iloc[0]['DBWAH' ],1))
-    myplot.setproperty('GNDAT' ,row.iloc[0]['GNDAT'].strftime('%m/%d/%Y'))
-    myplot.setproperty('FFRAC' ,round(row.iloc[0]['FFRAC' ],4))
-    myplot.setproperty('SFRAC' ,round(row.iloc[0]['SFRAC' ],4))
-    myplot.setproperty('TFRAC' ,round(row.iloc[0]['TFRAC' ],4))
-    myplot.setproperty('WFWAH' ,round(row.iloc[0]['WFWAH' ],1))
-    myplot.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
-    myplot.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
-    myplot.setproperty('DFWAH' ,round(row.iloc[0]['DFWAH' ],1))
-    myplot.setproperty('DSWAH' ,round(row.iloc[0]['DSWAH' ],1))
-    myplot.setproperty('DSCWAH',round(row.iloc[0]['DSCWAH'],1))
+    if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
+        myplot.setproperty('HARM'  ,row.iloc[0]['HARM'])
+    if not str(row.iloc[0]['HADAT']) in ['nan','NaT']:
+        myplot.setproperty('HADAT' ,row.iloc[0]['HADAT'].strftime('%m/%d/%Y'))
+    if not math.isnan(row.iloc[0]['WBWAH']):
+        myplot.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))
+    if not math.isnan(row.iloc[0]['BWCAH']):
+        myplot.setproperty('BWCAH' ,round(row.iloc[0]['BWCAH' ],2))
+    if not math.isnan(row.iloc[0]['DBWAH']):
+        myplot.setproperty('DBWAH' ,round(row.iloc[0]['DBWAH' ],1))
+    if not str(row.iloc[0]['GNDAT']) in ['nan','NaT']:
+        myplot.setproperty('GNDAT' ,row.iloc[0]['GNDAT'].strftime('%m/%d/%Y'))
+    if not math.isnan(row.iloc[0]['FFRAC']):
+        myplot.setproperty('FFRAC' ,round(row.iloc[0]['FFRAC' ],4))
+    if not math.isnan(row.iloc[0]['SFRAC']):
+        myplot.setproperty('SFRAC' ,round(row.iloc[0]['SFRAC' ],4))
+    if not math.isnan(row.iloc[0]['TFRAC']):
+        myplot.setproperty('TFRAC' ,round(row.iloc[0]['TFRAC' ],4))
+    if not math.isnan(row.iloc[0]['WFWAH']):
+        myplot.setproperty('WFWAH' ,round(row.iloc[0]['WFWAH' ],1))
+    if not math.isnan(row.iloc[0]['WSWAH']):
+        myplot.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
+    if not math.isnan(row.iloc[0]['WSCWAH']):
+        myplot.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
+    if not math.isnan(row.iloc[0]['DFWAH']):
+        myplot.setproperty('DFWAH' ,round(row.iloc[0]['DFWAH' ],1))
+    if not math.isnan(row.iloc[0]['DSWAH']):
+        myplot.setproperty('DSWAH' ,round(row.iloc[0]['DSWAH' ],1))
+    if not math.isnan(row.iloc[0]['DSCWAH']):
+        myplot.setproperty('DSCWAH',round(row.iloc[0]['DSCWAH'],1))
     plots.append(myplot)
 ########################################################################
 
@@ -234,8 +250,10 @@ for feature in layer:
                 depth = int(depcol[1:-2])
                 swcitem.update({depth:round(row.loc[depcol],3)})
         key = '{:04d}{:03d}'.format(row.loc['Year'],row.loc['DOY'])
-        swcdata.update({key:swcitem})
-    mytube.setproperty('SWLD',swcdata)
+        if swcitem:
+            swcdata.update({key:swcitem})
+    if swcitem:
+        mytube.setproperty('SWLD',swcdata)
     found=False
     for plot in plots:
         if plot.plt_label == tb_label[:3]:
@@ -275,7 +293,8 @@ for feature in layer:
         if not math.isnan(rowh.iloc[0][doycol]):
             CHTD = float(rowh.iloc[0][doycol])/100. #m
             htdata.update({key:round(CHTD,2)})
-    mycc.setproperty('CHTD',htdata)
+    if htdata:
+        mycc.setproperty('CHTD',htdata)
     wddata = dict()
     roww = ccw.loc[ccw['CCID'] == cc_label]
     doycols = sorted([col for col in ccw.columns if col[:3]=='DOY'])
@@ -284,7 +303,8 @@ for feature in layer:
         if not math.isnan(roww.iloc[0][doycol]):
             CWID = float(roww.iloc[0][doycol])/100. #m
             wddata.update({key:round(CWID,2)})
-    mycc.setproperty('CWID',wddata)
+    if wddata:
+        mycc.setproperty('CWID',wddata)
     found = False
     for plot in plots:
         if plot.plt_label == cc_label[:3]:
