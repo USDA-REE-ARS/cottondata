@@ -112,6 +112,9 @@ for feature in layer:
     #Management information
     myplot.setproperty('CUL_NAME', 'Deltapine 1044 B2RF')
     myplot.setproperty('PDATE', '04/22/2009')
+    fdata = dict()
+    fdata.update({'2009152':56.0})
+    myplot.setproperty('FEAMN',fdata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     if not str(row.iloc[0]['HARM']) in ['nan','NaT']:

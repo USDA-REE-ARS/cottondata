@@ -132,6 +132,11 @@ for feature in layer:
             idata.update({key:round(IRVAL,1)})
     if idata:
         myplot.setproperty('IRVAL',idata)
+    fdata = dict()
+    fdata.update({'2021159':51.9})
+    fdata.update({'2021173':51.9})
+    fdata.update({'2021195':45.4})
+    myplot.setproperty('FEAMN',fdata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     if not str(row.iloc[0]['HARM']) in ['nan','NaT']:

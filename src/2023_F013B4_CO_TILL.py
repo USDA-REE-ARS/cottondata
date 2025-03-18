@@ -121,6 +121,11 @@ for feature in layer:
             idata.update({key:round(IRVAL,1)})
     if idata:
         myplot.setproperty('IRVAL',idata)
+    fdata = dict()
+    fdata.update({'2023158':51.9})
+    fdata.update({'2023178':51.9})
+    fdata.update({'2023199':51.9})
+    myplot.setproperty('FEAMN',fdata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     row = row.astype({'FBTCT':float})

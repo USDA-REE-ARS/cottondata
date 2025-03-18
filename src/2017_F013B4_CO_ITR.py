@@ -133,6 +133,12 @@ for feature in layer:
             idata.update({key:round(IRVAL,1)})
     if idata:
         myplot.setproperty('IRVAL',idata)
+    fdata = dict()
+    fdata.update({'2017137':37.3})
+    fdata.update({'2017159':37.3})
+    fdata.update({'2017172':37.5})
+    fdata.update({'2017186':37.4})
+    myplot.setproperty('FEAMN',fdata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     row = row.astype({'FBMIC':float})

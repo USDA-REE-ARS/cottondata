@@ -115,6 +115,9 @@ for feature in layer:
         myplot.setproperty('PDATE', '04/19/2011')
     if int(plt_label[1:3]) in range(1,12):
         myplot.setproperty('PDATE', '04/20/2011')
+    fdata = dict()
+    fdata.update({'2011151':56.0})
+    myplot.setproperty('FEAMN',fdata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
