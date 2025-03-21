@@ -96,6 +96,8 @@ yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
+dfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
+develop = pd.read_excel(dfile,sheet_name='PlotDevelop')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -113,6 +115,8 @@ for feature in layer:
     #Management information
     myplot.setproperty('CUL_NAME', 'NexGen 3195 B3XF')
     myplot.setproperty('PDATE', '04/24/2023')
+    myplot.setproperty('PLYR', 2023)
+    myplot.setproperty('PLDAY', 114)
     idata = dict()
     for index, row in irrig.iterrows():
         key = str(int(row['Year']))+str(int(row['DOY']))
@@ -126,6 +130,26 @@ for feature in layer:
     fdata.update({'2023178':51.9})
     fdata.update({'2023199':51.9})
     myplot.setproperty('FEAMN',fdata)
+    #Crop Development
+    row = develop.loc[develop['Plot'] == plt_label]
+    if not str(row.iloc[0]['EDATE']) in ['nan','NaT']:
+        myplot.setproperty('EDATE',row.iloc[0]['EDATE'].strftime('%m/%d/%Y'))
+    if not math.isnan(row.iloc[0]['PLYRE']):
+        myplot.setproperty('PLYRE',int(row.iloc[0]['PLYRE']))
+    if not math.isnan(row.iloc[0]['PLDOE']):
+        myplot.setproperty('PLDOE',int(round(row.iloc[0]['PLDOE'],0)))
+    if not str(row.iloc[0]['LF1D']) in ['nan','NaT']:
+        myplot.setproperty('LF1D',row.iloc[0]['EDATE'].strftime('%m/%d/%Y'))
+    if not str(row.iloc[0]['ADAT']) in ['nan','NaT']:
+        myplot.setproperty('ADAT',row.iloc[0]['ADAT'].strftime('%m/%d/%Y'))
+    if not math.isnan(row.iloc[0]['ADOY']):
+        myplot.setproperty('ADOY',int(round(row.iloc[0]['ADOY'],0)))
+    nawf = dict()
+    for doy in ['184','194','201','208','215','236']:
+        if not math.isnan(row.iloc[0]['NAWF'+doy]):
+            nawf.update({'2023'+doy:round(row.iloc[0]['NAWF'+doy],1)})
+    if nawf:
+        myplot.setproperty('NAWF',nawf)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     row = row.astype({'FBTCT':float})
@@ -326,6 +350,8 @@ layer = shapes.GetLayer()
 ccfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
 cch = pd.read_excel(ccfile,sheet_name='Height')
 ccw = pd.read_excel(ccfile,sheet_name='Width')
+ccden = pd.read_excel(ccfile,sheet_name='Density')
+ccdev = pd.read_excel(ccfile,sheet_name='Develop')
 crpcns = list()
 for feature in layer:
     ccid = feature.GetField('ObjectID')
@@ -357,6 +383,23 @@ for feature in layer:
             wddata.update({key:round(CWID,2)})
     if wddata:
         mycc.setproperty('CWID',wddata)
+    rowden = ccden.loc[ccden['CCID'] == cc_label]
+    if not math.isnan(rowden.iloc[0]['PLAPD']):
+        PLAPD = float(rowden.iloc[0]['PLAPD'])
+        mycc.setproperty('PLAPD',round(PLAPD,1))
+    rowdev = ccdev.loc[ccdev['CCID'] == cc_label]
+    if not str(rowdev.iloc[0]['EDATE']) in ['nan','NaT']:
+        mycc.setproperty('EDATE',rowdev.iloc[0]['EDATE'].strftime('%m/%d/%Y'))
+    if not math.isnan(rowdev.iloc[0]['PLYRE']):
+        mycc.setproperty('PLYRE',int(rowdev.iloc[0]['PLYRE']))
+    if not math.isnan(rowdev.iloc[0]['PLDOE']):
+        mycc.setproperty('PLDOE',int(round(rowdev.iloc[0]['PLDOE'],0)))
+    if not str(rowdev.iloc[0]['LF1D']) in ['nan','NaT']:
+        mycc.setproperty('LF1D',rowdev.iloc[0]['LF1D'].strftime('%m/%d/%Y'))
+    if not str(rowdev.iloc[0]['ADAT']) in ['nan','NaT']:
+        mycc.setproperty('ADAT',rowdev.iloc[0]['ADAT'].strftime('%m/%d/%Y'))
+    if not math.isnan(rowdev.iloc[0]['ADOY']):
+        mycc.setproperty('ADOY',int(round(rowdev.iloc[0]['ADOY'],0)))
     found = False
     for plot in plots:
         if plot.plt_label == cc_label[:3]:

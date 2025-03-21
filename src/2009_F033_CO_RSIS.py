@@ -112,6 +112,8 @@ for feature in layer:
     #Management information
     myplot.setproperty('CUL_NAME', 'Deltapine 1044 B2RF')
     myplot.setproperty('PDATE', '04/22/2009')
+    myplot.setproperty('PLYR', 2009)
+    myplot.setproperty('PLDAY', 112)
     fdata = dict()
     fdata.update({'2009152':56.0})
     myplot.setproperty('FEAMN',fdata)

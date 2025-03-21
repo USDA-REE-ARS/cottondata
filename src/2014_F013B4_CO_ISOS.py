@@ -114,6 +114,8 @@ for feature in layer:
     #Management information
     myplot.setproperty('CUL_NAME', 'Deltapine 1044 B2RF')
     myplot.setproperty('PDATE', '05/02/2014')
+    myplot.setproperty('PLYR', 2014)
+    myplot.setproperty('PLDAY', 122)
     idata = dict()
     for index, row in irrig.iterrows():
         key = str(int(row['Year']))+str(int(row['DOY']))

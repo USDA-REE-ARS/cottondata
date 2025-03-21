@@ -113,8 +113,12 @@ for feature in layer:
     myplot.setproperty('CUL_NAME', 'Deltapine 1044 B2RF')
     if int(plt_label[1:3]) in range(12,17):
         myplot.setproperty('PDATE', '04/19/2011')
+        myplot.setproperty('PLYR', 2011)
+        myplot.setproperty('PLDAY', 109)
     if int(plt_label[1:3]) in range(1,12):
         myplot.setproperty('PDATE', '04/20/2011')
+        myplot.setproperty('PLYR', 2011)
+        myplot.setproperty('PLDAY', 110)
     fdata = dict()
     fdata.update({'2011151':56.0})
     myplot.setproperty('FEAMN',fdata)

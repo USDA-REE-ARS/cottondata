@@ -114,6 +114,8 @@ for feature in layer:
     #Management information
     myplot.setproperty('CUL_NAME', 'NexGen 5007 B2XF')
     myplot.setproperty('PDATE', '04/18/2019')
+    myplot.setproperty('PLYR', 2019)
+    myplot.setproperty('PLDAY', 108)
     idata = dict()
     for index, row in irrig.iterrows():
         key = str(int(row['Year']))+str(int(row['DOY']))
