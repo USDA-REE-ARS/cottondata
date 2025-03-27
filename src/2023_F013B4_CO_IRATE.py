@@ -96,6 +96,8 @@ yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
+ufile = '../Data/'+fname+'/'+fname+'_UAS.xlsx'
+cover = pd.read_excel(ufile,sheet_name='PlotCover')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -115,6 +117,7 @@ for feature in layer:
     myplot.setproperty('PDATE', '04/24/2023')
     myplot.setproperty('PLYR', 2023)
     myplot.setproperty('PLDAY', 114)
+    myplot.setproperty('IROP', 'IR004')
     idata = dict()
     for index, row in irrig.iterrows():
         key = str(int(row['Year']))+str(int(row['DOY']))
@@ -128,6 +131,17 @@ for feature in layer:
     fdata.update({'2023178':51.9})
     fdata.update({'2023199':51.9})
     myplot.setproperty('FEAMN',fdata)
+    #UAS crop cover fraction
+    fcdata = dict()
+    row = cover.loc[cover['PlotID'] == plt_label]
+    doycols = sorted([col for col in cover.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2023'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            FRCOV = float(row.iloc[0][doycol])
+            fcdata.update({key:round(FRCOV,3)})
+    if fcdata:
+        myplot.setproperty('FRCOV',fcdata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     row = row.astype({'FBTCT':float})
@@ -194,6 +208,8 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=64)
+ufile = '../Data/'+fname+'/'+fname+'_UAS.xlsx'
+cover = pd.read_excel(ufile,sheet_name='HACover')
 hareas = list()
 for feature in layer:
     haid = feature.GetField('ObjectId')
@@ -263,6 +279,17 @@ for feature in layer:
         myha.setproperty('FBTAR' ,round(row.iloc[0]['FBTAR' ],2))
     if not math.isnan(row.iloc[0]['FBSFI']):
         myha.setproperty('FBSFI' ,round(row.iloc[0]['FBSFI' ],1))
+    #UAS crop cover fraction
+    fcdata = dict()
+    row = cover.loc[cover['HID'] == ha_label]
+    doycols = sorted([col for col in cover.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2023'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            FRCOV = float(row.iloc[0][doycol])
+            fcdata.update({key:round(FRCOV,3)})
+    if fcdata:
+        myha.setproperty('FRCOV',fcdata)
     found=False
     for plot in plots:
         if plot.plt_label == ha_label[:4]:
