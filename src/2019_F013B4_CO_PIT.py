@@ -29,6 +29,11 @@ if layer.GetFeatureCount() != 1:
 for feature in layer:
     eid = feature.GetField('ObjectId')
     geometry = feature.GetGeometryRef()
+    geomcount = geometry.GetGeometryCount()
+    nodecount = geometry.GetGeometryRef(0).GetPointCount()
+    if geomcount != 1 or nodecount != 5:
+        print('Polygons should have one geometry and five nodes.')
+        sys.exit()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in experiment shapefile.')
@@ -103,6 +108,11 @@ for feature in layer:
     plt_label = feature.GetField('PlotID')
     trt_label = feature.GetField('Treatment')
     geometry = feature.GetGeometryRef()
+    geomcount = geometry.GetGeometryCount()
+    nodecount = geometry.GetGeometryRef(0).GetPointCount()
+    if geomcount != 1 or nodecount != 5:
+        print('Polygons should have one geometry and five nodes.')
+        sys.exit()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in plot shapefile.')
@@ -116,6 +126,7 @@ for feature in layer:
     myplot.setproperty('PDATE', '04/18/2019')
     myplot.setproperty('PLYR', 2019)
     myplot.setproperty('PLDAY', 108)
+    myplot.setproperty('IROP', 'IR004')
     idata = dict()
     for index, row in irrig.iterrows():
         key = str(int(row['Year']))+str(int(row['DOY']))
@@ -198,6 +209,11 @@ for feature in layer:
     zid = feature.GetField('ObjectId')
     zon_label = feature.GetField('ZoneID')
     geometry = feature.GetGeometryRef()
+    geomcount = geometry.GetGeometryCount()
+    nodecount = geometry.GetGeometryRef(0).GetPointCount()
+    if geomcount != 1 or nodecount != 5:
+        print('Polygons should have one geometry and five nodes.')
+        sys.exit()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in plot shapefile.')
@@ -244,6 +260,11 @@ for feature in layer:
     haid = feature.GetField('ObjectId')
     ha_label = feature.GetField('HID') #(e.g., 11W)
     geometry = feature.GetGeometryRef()
+    geomcount = geometry.GetGeometryCount()
+    nodecount = geometry.GetGeometryRef(0).GetPointCount()
+    if geomcount != 1 or nodecount != 5:
+        print('Polygons should have one geometry and five nodes.')
+        sys.exit()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in plot shapefile.')
