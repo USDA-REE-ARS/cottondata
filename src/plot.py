@@ -68,6 +68,12 @@ class Plot:
         else:
             self.doc['properties'].update({'ccids':[ccid]})
 
+    def addsaid(self,said):
+        if 'saids' in self.doc['properties'].keys():
+            self.doc['properties']['saids'].append(said)
+        else:
+            self.doc['properties'].update({'saids':[said]})
+
     def addzid(self,zid):
         if 'zids' in self.doc['properties'].keys():
             self.doc['properties']['zids'].append(zid)

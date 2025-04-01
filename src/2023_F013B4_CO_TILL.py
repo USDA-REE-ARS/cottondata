@@ -7,6 +7,7 @@ import zone
 import harvestarea
 import neutronswc
 import cropcanopy
+import soilanalysis
 import pandas as pd
 from osgeo import ogr
 import geojson
@@ -144,6 +145,27 @@ for feature in layer:
     fdata.update({'2023178':51.9})
     fdata.update({'2023199':51.9})
     myplot.setproperty('FEAMN',fdata)
+    tdata = dict()
+    cdata = dict()
+    if int(plt_label[1:]) >= 7:
+        tdata.update({'20230404':'Disk'})
+        tdata.update({'20230411':'Land plane'})
+        if trt_label == 'BEDS':
+            tdata.update({'20230417':'Raise beds'})
+        cdata.update({'20230411':'Apply Acumen (pendimethalin)'})
+    elif int(plt_label[1:]) < 7:
+        if trt_label == 'STRIP':
+            tdata.update({'20230417':'Strip tillage'})
+        cdata.update({'20230420':'Apply Acumen (pendimethalin)'})
+    if int(plt_label[1:]) <= 8:
+        cdata.update({'20230523':'Apply RoundUp (glyphosate)'})
+        cdata.update({'20230606':'Apply RoundUp (glyphosate)'})
+    cdata.update({'20230724':'Apply Mepstar6 (mepiquat chloride)'})
+    cdata.update({'20231009':'Apply Redipik (diuron, thidiazuron)'})
+    cdata.update({'20231025':'Apply Redipik (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    if tdata:
+        myplot.setproperty('TI_NOTES',tdata)
+    myplot.setproperty('CH_NOTES',cdata)
     #Crop Development
     row = develop.loc[develop['Plot'] == plt_label]
     if not str(row.iloc[0]['EDATE']) in ['nan','NaT']:
@@ -497,6 +519,54 @@ for feature in layer:
 ########################################################################
 
 ########################################################################
+#Soil Analysis
+shapefile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+sa = pd.read_excel(safile,sheet_name='SoilDF',skiprows=1)
+sas = list()
+for feature in layer:
+    said = feature.GetField('ObjectID')
+    sa_label = feature.GetField('Core')  #(e.g., p01)
+    geometry = feature.GetGeometryRef()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in plot shapefile.')
+        sys.exit()
+    mysa = soilanalysis.SoilAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    #Soil analysis data
+    items={'SLPHW':1,'SLPHB':1,'SLEC':2,'SLOM':1,'SNO3':1,'SLPX':1,
+           'SLKE':0,'SLSU':1,'SLZN':2,'SLFE':1,'SLMN':1,'SLCU':2,
+           'SLCA':0,'SLMG':0,'SLNA':0,'SLCEC':1}
+    for item in items.keys():
+        sadata = dict()
+        saitem = dict()
+        for depth in [20,60,100,140,180]:
+            row = sa[(sa['Plot'] == sa_label) & (sa['Depth'] == depth)]
+            if not math.isnan(row.iloc[0][item]):
+                if items[item] > 0:
+                    saitem.update({depth:round(row.iloc[0][item],items[item])})
+                else:
+                    saitem.update({depth:int(row.iloc[0][item])})
+        key = '{:04d}{:03d}'.format(row.iloc[0]['Year'],row.iloc[0]['DOY'])
+        if saitem:
+            sadata.update({key:saitem})
+        if sadata:
+            mysa.setproperty(item,sadata)
+    found = False
+    for plot in plots:
+        if plot.plt_label == sa_label[:3]:
+            plot.addsaid(mysa.getid())
+            found = True
+            break
+    if not found:
+        raise Exception('Did not find plot for soil analysis %s' % sa_label)
+    sas.append(mysa)
+########################################################################
+
+########################################################################
 #Write geojson files
 fc = geojson.FeatureCollection([myexp.doc])
 with open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w') as f:
@@ -540,6 +610,14 @@ for mycrpcn in crpcns:
     features.append(mycrpcn.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/'+fname+'/'+fname+'_cropcanopy.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
+for mysa in sas:
+    features.append(mysa.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_soilanalysis.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################

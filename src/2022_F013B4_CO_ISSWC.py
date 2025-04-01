@@ -150,6 +150,22 @@ for feature in layer:
     fdata.update({'2022182':51.9})
     fdata.update({'2022203':51.9})
     myplot.setproperty('FEAMN',fdata)
+    tdata = dict()
+    tdata.update({'20220414':'Strip tillage'})
+    cdata = dict()
+    cdata.update({'20220414':'Apply Prowl (pendimethalin)'})
+    if int(plt_label[1:3]) <= 8:
+        cdata.update({'20220516':'Apply RoundUp (glyphosate)'})
+    else:
+        cdata.update({'20220519':'Apply RoundUp (glyphosate)'})
+    cdata.update({'20220616':'Apply RoundUp (glyphosate)'})
+    cdata.update({'20220718':'Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)'})
+    cdata.update({'20220809':'Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)'})
+    cdata.update({'20220825':'Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)'})
+    cdata.update({'20220930':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    cdata.update({'20221014':'Apply Ginstar (diuron, thidiazuron)'})
+    myplot.setproperty('TI_NOTES',tdata)
+    myplot.setproperty('CH_NOTES',cdata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     if not str(row.iloc[0]['HARM']) in ['nan','NaT']:

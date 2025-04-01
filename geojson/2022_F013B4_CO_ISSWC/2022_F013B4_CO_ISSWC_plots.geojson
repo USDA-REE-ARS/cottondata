@@ -88,6 +88,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 4328.2,
@@ -220,6 +233,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -354,6 +380,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 2229.9,
@@ -486,6 +525,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -620,6 +672,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 5616.6,
@@ -752,6 +817,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -886,6 +964,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 3034.6,
@@ -1018,6 +1109,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -1152,6 +1256,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 5948.9,
@@ -1284,6 +1401,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -1418,6 +1548,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 4211.5,
@@ -1550,6 +1693,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -1684,6 +1840,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 5848.4,
@@ -1816,6 +1985,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -1950,6 +2132,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 4717.4,
@@ -2082,6 +2277,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -2216,6 +2424,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 4666.7,
@@ -2348,6 +2569,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -2482,6 +2716,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 3390.6,
@@ -2614,6 +2861,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -2748,6 +3008,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 4261.7,
@@ -2880,6 +3153,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -3014,6 +3300,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 4083.1,
@@ -3146,6 +3445,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -3280,6 +3592,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 3914.3,
@@ -3412,6 +3737,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -3546,6 +3884,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 5026.7,
@@ -3678,6 +4029,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -3812,6 +4176,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 4100.5,
@@ -3944,6 +4321,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -4078,6 +4468,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 4632.6,
@@ -4210,6 +4613,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220516": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -4344,6 +4760,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 2648.7,
@@ -4476,6 +4905,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -4610,6 +5052,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 4549.8,
@@ -4742,6 +5197,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -4876,6 +5344,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 3973.3,
@@ -5008,6 +5489,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -5142,6 +5636,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 5134.1,
@@ -5274,6 +5781,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -5408,6 +5928,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 5154.8,
@@ -5540,6 +6073,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -5674,6 +6220,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 5657.1,
@@ -5806,6 +6365,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -5940,6 +6512,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 4381.4,
@@ -6072,6 +6657,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
@@ -6206,6 +6804,19 @@
                     "2022182": 51.9,
                     "2022203": 51.9
                 },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",
                 "WBWAH": 4973.0,
@@ -6338,6 +6949,19 @@
                     "2022158": 45.4,
                     "2022182": 51.9,
                     "2022203": 51.9
+                },
+                "TI_NOTES": {
+                    "20220414": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20220414": "Apply Prowl (pendimethalin)",
+                    "20220519": "Apply RoundUp (glyphosate)",
+                    "20220616": "Apply RoundUp (glyphosate)",
+                    "20220718": "Apply RoundUp (glyphosate), Gin Out (mepiquat chloride), and Transform (sulfoxaflor)",
+                    "20220809": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220825": "Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)",
+                    "20220930": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20221014": "Apply Ginstar (diuron, thidiazuron)"
                 },
                 "HARM": "Machine",
                 "HADAT": "11/16/2022",

@@ -141,6 +141,17 @@ for feature in layer:
     fdata.update({'2023178':51.9})
     fdata.update({'2023199':51.9})
     myplot.setproperty('FEAMN',fdata)
+    tdata = dict()
+    cdata = dict()
+    tdata.update({'20230417':'Strip tillage'})
+    cdata.update({'20230420':'Apply Acumen (pendimethalin)'})
+    cdata.update({'20230523':'Apply RoundUp (glyphosate)'})
+    cdata.update({'20230606':'Apply RoundUp (glyphosate)'})
+    cdata.update({'20230724':'Apply Mepstar6 (mepiquat chloride)'})
+    cdata.update({'20231009':'Apply Redipik (diuron, thidiazuron)'})
+    cdata.update({'20231025':'Apply Redipik (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    myplot.setproperty('TI_NOTES',tdata)
+    myplot.setproperty('CH_NOTES',cdata)
     #UAS crop cover fraction
     fcdata = dict()
     row = cover.loc[cover['PlotID'] == plt_label]
