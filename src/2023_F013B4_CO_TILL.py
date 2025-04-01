@@ -549,7 +549,7 @@ for feature in layer:
                 if items[item] > 0:
                     saitem.update({depth:round(row.iloc[0][item],items[item])})
                 else:
-                    saitem.update({depth:int(row.iloc[0][item])})
+                    saitem.update({depth:int(round(row.iloc[0][item],0))})
         key = '{:04d}{:03d}'.format(row.iloc[0]['Year'],row.iloc[0]['DOY'])
         if saitem:
             sadata.update({key:saitem})
