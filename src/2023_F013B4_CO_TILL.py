@@ -461,7 +461,7 @@ ccden = pd.read_excel(ccfile,sheet_name='Density')
 ccdev = pd.read_excel(ccfile,sheet_name='Develop')
 crpcns = list()
 for feature in layer:
-    ccid = feature.GetField('ObjectID')
+    ccid = feature.GetField('ObjectId')
     cc_label = feature.GetField('CCID')  #(e.g., p01-01)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
@@ -528,7 +528,7 @@ safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDF',skiprows=1)
 sas = list()
 for feature in layer:
-    said = feature.GetField('ObjectID')
+    said = feature.GetField('ObjectId')
     sa_label = feature.GetField('Core')  #(e.g., p01)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)

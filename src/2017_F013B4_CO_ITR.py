@@ -341,7 +341,7 @@ ccw = pd.read_excel(ccfile,sheet_name='Width')
 layer = shapes.GetLayer()
 crpcns = list()
 for feature in layer:
-    ccid = feature.GetField('ObjectID')
+    ccid = feature.GetField('ObjectId')
     cc_label = feature.GetField('CCID')  #(e.g., 01-1A)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)

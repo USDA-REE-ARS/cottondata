@@ -277,7 +277,7 @@ ccfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
 cc = pd.read_excel(ccfile,sheet_name='Canopy')
 crpcns = list()
 for feature in layer:
-    ccid = feature.GetField('ObjectID')
+    ccid = feature.GetField('ObjectId')
     cc_label = feature.GetField('CCID')  #(e.g., p01-01)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)

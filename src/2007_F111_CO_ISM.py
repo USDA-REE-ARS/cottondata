@@ -287,7 +287,7 @@ cch = pd.read_excel(ccfile,sheet_name='Height')
 ccw = pd.read_excel(ccfile,sheet_name='Width')
 crpcns = list()
 for feature in layer:
-    ccid = feature.GetField('ObjectID')
+    ccid = feature.GetField('ObjectId')
     cc_label = feature.GetField('CCID')  #(e.g., p02-1)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
