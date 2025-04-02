@@ -486,7 +486,7 @@ for feature in layer:
             mysa.setproperty(item,sadata)
     found = False
     for plot in plots:
-        if plot.plt_label == sa_label[:3]:
+        if plot.plt_label == sa_label:
             plot.addsaid(mysa.getid())
             found = True
             break
