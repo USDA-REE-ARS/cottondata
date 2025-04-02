@@ -175,7 +175,7 @@ for feature in layer:
     if not math.isnan(row.iloc[0]['PLDOE']):
         myplot.setproperty('PLDOE',int(round(row.iloc[0]['PLDOE'],0)))
     if not str(row.iloc[0]['LF1D']) in ['nan','NaT']:
-        myplot.setproperty('LF1D',row.iloc[0]['EDATE'].strftime('%m/%d/%Y'))
+        myplot.setproperty('LF1D',row.iloc[0]['LF1D'].strftime('%m/%d/%Y'))
     if not str(row.iloc[0]['ADAT']) in ['nan','NaT']:
         myplot.setproperty('ADAT',row.iloc[0]['ADAT'].strftime('%m/%d/%Y'))
     if not math.isnan(row.iloc[0]['ADOY']):
