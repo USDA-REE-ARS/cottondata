@@ -446,7 +446,7 @@ sa = pd.read_excel(safile,sheet_name='SoilDF',skiprows=1)
 sas = list()
 for feature in layer:
     said = feature.GetField('ObjectId')
-    sa_label = feature.GetField('Core')  #(e.g., p01)
+    sa_label = feature.GetField('Core')  #(e.g., p01-2)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
@@ -454,22 +454,20 @@ for feature in layer:
         sys.exit()
     mysa = soilanalysis.SoilAnalysis(said=said,geometry=geometry,sa_label=sa_label)
     #Soil analysis data
+    rows = sa[sa['Plot'] == sa_label]
+    if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
+        mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%m/%d/%Y'))
     items={'SLPHW':1,'SLPHB':1,'SLEC':2,'SLOM':1,'SNO3':1,'SLPX':1,
            'SLKE':0,'SLSU':1,'SLZN':2,'SLFE':1,'SLMN':1,'SLCU':2,
            'SLCA':0,'SLMG':0,'SLNA':0,'SLCEC':1}
     for item in items.keys():
         sadata = dict()
-        saitem = dict()
         for depth in [20,60,100,140,180]:
             row = sa[(sa['Plot'] == sa_label) & (sa['Depth'] == depth)]
             if not math.isnan(row.iloc[0][item]):
-                if items[item] > 0:
-                    saitem.update({depth:round(row.iloc[0][item],items[item])})
-                else:
-                    saitem.update({depth:int(round(row.iloc[0][item],0))})
-        key = '{:04d}{:03d}'.format(row.iloc[0]['Year'],row.iloc[0]['DOY'])
-        if saitem:
-            sadata.update({key:saitem})
+                value = round(row.iloc[0][item],items[item])
+                if items[item] == 0: value=int(value)
+                sadata.update({depth:value})
         if sadata:
             mysa.setproperty(item,sadata)
     found = False
