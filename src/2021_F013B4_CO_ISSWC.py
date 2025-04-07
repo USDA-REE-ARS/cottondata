@@ -491,6 +491,52 @@ for feature in layer:
 ########################################################################
 
 ########################################################################
+#Soil Analysis
+shapefile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+sa = pd.read_excel(safile,sheet_name='SoilDF',skiprows=1)
+sas = list()
+for feature in layer:
+    said = feature.GetField('ObjectId')
+    sa_label = feature.GetField('Core')  #(e.g., p01-2)
+    geometry = feature.GetGeometryRef()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in plot shapefile.')
+        sys.exit()
+    mysa = soilanalysis.SoilAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    #Soil analysis data
+    rows = sa[sa['Plot'] == sa_label]
+    if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
+        mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%m/%d/%Y'))
+    items={'SLPHW':1,'SLPHB':1,'SLEC':2,'SLOM':1,'SNO3':1,'SLPX':1,
+           'SLKE':0,'SLSU':1,'SLZN':2,'SLFE':1,'SLMN':1,'SLCU':2,
+           'SLCA':0,'SLMG':0,'SLNA':0,'SLCEC':1}
+    for item in items.keys():
+        sadata = dict()
+        for depth in [20,60,100,140,180]:
+            row = sa[(sa['Plot'] == sa_label) & (sa['Depth'] == depth)]
+            if not math.isnan(row.iloc[0][item]):
+                value = round(row.iloc[0][item],items[item])
+                if items[item] == 0: value=int(value)
+                sadata.update({depth:value})
+        if sadata:
+            mysa.setproperty(item,sadata)
+    found = False
+    for plot in plots:
+        if plot.plt_label == sa_label:
+            plot.addsaid(mysa.getid())
+            found = True
+            break
+    if not found:
+        raise Exception('Did not find plot for soil analysis %s' % sa_label)
+    sas.append(mysa)
+########################################################################
+
+########################################################################
 #Write geojson files
 fc = geojson.FeatureCollection([myexp.doc])
 with open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w') as f:
@@ -534,6 +580,14 @@ for mypa in pas:
     features.append(mypa.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/'+fname+'/'+fname+'_plantanalysis.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
+for mysa in sas:
+    features.append(mysa.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_soilanalysis.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################
