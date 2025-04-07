@@ -491,9 +491,9 @@ for feature in layer:
     if wddata:
         mycc.setproperty('CWID',wddata)
     rowden = ccden.loc[ccden['CCID'] == cc_label]
-    if not math.isnan(rowden.iloc[0]['PLAPD']):
-        PLAPD = float(rowden.iloc[0]['PLAPD'])
-        mycc.setproperty('PLAPD',round(PLAPD,1))
+    if not math.isnan(rowden.iloc[0]['PLPD']):
+        PLPD = float(rowden.iloc[0]['PLPD'])
+        mycc.setproperty('PLPD',round(PLPD,1))
     rowdev = ccdev.loc[ccdev['CCID'] == cc_label]
     if not str(rowdev.iloc[0]['EDATE']) in ['nan','NaT']:
         mycc.setproperty('EDATE',rowdev.iloc[0]['EDATE'].strftime('%m/%d/%Y'))

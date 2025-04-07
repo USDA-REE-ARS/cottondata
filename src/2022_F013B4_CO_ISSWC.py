@@ -110,8 +110,6 @@ yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
-dfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
-develop = pd.read_excel(dfile,sheet_name='PlotDevelop')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -169,22 +167,6 @@ for feature in layer:
     cdata.update({'20221014':'Apply Ginstar (diuron, thidiazuron)'})
     myplot.setproperty('TI_NOTES',tdata)
     myplot.setproperty('CH_NOTES',cdata)
-    #Crop Development
-    row = develop.loc[develop['Plot'] == plt_label]
-    if not str(row.iloc[0]['EDATE']) in ['nan','NaT']:
-        myplot.setproperty('EDATE',row.iloc[0]['EDATE'].strftime('%m/%d/%Y'))
-    if not math.isnan(row.iloc[0]['PLYRE']):
-        myplot.setproperty('PLYRE',int(row.iloc[0]['PLYRE']))
-    if not math.isnan(row.iloc[0]['PLDOE']):
-        myplot.setproperty('PLDOE',int(round(row.iloc[0]['PLDOE'],0)))
-    if not str(row.iloc[0]['LF1D']) in ['nan','NaT']:
-        myplot.setproperty('LF1D',row.iloc[0]['LF1D'].strftime('%m/%d/%Y'))
-    nawf = dict()
-    for doy in ['186','192','206','220','227','234','241','251']:
-        if not math.isnan(row.iloc[0]['NAWF'+doy]):
-            nawf.update({'2022'+doy:round(row.iloc[0]['NAWF'+doy],1)})
-    if nawf:
-        myplot.setproperty('NAWF',nawf)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
@@ -423,9 +405,9 @@ for feature in layer:
         mycc.setproperty('CWID',wddata)
     rowden = ccden.loc[ccden['CCID'] == cc_label]
     if not rowden.empty:
-        if not math.isnan(rowden.iloc[0]['PLAPD']):
-            PLAPD = float(rowden.iloc[0]['PLAPD'])
-            mycc.setproperty('PLAPD',round(PLAPD,1))
+        if not math.isnan(rowden.iloc[0]['PLPD']):
+            PLPD = float(rowden.iloc[0]['PLPD'])
+            mycc.setproperty('PLPD',round(PLPD,1))
     rowdev = ccdev.loc[ccdev['CCID'] == cc_label]
     if not rowdev.empty:
         if not str(rowdev.iloc[0]['EDATE']) in ['nan','NaT']:
@@ -436,6 +418,12 @@ for feature in layer:
             mycc.setproperty('PLDOE',int(round(rowdev.iloc[0]['PLDOE'],0)))
         if not str(rowdev.iloc[0]['LF1D']) in ['nan','NaT']:
             mycc.setproperty('LF1D',rowdev.iloc[0]['LF1D'].strftime('%m/%d/%Y'))
+        nawf = dict()
+        for doy in ['186','192','206','220','227','234','241','251']:
+            if not math.isnan(rowdev.iloc[0]['NAWF'+doy]):
+                nawf.update({'2022'+doy:round(rowdev.iloc[0]['NAWF'+doy],1)})
+        if nawf:
+            mycc.setproperty('NAWF',nawf)
     found = False
     for plot in plots:
         if plot.plt_label == cc_label[:5]:
