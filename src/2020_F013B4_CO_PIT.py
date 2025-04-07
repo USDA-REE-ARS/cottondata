@@ -145,6 +145,13 @@ for feature in layer:
     fdata.update({'2020178':38.9})
     fdata.update({'2020199':38.9})
     myplot.setproperty('FEAMN',fdata)
+    cdata = dict()
+    cdata.update({'2020099':'Apply Prowl (pendimethalin)'})
+    cdata.update({'2020147':'Apply RoundUp (glyphosate)'})
+    cdata.update({'2020188':'Apply RoundUp (glyphosate)'})
+    cdata.update({'2020196':'Apply Carbine 50WG (flonicamid)'})
+    cdata.update({'2020268':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    cdata.update({'2020289':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     row = row.astype({'FBTCT':float})

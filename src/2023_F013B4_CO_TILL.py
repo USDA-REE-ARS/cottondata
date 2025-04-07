@@ -148,21 +148,21 @@ for feature in layer:
     tdata = dict()
     cdata = dict()
     if int(plt_label[1:]) >= 7:
-        tdata.update({'20230404':'Disk'})
-        tdata.update({'20230411':'Land plane'})
+        tdata.update({'2023094':'Disk'})
+        tdata.update({'2023101':'Land plane'})
         if trt_label == 'BEDS':
-            tdata.update({'20230417':'Raise beds'})
-        cdata.update({'20230411':'Apply Acumen (pendimethalin)'})
+            tdata.update({'2023107':'Raise beds'})
+        cdata.update({'2023101':'Apply Acumen (pendimethalin)'})
     elif int(plt_label[1:]) < 7:
         if trt_label == 'STRIP':
-            tdata.update({'20230417':'Strip tillage'})
-        cdata.update({'20230420':'Apply Acumen (pendimethalin)'})
+            tdata.update({'2023107':'Strip tillage'})
+        cdata.update({'2023110':'Apply Acumen (pendimethalin)'})
     if int(plt_label[1:]) <= 8:
-        cdata.update({'20230523':'Apply RoundUp (glyphosate)'})
-        cdata.update({'20230606':'Apply RoundUp (glyphosate)'})
-    cdata.update({'20230724':'Apply Mepstar6 (mepiquat chloride)'})
-    cdata.update({'20231009':'Apply Redipik (diuron, thidiazuron)'})
-    cdata.update({'20231025':'Apply Redipik (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+        cdata.update({'2023143':'Apply RoundUp (glyphosate)'})
+        cdata.update({'2023157':'Apply RoundUp (glyphosate)'})
+    cdata.update({'2023205':'Apply Mepstar6 (mepiquat chloride)'})
+    cdata.update({'2023282':'Apply Redipik (diuron, thidiazuron)'})
+    cdata.update({'2023298':'Apply Redipik (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
     if tdata:
         myplot.setproperty('TI_NOTES',tdata)
     myplot.setproperty('CH_NOTES',cdata)
