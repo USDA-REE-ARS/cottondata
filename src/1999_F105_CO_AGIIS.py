@@ -288,9 +288,9 @@ for feature in layer:
     #Crop canopy data
     row = cc.loc[cc['CCID'] == cc_label]
     key = '1999'+cc_label[4:7]
-    PLPAD = float(row.iloc[0]['PLPAD'])
-    if not math.isnan(PLPAD):
-        mycc.setproperty('PLPAD',{key:round(PLPAD,1)})
+    PLPD = float(row.iloc[0]['PLPD'])
+    if not math.isnan(PLPD):
+        mycc.setproperty('PLPD',{key:round(PLPD,1)})
     CHTD = float(row.iloc[0]['CHTDcm'])/100. #m
     if not math.isnan(CHTD):
         mycc.setproperty('CHTD',{key:round(CHTD,2)})
