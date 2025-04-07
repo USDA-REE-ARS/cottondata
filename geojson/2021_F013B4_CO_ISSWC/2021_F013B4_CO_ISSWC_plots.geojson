@@ -81,6 +81,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3326.7,
@@ -121,7 +135,17 @@
                 "ccids": [
                     "642464c28ac547060991e39a",
                     "642464c28ac547060991e39b",
-                    "642464c28ac547060991e39c"
+                    "642464c28ac547060991e39c",
+                    "67ed5ffc8ac547a69e0373bb"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1b4d",
+                    "67eeba338ac547ce9c2d1b4e",
+                    "67eeba338ac547ce9c2d1b4f",
+                    "67eeba338ac547ce9c2d1b50",
+                    "67eeba338ac547ce9c2d1b51",
+                    "67eeba338ac547ce9c2d1b52",
+                    "67eeba338ac547ce9c2d1b53"
                 ]
             },
             "_id": "63643f288ac54794e7f9177e",
@@ -207,6 +231,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 2664.5,
@@ -247,7 +285,17 @@
                 "ccids": [
                     "642464c28ac547060991e39d",
                     "642464c28ac547060991e39e",
-                    "642464c28ac547060991e39f"
+                    "642464c28ac547060991e39f",
+                    "67ed5ffc8ac547a69e0373bc"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1b54",
+                    "67eeba338ac547ce9c2d1b55",
+                    "67eeba338ac547ce9c2d1b56",
+                    "67eeba338ac547ce9c2d1b57",
+                    "67eeba338ac547ce9c2d1b58",
+                    "67eeba338ac547ce9c2d1b59",
+                    "67eeba338ac547ce9c2d1b5a"
                 ]
             },
             "_id": "63643f288ac54794e7f9177f",
@@ -333,6 +381,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 2906.3,
@@ -373,7 +435,17 @@
                 "ccids": [
                     "642464c28ac547060991e3a0",
                     "642464c28ac547060991e3a1",
-                    "642464c28ac547060991e3a2"
+                    "642464c28ac547060991e3a2",
+                    "67ed5ffc8ac547a69e0373bd"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1b5b",
+                    "67eeba338ac547ce9c2d1b5c",
+                    "67eeba338ac547ce9c2d1b5d",
+                    "67eeba338ac547ce9c2d1b5e",
+                    "67eeba338ac547ce9c2d1b5f",
+                    "67eeba338ac547ce9c2d1b60",
+                    "67eeba338ac547ce9c2d1b61"
                 ]
             },
             "_id": "63643f288ac54794e7f91780",
@@ -459,6 +531,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3672.7,
@@ -499,7 +585,17 @@
                 "ccids": [
                     "642464c28ac547060991e3a3",
                     "642464c28ac547060991e3a4",
-                    "642464c28ac547060991e3a5"
+                    "642464c28ac547060991e3a5",
+                    "67ed5ffc8ac547a69e0373be"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1b62",
+                    "67eeba338ac547ce9c2d1b63",
+                    "67eeba338ac547ce9c2d1b64",
+                    "67eeba338ac547ce9c2d1b65",
+                    "67eeba338ac547ce9c2d1b66",
+                    "67eeba338ac547ce9c2d1b67",
+                    "67eeba338ac547ce9c2d1b68"
                 ]
             },
             "_id": "63643f288ac54794e7f91781",
@@ -585,6 +681,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3719.2,
@@ -625,7 +735,17 @@
                 "ccids": [
                     "642464c28ac547060991e3a6",
                     "642464c28ac547060991e3a7",
-                    "642464c28ac547060991e3a8"
+                    "642464c28ac547060991e3a8",
+                    "67ed5ffc8ac547a69e0373bf"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1b69",
+                    "67eeba338ac547ce9c2d1b6a",
+                    "67eeba338ac547ce9c2d1b6b",
+                    "67eeba338ac547ce9c2d1b6c",
+                    "67eeba338ac547ce9c2d1b6d",
+                    "67eeba338ac547ce9c2d1b6e",
+                    "67eeba338ac547ce9c2d1b6f"
                 ]
             },
             "_id": "63643f288ac54794e7f91782",
@@ -711,6 +831,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3652.2,
@@ -751,7 +885,17 @@
                 "ccids": [
                     "642464c28ac547060991e3a9",
                     "642464c28ac547060991e3aa",
-                    "642464c28ac547060991e3ab"
+                    "642464c28ac547060991e3ab",
+                    "67ed5ffc8ac547a69e0373c0"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1b70",
+                    "67eeba338ac547ce9c2d1b71",
+                    "67eeba338ac547ce9c2d1b72",
+                    "67eeba338ac547ce9c2d1b73",
+                    "67eeba338ac547ce9c2d1b74",
+                    "67eeba338ac547ce9c2d1b75",
+                    "67eeba338ac547ce9c2d1b76"
                 ]
             },
             "_id": "63643f288ac54794e7f91783",
@@ -837,6 +981,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3358.3,
@@ -877,7 +1035,17 @@
                 "ccids": [
                     "642464c28ac547060991e3ac",
                     "642464c28ac547060991e3ad",
-                    "642464c28ac547060991e3ae"
+                    "642464c28ac547060991e3ae",
+                    "67ed5ffc8ac547a69e0373c1"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1b77",
+                    "67eeba338ac547ce9c2d1b78",
+                    "67eeba338ac547ce9c2d1b79",
+                    "67eeba338ac547ce9c2d1b7a",
+                    "67eeba338ac547ce9c2d1b7b",
+                    "67eeba338ac547ce9c2d1b7c",
+                    "67eeba338ac547ce9c2d1b7d"
                 ]
             },
             "_id": "63643f288ac54794e7f91784",
@@ -963,6 +1131,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 4214.0,
@@ -1003,7 +1185,17 @@
                 "ccids": [
                     "642464c28ac547060991e3af",
                     "642464c28ac547060991e3b0",
-                    "642464c28ac547060991e3b1"
+                    "642464c28ac547060991e3b1",
+                    "67ed5ffc8ac547a69e0373c2"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1b7e",
+                    "67eeba338ac547ce9c2d1b7f",
+                    "67eeba338ac547ce9c2d1b80",
+                    "67eeba338ac547ce9c2d1b81",
+                    "67eeba338ac547ce9c2d1b82",
+                    "67eeba338ac547ce9c2d1b83",
+                    "67eeba338ac547ce9c2d1b84"
                 ]
             },
             "_id": "63643f288ac54794e7f91785",
@@ -1089,6 +1281,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3783.8,
@@ -1129,7 +1335,17 @@
                 "ccids": [
                     "642464c28ac547060991e3b2",
                     "642464c28ac547060991e3b3",
-                    "642464c28ac547060991e3b4"
+                    "642464c28ac547060991e3b4",
+                    "67ed5ffc8ac547a69e0373c3"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1b85",
+                    "67eeba338ac547ce9c2d1b86",
+                    "67eeba338ac547ce9c2d1b87",
+                    "67eeba338ac547ce9c2d1b88",
+                    "67eeba338ac547ce9c2d1b89",
+                    "67eeba338ac547ce9c2d1b8a",
+                    "67eeba338ac547ce9c2d1b8b"
                 ]
             },
             "_id": "63643f288ac54794e7f91786",
@@ -1215,6 +1431,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3824.8,
@@ -1255,7 +1485,17 @@
                 "ccids": [
                     "642464c28ac547060991e3b5",
                     "642464c28ac547060991e3b6",
-                    "642464c28ac547060991e3b7"
+                    "642464c28ac547060991e3b7",
+                    "67ed5ffc8ac547a69e0373c4"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1b8c",
+                    "67eeba338ac547ce9c2d1b8d",
+                    "67eeba338ac547ce9c2d1b8e",
+                    "67eeba338ac547ce9c2d1b8f",
+                    "67eeba338ac547ce9c2d1b90",
+                    "67eeba338ac547ce9c2d1b91",
+                    "67eeba338ac547ce9c2d1b92"
                 ]
             },
             "_id": "63643f288ac54794e7f91787",
@@ -1341,6 +1581,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3955.0,
@@ -1381,7 +1635,17 @@
                 "ccids": [
                     "642464c28ac547060991e3b8",
                     "642464c28ac547060991e3b9",
-                    "642464c28ac547060991e3ba"
+                    "642464c28ac547060991e3ba",
+                    "67ed5ffc8ac547a69e0373c5"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1b93",
+                    "67eeba338ac547ce9c2d1b94",
+                    "67eeba338ac547ce9c2d1b95",
+                    "67eeba338ac547ce9c2d1b96",
+                    "67eeba338ac547ce9c2d1b97",
+                    "67eeba338ac547ce9c2d1b98",
+                    "67eeba338ac547ce9c2d1b99"
                 ]
             },
             "_id": "63643f288ac54794e7f91788",
@@ -1467,6 +1731,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 4040.5,
@@ -1507,7 +1785,17 @@
                 "ccids": [
                     "642464c28ac547060991e3bb",
                     "642464c28ac547060991e3bc",
-                    "642464c28ac547060991e3bd"
+                    "642464c28ac547060991e3bd",
+                    "67ed5ffc8ac547a69e0373c6"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1b9a",
+                    "67eeba338ac547ce9c2d1b9b",
+                    "67eeba338ac547ce9c2d1b9c",
+                    "67eeba338ac547ce9c2d1b9d",
+                    "67eeba338ac547ce9c2d1b9e",
+                    "67eeba338ac547ce9c2d1b9f",
+                    "67eeba338ac547ce9c2d1ba0"
                 ]
             },
             "_id": "63643f288ac54794e7f91789",
@@ -1593,6 +1881,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3858.7,
@@ -1633,7 +1935,17 @@
                 "ccids": [
                     "642464c28ac547060991e3be",
                     "642464c28ac547060991e3bf",
-                    "642464c28ac547060991e3c0"
+                    "642464c28ac547060991e3c0",
+                    "67ed5ffc8ac547a69e0373c7"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1ba1",
+                    "67eeba338ac547ce9c2d1ba2",
+                    "67eeba338ac547ce9c2d1ba3",
+                    "67eeba338ac547ce9c2d1ba4",
+                    "67eeba338ac547ce9c2d1ba5",
+                    "67eeba338ac547ce9c2d1ba6",
+                    "67eeba338ac547ce9c2d1ba7"
                 ]
             },
             "_id": "63643f288ac54794e7f9178a",
@@ -1719,6 +2031,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3903.4,
@@ -1759,7 +2085,17 @@
                 "ccids": [
                     "642464c28ac547060991e3c1",
                     "642464c28ac547060991e3c2",
-                    "642464c28ac547060991e3c3"
+                    "642464c28ac547060991e3c3",
+                    "67ed5ffc8ac547a69e0373c8"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1ba8",
+                    "67eeba338ac547ce9c2d1ba9",
+                    "67eeba338ac547ce9c2d1baa",
+                    "67eeba338ac547ce9c2d1bab",
+                    "67eeba338ac547ce9c2d1bac",
+                    "67eeba338ac547ce9c2d1bad",
+                    "67eeba338ac547ce9c2d1bae"
                 ]
             },
             "_id": "63643f288ac54794e7f9178b",
@@ -1845,6 +2181,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3828.9,
@@ -1885,7 +2235,17 @@
                 "ccids": [
                     "642464c28ac547060991e3c4",
                     "642464c28ac547060991e3c5",
-                    "642464c28ac547060991e3c6"
+                    "642464c28ac547060991e3c6",
+                    "67ed5ffc8ac547a69e0373c9"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1baf",
+                    "67eeba338ac547ce9c2d1bb0",
+                    "67eeba338ac547ce9c2d1bb1",
+                    "67eeba338ac547ce9c2d1bb2",
+                    "67eeba338ac547ce9c2d1bb3",
+                    "67eeba338ac547ce9c2d1bb4",
+                    "67eeba338ac547ce9c2d1bb5"
                 ]
             },
             "_id": "63643f288ac54794e7f9178c",
@@ -1971,6 +2331,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 4517.2,
@@ -2011,7 +2385,17 @@
                 "ccids": [
                     "642464c28ac547060991e3c7",
                     "642464c28ac547060991e3c8",
-                    "642464c28ac547060991e3c9"
+                    "642464c28ac547060991e3c9",
+                    "67ed5ffc8ac547a69e0373ca"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1bb6",
+                    "67eeba338ac547ce9c2d1bb7",
+                    "67eeba338ac547ce9c2d1bb8",
+                    "67eeba338ac547ce9c2d1bb9",
+                    "67eeba338ac547ce9c2d1bba",
+                    "67eeba338ac547ce9c2d1bbb",
+                    "67eeba338ac547ce9c2d1bbc"
                 ]
             },
             "_id": "63643f288ac54794e7f9178d",
@@ -2097,6 +2481,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 4226.6,
@@ -2137,7 +2535,17 @@
                 "ccids": [
                     "642464c28ac547060991e3ca",
                     "642464c28ac547060991e3cb",
-                    "642464c28ac547060991e3cc"
+                    "642464c28ac547060991e3cc",
+                    "67ed5ffc8ac547a69e0373cb"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1bbd",
+                    "67eeba338ac547ce9c2d1bbe",
+                    "67eeba338ac547ce9c2d1bbf",
+                    "67eeba338ac547ce9c2d1bc0",
+                    "67eeba338ac547ce9c2d1bc1",
+                    "67eeba338ac547ce9c2d1bc2",
+                    "67eeba338ac547ce9c2d1bc3"
                 ]
             },
             "_id": "63643f288ac54794e7f9178e",
@@ -2223,6 +2631,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 4033.1,
@@ -2263,7 +2685,17 @@
                 "ccids": [
                     "642464c28ac547060991e3cd",
                     "642464c28ac547060991e3ce",
-                    "642464c28ac547060991e3cf"
+                    "642464c28ac547060991e3cf",
+                    "67ed5ffc8ac547a69e0373cc"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1bc4",
+                    "67eeba338ac547ce9c2d1bc5",
+                    "67eeba338ac547ce9c2d1bc6",
+                    "67eeba338ac547ce9c2d1bc7",
+                    "67eeba338ac547ce9c2d1bc8",
+                    "67eeba338ac547ce9c2d1bc9",
+                    "67eeba338ac547ce9c2d1bca"
                 ]
             },
             "_id": "63643f288ac54794e7f9178f",
@@ -2349,6 +2781,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3955.0,
@@ -2389,7 +2835,17 @@
                 "ccids": [
                     "642464c28ac547060991e3d0",
                     "642464c28ac547060991e3d1",
-                    "642464c28ac547060991e3d2"
+                    "642464c28ac547060991e3d2",
+                    "67ed5ffc8ac547a69e0373cd"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1bcb",
+                    "67eeba338ac547ce9c2d1bcc",
+                    "67eeba338ac547ce9c2d1bcd",
+                    "67eeba338ac547ce9c2d1bce",
+                    "67eeba338ac547ce9c2d1bcf",
+                    "67eeba338ac547ce9c2d1bd0",
+                    "67eeba338ac547ce9c2d1bd1"
                 ]
             },
             "_id": "63643f288ac54794e7f91790",
@@ -2475,6 +2931,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 4260.1,
@@ -2515,7 +2985,17 @@
                 "ccids": [
                     "642464c28ac547060991e3d3",
                     "642464c28ac547060991e3d4",
-                    "642464c28ac547060991e3d5"
+                    "642464c28ac547060991e3d5",
+                    "67ed5ffc8ac547a69e0373ce"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1bd2",
+                    "67eeba338ac547ce9c2d1bd3",
+                    "67eeba338ac547ce9c2d1bd4",
+                    "67eeba338ac547ce9c2d1bd5",
+                    "67eeba338ac547ce9c2d1bd6",
+                    "67eeba338ac547ce9c2d1bd7",
+                    "67eeba338ac547ce9c2d1bd8"
                 ]
             },
             "_id": "63643f288ac54794e7f91791",
@@ -2601,6 +3081,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3587.4,
@@ -2641,7 +3135,17 @@
                 "ccids": [
                     "642464c28ac547060991e3d6",
                     "642464c28ac547060991e3d7",
-                    "642464c28ac547060991e3d8"
+                    "642464c28ac547060991e3d8",
+                    "67ed5ffc8ac547a69e0373cf"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1bd9",
+                    "67eeba338ac547ce9c2d1bda",
+                    "67eeba338ac547ce9c2d1bdb",
+                    "67eeba338ac547ce9c2d1bdc",
+                    "67eeba338ac547ce9c2d1bdd",
+                    "67eeba338ac547ce9c2d1bde",
+                    "67eeba338ac547ce9c2d1bdf"
                 ]
             },
             "_id": "63643f288ac54794e7f91792",
@@ -2727,6 +3231,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3565.0,
@@ -2767,7 +3285,17 @@
                 "ccids": [
                     "642464c28ac547060991e3d9",
                     "642464c28ac547060991e3da",
-                    "642464c28ac547060991e3db"
+                    "642464c28ac547060991e3db",
+                    "67ed5ffc8ac547a69e0373d0"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1be0",
+                    "67eeba338ac547ce9c2d1be1",
+                    "67eeba338ac547ce9c2d1be2",
+                    "67eeba338ac547ce9c2d1be3",
+                    "67eeba338ac547ce9c2d1be4",
+                    "67eeba338ac547ce9c2d1be5",
+                    "67eeba338ac547ce9c2d1be6"
                 ]
             },
             "_id": "63643f288ac54794e7f91793",
@@ -2853,6 +3381,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 4026.4,
@@ -2893,7 +3435,17 @@
                 "ccids": [
                     "642464c28ac547060991e3dc",
                     "642464c28ac547060991e3dd",
-                    "642464c28ac547060991e3de"
+                    "642464c28ac547060991e3de",
+                    "67ed5ffc8ac547a69e0373d1"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1be7",
+                    "67eeba338ac547ce9c2d1be8",
+                    "67eeba338ac547ce9c2d1be9",
+                    "67eeba338ac547ce9c2d1bea",
+                    "67eeba338ac547ce9c2d1beb",
+                    "67eeba338ac547ce9c2d1bec",
+                    "67eeba338ac547ce9c2d1bed"
                 ]
             },
             "_id": "63643f288ac54794e7f91794",
@@ -2979,6 +3531,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3881.3,
@@ -3019,7 +3585,17 @@
                 "ccids": [
                     "642464c28ac547060991e3df",
                     "642464c28ac547060991e3e0",
-                    "642464c28ac547060991e3e1"
+                    "642464c28ac547060991e3e1",
+                    "67ed5ffc8ac547a69e0373d2"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1bee",
+                    "67eeba338ac547ce9c2d1bef",
+                    "67eeba338ac547ce9c2d1bf0",
+                    "67eeba338ac547ce9c2d1bf1",
+                    "67eeba338ac547ce9c2d1bf2",
+                    "67eeba338ac547ce9c2d1bf3",
+                    "67eeba338ac547ce9c2d1bf4"
                 ]
             },
             "_id": "63643f288ac54794e7f91795",
@@ -3105,6 +3681,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3318.3,
@@ -3145,7 +3735,17 @@
                 "ccids": [
                     "642464c28ac547060991e3e2",
                     "642464c28ac547060991e3e3",
-                    "642464c28ac547060991e3e4"
+                    "642464c28ac547060991e3e4",
+                    "67ed5ffc8ac547a69e0373d3"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1bf5",
+                    "67eeba338ac547ce9c2d1bf6",
+                    "67eeba338ac547ce9c2d1bf7",
+                    "67eeba338ac547ce9c2d1bf8",
+                    "67eeba338ac547ce9c2d1bf9",
+                    "67eeba338ac547ce9c2d1bfa",
+                    "67eeba338ac547ce9c2d1bfb"
                 ]
             },
             "_id": "63643f288ac54794e7f91796",
@@ -3231,6 +3831,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3336.9,
@@ -3271,7 +3885,17 @@
                 "ccids": [
                     "642464c28ac547060991e3e5",
                     "642464c28ac547060991e3e6",
-                    "642464c28ac547060991e3e7"
+                    "642464c28ac547060991e3e7",
+                    "67ed5ffc8ac547a69e0373d4"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1bfc",
+                    "67eeba338ac547ce9c2d1bfd",
+                    "67eeba338ac547ce9c2d1bfe",
+                    "67eeba338ac547ce9c2d1bff",
+                    "67eeba338ac547ce9c2d1c00",
+                    "67eeba338ac547ce9c2d1c01",
+                    "67eeba338ac547ce9c2d1c02"
                 ]
             },
             "_id": "63643f288ac54794e7f91797",
@@ -3357,6 +3981,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 2972.3,
@@ -3397,7 +4035,17 @@
                 "ccids": [
                     "642464c28ac547060991e3e8",
                     "642464c28ac547060991e3e9",
-                    "642464c28ac547060991e3ea"
+                    "642464c28ac547060991e3ea",
+                    "67ed5ffc8ac547a69e0373d5"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c03",
+                    "67eeba338ac547ce9c2d1c04",
+                    "67eeba338ac547ce9c2d1c05",
+                    "67eeba338ac547ce9c2d1c06",
+                    "67eeba338ac547ce9c2d1c07",
+                    "67eeba338ac547ce9c2d1c08",
+                    "67eeba338ac547ce9c2d1c09"
                 ]
             },
             "_id": "63643f288ac54794e7f91798",
@@ -3483,6 +4131,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3485.7,
@@ -3523,7 +4185,17 @@
                 "ccids": [
                     "642464c28ac547060991e3eb",
                     "642464c28ac547060991e3ec",
-                    "642464c28ac547060991e3ed"
+                    "642464c28ac547060991e3ed",
+                    "67ed5ffc8ac547a69e0373d6"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c0a",
+                    "67eeba338ac547ce9c2d1c0b",
+                    "67eeba338ac547ce9c2d1c0c",
+                    "67eeba338ac547ce9c2d1c0d",
+                    "67eeba338ac547ce9c2d1c0e",
+                    "67eeba338ac547ce9c2d1c0f",
+                    "67eeba338ac547ce9c2d1c10"
                 ]
             },
             "_id": "63643f288ac54794e7f91799",
@@ -3609,6 +4281,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3766.6,
@@ -3649,7 +4335,17 @@
                 "ccids": [
                     "642464c28ac547060991e3ee",
                     "642464c28ac547060991e3ef",
-                    "642464c28ac547060991e3f0"
+                    "642464c28ac547060991e3f0",
+                    "67ed5ffc8ac547a69e0373d7"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c11",
+                    "67eeba338ac547ce9c2d1c12",
+                    "67eeba338ac547ce9c2d1c13",
+                    "67eeba338ac547ce9c2d1c14",
+                    "67eeba338ac547ce9c2d1c15",
+                    "67eeba338ac547ce9c2d1c16",
+                    "67eeba338ac547ce9c2d1c17"
                 ]
             },
             "_id": "63643f288ac54794e7f9179a",
@@ -3735,6 +4431,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 4257.7,
@@ -3775,7 +4485,17 @@
                 "ccids": [
                     "642464c28ac547060991e3f1",
                     "642464c28ac547060991e3f2",
-                    "642464c28ac547060991e3f3"
+                    "642464c28ac547060991e3f3",
+                    "67ed5ffc8ac547a69e0373d8"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c18",
+                    "67eeba338ac547ce9c2d1c19",
+                    "67eeba338ac547ce9c2d1c1a",
+                    "67eeba338ac547ce9c2d1c1b",
+                    "67eeba338ac547ce9c2d1c1c",
+                    "67eeba338ac547ce9c2d1c1d",
+                    "67eeba338ac547ce9c2d1c1e"
                 ]
             },
             "_id": "63643f288ac54794e7f9179b",
@@ -3861,6 +4581,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 4149.8,
@@ -3901,7 +4635,17 @@
                 "ccids": [
                     "642464c28ac547060991e3f4",
                     "642464c28ac547060991e3f5",
-                    "642464c28ac547060991e3f6"
+                    "642464c28ac547060991e3f6",
+                    "67ed5ffc8ac547a69e0373d9"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c1f",
+                    "67eeba338ac547ce9c2d1c20",
+                    "67eeba338ac547ce9c2d1c21",
+                    "67eeba338ac547ce9c2d1c22",
+                    "67eeba338ac547ce9c2d1c23",
+                    "67eeba338ac547ce9c2d1c24",
+                    "67eeba338ac547ce9c2d1c25"
                 ]
             },
             "_id": "63643f288ac54794e7f9179c",
@@ -3987,6 +4731,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 4864.2,
@@ -4027,7 +4785,17 @@
                 "ccids": [
                     "642464c28ac547060991e3f7",
                     "642464c28ac547060991e3f8",
-                    "642464c28ac547060991e3f9"
+                    "642464c28ac547060991e3f9",
+                    "67ed5ffc8ac547a69e0373da"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c26",
+                    "67eeba338ac547ce9c2d1c27",
+                    "67eeba338ac547ce9c2d1c28",
+                    "67eeba338ac547ce9c2d1c29",
+                    "67eeba338ac547ce9c2d1c2a",
+                    "67eeba338ac547ce9c2d1c2b",
+                    "67eeba338ac547ce9c2d1c2c"
                 ]
             },
             "_id": "63643f288ac54794e7f9179d",
@@ -4113,6 +4881,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3231.8,
@@ -4153,7 +4935,17 @@
                 "ccids": [
                     "642464c28ac547060991e3fa",
                     "642464c28ac547060991e3fb",
-                    "642464c28ac547060991e3fc"
+                    "642464c28ac547060991e3fc",
+                    "67ed5ffc8ac547a69e0373db"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c2d",
+                    "67eeba338ac547ce9c2d1c2e",
+                    "67eeba338ac547ce9c2d1c2f",
+                    "67eeba338ac547ce9c2d1c30",
+                    "67eeba338ac547ce9c2d1c31",
+                    "67eeba338ac547ce9c2d1c32",
+                    "67eeba338ac547ce9c2d1c33"
                 ]
             },
             "_id": "63643f288ac54794e7f9179e",
@@ -4239,6 +5031,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3328.6,
@@ -4279,7 +5085,17 @@
                 "ccids": [
                     "642464c28ac547060991e3fd",
                     "642464c28ac547060991e3fe",
-                    "642464c28ac547060991e3ff"
+                    "642464c28ac547060991e3ff",
+                    "67ed5ffc8ac547a69e0373dc"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c34",
+                    "67eeba338ac547ce9c2d1c35",
+                    "67eeba338ac547ce9c2d1c36",
+                    "67eeba338ac547ce9c2d1c37",
+                    "67eeba338ac547ce9c2d1c38",
+                    "67eeba338ac547ce9c2d1c39",
+                    "67eeba338ac547ce9c2d1c3a"
                 ]
             },
             "_id": "63643f288ac54794e7f9179f",
@@ -4365,6 +5181,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3562.9,
@@ -4405,7 +5235,17 @@
                 "ccids": [
                     "642464c28ac547060991e400",
                     "642464c28ac547060991e401",
-                    "642464c28ac547060991e402"
+                    "642464c28ac547060991e402",
+                    "67ed5ffc8ac547a69e0373dd"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c3b",
+                    "67eeba338ac547ce9c2d1c3c",
+                    "67eeba338ac547ce9c2d1c3d",
+                    "67eeba338ac547ce9c2d1c3e",
+                    "67eeba338ac547ce9c2d1c3f",
+                    "67eeba338ac547ce9c2d1c40",
+                    "67eeba338ac547ce9c2d1c41"
                 ]
             },
             "_id": "63643f288ac54794e7f917a0",
@@ -4491,6 +5331,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3700.6,
@@ -4531,7 +5385,17 @@
                 "ccids": [
                     "642464c28ac547060991e403",
                     "642464c28ac547060991e404",
-                    "642464c28ac547060991e405"
+                    "642464c28ac547060991e405",
+                    "67ed5ffc8ac547a69e0373de"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c42",
+                    "67eeba338ac547ce9c2d1c43",
+                    "67eeba338ac547ce9c2d1c44",
+                    "67eeba338ac547ce9c2d1c45",
+                    "67eeba338ac547ce9c2d1c46",
+                    "67eeba338ac547ce9c2d1c47",
+                    "67eeba338ac547ce9c2d1c48"
                 ]
             },
             "_id": "63643f288ac54794e7f917a1",
@@ -4617,6 +5481,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3995.9,
@@ -4657,7 +5535,17 @@
                 "ccids": [
                     "642464c28ac547060991e406",
                     "642464c28ac547060991e407",
-                    "642464c28ac547060991e408"
+                    "642464c28ac547060991e408",
+                    "67ed5ffc8ac547a69e0373df"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c49",
+                    "67eeba338ac547ce9c2d1c4a",
+                    "67eeba338ac547ce9c2d1c4b",
+                    "67eeba338ac547ce9c2d1c4c",
+                    "67eeba338ac547ce9c2d1c4d",
+                    "67eeba338ac547ce9c2d1c4e",
+                    "67eeba338ac547ce9c2d1c4f"
                 ]
             },
             "_id": "63643f288ac54794e7f917a2",
@@ -4743,6 +5631,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 4092.6,
@@ -4783,7 +5685,17 @@
                 "ccids": [
                     "642464c28ac547060991e409",
                     "642464c28ac547060991e40a",
-                    "642464c28ac547060991e40b"
+                    "642464c28ac547060991e40b",
+                    "67ed5ffc8ac547a69e0373e0"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c50",
+                    "67eeba338ac547ce9c2d1c51",
+                    "67eeba338ac547ce9c2d1c52",
+                    "67eeba338ac547ce9c2d1c53",
+                    "67eeba338ac547ce9c2d1c54",
+                    "67eeba338ac547ce9c2d1c55",
+                    "67eeba338ac547ce9c2d1c56"
                 ]
             },
             "_id": "63643f288ac54794e7f917a3",
@@ -4869,6 +5781,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 4081.5,
@@ -4909,7 +5835,17 @@
                 "ccids": [
                     "642464c28ac547060991e40c",
                     "642464c28ac547060991e40d",
-                    "642464c28ac547060991e40e"
+                    "642464c28ac547060991e40e",
+                    "67ed5ffc8ac547a69e0373e1"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c57",
+                    "67eeba338ac547ce9c2d1c58",
+                    "67eeba338ac547ce9c2d1c59",
+                    "67eeba338ac547ce9c2d1c5a",
+                    "67eeba338ac547ce9c2d1c5b",
+                    "67eeba338ac547ce9c2d1c5c",
+                    "67eeba338ac547ce9c2d1c5d"
                 ]
             },
             "_id": "63643f288ac54794e7f917a4",
@@ -4995,6 +5931,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 4021.9,
@@ -5035,7 +5985,17 @@
                 "ccids": [
                     "642464c28ac547060991e40f",
                     "642464c28ac547060991e410",
-                    "642464c28ac547060991e411"
+                    "642464c28ac547060991e411",
+                    "67ed5ffc8ac547a69e0373e2"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c5e",
+                    "67eeba338ac547ce9c2d1c5f",
+                    "67eeba338ac547ce9c2d1c60",
+                    "67eeba338ac547ce9c2d1c61",
+                    "67eeba338ac547ce9c2d1c62",
+                    "67eeba338ac547ce9c2d1c63",
+                    "67eeba338ac547ce9c2d1c64"
                 ]
             },
             "_id": "63643f288ac54794e7f917a5",
@@ -5121,6 +6081,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3356.0,
@@ -5161,7 +6135,17 @@
                 "ccids": [
                     "642464c28ac547060991e412",
                     "642464c28ac547060991e413",
-                    "642464c28ac547060991e414"
+                    "642464c28ac547060991e414",
+                    "67ed5ffc8ac547a69e0373e3"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c65",
+                    "67eeba338ac547ce9c2d1c66",
+                    "67eeba338ac547ce9c2d1c67",
+                    "67eeba338ac547ce9c2d1c68",
+                    "67eeba338ac547ce9c2d1c69",
+                    "67eeba338ac547ce9c2d1c6a",
+                    "67eeba338ac547ce9c2d1c6b"
                 ]
             },
             "_id": "63643f288ac54794e7f917a6",
@@ -5247,6 +6231,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3895.5,
@@ -5287,7 +6285,17 @@
                 "ccids": [
                     "642464c28ac547060991e415",
                     "642464c28ac547060991e416",
-                    "642464c28ac547060991e417"
+                    "642464c28ac547060991e417",
+                    "67ed5ffc8ac547a69e0373e4"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c6c",
+                    "67eeba338ac547ce9c2d1c6d",
+                    "67eeba338ac547ce9c2d1c6e",
+                    "67eeba338ac547ce9c2d1c6f",
+                    "67eeba338ac547ce9c2d1c70",
+                    "67eeba338ac547ce9c2d1c71",
+                    "67eeba338ac547ce9c2d1c72"
                 ]
             },
             "_id": "63643f288ac54794e7f917a7",
@@ -5373,6 +6381,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3311.3,
@@ -5413,7 +6435,17 @@
                 "ccids": [
                     "642464c28ac547060991e418",
                     "642464c28ac547060991e419",
-                    "642464c28ac547060991e41a"
+                    "642464c28ac547060991e41a",
+                    "67ed5ffc8ac547a69e0373e5"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c73",
+                    "67eeba338ac547ce9c2d1c74",
+                    "67eeba338ac547ce9c2d1c75",
+                    "67eeba338ac547ce9c2d1c76",
+                    "67eeba338ac547ce9c2d1c77",
+                    "67eeba338ac547ce9c2d1c78",
+                    "67eeba338ac547ce9c2d1c79"
                 ]
             },
             "_id": "63643f288ac54794e7f917a8",
@@ -5499,6 +6531,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3441.6,
@@ -5539,7 +6585,17 @@
                 "ccids": [
                     "642464c28ac547060991e41b",
                     "642464c28ac547060991e41c",
-                    "642464c28ac547060991e41d"
+                    "642464c28ac547060991e41d",
+                    "67ed5ffc8ac547a69e0373e6"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c7a",
+                    "67eeba338ac547ce9c2d1c7b",
+                    "67eeba338ac547ce9c2d1c7c",
+                    "67eeba338ac547ce9c2d1c7d",
+                    "67eeba338ac547ce9c2d1c7e",
+                    "67eeba338ac547ce9c2d1c7f",
+                    "67eeba338ac547ce9c2d1c80"
                 ]
             },
             "_id": "63643f288ac54794e7f917a9",
@@ -5625,6 +6681,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 2400.8,
@@ -5665,7 +6735,17 @@
                 "ccids": [
                     "642464c28ac547060991e41e",
                     "642464c28ac547060991e41f",
-                    "642464c28ac547060991e420"
+                    "642464c28ac547060991e420",
+                    "67ed5ffc8ac547a69e0373e7"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c81",
+                    "67eeba338ac547ce9c2d1c82",
+                    "67eeba338ac547ce9c2d1c83",
+                    "67eeba338ac547ce9c2d1c84",
+                    "67eeba338ac547ce9c2d1c85",
+                    "67eeba338ac547ce9c2d1c86",
+                    "67eeba338ac547ce9c2d1c87"
                 ]
             },
             "_id": "63643f288ac54794e7f917aa",
@@ -5751,6 +6831,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3472.3,
@@ -5791,7 +6885,17 @@
                 "ccids": [
                     "642464c28ac547060991e421",
                     "642464c28ac547060991e422",
-                    "642464c28ac547060991e423"
+                    "642464c28ac547060991e423",
+                    "67ed5ffc8ac547a69e0373e8"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c88",
+                    "67eeba338ac547ce9c2d1c89",
+                    "67eeba338ac547ce9c2d1c8a",
+                    "67eeba338ac547ce9c2d1c8b",
+                    "67eeba338ac547ce9c2d1c8c",
+                    "67eeba338ac547ce9c2d1c8d",
+                    "67eeba338ac547ce9c2d1c8e"
                 ]
             },
             "_id": "63643f288ac54794e7f917ab",
@@ -5877,6 +6981,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 2709.6,
@@ -5917,7 +7035,17 @@
                 "ccids": [
                     "642464c28ac547060991e424",
                     "642464c28ac547060991e425",
-                    "642464c28ac547060991e426"
+                    "642464c28ac547060991e426",
+                    "67ed5ffc8ac547a69e0373e9"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c8f",
+                    "67eeba338ac547ce9c2d1c90",
+                    "67eeba338ac547ce9c2d1c91",
+                    "67eeba338ac547ce9c2d1c92",
+                    "67eeba338ac547ce9c2d1c93",
+                    "67eeba338ac547ce9c2d1c94",
+                    "67eeba338ac547ce9c2d1c95"
                 ]
             },
             "_id": "63643f288ac54794e7f917ac",
@@ -6003,6 +7131,20 @@
                     "2021173": 51.9,
                     "2021195": 45.4
                 },
+                "TI_NOTES": {
+                    "20210407": "Strip tillage"
+                },
+                "CH_NOTES": {
+                    "20210415": "Apply Velum Total (fluopyram)",
+                    "20210416": "Apply Prowl (pendimethalin)",
+                    "20210511": "Apply RoundUp (glyphosate)",
+                    "20210615": "Apply RoundUp (glyphosate)",
+                    "20210807": "Apply Carbine 50WG (flonicamid)",
+                    "20210814": "Apply Carbine 50WG (flonicamid)",
+                    "20210821": "Apply Carbine 50WG (flonicamid)",
+                    "20211021": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "20211105": "Apply Ginstar (diuron, thidiazuron)"
+                },
                 "HARM": "Machine",
                 "HADAT": "12/07/2021",
                 "WBWAH": 3319.7,
@@ -6043,7 +7185,17 @@
                 "ccids": [
                     "642464c28ac547060991e427",
                     "642464c28ac547060991e428",
-                    "642464c28ac547060991e429"
+                    "642464c28ac547060991e429",
+                    "67ed5ffc8ac547a69e0373ea"
+                ],
+                "paids": [
+                    "67eeba338ac547ce9c2d1c96",
+                    "67eeba338ac547ce9c2d1c97",
+                    "67eeba338ac547ce9c2d1c98",
+                    "67eeba338ac547ce9c2d1c99",
+                    "67eeba338ac547ce9c2d1c9a",
+                    "67eeba338ac547ce9c2d1c9b",
+                    "67eeba338ac547ce9c2d1c9c"
                 ]
             },
             "_id": "63643f288ac54794e7f917ad",
