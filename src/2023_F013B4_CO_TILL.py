@@ -134,7 +134,7 @@ for feature in layer:
     myplot.setproperty('IROP', 'IR004')
     idata = dict()
     for index, row in irrig.iterrows():
-        key = str(int(row['Year']))+str(int(row['DOY']))
+        key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
         IRVAL = row['IRVAL100']
         if not math.isnan(IRVAL):
             idata.update({key:round(IRVAL,1)})
@@ -147,6 +147,7 @@ for feature in layer:
     myplot.setproperty('FEAMN',fdata)
     tdata = dict()
     cdata = dict()
+    cdata.update({'2023086':'Apply RoundUp (glyphosate)'})
     if int(plt_label[1:]) >= 7:
         tdata.update({'2023094':'Disk'})
         tdata.update({'2023101':'Land plane'})
@@ -163,6 +164,7 @@ for feature in layer:
     cdata.update({'2023205':'Apply Mepstar6 (mepiquat chloride)'})
     cdata.update({'2023282':'Apply Redipik (diuron, thidiazuron)'})
     cdata.update({'2023298':'Apply Redipik (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    tdata.update({'2023Fall':'Root pull, rip, moldboard plow, disk, and land plane'})
     if tdata:
         myplot.setproperty('TI_NOTES',tdata)
     myplot.setproperty('CH_NOTES',cdata)

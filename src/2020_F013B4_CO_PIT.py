@@ -7,6 +7,8 @@ import zone
 import harvestarea
 import neutronswc
 import cropcanopy
+import plantanalysis
+import soilanalysis
 import pandas as pd
 from osgeo import ogr
 import geojson
@@ -102,6 +104,8 @@ yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
+ufile = '../Data/'+fname+'/'+fname+'_UAS.xlsx'
+cover = pd.read_excel(ufile,sheet_name='PlotCover')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -129,7 +133,7 @@ for feature in layer:
     myplot.setproperty('IROP', 'IR004')
     idata = dict()
     for index, row in irrig.iterrows():
-        key = str(int(row['Year']))+str(int(row['DOY']))
+        key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
         if trt_label in ['MDL','UAS']:
             IRVAL = row[trt_label]
         else:
@@ -145,13 +149,34 @@ for feature in layer:
     fdata.update({'2020178':38.9})
     fdata.update({'2020199':38.9})
     myplot.setproperty('FEAMN',fdata)
+    myplot.setproperty('FEAMP',{'2020339':40.4})
     cdata = dict()
-    cdata.update({'2020099':'Apply Prowl (pendimethalin)'})
-    cdata.update({'2020147':'Apply RoundUp (glyphosate)'})
-    cdata.update({'2020188':'Apply RoundUp (glyphosate)'})
-    cdata.update({'2020196':'Apply Carbine 50WG (flonicamid)'})
-    cdata.update({'2020268':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
-    cdata.update({'2020289':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    cdata.update({'2020084':'Apply RoundUp (glyphosate)'})
+    cdata.update({'2020100':'Apply Prowl (pendimethalin)'})
+    cdata.update({'2020148':'Apply RoundUp (glyphosate)'})
+    cdata.update({'2020189':'Apply RoundUp (glyphosate)'})
+    cdata.update({'2020197':'Apply Carbine 50WG (flonicamid)'})
+    cdata.update({'2020269':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    cdata.update({'2020290':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    myplot.setproperty('CH_NOTES',cdata)
+    tdata = dict()
+    tdata.update({'2020324':'Root pull'})
+    tdata.update({'2020329':'Disk and rip'})
+    tdata.update({'2020335':'Moldboard plow'})
+    tdata.update({'2020336':'Disk and land plane'})
+    tdata.update({'2020340':'S-tine'})
+    myplot.setproperty('TI_NOTES',tdata)
+    #UAS crop cover fraction
+    fcdata = dict()
+    row = cover.loc[cover['PlotID'] == plt_label]
+    doycols = sorted([col for col in cover.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2020'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            FRCOV = float(row.iloc[0][doycol])
+            fcdata.update({key:round(FRCOV,3)})
+    if fcdata:
+        myplot.setproperty('FRCOV',fcdata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     row = row.astype({'FBTCT':float})
@@ -220,6 +245,8 @@ yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Zone Scale',skiprows=5)
 mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
+ufile = '../Data/'+fname+'/'+fname+'_UAS.xlsx'
+cover = pd.read_excel(ufile,sheet_name='ZoneCover')
 zones = list()
 for feature in layer:
     zid = feature.GetField('ObjectId')
@@ -253,6 +280,17 @@ for feature in layer:
             sys.exit()
     if idata:
         myzone.setproperty('IRVAL',idata)
+    #UAS crop cover fraction
+    fcdata = dict()
+    row = cover.loc[cover['ZoneID'] == zon_label]
+    doycols = sorted([col for col in cover.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2020'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            FRCOV = float(row.iloc[0][doycol])
+            fcdata.update({key:round(FRCOV,3)})
+    if fcdata:
+        myzone.setproperty('FRCOV',fcdata)
     #Yield data
     row = yld.loc[yld['ZID'] == zon_label]
     if not math.isnan(row.iloc[0]['WBWAH']):
@@ -271,10 +309,12 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=53)
+ufile = '../Data/'+fname+'/'+fname+'_UAS.xlsx'
+cover = pd.read_excel(ufile,sheet_name='HACover')
 hareas = list()
 for feature in layer:
     haid = feature.GetField('ObjectId')
-    ha_label = feature.GetField('HID') #(e.g., 11W)
+    ha_label = feature.GetField('HID') #(e.g., p11W)
     geometry = feature.GetGeometryRef()
     geomcount = geometry.GetGeometryCount()
     nodecount = geometry.GetGeometryRef(0).GetPointCount()
@@ -345,6 +385,17 @@ for feature in layer:
         myha.setproperty('FBTAR' ,round(row.iloc[0]['FBTAR' ],2))
     if not math.isnan(row.iloc[0]['FBSFI']):
         myha.setproperty('FBSFI' ,round(row.iloc[0]['FBSFI' ],1))
+    #UAS crop cover fraction
+    fcdata = dict()
+    row = cover.loc[cover['HID'] == ha_label]
+    doycols = sorted([col for col in cover.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2020'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            FRCOV = float(row.iloc[0][doycol])
+            fcdata.update({key:round(FRCOV,3)})
+    if fcdata:
+        myha.setproperty('FRCOV',fcdata)
     found=False
     for plot in plots:
         if plot.plt_label == ha_label[:3]:
@@ -410,6 +461,9 @@ layer = shapes.GetLayer()
 ccfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
 cch = pd.read_excel(ccfile,sheet_name='Height')
 ccw = pd.read_excel(ccfile,sheet_name='Width')
+ccl = pd.read_excel(ccfile,sheet_name='LAImeter')
+ccden = pd.read_excel(ccfile,sheet_name='Density')
+ccdev = pd.read_excel(ccfile,sheet_name='Develop')
 crpcns = list()
 for feature in layer:
     ccid = feature.GetField('ObjectId')
@@ -423,24 +477,62 @@ for feature in layer:
     #Crop canopy data
     htdata = dict()
     rowh = cch.loc[cch['CCID'] == cc_label]
-    doycols = sorted([col for col in cch.columns if col[:3]=='DOY'])
-    for doycol in doycols:
-        key = '2020'+'{:03d}'.format(int(doycol[3:]))
-        if not math.isnan(rowh.iloc[0][doycol]):
-            CHTD = float(rowh.iloc[0][doycol])/100. #m
-            htdata.update({key:round(CHTD,2)})
-    if htdata:
-        mycc.setproperty('CHTD',htdata)
+    if not rowh.empty:
+        doycols = sorted([col for col in cch.columns if col[:3]=='DOY'])
+        for doycol in doycols:
+            key = '2020'+'{:03d}'.format(int(doycol[3:]))
+            if not math.isnan(rowh.iloc[0][doycol]):
+                CHTD = float(rowh.iloc[0][doycol])/100. #m
+                htdata.update({key:round(CHTD,2)})
+        if htdata:
+            mycc.setproperty('CHTD',htdata)
     wddata = dict()
     roww = ccw.loc[ccw['CCID'] == cc_label]
-    doycols = sorted([col for col in ccw.columns if col[:3]=='DOY'])
-    for doycol in doycols:
-        key = '2020'+'{:03d}'.format(int(doycol[3:]))
-        if not math.isnan(roww.iloc[0][doycol]):
-            CWID = float(roww.iloc[0][doycol])/100. #m
-            wddata.update({key:round(CWID,2)})
-    if wddata:
-        mycc.setproperty('CWID',wddata)
+    if not roww.empty:
+        doycols = sorted([col for col in ccw.columns if col[:3]=='DOY'])
+        for doycol in doycols:
+            key = '2020'+'{:03d}'.format(int(doycol[3:]))
+            if not math.isnan(roww.iloc[0][doycol]):
+                CWID = float(roww.iloc[0][doycol])/100. #m
+                wddata.update({key:round(CWID,2)})
+        if wddata:
+            mycc.setproperty('CWID',wddata)
+    laidata = dict()
+    rowl = ccl.loc[ccl['CCID'] == cc_label]
+    if not rowl.empty:
+        doycols = sorted([col for col in ccl.columns if col[:3]=='DOY'])
+        for doycol in doycols:
+            key = '2020'+'{:03d}'.format(int(doycol[3:]))
+            if not math.isnan(rowl.iloc[0][doycol]):
+                LAID = float(rowl.iloc[0][doycol])
+                laidata.update({key:round(LAID,2)})
+        if laidata:
+            mycc.setproperty('LAID',laidata)
+    rowden = ccden.loc[ccden['CCID'] == cc_label]
+    if not rowden.empty:
+        if not math.isnan(rowden.iloc[0]['PLPD']):
+            PLPD = float(rowden.iloc[0]['PLPD'])
+            mycc.setproperty('PLPD',round(PLPD,1))
+    rowdev = ccdev.loc[ccdev['CCID'] == cc_label]
+    if not rowdev.empty:
+        if not str(rowdev.iloc[0]['EDATE']) in ['nan','NaT']:
+            mycc.setproperty('EDATE',rowdev.iloc[0]['EDATE'].strftime('%m/%d/%Y'))
+        if not math.isnan(rowdev.iloc[0]['PLYRE']):
+            mycc.setproperty('PLYRE',int(rowdev.iloc[0]['PLYRE']))
+        if not math.isnan(rowdev.iloc[0]['PLDOE']):
+            mycc.setproperty('PLDOE',int(round(rowdev.iloc[0]['PLDOE'],0)))
+        if not str(rowdev.iloc[0]['LF1D']) in ['nan','NaT']:
+            mycc.setproperty('LF1D',rowdev.iloc[0]['LF1D'].strftime('%m/%d/%Y'))
+        if not str(rowdev.iloc[0]['ADAT']) in ['nan','NaT']:
+            mycc.setproperty('ADAT',rowdev.iloc[0]['ADAT'].strftime('%m/%d/%Y'))
+        if not math.isnan(rowdev.iloc[0]['ADOY']):
+            mycc.setproperty('ADOY',int(round(rowdev.iloc[0]['ADOY'],0)))
+        nawf = dict()
+        for doy in ['195','203','209','217','223','230','237','244','252']:
+            if not math.isnan(rowdev.iloc[0]['NAWF'+doy]):
+                nawf.update({'2021'+doy:round(rowdev.iloc[0]['NAWF'+doy],1)})
+        if nawf:
+            mycc.setproperty('NAWF',nawf)
     found = False
     for plot in plots:
         if plot.plt_label[1:] == cc_label[:2]:
@@ -450,6 +542,103 @@ for feature in layer:
     if not found:
         raise Exception('Did not find plot for crop canopy %s' % cc_label)
     crpcns.append(mycc)
+########################################################################
+
+########################################################################
+#Plant Analysis
+shapefile = '../Data/'+fname+'/'+fname+'_PlantAnalysis.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+pafile = '../Data/'+fname+'/'+fname+'_PlantAnalysis.xlsx'
+pa = pd.read_excel(pafile,sheet_name='PlantDF')
+pas = list()
+for feature in layer:
+    paid = feature.GetField('ObjectId')
+    pa_label = feature.GetField('Sample')  #(e.g., p11-S1)
+    geometry = feature.GetGeometryRef()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in plot shapefile.')
+        sys.exit()
+    mypa = plantanalysis.PlantAnalysis(paid=paid,geometry=geometry,pa_label=pa_label)
+    #Plant analysis data
+    row = pa[pa['SID'] == pa_label]
+    if not str(row.iloc[0]['PSDATE']) in ['nan','NaT']:
+        mypa.setproperty('PSDATE',row.iloc[0]['PSDATE'].strftime('%m/%d/%Y'))
+    items={'PHTD':2,'MSNODE':0,'PFNODE':0,'FRBNUM':0}
+    for item in items.keys():
+        padata = dict()
+        for i in list(range(row.iloc[0]['NumPlts'])):
+            if not math.isnan(row.iloc[0][item+str(i+1)]):
+                value = round(row.iloc[0][item+str(i+1)],items[item])
+                if items[item] == 0: value=int(value)
+                padata.update({i+1:value})
+        if padata:
+            mypa.setproperty(item,padata)
+    items={'ABCNUM':0,'SQRNUM':0,'FLRNUM':0,'GBNUM':0,'MBNUM':0,
+           'LWPD':2,'SWPD':2,'CWPD':2,'LWAD':1,'SWAD':1,'MBWAD':1,
+           'PWAD':1,'CWAD':1,'LAID':3}
+    for item in items.keys():
+        if not math.isnan(row.iloc[0][item]):
+            value = round(row.iloc[0][item],items[item])
+            if items[item] == 0: value=int(value)
+            mypa.setproperty(item,value)
+    found = False
+    for plot in plots:
+        if plot.plt_label == pa_label[:3]:
+            plot.addpaid(mypa.getid())
+            found = True
+            break
+    if not found:
+        raise Exception('Did not find plot for plant analysis %s' % pa_label)
+    pas.append(mypa)
+########################################################################
+
+########################################################################
+#Soil Analysis
+shapefile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+sa = pd.read_excel(safile,sheet_name='SoilDF',skiprows=1)
+sas = list()
+for feature in layer:
+    said = feature.GetField('ObjectId')
+    sa_label = feature.GetField('Core')  #(e.g., p12)
+    geometry = feature.GetGeometryRef()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in plot shapefile.')
+        sys.exit()
+    mysa = soilanalysis.SoilAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    #Soil analysis data
+    rows = sa[sa['Plot'] == sa_label]
+    if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
+        mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%m/%d/%Y'))
+    items={'SLPHW':1,'SLPHB':1,'SLEC':2,'SLOM':1,'SNO3':1,'SLPX':1,
+           'SLKE':0,'SLSU':1,'SLZN':2,'SLFE':1,'SLMN':1,'SLCU':2,
+           'SLCA':0,'SLMG':0,'SLNA':0,'SLCEC':1}
+    for item in items.keys():
+        sadata = dict()
+        for depth in [20,60,100,140,180]:
+            row = sa[(sa['Plot'] == sa_label) & (sa['Depth'] == depth)]
+            if not math.isnan(row.iloc[0][item]):
+                value = round(row.iloc[0][item],items[item])
+                if items[item] == 0: value=int(value)
+                sadata.update({depth:value})
+        if sadata:
+            mysa.setproperty(item,sadata)
+    found = False
+    for plot in plots:
+        if plot.plt_label == sa_label:
+            plot.addsaid(mysa.getid())
+            found = True
+            break
+    if not found:
+        raise Exception('Did not find plot for soil analysis %s' % sa_label)
+    sas.append(mysa)
 ########################################################################
 
 ########################################################################
@@ -496,6 +685,22 @@ for mycrpcn in crpcns:
     features.append(mycrpcn.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/'+fname+'/'+fname+'_cropcanopy.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
+for mypa in pas:
+    features.append(mypa.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_plantanalysis.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
+for mysa in sas:
+    features.append(mysa.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_soilanalysis.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################

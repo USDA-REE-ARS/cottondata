@@ -40,10 +40,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -87,6 +87,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -164,10 +174,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -211,6 +221,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -288,10 +308,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -335,6 +355,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -412,10 +442,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -459,6 +489,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -536,10 +576,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -583,6 +623,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -660,10 +710,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -707,6 +757,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -784,10 +844,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -831,6 +891,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -908,10 +978,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -955,6 +1025,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -1032,10 +1112,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -1079,6 +1159,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -1156,10 +1246,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -1203,6 +1293,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -1280,10 +1380,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -1327,6 +1427,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -1404,10 +1514,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -1451,6 +1561,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -1528,10 +1648,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -1575,6 +1695,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -1652,10 +1782,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -1699,6 +1829,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -1776,10 +1916,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -1823,6 +1963,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -1900,10 +2050,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -1947,6 +2097,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2024,10 +2184,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -2071,6 +2231,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2148,10 +2318,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -2195,6 +2365,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2272,10 +2452,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -2319,6 +2499,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2396,10 +2586,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -2443,6 +2633,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2520,10 +2720,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -2567,6 +2767,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2644,10 +2854,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -2691,6 +2901,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2768,10 +2988,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -2815,6 +3035,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2892,10 +3122,10 @@
                 "PLDAY": 108,
                 "IROP": "IR004",
                 "IRVAL": {
-                    "201984": 35.7,
-                    "201985": 40.8,
-                    "201986": 45.9,
-                    "201999": 10.2,
+                    "2019084": 35.7,
+                    "2019085": 40.8,
+                    "2019086": 45.9,
+                    "2019099": 10.2,
                     "2019109": 20.4,
                     "2019112": 10.2,
                     "2019114": 10.2,
@@ -2939,6 +3169,16 @@
                     "2019151": 42.6,
                     "2019172": 42.6,
                     "2019192": 63.9
+                },
+                "CH_NOTES": {
+                    "2019067": "Apply RoundUp (glyphosate)",
+                    "2019098": "Apply Prowl (pendimethalin)",
+                    "2019129": "Apply RoundUp (glyphosate)",
+                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                },
+                "TI_NOTES": {
+                    "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",

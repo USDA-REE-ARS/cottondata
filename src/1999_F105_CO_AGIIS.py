@@ -129,7 +129,7 @@ for feature in layer:
     myplot.setproperty('IROP', 'IR004')
     idata = dict()
     for index, row in irrig.iterrows():
-        key = str(int(row['Year']))+str(int(row['DOY']))
+        key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
         IRVAL = row[plt_label]
         if float(IRVAL)>0.0:
             idata.update({key:round(IRVAL,1)})
@@ -137,7 +137,7 @@ for feature in layer:
         myplot.setproperty('IRVAL',idata)
     fdata = dict()
     for index, row in fert.iterrows():
-        key = str(int(row['Year']))+str(int(row['DOY']))
+        key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
         FEAMN = row[plt_label]
         if float(FEAMN)>0.0:
             fdata.update({key:round(FEAMN,1)})

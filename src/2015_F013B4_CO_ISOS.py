@@ -129,7 +129,7 @@ for feature in layer:
     myplot.setproperty('IROP', 'IR004')
     idata = dict()
     for index, row in irrig.iterrows():
-        key = str(int(row['Year']))+str(int(row['DOY']))
+        key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
         IRVAL = row[trt_label]
         if round(IRVAL,1) > 0.0:
             idata.update({key:round(IRVAL,1)})

@@ -140,7 +140,7 @@ for feature in layer:
     myplot.setproperty('IROP', 'IR004')
     idata = dict()
     for index, row in irrig.iterrows():
-        key = str(int(row['Year']))+str(int(row['DOY']))
+        key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
         IRVAL = row[trt_label]
         if not math.isnan(IRVAL):
             idata.update({key:round(IRVAL,1)})
@@ -152,6 +152,26 @@ for feature in layer:
     fdata.update({'2017172':37.5})
     fdata.update({'2017186':37.4})
     myplot.setproperty('FEAMN',fdata)
+    cdata = dict()
+    cdata.update({'2017062':'Apply RoundUp (glyphosate)'})
+    cdata.update({'2017107':'Apply Prowl (pendimethalin)'})
+    cdata.update({'2017158':'Apply RoundUp (glyphosate)'})
+    cdata.update({'2017222':'Apply Transform (sulfoxaflor) and Admiral (pyriproxyfen)'})
+    cdata.update({'2017230':'Apply Carbine (flonicamid)'})
+    cdata.update({'2017276':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    cdata.update({'2017293':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    myplot.setproperty('CH_NOTES',cdata)
+    tdata = dict()
+    tdata.update({'2017077':'Disk'})
+    tdata.update({'2017079':'Land plane'})
+    tdata.update({'2017104':'Field cultivator'})
+    tdata.update({'2017107':'S-tine'})
+    tdata.update({'2017339':'Root pull and disk'})
+    tdata.update({'2017341':'Rip'})
+    tdata.update({'2017345':'Moldboard plow'})
+    tdata.update({'2017346':'Disk'})
+    tdata.update({'2017348':'Laser level'})
+    myplot.setproperty('TI_NOTES',tdata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     row = row.astype({'FBMIC':float})

@@ -191,7 +191,7 @@ for feature in layer:
     for i in range(1,10):
         IrrDOY = row.iloc[0]['IrrDOY'+str(i)]
         IRVAL = float(row.iloc[0]['IrrRate'+str(i)])
-        key = '2011'+str(IrrDOY)
+        key = '2011'+'{:03d}'.format(int(IrrDOY))
         if round(IRVAL,1) > 0.0:
             idata.update({key:round(IRVAL,1)})
     if idata:

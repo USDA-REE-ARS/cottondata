@@ -140,7 +140,7 @@ for feature in layer:
     myplot.setproperty('IROP', 'IR004')
     idata = dict()
     for index, row in irrig.iterrows():
-        key = str(int(row['Year']))+str(int(row['DOY']))
+        key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
         IRVAL = row[trt_label]
         if not math.isnan(IRVAL):
             idata.update({key:round(IRVAL,1)})
@@ -152,6 +152,26 @@ for feature in layer:
     fdata.update({'2018186':53.1})
     fdata.update({'2018200':45.5})
     myplot.setproperty('FEAMN',fdata)
+    cdata = dict()
+    cdata.update({'2018061':'Apply RoundUp (glyphosate)'})
+    cdata.update({'2018101':'Apply Prowl (pendimethalin) and RoundUp (glyphosate)'})
+    cdata.update({'2018142':'Apply RoundUp (glyphosate)'})
+    cdata.update({'2018185':'Apply Carbine (flonicamid)'})
+    cdata.update({'2018195':'Apply Transform (sulfoxaflor)'})
+    cdata.update({'2018199':'Apply Carbine (flonicamid)'})
+    cdata.update({'2018209':'Apply Transform (sulfoxaflor)'})
+    cdata.update({'2018251':'Apply Transform (sulfoxaflor) and Admiral (pyriproxyfen)'})
+    cdata.update({'2018258':'Apply Carbine (flonicamid)'})
+    cdata.update({'2018271':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    cdata.update({'2018292':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    myplot.setproperty('CH_NOTES',cdata)
+    tdata = dict()
+    tdata.update({'2018330':'Root pull and disk'})
+    tdata.update({'2018332':'Rip'})
+    tdata.update({'2018338':'Moldboard plow'})
+    tdata.update({'2018339':'Disk'})
+    tdata.update({'2018340':'Laser level'})
+    myplot.setproperty('TI_NOTES',tdata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
@@ -374,6 +394,9 @@ for feature in layer:
             plot.addccid(mycc.getid())
             found = True
             break
+    
+    ###Note from April 26 that cotton plants popped over last night.
+    
     if not found:
         raise Exception('Did not find plot for crop canopy %s' % cc_label)
     crpcns.append(mycc)

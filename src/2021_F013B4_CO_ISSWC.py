@@ -141,7 +141,7 @@ for feature in layer:
     myplot.setproperty('IROP', 'IR004')
     idata = dict()
     for index, row in irrig.iterrows():
-        key = str(int(row['Year']))+str(int(row['DOY']))
+        key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
         IRVAL = row[plt_label]
         if not math.isnan(IRVAL):
             idata.update({key:round(IRVAL,1)})
@@ -155,6 +155,7 @@ for feature in layer:
     tdata = dict()
     tdata.update({'2021097':'Strip tillage'})
     cdata = dict()
+    cdata.update({'2021091':'Apply RoundUp (glyphosate)'})
     cdata.update({'2021105':'Apply Velum Total (fluopyram)'})
     cdata.update({'2021106':'Apply Prowl (pendimethalin)'})
     cdata.update({'2021131':'Apply RoundUp (glyphosate)'})
@@ -164,6 +165,7 @@ for feature in layer:
     cdata.update({'2021233':'Apply Carbine 50WG (flonicamid)'})
     cdata.update({'2021294':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
     cdata.update({'2021309':'Apply Ginstar (diuron, thidiazuron)'})
+    tdata.update({'2021Fall':'Root pull, rip, moldboard plow, disk, and land plane'})
     myplot.setproperty('TI_NOTES',tdata)
     myplot.setproperty('CH_NOTES',cdata)
     #Yield and fiber quality data
@@ -473,7 +475,8 @@ for feature in layer:
         if padata:
             mypa.setproperty(item,padata)
     items={'ABCNUM':0,'SQRNUM':0,'FLRNUM':0,'GBNUM':0,'MBNUM':0,
-           'LWAD':1,'SWAD':1,'MBWAD':1,'PWAD':1,'LAID':3}
+           'LWPD':2,'SWPD':2,'CWPD':2,'LWAD':1,'SWAD':1,'MBWAD':1,
+           'PWAD':1,'CWAD':1,'LAID':3}
     for item in items.keys():
         if not math.isnan(row.iloc[0][item]):
             value = round(row.iloc[0][item],items[item])

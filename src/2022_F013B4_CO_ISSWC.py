@@ -140,7 +140,7 @@ for feature in layer:
     myplot.setproperty('IROP', 'IR004')
     idata = dict()
     for index, row in irrig.iterrows():
-        key = str(int(row['Year']))+str(int(row['DOY']))
+        key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
         IRVAL = row[plt_label]
         if not math.isnan(IRVAL):
             idata.update({key:round(IRVAL,1)})
@@ -154,6 +154,7 @@ for feature in layer:
     tdata = dict()
     tdata.update({'2022104':'Strip tillage'})
     cdata = dict()
+    cdata.update({'2022080':'Apply RoundUp (glyphosate)'})
     cdata.update({'2022104':'Apply Prowl (pendimethalin)'})
     if int(plt_label[1:3]) <= 8:
         cdata.update({'2022106':'Apply RoundUp (glyphosate)'})
@@ -165,6 +166,7 @@ for feature in layer:
     cdata.update({'2022237':'Apply Gin Out (mepiquat chloride) and Transform (sulfoxaflor)'})
     cdata.update({'2022273':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
     cdata.update({'2022287':'Apply Ginstar (diuron, thidiazuron)'})
+    tdata.update({'2022Fall':'Root pull, rip, moldboard plow, disk, and land plane'})
     myplot.setproperty('TI_NOTES',tdata)
     myplot.setproperty('CH_NOTES',cdata)
     #Yield and fiber quality data

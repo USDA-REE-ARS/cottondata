@@ -91,9 +91,11 @@
                     "2023199": 51.9
                 },
                 "TI_NOTES": {
-                    "2023107": "Strip tillage"
+                    "2023107": "Strip tillage",
+                    "2023Fall": "Root pull, rip, moldboard plow, disk, and land plane"
                 },
                 "CH_NOTES": {
+                    "2023086": "Apply RoundUp (glyphosate)",
                     "2023110": "Apply Acumen (pendimethalin)",
                     "2023143": "Apply RoundUp (glyphosate)",
                     "2023157": "Apply RoundUp (glyphosate)",
@@ -354,7 +356,11 @@
                     "2023178": 51.9,
                     "2023199": 51.9
                 },
+                "TI_NOTES": {
+                    "2023Fall": "Root pull, rip, moldboard plow, disk, and land plane"
+                },
                 "CH_NOTES": {
+                    "2023086": "Apply RoundUp (glyphosate)",
                     "2023110": "Apply Acumen (pendimethalin)",
                     "2023143": "Apply RoundUp (glyphosate)",
                     "2023157": "Apply RoundUp (glyphosate)",
@@ -615,7 +621,11 @@
                     "2023178": 51.9,
                     "2023199": 51.9
                 },
+                "TI_NOTES": {
+                    "2023Fall": "Root pull, rip, moldboard plow, disk, and land plane"
+                },
                 "CH_NOTES": {
+                    "2023086": "Apply RoundUp (glyphosate)",
                     "2023110": "Apply Acumen (pendimethalin)",
                     "2023143": "Apply RoundUp (glyphosate)",
                     "2023157": "Apply RoundUp (glyphosate)",
@@ -877,9 +887,11 @@
                     "2023199": 51.9
                 },
                 "TI_NOTES": {
-                    "2023107": "Strip tillage"
+                    "2023107": "Strip tillage",
+                    "2023Fall": "Root pull, rip, moldboard plow, disk, and land plane"
                 },
                 "CH_NOTES": {
+                    "2023086": "Apply RoundUp (glyphosate)",
                     "2023110": "Apply Acumen (pendimethalin)",
                     "2023143": "Apply RoundUp (glyphosate)",
                     "2023157": "Apply RoundUp (glyphosate)",
@@ -1140,7 +1152,11 @@
                     "2023178": 51.9,
                     "2023199": 51.9
                 },
+                "TI_NOTES": {
+                    "2023Fall": "Root pull, rip, moldboard plow, disk, and land plane"
+                },
                 "CH_NOTES": {
+                    "2023086": "Apply RoundUp (glyphosate)",
                     "2023110": "Apply Acumen (pendimethalin)",
                     "2023143": "Apply RoundUp (glyphosate)",
                     "2023157": "Apply RoundUp (glyphosate)",
@@ -1402,9 +1418,11 @@
                     "2023199": 51.9
                 },
                 "TI_NOTES": {
-                    "2023107": "Strip tillage"
+                    "2023107": "Strip tillage",
+                    "2023Fall": "Root pull, rip, moldboard plow, disk, and land plane"
                 },
                 "CH_NOTES": {
+                    "2023086": "Apply RoundUp (glyphosate)",
                     "2023110": "Apply Acumen (pendimethalin)",
                     "2023143": "Apply RoundUp (glyphosate)",
                     "2023157": "Apply RoundUp (glyphosate)",
@@ -1668,9 +1686,11 @@
                 "TI_NOTES": {
                     "2023094": "Disk",
                     "2023101": "Land plane",
-                    "2023107": "Raise beds"
+                    "2023107": "Raise beds",
+                    "2023Fall": "Root pull, rip, moldboard plow, disk, and land plane"
                 },
                 "CH_NOTES": {
+                    "2023086": "Apply RoundUp (glyphosate)",
                     "2023101": "Apply Acumen (pendimethalin)",
                     "2023143": "Apply RoundUp (glyphosate)",
                     "2023157": "Apply RoundUp (glyphosate)",
@@ -1933,9 +1953,11 @@
                 },
                 "TI_NOTES": {
                     "2023094": "Disk",
-                    "2023101": "Land plane"
+                    "2023101": "Land plane",
+                    "2023Fall": "Root pull, rip, moldboard plow, disk, and land plane"
                 },
                 "CH_NOTES": {
+                    "2023086": "Apply RoundUp (glyphosate)",
                     "2023101": "Apply Acumen (pendimethalin)",
                     "2023143": "Apply RoundUp (glyphosate)",
                     "2023157": "Apply RoundUp (glyphosate)",
@@ -2198,9 +2220,11 @@
                 },
                 "TI_NOTES": {
                     "2023094": "Disk",
-                    "2023101": "Land plane"
+                    "2023101": "Land plane",
+                    "2023Fall": "Root pull, rip, moldboard plow, disk, and land plane"
                 },
                 "CH_NOTES": {
+                    "2023086": "Apply RoundUp (glyphosate)",
                     "2023101": "Apply Acumen (pendimethalin)",
                     "2023205": "Apply Mepstar6 (mepiquat chloride)",
                     "2023282": "Apply Redipik (diuron, thidiazuron)",
@@ -2462,9 +2486,11 @@
                 "TI_NOTES": {
                     "2023094": "Disk",
                     "2023101": "Land plane",
-                    "2023107": "Raise beds"
+                    "2023107": "Raise beds",
+                    "2023Fall": "Root pull, rip, moldboard plow, disk, and land plane"
                 },
                 "CH_NOTES": {
+                    "2023086": "Apply RoundUp (glyphosate)",
                     "2023101": "Apply Acumen (pendimethalin)",
                     "2023205": "Apply Mepstar6 (mepiquat chloride)",
                     "2023282": "Apply Redipik (diuron, thidiazuron)",
@@ -2725,9 +2751,11 @@
                 },
                 "TI_NOTES": {
                     "2023094": "Disk",
-                    "2023101": "Land plane"
+                    "2023101": "Land plane",
+                    "2023Fall": "Root pull, rip, moldboard plow, disk, and land plane"
                 },
                 "CH_NOTES": {
+                    "2023086": "Apply RoundUp (glyphosate)",
                     "2023101": "Apply Acumen (pendimethalin)",
                     "2023205": "Apply Mepstar6 (mepiquat chloride)",
                     "2023282": "Apply Redipik (diuron, thidiazuron)",
@@ -2989,9 +3017,11 @@
                 "TI_NOTES": {
                     "2023094": "Disk",
                     "2023101": "Land plane",
-                    "2023107": "Raise beds"
+                    "2023107": "Raise beds",
+                    "2023Fall": "Root pull, rip, moldboard plow, disk, and land plane"
                 },
                 "CH_NOTES": {
+                    "2023086": "Apply RoundUp (glyphosate)",
                     "2023101": "Apply Acumen (pendimethalin)",
                     "2023205": "Apply Mepstar6 (mepiquat chloride)",
                     "2023282": "Apply Redipik (diuron, thidiazuron)",

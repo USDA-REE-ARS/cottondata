@@ -129,7 +129,7 @@ for feature in layer:
     myplot.setproperty('IROP', 'IR004')
     idata = dict()
     for index, row in irrig.iterrows():
-        key = str(int(row['Year']))+str(int(row['DOY']))
+        key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
         if trt_label in ['MDL','SOL','UAS']:
             IRVAL = row[trt_label]
         else:
@@ -145,6 +145,16 @@ for feature in layer:
     fdata.update({'2019172':42.6})
     fdata.update({'2019192':63.9})
     myplot.setproperty('FEAMN',fdata)
+    cdata = dict()
+    cdata.update({'2019067':'Apply RoundUp (glyphosate)'})
+    cdata.update({'2019098':'Apply Prowl (pendimethalin)'})
+    cdata.update({'2019129':'Apply RoundUp (glyphosate)'})
+    cdata.update({'2019277':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    cdata.update({'2019291':'Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    myplot.setproperty('CH_NOTES',cdata)
+    tdata = dict()
+    tdata.update({'2019Fall':'Root pull, disk, rip, moldboard plow, disk and land plane'})
+    myplot.setproperty('TI_NOTES',tdata)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     if not str(row.iloc[0]['HARM']) in ['nan','NaT']:

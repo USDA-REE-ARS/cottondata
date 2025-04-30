@@ -130,7 +130,7 @@ for feature in layer:
     myplot.setproperty('IROP', 'IR004')
     idata = dict()
     for index, row in irrig.iterrows():
-        key = str(int(row['Year']))+str(int(row['DOY']))
+        key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
         IRVAL = row['IRVAL'+trt_label[2:]]
         if not math.isnan(IRVAL):
             idata.update({key:round(IRVAL,1)})
@@ -144,12 +144,14 @@ for feature in layer:
     tdata = dict()
     cdata = dict()
     tdata.update({'2023107':'Strip tillage'})
+    cdata.update({'2023086':'Apply RoundUp (glyphosate)'})
     cdata.update({'2023110':'Apply Acumen (pendimethalin)'})
     cdata.update({'2023143':'Apply RoundUp (glyphosate)'})
     cdata.update({'2023157':'Apply RoundUp (glyphosate)'})
     cdata.update({'2023205':'Apply Mepstar6 (mepiquat chloride)'})
     cdata.update({'2023282':'Apply Redipik (diuron, thidiazuron)'})
     cdata.update({'2023298':'Apply Redipik (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
+    tdata.update({'2023Fall':'Root pull, rip, moldboard plow, disk, and land plane'})
     myplot.setproperty('TI_NOTES',tdata)
     myplot.setproperty('CH_NOTES',cdata)
     #UAS crop cover fraction
