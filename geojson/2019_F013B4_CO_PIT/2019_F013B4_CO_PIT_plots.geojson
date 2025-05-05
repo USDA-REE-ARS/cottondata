@@ -92,11 +92,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.002,
+                    "2019141": 0.005,
+                    "2019148": 0.014,
+                    "2019154": 0.076,
+                    "2019161": 0.148,
+                    "2019168": 0.311,
+                    "2019175": 0.427,
+                    "2019182": 0.57,
+                    "2019189": 0.674,
+                    "2019196": 0.776,
+                    "2019204": 0.871,
+                    "2019210": 0.921,
+                    "2019217": 0.965,
+                    "2019224": 0.976,
+                    "2019231": 0.98,
+                    "2019238": 0.982,
+                    "2019246": 0.984,
+                    "2019255": 0.986,
+                    "2019263": 0.958,
+                    "2019273": 0.829,
+                    "2019281": 0.27,
+                    "2019290": 0.193,
+                    "2019301": 0.219,
+                    "2019311": 0.256
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -128,8 +157,20 @@
                     "6424c77a8ac5471f356089f1"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e68",
-                    "6424c98b8ac547208ee09e69"
+                    "6813c3be8ac5477112a9c575",
+                    "6813c3be8ac5477112a9c576",
+                    "6813c3be8ac5477112a9c577",
+                    "6813c3be8ac5477112a9c578"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e99a2",
+                    "68151da28ac5478c471e99a3",
+                    "68151da28ac5478c471e99a4",
+                    "68151da28ac5478c471e99a5",
+                    "68151da28ac5478c471e99a6",
+                    "68151da28ac5478c471e99a7",
+                    "68151da28ac5478c471e99a8",
+                    "68151da28ac5478c471e99a9"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848b5",
@@ -226,11 +267,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.003,
+                    "2019148": 0.016,
+                    "2019154": 0.076,
+                    "2019161": 0.163,
+                    "2019168": 0.337,
+                    "2019175": 0.453,
+                    "2019182": 0.577,
+                    "2019189": 0.68,
+                    "2019196": 0.78,
+                    "2019204": 0.898,
+                    "2019210": 0.944,
+                    "2019217": 0.983,
+                    "2019224": 0.986,
+                    "2019231": 0.988,
+                    "2019238": 0.992,
+                    "2019246": 0.994,
+                    "2019255": 0.996,
+                    "2019263": 0.974,
+                    "2019273": 0.873,
+                    "2019281": 0.309,
+                    "2019290": 0.213,
+                    "2019301": 0.297,
+                    "2019311": 0.281
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -262,8 +332,20 @@
                     "6424c77a8ac5471f356089f2"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e6a",
-                    "6424c98b8ac547208ee09e6b"
+                    "6813c3be8ac5477112a9c579",
+                    "6813c3be8ac5477112a9c57a",
+                    "6813c3be8ac5477112a9c57b",
+                    "6813c3be8ac5477112a9c57c"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e99aa",
+                    "68151da28ac5478c471e99ab",
+                    "68151da28ac5478c471e99ac",
+                    "68151da28ac5478c471e99ad",
+                    "68151da28ac5478c471e99ae",
+                    "68151da28ac5478c471e99af",
+                    "68151da28ac5478c471e99b0",
+                    "68151da28ac5478c471e99b1"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848b6",
@@ -360,11 +442,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.002,
+                    "2019148": 0.011,
+                    "2019154": 0.057,
+                    "2019161": 0.139,
+                    "2019168": 0.3,
+                    "2019175": 0.433,
+                    "2019182": 0.539,
+                    "2019189": 0.635,
+                    "2019196": 0.732,
+                    "2019204": 0.807,
+                    "2019210": 0.874,
+                    "2019217": 0.949,
+                    "2019224": 0.957,
+                    "2019231": 0.962,
+                    "2019238": 0.97,
+                    "2019246": 0.975,
+                    "2019255": 0.981,
+                    "2019263": 0.914,
+                    "2019273": 0.719,
+                    "2019281": 0.248,
+                    "2019290": 0.214,
+                    "2019301": 0.274,
+                    "2019311": 0.258
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -396,8 +507,20 @@
                     "6424c77a8ac5471f356089f3"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e6c",
-                    "6424c98b8ac547208ee09e6d"
+                    "6813c3be8ac5477112a9c57d",
+                    "6813c3be8ac5477112a9c57e",
+                    "6813c3be8ac5477112a9c57f",
+                    "6813c3be8ac5477112a9c580"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e99b2",
+                    "68151da28ac5478c471e99b3",
+                    "68151da28ac5478c471e99b4",
+                    "68151da28ac5478c471e99b5",
+                    "68151da28ac5478c471e99b6",
+                    "68151da28ac5478c471e99b7",
+                    "68151da28ac5478c471e99b8",
+                    "68151da28ac5478c471e99b9"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848b7",
@@ -494,11 +617,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.001,
+                    "2019148": 0.005,
+                    "2019154": 0.033,
+                    "2019161": 0.108,
+                    "2019168": 0.274,
+                    "2019175": 0.402,
+                    "2019182": 0.547,
+                    "2019189": 0.626,
+                    "2019196": 0.727,
+                    "2019204": 0.82,
+                    "2019210": 0.893,
+                    "2019217": 0.958,
+                    "2019224": 0.967,
+                    "2019231": 0.968,
+                    "2019238": 0.975,
+                    "2019246": 0.974,
+                    "2019255": 0.975,
+                    "2019263": 0.926,
+                    "2019273": 0.747,
+                    "2019281": 0.296,
+                    "2019290": 0.249,
+                    "2019301": 0.31,
+                    "2019311": 0.285
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -530,8 +682,23 @@
                     "6424c77a8ac5471f356089f4"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e6e",
-                    "6424c98b8ac547208ee09e6f"
+                    "6813c3be8ac5477112a9c581",
+                    "6813c3be8ac5477112a9c582",
+                    "6813c3be8ac5477112a9c583",
+                    "6813c3be8ac5477112a9c584"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e99ba",
+                    "68151da28ac5478c471e99bb",
+                    "68151da28ac5478c471e99bc",
+                    "68151da28ac5478c471e99bd",
+                    "68151da28ac5478c471e99be",
+                    "68151da28ac5478c471e99bf",
+                    "68151da28ac5478c471e99c0",
+                    "68151da28ac5478c471e99c1"
+                ],
+                "saids": [
+                    "681932b98ac547dff49dfd51"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848b8",
@@ -628,11 +795,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.001,
+                    "2019121": 0.0,
+                    "2019127": 0.001,
+                    "2019133": 0.004,
+                    "2019141": 0.006,
+                    "2019148": 0.015,
+                    "2019154": 0.092,
+                    "2019161": 0.173,
+                    "2019168": 0.342,
+                    "2019175": 0.458,
+                    "2019182": 0.651,
+                    "2019189": 0.728,
+                    "2019196": 0.839,
+                    "2019204": 0.933,
+                    "2019210": 0.965,
+                    "2019217": 0.982,
+                    "2019224": 0.987,
+                    "2019231": 0.986,
+                    "2019238": 0.989,
+                    "2019246": 0.987,
+                    "2019255": 0.984,
+                    "2019263": 0.962,
+                    "2019273": 0.867,
+                    "2019281": 0.407,
+                    "2019290": 0.216,
+                    "2019301": 0.281,
+                    "2019311": 0.267
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -664,8 +860,23 @@
                     "6424c77a8ac5471f356089f5"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e70",
-                    "6424c98b8ac547208ee09e71"
+                    "6813c3be8ac5477112a9c585",
+                    "6813c3be8ac5477112a9c586",
+                    "6813c3be8ac5477112a9c587",
+                    "6813c3be8ac5477112a9c588"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e99c2",
+                    "68151da28ac5478c471e99c3",
+                    "68151da28ac5478c471e99c4",
+                    "68151da28ac5478c471e99c5",
+                    "68151da28ac5478c471e99c6",
+                    "68151da28ac5478c471e99c7",
+                    "68151da28ac5478c471e99c8",
+                    "68151da28ac5478c471e99c9"
+                ],
+                "saids": [
+                    "681932b98ac547dff49dfd52"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848b9",
@@ -762,11 +973,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.003,
+                    "2019148": 0.011,
+                    "2019154": 0.057,
+                    "2019161": 0.146,
+                    "2019168": 0.324,
+                    "2019175": 0.444,
+                    "2019182": 0.618,
+                    "2019189": 0.715,
+                    "2019196": 0.842,
+                    "2019204": 0.952,
+                    "2019210": 0.98,
+                    "2019217": 0.998,
+                    "2019224": 0.997,
+                    "2019231": 0.997,
+                    "2019238": 0.997,
+                    "2019246": 0.998,
+                    "2019255": 0.996,
+                    "2019263": 0.98,
+                    "2019273": 0.946,
+                    "2019281": 0.443,
+                    "2019290": 0.233,
+                    "2019301": 0.323,
+                    "2019311": 0.277
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -798,8 +1038,20 @@
                     "6424c77a8ac5471f356089f6"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e72",
-                    "6424c98b8ac547208ee09e73"
+                    "6813c3be8ac5477112a9c589",
+                    "6813c3be8ac5477112a9c58a",
+                    "6813c3be8ac5477112a9c58b",
+                    "6813c3be8ac5477112a9c58c"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e99ca",
+                    "68151da28ac5478c471e99cb",
+                    "68151da28ac5478c471e99cc",
+                    "68151da28ac5478c471e99cd",
+                    "68151da28ac5478c471e99ce",
+                    "68151da28ac5478c471e99cf",
+                    "68151da28ac5478c471e99d0",
+                    "68151da28ac5478c471e99d1"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848ba",
@@ -896,11 +1148,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.003,
+                    "2019148": 0.008,
+                    "2019154": 0.048,
+                    "2019161": 0.121,
+                    "2019168": 0.286,
+                    "2019175": 0.41,
+                    "2019182": 0.53,
+                    "2019189": 0.622,
+                    "2019196": 0.73,
+                    "2019204": 0.813,
+                    "2019210": 0.881,
+                    "2019217": 0.962,
+                    "2019224": 0.965,
+                    "2019231": 0.97,
+                    "2019238": 0.978,
+                    "2019246": 0.983,
+                    "2019255": 0.99,
+                    "2019263": 0.956,
+                    "2019273": 0.842,
+                    "2019281": 0.36,
+                    "2019290": 0.205,
+                    "2019301": 0.272,
+                    "2019311": 0.271
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -932,8 +1213,20 @@
                     "6424c77a8ac5471f356089f7"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e74",
-                    "6424c98b8ac547208ee09e75"
+                    "6813c3be8ac5477112a9c58d",
+                    "6813c3be8ac5477112a9c58e",
+                    "6813c3be8ac5477112a9c58f",
+                    "6813c3be8ac5477112a9c590"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e99d2",
+                    "68151da28ac5478c471e99d3",
+                    "68151da28ac5478c471e99d4",
+                    "68151da28ac5478c471e99d5",
+                    "68151da28ac5478c471e99d6",
+                    "68151da28ac5478c471e99d7",
+                    "68151da28ac5478c471e99d8",
+                    "68151da28ac5478c471e99d9"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848bb",
@@ -1030,11 +1323,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.004,
+                    "2019148": 0.011,
+                    "2019154": 0.057,
+                    "2019161": 0.166,
+                    "2019168": 0.332,
+                    "2019175": 0.468,
+                    "2019182": 0.557,
+                    "2019189": 0.672,
+                    "2019196": 0.746,
+                    "2019204": 0.84,
+                    "2019210": 0.906,
+                    "2019217": 0.97,
+                    "2019224": 0.975,
+                    "2019231": 0.975,
+                    "2019238": 0.982,
+                    "2019246": 0.982,
+                    "2019255": 0.985,
+                    "2019263": 0.943,
+                    "2019273": 0.775,
+                    "2019281": 0.373,
+                    "2019290": 0.245,
+                    "2019301": 0.345,
+                    "2019311": 0.292
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -1066,8 +1388,20 @@
                     "6424c77a8ac5471f356089f8"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e76",
-                    "6424c98b8ac547208ee09e77"
+                    "6813c3be8ac5477112a9c591",
+                    "6813c3be8ac5477112a9c592",
+                    "6813c3be8ac5477112a9c593",
+                    "6813c3be8ac5477112a9c594"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e99da",
+                    "68151da28ac5478c471e99db",
+                    "68151da28ac5478c471e99dc",
+                    "68151da28ac5478c471e99dd",
+                    "68151da28ac5478c471e99de",
+                    "68151da28ac5478c471e99df",
+                    "68151da28ac5478c471e99e0",
+                    "68151da28ac5478c471e99e1"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848bc",
@@ -1164,11 +1498,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.001,
+                    "2019121": 0.001,
+                    "2019127": 0.0,
+                    "2019133": 0.001,
+                    "2019141": 0.005,
+                    "2019148": 0.011,
+                    "2019154": 0.043,
+                    "2019161": 0.128,
+                    "2019168": 0.264,
+                    "2019175": 0.394,
+                    "2019182": 0.605,
+                    "2019189": 0.712,
+                    "2019196": 0.833,
+                    "2019204": 0.94,
+                    "2019210": 0.97,
+                    "2019217": 0.979,
+                    "2019224": 0.988,
+                    "2019231": 0.988,
+                    "2019238": 0.991,
+                    "2019246": 0.988,
+                    "2019255": 0.984,
+                    "2019263": 0.967,
+                    "2019273": 0.9,
+                    "2019281": 0.583,
+                    "2019290": 0.285,
+                    "2019301": 0.314,
+                    "2019311": 0.341
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -1200,8 +1563,20 @@
                     "6424c77a8ac5471f356089f9"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e78",
-                    "6424c98b8ac547208ee09e79"
+                    "6813c3be8ac5477112a9c595",
+                    "6813c3be8ac5477112a9c596",
+                    "6813c3be8ac5477112a9c597",
+                    "6813c3be8ac5477112a9c598"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e99e2",
+                    "68151da28ac5478c471e99e3",
+                    "68151da28ac5478c471e99e4",
+                    "68151da28ac5478c471e99e5",
+                    "68151da28ac5478c471e99e6",
+                    "68151da28ac5478c471e99e7",
+                    "68151da28ac5478c471e99e8",
+                    "68151da28ac5478c471e99e9"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848bd",
@@ -1298,11 +1673,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.001,
+                    "2019148": 0.01,
+                    "2019154": 0.043,
+                    "2019161": 0.147,
+                    "2019168": 0.303,
+                    "2019175": 0.445,
+                    "2019182": 0.615,
+                    "2019189": 0.689,
+                    "2019196": 0.832,
+                    "2019204": 0.954,
+                    "2019210": 0.98,
+                    "2019217": 0.992,
+                    "2019224": 0.994,
+                    "2019231": 0.994,
+                    "2019238": 0.994,
+                    "2019246": 0.994,
+                    "2019255": 0.99,
+                    "2019263": 0.977,
+                    "2019273": 0.94,
+                    "2019281": 0.555,
+                    "2019290": 0.269,
+                    "2019301": 0.327,
+                    "2019311": 0.301
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -1334,8 +1738,20 @@
                     "6424c77a8ac5471f356089fa"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e7a",
-                    "6424c98b8ac547208ee09e7b"
+                    "6813c3be8ac5477112a9c599",
+                    "6813c3be8ac5477112a9c59a",
+                    "6813c3be8ac5477112a9c59b",
+                    "6813c3be8ac5477112a9c59c"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e99ea",
+                    "68151da28ac5478c471e99eb",
+                    "68151da28ac5478c471e99ec",
+                    "68151da28ac5478c471e99ed",
+                    "68151da28ac5478c471e99ee",
+                    "68151da28ac5478c471e99ef",
+                    "68151da28ac5478c471e99f0",
+                    "68151da28ac5478c471e99f1"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848be",
@@ -1432,11 +1848,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.002,
+                    "2019148": 0.013,
+                    "2019154": 0.063,
+                    "2019161": 0.152,
+                    "2019168": 0.338,
+                    "2019175": 0.428,
+                    "2019182": 0.558,
+                    "2019189": 0.626,
+                    "2019196": 0.735,
+                    "2019204": 0.83,
+                    "2019210": 0.903,
+                    "2019217": 0.964,
+                    "2019224": 0.971,
+                    "2019231": 0.974,
+                    "2019238": 0.976,
+                    "2019246": 0.986,
+                    "2019255": 0.989,
+                    "2019263": 0.97,
+                    "2019273": 0.883,
+                    "2019281": 0.363,
+                    "2019290": 0.251,
+                    "2019301": 0.276,
+                    "2019311": 0.288
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -1468,8 +1913,23 @@
                     "6424c77a8ac5471f356089fb"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e7c",
-                    "6424c98b8ac547208ee09e7d"
+                    "6813c3be8ac5477112a9c59d",
+                    "6813c3be8ac5477112a9c59e",
+                    "6813c3be8ac5477112a9c59f",
+                    "6813c3be8ac5477112a9c5a0"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e99f2",
+                    "68151da28ac5478c471e99f3",
+                    "68151da28ac5478c471e99f4",
+                    "68151da28ac5478c471e99f5",
+                    "68151da28ac5478c471e99f6",
+                    "68151da28ac5478c471e99f7",
+                    "68151da28ac5478c471e99f8",
+                    "68151da28ac5478c471e99f9"
+                ],
+                "saids": [
+                    "681932b98ac547dff49dfd53"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848bf",
@@ -1566,11 +2026,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.003,
+                    "2019148": 0.012,
+                    "2019154": 0.065,
+                    "2019161": 0.167,
+                    "2019168": 0.353,
+                    "2019175": 0.471,
+                    "2019182": 0.599,
+                    "2019189": 0.672,
+                    "2019196": 0.757,
+                    "2019204": 0.848,
+                    "2019210": 0.914,
+                    "2019217": 0.969,
+                    "2019224": 0.976,
+                    "2019231": 0.975,
+                    "2019238": 0.978,
+                    "2019246": 0.981,
+                    "2019255": 0.978,
+                    "2019263": 0.929,
+                    "2019273": 0.745,
+                    "2019281": 0.306,
+                    "2019290": 0.293,
+                    "2019301": 0.336,
+                    "2019311": 0.312
                 },
                 "HARM": "Hand",
                 "HADAT": "10/30/2019",
@@ -1602,8 +2091,20 @@
                     "6424c77a8ac5471f356089fc"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e7e",
-                    "6424c98b8ac547208ee09e7f"
+                    "6813c3be8ac5477112a9c5a1",
+                    "6813c3be8ac5477112a9c5a2",
+                    "6813c3be8ac5477112a9c5a3",
+                    "6813c3be8ac5477112a9c5a4"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e99fa",
+                    "68151da28ac5478c471e99fb",
+                    "68151da28ac5478c471e99fc",
+                    "68151da28ac5478c471e99fd",
+                    "68151da28ac5478c471e99fe",
+                    "68151da28ac5478c471e99ff",
+                    "68151da28ac5478c471e9a00",
+                    "68151da28ac5478c471e9a01"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848c0",
@@ -1700,11 +2201,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.001,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.001,
+                    "2019141": 0.008,
+                    "2019148": 0.014,
+                    "2019154": 0.074,
+                    "2019161": 0.15,
+                    "2019168": 0.329,
+                    "2019175": 0.467,
+                    "2019182": 0.605,
+                    "2019189": 0.699,
+                    "2019196": 0.791,
+                    "2019204": 0.889,
+                    "2019210": 0.939,
+                    "2019217": 0.963,
+                    "2019224": 0.971,
+                    "2019231": 0.975,
+                    "2019238": 0.978,
+                    "2019246": 0.978,
+                    "2019255": 0.976,
+                    "2019263": 0.95,
+                    "2019273": 0.871,
+                    "2019281": 0.502,
+                    "2019290": 0.237,
+                    "2019301": 0.294,
+                    "2019311": 0.266
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -1736,8 +2266,20 @@
                     "6424c77a8ac5471f356089fd"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e80",
-                    "6424c98b8ac547208ee09e81"
+                    "6813c3be8ac5477112a9c5a5",
+                    "6813c3be8ac5477112a9c5a6",
+                    "6813c3be8ac5477112a9c5a7",
+                    "6813c3be8ac5477112a9c5a8"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e9a02",
+                    "68151da28ac5478c471e9a03",
+                    "68151da28ac5478c471e9a04",
+                    "68151da28ac5478c471e9a05",
+                    "68151da28ac5478c471e9a06",
+                    "68151da28ac5478c471e9a07",
+                    "68151da28ac5478c471e9a08",
+                    "68151da28ac5478c471e9a09"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848c1",
@@ -1834,11 +2376,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.003,
+                    "2019148": 0.01,
+                    "2019154": 0.053,
+                    "2019161": 0.144,
+                    "2019168": 0.309,
+                    "2019175": 0.452,
+                    "2019182": 0.58,
+                    "2019189": 0.662,
+                    "2019196": 0.803,
+                    "2019204": 0.923,
+                    "2019210": 0.967,
+                    "2019217": 0.994,
+                    "2019224": 0.993,
+                    "2019231": 0.994,
+                    "2019238": 0.993,
+                    "2019246": 0.993,
+                    "2019255": 0.992,
+                    "2019263": 0.982,
+                    "2019273": 0.932,
+                    "2019281": 0.506,
+                    "2019290": 0.246,
+                    "2019301": 0.294,
+                    "2019311": 0.275
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -1870,8 +2441,20 @@
                     "6424c77a8ac5471f356089fe"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e82",
-                    "6424c98b8ac547208ee09e83"
+                    "6813c3be8ac5477112a9c5a9",
+                    "6813c3be8ac5477112a9c5aa",
+                    "6813c3be8ac5477112a9c5ab",
+                    "6813c3be8ac5477112a9c5ac"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e9a0a",
+                    "68151da28ac5478c471e9a0b",
+                    "68151da28ac5478c471e9a0c",
+                    "68151da28ac5478c471e9a0d",
+                    "68151da28ac5478c471e9a0e",
+                    "68151da28ac5478c471e9a0f",
+                    "68151da28ac5478c471e9a10",
+                    "68151da28ac5478c471e9a11"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848c2",
@@ -1968,11 +2551,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.005,
+                    "2019148": 0.017,
+                    "2019154": 0.097,
+                    "2019161": 0.203,
+                    "2019168": 0.389,
+                    "2019175": 0.514,
+                    "2019182": 0.618,
+                    "2019189": 0.687,
+                    "2019196": 0.803,
+                    "2019204": 0.914,
+                    "2019210": 0.955,
+                    "2019217": 0.983,
+                    "2019224": 0.984,
+                    "2019231": 0.984,
+                    "2019238": 0.983,
+                    "2019246": 0.986,
+                    "2019255": 0.981,
+                    "2019263": 0.936,
+                    "2019273": 0.786,
+                    "2019281": 0.38,
+                    "2019290": 0.235,
+                    "2019301": 0.299,
+                    "2019311": 0.287
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2004,8 +2616,23 @@
                     "6424c77a8ac5471f356089ff"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e84",
-                    "6424c98b8ac547208ee09e85"
+                    "6813c3be8ac5477112a9c5ad",
+                    "6813c3be8ac5477112a9c5ae",
+                    "6813c3be8ac5477112a9c5af",
+                    "6813c3be8ac5477112a9c5b0"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e9a12",
+                    "68151da28ac5478c471e9a13",
+                    "68151da28ac5478c471e9a14",
+                    "68151da28ac5478c471e9a15",
+                    "68151da28ac5478c471e9a16",
+                    "68151da28ac5478c471e9a17",
+                    "68151da28ac5478c471e9a18",
+                    "68151da28ac5478c471e9a19"
+                ],
+                "saids": [
+                    "681932b98ac547dff49dfd54"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848c3",
@@ -2102,11 +2729,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.003,
+                    "2019148": 0.011,
+                    "2019154": 0.07,
+                    "2019161": 0.147,
+                    "2019168": 0.331,
+                    "2019175": 0.464,
+                    "2019182": 0.53,
+                    "2019189": 0.662,
+                    "2019196": 0.717,
+                    "2019204": 0.749,
+                    "2019210": 0.833,
+                    "2019217": 0.934,
+                    "2019224": 0.945,
+                    "2019231": 0.95,
+                    "2019238": 0.957,
+                    "2019246": 0.969,
+                    "2019255": 0.973,
+                    "2019263": 0.914,
+                    "2019273": 0.696,
+                    "2019281": 0.257,
+                    "2019290": 0.227,
+                    "2019301": 0.291,
+                    "2019311": 0.263
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2138,8 +2794,20 @@
                     "6424c77a8ac5471f35608a00"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e86",
-                    "6424c98b8ac547208ee09e87"
+                    "6813c3be8ac5477112a9c5b1",
+                    "6813c3be8ac5477112a9c5b2",
+                    "6813c3be8ac5477112a9c5b3",
+                    "6813c3be8ac5477112a9c5b4"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e9a1a",
+                    "68151da28ac5478c471e9a1b",
+                    "68151da28ac5478c471e9a1c",
+                    "68151da28ac5478c471e9a1d",
+                    "68151da28ac5478c471e9a1e",
+                    "68151da28ac5478c471e9a1f",
+                    "68151da28ac5478c471e9a20",
+                    "68151da28ac5478c471e9a21"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848c4",
@@ -2236,11 +2904,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.001,
+                    "2019133": 0.001,
+                    "2019141": 0.008,
+                    "2019148": 0.023,
+                    "2019154": 0.078,
+                    "2019161": 0.158,
+                    "2019168": 0.35,
+                    "2019175": 0.452,
+                    "2019182": 0.642,
+                    "2019189": 0.726,
+                    "2019196": 0.826,
+                    "2019204": 0.913,
+                    "2019210": 0.95,
+                    "2019217": 0.968,
+                    "2019224": 0.979,
+                    "2019231": 0.981,
+                    "2019238": 0.983,
+                    "2019246": 0.981,
+                    "2019255": 0.983,
+                    "2019263": 0.958,
+                    "2019273": 0.89,
+                    "2019281": 0.596,
+                    "2019290": 0.224,
+                    "2019301": 0.271,
+                    "2019311": 0.291
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2272,8 +2969,20 @@
                     "6424c77a8ac5471f35608a01"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e88",
-                    "6424c98b8ac547208ee09e89"
+                    "6813c3be8ac5477112a9c5b5",
+                    "6813c3be8ac5477112a9c5b6",
+                    "6813c3be8ac5477112a9c5b7",
+                    "6813c3be8ac5477112a9c5b8"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e9a22",
+                    "68151da28ac5478c471e9a23",
+                    "68151da28ac5478c471e9a24",
+                    "68151da28ac5478c471e9a25",
+                    "68151da28ac5478c471e9a26",
+                    "68151da28ac5478c471e9a27",
+                    "68151da28ac5478c471e9a28",
+                    "68151da28ac5478c471e9a29"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848c5",
@@ -2370,11 +3079,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.002,
+                    "2019148": 0.012,
+                    "2019154": 0.044,
+                    "2019161": 0.133,
+                    "2019168": 0.316,
+                    "2019175": 0.477,
+                    "2019182": 0.593,
+                    "2019189": 0.7,
+                    "2019196": 0.846,
+                    "2019204": 0.948,
+                    "2019210": 0.98,
+                    "2019217": 0.992,
+                    "2019224": 0.994,
+                    "2019231": 0.993,
+                    "2019238": 0.993,
+                    "2019246": 0.99,
+                    "2019255": 0.988,
+                    "2019263": 0.962,
+                    "2019273": 0.856,
+                    "2019281": 0.522,
+                    "2019290": 0.281,
+                    "2019301": 0.313,
+                    "2019311": 0.286
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2406,8 +3144,23 @@
                     "6424c77a8ac5471f35608a02"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e8a",
-                    "6424c98b8ac547208ee09e8b"
+                    "6813c3be8ac5477112a9c5b9",
+                    "6813c3be8ac5477112a9c5ba",
+                    "6813c3be8ac5477112a9c5bb",
+                    "6813c3be8ac5477112a9c5bc"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e9a2a",
+                    "68151da28ac5478c471e9a2b",
+                    "68151da28ac5478c471e9a2c",
+                    "68151da28ac5478c471e9a2d",
+                    "68151da28ac5478c471e9a2e",
+                    "68151da28ac5478c471e9a2f",
+                    "68151da28ac5478c471e9a30",
+                    "68151da28ac5478c471e9a31"
+                ],
+                "saids": [
+                    "681932b98ac547dff49dfd55"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848c6",
@@ -2504,11 +3257,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.002,
+                    "2019148": 0.012,
+                    "2019154": 0.055,
+                    "2019161": 0.163,
+                    "2019168": 0.342,
+                    "2019175": 0.491,
+                    "2019182": 0.59,
+                    "2019189": 0.668,
+                    "2019196": 0.809,
+                    "2019204": 0.892,
+                    "2019210": 0.947,
+                    "2019217": 0.982,
+                    "2019224": 0.983,
+                    "2019231": 0.984,
+                    "2019238": 0.984,
+                    "2019246": 0.984,
+                    "2019255": 0.982,
+                    "2019263": 0.936,
+                    "2019273": 0.807,
+                    "2019281": 0.441,
+                    "2019290": 0.271,
+                    "2019301": 0.299,
+                    "2019311": 0.314
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2540,8 +3322,20 @@
                     "6424c77a8ac5471f35608a03"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e8c",
-                    "6424c98b8ac547208ee09e8d"
+                    "6813c3be8ac5477112a9c5bd",
+                    "6813c3be8ac5477112a9c5be",
+                    "6813c3be8ac5477112a9c5bf",
+                    "6813c3be8ac5477112a9c5c0"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e9a32",
+                    "68151da28ac5478c471e9a33",
+                    "68151da28ac5478c471e9a34",
+                    "68151da28ac5478c471e9a35",
+                    "68151da28ac5478c471e9a36",
+                    "68151da28ac5478c471e9a37",
+                    "68151da28ac5478c471e9a38",
+                    "68151da28ac5478c471e9a39"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848c7",
@@ -2638,11 +3432,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.002,
+                    "2019148": 0.01,
+                    "2019154": 0.051,
+                    "2019161": 0.132,
+                    "2019168": 0.293,
+                    "2019175": 0.435,
+                    "2019182": 0.532,
+                    "2019189": 0.606,
+                    "2019196": 0.68,
+                    "2019204": 0.703,
+                    "2019210": 0.782,
+                    "2019217": 0.877,
+                    "2019224": 0.886,
+                    "2019231": 0.903,
+                    "2019238": 0.92,
+                    "2019246": 0.936,
+                    "2019255": 0.941,
+                    "2019263": 0.822,
+                    "2019273": 0.647,
+                    "2019281": 0.298,
+                    "2019290": 0.242,
+                    "2019301": 0.29,
+                    "2019311": 0.302
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2674,8 +3497,20 @@
                     "6424c77a8ac5471f35608a04"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e8e",
-                    "6424c98b8ac547208ee09e8f"
+                    "6813c3be8ac5477112a9c5c1",
+                    "6813c3be8ac5477112a9c5c2",
+                    "6813c3be8ac5477112a9c5c3",
+                    "6813c3be8ac5477112a9c5c4"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e9a3a",
+                    "68151da28ac5478c471e9a3b",
+                    "68151da28ac5478c471e9a3c",
+                    "68151da28ac5478c471e9a3d",
+                    "68151da28ac5478c471e9a3e",
+                    "68151da28ac5478c471e9a3f",
+                    "68151da28ac5478c471e9a40",
+                    "68151da28ac5478c471e9a41"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848c8",
@@ -2772,11 +3607,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.004,
+                    "2019133": 0.001,
+                    "2019141": 0.006,
+                    "2019148": 0.02,
+                    "2019154": 0.076,
+                    "2019161": 0.178,
+                    "2019168": 0.366,
+                    "2019175": 0.488,
+                    "2019182": 0.638,
+                    "2019189": 0.729,
+                    "2019196": 0.821,
+                    "2019204": 0.914,
+                    "2019210": 0.955,
+                    "2019217": 0.972,
+                    "2019224": 0.979,
+                    "2019231": 0.977,
+                    "2019238": 0.981,
+                    "2019246": 0.977,
+                    "2019255": 0.981,
+                    "2019263": 0.94,
+                    "2019273": 0.84,
+                    "2019281": 0.573,
+                    "2019290": 0.281,
+                    "2019301": 0.323,
+                    "2019311": 0.309
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2808,8 +3672,20 @@
                     "6424c77a8ac5471f35608a05"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e90",
-                    "6424c98b8ac547208ee09e91"
+                    "6813c3be8ac5477112a9c5c5",
+                    "6813c3be8ac5477112a9c5c6",
+                    "6813c3be8ac5477112a9c5c7",
+                    "6813c3be8ac5477112a9c5c8"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e9a42",
+                    "68151da28ac5478c471e9a43",
+                    "68151da28ac5478c471e9a44",
+                    "68151da28ac5478c471e9a45",
+                    "68151da28ac5478c471e9a46",
+                    "68151da28ac5478c471e9a47",
+                    "68151da28ac5478c471e9a48",
+                    "68151da28ac5478c471e9a49"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848c9",
@@ -2906,11 +3782,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.005,
+                    "2019127": 0.001,
+                    "2019133": 0.0,
+                    "2019141": 0.004,
+                    "2019148": 0.019,
+                    "2019154": 0.058,
+                    "2019161": 0.149,
+                    "2019168": 0.347,
+                    "2019175": 0.476,
+                    "2019182": 0.624,
+                    "2019189": 0.719,
+                    "2019196": 0.781,
+                    "2019204": 0.894,
+                    "2019210": 0.957,
+                    "2019217": 0.986,
+                    "2019224": 0.986,
+                    "2019231": 0.982,
+                    "2019238": 0.983,
+                    "2019246": 0.984,
+                    "2019255": 0.993,
+                    "2019263": 0.975,
+                    "2019273": 0.918,
+                    "2019281": 0.609,
+                    "2019290": 0.254,
+                    "2019301": 0.312,
+                    "2019311": 0.297
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -2942,8 +3847,20 @@
                     "6424c77a8ac5471f35608a06"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e92",
-                    "6424c98b8ac547208ee09e93"
+                    "6813c3be8ac5477112a9c5c9",
+                    "6813c3be8ac5477112a9c5ca",
+                    "6813c3be8ac5477112a9c5cb",
+                    "6813c3be8ac5477112a9c5cc"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e9a4a",
+                    "68151da28ac5478c471e9a4b",
+                    "68151da28ac5478c471e9a4c",
+                    "68151da28ac5478c471e9a4d",
+                    "68151da28ac5478c471e9a4e",
+                    "68151da28ac5478c471e9a4f",
+                    "68151da28ac5478c471e9a50",
+                    "68151da28ac5478c471e9a51"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848ca",
@@ -3040,11 +3957,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.001,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.002,
+                    "2019148": 0.012,
+                    "2019154": 0.034,
+                    "2019161": 0.124,
+                    "2019168": 0.308,
+                    "2019175": 0.445,
+                    "2019182": 0.617,
+                    "2019189": 0.663,
+                    "2019196": 0.757,
+                    "2019204": 0.842,
+                    "2019210": 0.912,
+                    "2019217": 0.968,
+                    "2019224": 0.97,
+                    "2019231": 0.97,
+                    "2019238": 0.971,
+                    "2019246": 0.976,
+                    "2019255": 0.979,
+                    "2019263": 0.925,
+                    "2019273": 0.79,
+                    "2019281": 0.42,
+                    "2019290": 0.279,
+                    "2019301": 0.334,
+                    "2019311": 0.33
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -3076,8 +4022,20 @@
                     "6424c77a8ac5471f35608a07"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e94",
-                    "6424c98b8ac547208ee09e95"
+                    "6813c3be8ac5477112a9c5cd",
+                    "6813c3be8ac5477112a9c5ce",
+                    "6813c3be8ac5477112a9c5cf",
+                    "6813c3be8ac5477112a9c5d0"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e9a52",
+                    "68151da28ac5478c471e9a53",
+                    "68151da28ac5478c471e9a54",
+                    "68151da28ac5478c471e9a55",
+                    "68151da28ac5478c471e9a56",
+                    "68151da28ac5478c471e9a57",
+                    "68151da28ac5478c471e9a58",
+                    "68151da28ac5478c471e9a59"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848cb",
@@ -3174,11 +4132,40 @@
                     "2019067": "Apply RoundUp (glyphosate)",
                     "2019098": "Apply Prowl (pendimethalin)",
                     "2019129": "Apply RoundUp (glyphosate)",
-                    "2019277": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
-                    "2019291": "Apply Ginstar (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
+                    "2019277": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)",
+                    "2019291": "Apply CutOut (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)"
                 },
                 "TI_NOTES": {
                     "2019Fall": "Root pull, disk, rip, moldboard plow, disk and land plane"
+                },
+                "FRCOV": {
+                    "2019115": 0.0,
+                    "2019121": 0.0,
+                    "2019127": 0.0,
+                    "2019133": 0.0,
+                    "2019141": 0.002,
+                    "2019148": 0.01,
+                    "2019154": 0.043,
+                    "2019161": 0.121,
+                    "2019168": 0.276,
+                    "2019175": 0.418,
+                    "2019182": 0.523,
+                    "2019189": 0.579,
+                    "2019196": 0.587,
+                    "2019204": 0.631,
+                    "2019210": 0.709,
+                    "2019217": 0.758,
+                    "2019224": 0.787,
+                    "2019231": 0.806,
+                    "2019238": 0.834,
+                    "2019246": 0.871,
+                    "2019255": 0.88,
+                    "2019263": 0.69,
+                    "2019273": 0.474,
+                    "2019281": 0.184,
+                    "2019290": 0.19,
+                    "2019301": 0.245,
+                    "2019311": 0.235
                 },
                 "HARM": "Hand",
                 "HADAT": "10/31/2019",
@@ -3210,8 +4197,23 @@
                     "6424c77a8ac5471f35608a08"
                 ],
                 "ccids": [
-                    "6424c98b8ac547208ee09e96",
-                    "6424c98b8ac547208ee09e97"
+                    "6813c3be8ac5477112a9c5d1",
+                    "6813c3be8ac5477112a9c5d2",
+                    "6813c3be8ac5477112a9c5d3",
+                    "6813c3be8ac5477112a9c5d4"
+                ],
+                "paids": [
+                    "68151da28ac5478c471e9a5a",
+                    "68151da28ac5478c471e9a5b",
+                    "68151da28ac5478c471e9a5c",
+                    "68151da28ac5478c471e9a5d",
+                    "68151da28ac5478c471e9a5e",
+                    "68151da28ac5478c471e9a5f",
+                    "68151da28ac5478c471e9a60",
+                    "68151da28ac5478c471e9a61"
+                ],
+                "saids": [
+                    "681932b98ac547dff49dfd56"
                 ]
             },
             "_id": "6424c0298ac5471b4d3848cc",

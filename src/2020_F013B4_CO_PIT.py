@@ -530,7 +530,7 @@ for feature in layer:
         nawf = dict()
         for doy in ['195','203','209','217','223','230','237','244','252']:
             if not math.isnan(rowdev.iloc[0]['NAWF'+doy]):
-                nawf.update({'2021'+doy:round(rowdev.iloc[0]['NAWF'+doy],1)})
+                nawf.update({'2020'+doy:round(rowdev.iloc[0]['NAWF'+doy],1)})
         if nawf:
             mycc.setproperty('NAWF',nawf)
     found = False
