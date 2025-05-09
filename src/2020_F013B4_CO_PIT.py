@@ -571,17 +571,17 @@ for feature in layer:
         padata = dict()
         for i in list(range(row.iloc[0]['NumPlts'])):
             if not math.isnan(row.iloc[0][item+str(i+1)]):
-                value = round(row.iloc[0][item+str(i+1)],items[item])
+                value = round(float(row.iloc[0][item+str(i+1)]),items[item])
                 if items[item] == 0: value=int(value)
                 padata.update({i+1:value})
         if padata:
             mypa.setproperty(item,padata)
-    items={'ABCNUM':0,'SQRNUM':0,'FLRNUM':0,'GBNUM':0,'MBNUM':0,
+    items={'ABCNUM':1,'SQRNUM':1,'FLRNUM':1,'GBNUM':1,'MBNUM':1,
            'LWPD':2,'SWPD':2,'CWPD':2,'LWAD':1,'SWAD':1,'MBWAD':1,
            'PWAD':1,'CWAD':1,'LAID':3}
     for item in items.keys():
         if not math.isnan(row.iloc[0][item]):
-            value = round(row.iloc[0][item],items[item])
+            value = round(float(row.iloc[0][item]),items[item])
             if items[item] == 0: value=int(value)
             mypa.setproperty(item,value)
     found = False

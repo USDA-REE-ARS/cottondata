@@ -110,6 +110,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4866.7,
@@ -144,6 +148,16 @@
                     "6424e07c8ac5472ad4dbdd11",
                     "6424e07c8ac5472ad4dbdd12",
                     "6424e07c8ac5472ad4dbdd13"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc658",
+                    "681bac258ac5478bcdbcc659",
+                    "681bac258ac5478bcdbcc65a",
+                    "681bac258ac5478bcdbcc65b",
+                    "681bac258ac5478bcdbcc65c",
+                    "681bac258ac5478bcdbcc65d",
+                    "681bac258ac5478bcdbcc65e",
+                    "681bac258ac5478bcdbcc65f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e867",
@@ -258,6 +272,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 5089.9,
@@ -292,6 +310,16 @@
                     "6424e07c8ac5472ad4dbdd14",
                     "6424e07c8ac5472ad4dbdd15",
                     "6424e07c8ac5472ad4dbdd16"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc660",
+                    "681bac258ac5478bcdbcc661",
+                    "681bac258ac5478bcdbcc662",
+                    "681bac258ac5478bcdbcc663",
+                    "681bac258ac5478bcdbcc664",
+                    "681bac258ac5478bcdbcc665",
+                    "681bac258ac5478bcdbcc666",
+                    "681bac258ac5478bcdbcc667"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e868",
@@ -406,6 +434,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3653.8,
@@ -440,6 +472,16 @@
                     "6424e07c8ac5472ad4dbdd17",
                     "6424e07c8ac5472ad4dbdd18",
                     "6424e07c8ac5472ad4dbdd19"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc668",
+                    "681bac258ac5478bcdbcc669",
+                    "681bac258ac5478bcdbcc66a",
+                    "681bac258ac5478bcdbcc66b",
+                    "681bac258ac5478bcdbcc66c",
+                    "681bac258ac5478bcdbcc66d",
+                    "681bac258ac5478bcdbcc66e",
+                    "681bac258ac5478bcdbcc66f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e869",
@@ -554,6 +596,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4182.1,
@@ -588,6 +634,16 @@
                     "6424e07c8ac5472ad4dbdd1a",
                     "6424e07c8ac5472ad4dbdd1b",
                     "6424e07c8ac5472ad4dbdd1c"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc670",
+                    "681bac258ac5478bcdbcc671",
+                    "681bac258ac5478bcdbcc672",
+                    "681bac258ac5478bcdbcc673",
+                    "681bac258ac5478bcdbcc674",
+                    "681bac258ac5478bcdbcc675",
+                    "681bac258ac5478bcdbcc676",
+                    "681bac258ac5478bcdbcc677"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e86a",
@@ -702,6 +758,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 5201.5,
@@ -736,6 +796,16 @@
                     "6424e07c8ac5472ad4dbdd1d",
                     "6424e07c8ac5472ad4dbdd1e",
                     "6424e07c8ac5472ad4dbdd1f"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc678",
+                    "681bac258ac5478bcdbcc679",
+                    "681bac258ac5478bcdbcc67a",
+                    "681bac258ac5478bcdbcc67b",
+                    "681bac258ac5478bcdbcc67c",
+                    "681bac258ac5478bcdbcc67d",
+                    "681bac258ac5478bcdbcc67e",
+                    "681bac258ac5478bcdbcc67f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e86b",
@@ -850,6 +920,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3147.8,
@@ -884,6 +958,16 @@
                     "6424e07c8ac5472ad4dbdd20",
                     "6424e07c8ac5472ad4dbdd21",
                     "6424e07c8ac5472ad4dbdd22"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc680",
+                    "681bac258ac5478bcdbcc681",
+                    "681bac258ac5478bcdbcc682",
+                    "681bac258ac5478bcdbcc683",
+                    "681bac258ac5478bcdbcc684",
+                    "681bac258ac5478bcdbcc685",
+                    "681bac258ac5478bcdbcc686",
+                    "681bac258ac5478bcdbcc687"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e86c",
@@ -998,6 +1082,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4412.8,
@@ -1032,6 +1120,16 @@
                     "6424e07c8ac5472ad4dbdd23",
                     "6424e07c8ac5472ad4dbdd24",
                     "6424e07c8ac5472ad4dbdd25"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc688",
+                    "681bac258ac5478bcdbcc689",
+                    "681bac258ac5478bcdbcc68a",
+                    "681bac258ac5478bcdbcc68b",
+                    "681bac258ac5478bcdbcc68c",
+                    "681bac258ac5478bcdbcc68d",
+                    "681bac258ac5478bcdbcc68e",
+                    "681bac258ac5478bcdbcc68f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e86d",
@@ -1146,6 +1244,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3906.8,
@@ -1180,6 +1282,16 @@
                     "6424e07c8ac5472ad4dbdd26",
                     "6424e07c8ac5472ad4dbdd27",
                     "6424e07c8ac5472ad4dbdd28"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc690",
+                    "681bac258ac5478bcdbcc691",
+                    "681bac258ac5478bcdbcc692",
+                    "681bac258ac5478bcdbcc693",
+                    "681bac258ac5478bcdbcc694",
+                    "681bac258ac5478bcdbcc695",
+                    "681bac258ac5478bcdbcc696",
+                    "681bac258ac5478bcdbcc697"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e86e",
@@ -1294,6 +1406,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3244.6,
@@ -1328,6 +1444,16 @@
                     "6424e07c8ac5472ad4dbdd29",
                     "6424e07c8ac5472ad4dbdd2a",
                     "6424e07c8ac5472ad4dbdd2b"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc698",
+                    "681bac258ac5478bcdbcc699",
+                    "681bac258ac5478bcdbcc69a",
+                    "681bac258ac5478bcdbcc69b",
+                    "681bac258ac5478bcdbcc69c",
+                    "681bac258ac5478bcdbcc69d",
+                    "681bac258ac5478bcdbcc69e",
+                    "681bac258ac5478bcdbcc69f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e86f",
@@ -1442,6 +1568,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4420.2,
@@ -1476,6 +1606,16 @@
                     "6424e07c8ac5472ad4dbdd2c",
                     "6424e07c8ac5472ad4dbdd2d",
                     "6424e07c8ac5472ad4dbdd2e"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc6a0",
+                    "681bac258ac5478bcdbcc6a1",
+                    "681bac258ac5478bcdbcc6a2",
+                    "681bac258ac5478bcdbcc6a3",
+                    "681bac258ac5478bcdbcc6a4",
+                    "681bac258ac5478bcdbcc6a5",
+                    "681bac258ac5478bcdbcc6a6",
+                    "681bac258ac5478bcdbcc6a7"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e870",
@@ -1590,6 +1730,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 2865.1,
@@ -1624,6 +1768,16 @@
                     "6424e07c8ac5472ad4dbdd2f",
                     "6424e07c8ac5472ad4dbdd30",
                     "6424e07c8ac5472ad4dbdd31"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc6a8",
+                    "681bac258ac5478bcdbcc6a9",
+                    "681bac258ac5478bcdbcc6aa",
+                    "681bac258ac5478bcdbcc6ab",
+                    "681bac258ac5478bcdbcc6ac",
+                    "681bac258ac5478bcdbcc6ad",
+                    "681bac258ac5478bcdbcc6ae",
+                    "681bac258ac5478bcdbcc6af"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e871",
@@ -1738,6 +1892,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3839.8,
@@ -1772,6 +1930,16 @@
                     "6424e07c8ac5472ad4dbdd32",
                     "6424e07c8ac5472ad4dbdd33",
                     "6424e07c8ac5472ad4dbdd34"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc6b0",
+                    "681bac258ac5478bcdbcc6b1",
+                    "681bac258ac5478bcdbcc6b2",
+                    "681bac258ac5478bcdbcc6b3",
+                    "681bac258ac5478bcdbcc6b4",
+                    "681bac258ac5478bcdbcc6b5",
+                    "681bac258ac5478bcdbcc6b6",
+                    "681bac258ac5478bcdbcc6b7"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e872",
@@ -1886,6 +2054,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3869.6,
@@ -1920,6 +2092,16 @@
                     "6424e07c8ac5472ad4dbdd35",
                     "6424e07c8ac5472ad4dbdd36",
                     "6424e07c8ac5472ad4dbdd37"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc6b8",
+                    "681bac258ac5478bcdbcc6b9",
+                    "681bac258ac5478bcdbcc6ba",
+                    "681bac258ac5478bcdbcc6bb",
+                    "681bac258ac5478bcdbcc6bc",
+                    "681bac258ac5478bcdbcc6bd",
+                    "681bac258ac5478bcdbcc6be",
+                    "681bac258ac5478bcdbcc6bf"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e873",
@@ -2034,6 +2216,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 5171.7,
@@ -2068,6 +2254,16 @@
                     "6424e07c8ac5472ad4dbdd38",
                     "6424e07c8ac5472ad4dbdd39",
                     "6424e07c8ac5472ad4dbdd3a"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc6c0",
+                    "681bac258ac5478bcdbcc6c1",
+                    "681bac258ac5478bcdbcc6c2",
+                    "681bac258ac5478bcdbcc6c3",
+                    "681bac258ac5478bcdbcc6c4",
+                    "681bac258ac5478bcdbcc6c5",
+                    "681bac258ac5478bcdbcc6c6",
+                    "681bac258ac5478bcdbcc6c7"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e874",
@@ -2182,6 +2378,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3832.4,
@@ -2216,6 +2416,16 @@
                     "6424e07c8ac5472ad4dbdd3b",
                     "6424e07c8ac5472ad4dbdd3c",
                     "6424e07c8ac5472ad4dbdd3d"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc6c8",
+                    "681bac258ac5478bcdbcc6c9",
+                    "681bac258ac5478bcdbcc6ca",
+                    "681bac258ac5478bcdbcc6cb",
+                    "681bac258ac5478bcdbcc6cc",
+                    "681bac258ac5478bcdbcc6cd",
+                    "681bac258ac5478bcdbcc6ce",
+                    "681bac258ac5478bcdbcc6cf"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e875",
@@ -2330,6 +2540,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3490.1,
@@ -2364,6 +2578,16 @@
                     "6424e07c8ac5472ad4dbdd3e",
                     "6424e07c8ac5472ad4dbdd3f",
                     "6424e07c8ac5472ad4dbdd40"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc6d0",
+                    "681bac258ac5478bcdbcc6d1",
+                    "681bac258ac5478bcdbcc6d2",
+                    "681bac258ac5478bcdbcc6d3",
+                    "681bac258ac5478bcdbcc6d4",
+                    "681bac258ac5478bcdbcc6d5",
+                    "681bac258ac5478bcdbcc6d6",
+                    "681bac258ac5478bcdbcc6d7"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e876",
@@ -2478,6 +2702,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 2589.8,
@@ -2512,6 +2740,16 @@
                     "6424e07c8ac5472ad4dbdd41",
                     "6424e07c8ac5472ad4dbdd42",
                     "6424e07c8ac5472ad4dbdd43"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc6d8",
+                    "681bac258ac5478bcdbcc6d9",
+                    "681bac258ac5478bcdbcc6da",
+                    "681bac258ac5478bcdbcc6db",
+                    "681bac258ac5478bcdbcc6dc",
+                    "681bac258ac5478bcdbcc6dd",
+                    "681bac258ac5478bcdbcc6de",
+                    "681bac258ac5478bcdbcc6df"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e877",
@@ -2626,6 +2864,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3631.5,
@@ -2660,6 +2902,16 @@
                     "6424e07c8ac5472ad4dbdd44",
                     "6424e07c8ac5472ad4dbdd45",
                     "6424e07c8ac5472ad4dbdd46"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc6e0",
+                    "681bac258ac5478bcdbcc6e1",
+                    "681bac258ac5478bcdbcc6e2",
+                    "681bac258ac5478bcdbcc6e3",
+                    "681bac258ac5478bcdbcc6e4",
+                    "681bac258ac5478bcdbcc6e5",
+                    "681bac258ac5478bcdbcc6e6",
+                    "681bac258ac5478bcdbcc6e7"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e878",
@@ -2774,6 +3026,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 5008.0,
@@ -2808,6 +3064,16 @@
                     "6424e07c8ac5472ad4dbdd47",
                     "6424e07c8ac5472ad4dbdd48",
                     "6424e07c8ac5472ad4dbdd49"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc6e8",
+                    "681bac258ac5478bcdbcc6e9",
+                    "681bac258ac5478bcdbcc6ea",
+                    "681bac258ac5478bcdbcc6eb",
+                    "681bac258ac5478bcdbcc6ec",
+                    "681bac258ac5478bcdbcc6ed",
+                    "681bac258ac5478bcdbcc6ee",
+                    "681bac258ac5478bcdbcc6ef"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e879",
@@ -2922,6 +3188,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3512.4,
@@ -2956,6 +3226,16 @@
                     "6424e07c8ac5472ad4dbdd4a",
                     "6424e07c8ac5472ad4dbdd4b",
                     "6424e07c8ac5472ad4dbdd4c"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc6f0",
+                    "681bac258ac5478bcdbcc6f1",
+                    "681bac258ac5478bcdbcc6f2",
+                    "681bac258ac5478bcdbcc6f3",
+                    "681bac258ac5478bcdbcc6f4",
+                    "681bac258ac5478bcdbcc6f5",
+                    "681bac258ac5478bcdbcc6f6",
+                    "681bac258ac5478bcdbcc6f7"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e87a",
@@ -3070,6 +3350,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4613.7,
@@ -3104,6 +3388,16 @@
                     "6424e07c8ac5472ad4dbdd4d",
                     "6424e07c8ac5472ad4dbdd4e",
                     "6424e07c8ac5472ad4dbdd4f"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc6f8",
+                    "681bac258ac5478bcdbcc6f9",
+                    "681bac258ac5478bcdbcc6fa",
+                    "681bac258ac5478bcdbcc6fb",
+                    "681bac258ac5478bcdbcc6fc",
+                    "681bac258ac5478bcdbcc6fd",
+                    "681bac258ac5478bcdbcc6fe",
+                    "681bac258ac5478bcdbcc6ff"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e87b",
@@ -3218,6 +3512,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4301.2,
@@ -3252,6 +3550,16 @@
                     "6424e07c8ac5472ad4dbdd50",
                     "6424e07c8ac5472ad4dbdd51",
                     "6424e07c8ac5472ad4dbdd52"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc700",
+                    "681bac258ac5478bcdbcc701",
+                    "681bac258ac5478bcdbcc702",
+                    "681bac258ac5478bcdbcc703",
+                    "681bac258ac5478bcdbcc704",
+                    "681bac258ac5478bcdbcc705",
+                    "681bac258ac5478bcdbcc706",
+                    "681bac258ac5478bcdbcc707"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e87c",
@@ -3366,6 +3674,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4286.3,
@@ -3400,6 +3712,16 @@
                     "6424e07c8ac5472ad4dbdd53",
                     "6424e07c8ac5472ad4dbdd54",
                     "6424e07c8ac5472ad4dbdd55"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc708",
+                    "681bac258ac5478bcdbcc709",
+                    "681bac258ac5478bcdbcc70a",
+                    "681bac258ac5478bcdbcc70b",
+                    "681bac258ac5478bcdbcc70c",
+                    "681bac258ac5478bcdbcc70d",
+                    "681bac258ac5478bcdbcc70e",
+                    "681bac258ac5478bcdbcc70f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e87d",
@@ -3514,6 +3836,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4598.8,
@@ -3548,6 +3874,16 @@
                     "6424e07c8ac5472ad4dbdd56",
                     "6424e07c8ac5472ad4dbdd57",
                     "6424e07c8ac5472ad4dbdd58"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc710",
+                    "681bac258ac5478bcdbcc711",
+                    "681bac258ac5478bcdbcc712",
+                    "681bac258ac5478bcdbcc713",
+                    "681bac258ac5478bcdbcc714",
+                    "681bac258ac5478bcdbcc715",
+                    "681bac258ac5478bcdbcc716",
+                    "681bac258ac5478bcdbcc717"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e87e",
@@ -3662,6 +3998,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3914.2,
@@ -3696,6 +4036,16 @@
                     "6424e07c8ac5472ad4dbdd59",
                     "6424e07c8ac5472ad4dbdd5a",
                     "6424e07c8ac5472ad4dbdd5b"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc718",
+                    "681bac258ac5478bcdbcc719",
+                    "681bac258ac5478bcdbcc71a",
+                    "681bac258ac5478bcdbcc71b",
+                    "681bac258ac5478bcdbcc71c",
+                    "681bac258ac5478bcdbcc71d",
+                    "681bac258ac5478bcdbcc71e",
+                    "681bac258ac5478bcdbcc71f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e87f",
@@ -3810,6 +4160,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4777.4,
@@ -3844,6 +4198,16 @@
                     "6424e07c8ac5472ad4dbdd5c",
                     "6424e07c8ac5472ad4dbdd5d",
                     "6424e07c8ac5472ad4dbdd5e"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc720",
+                    "681bac258ac5478bcdbcc721",
+                    "681bac258ac5478bcdbcc722",
+                    "681bac258ac5478bcdbcc723",
+                    "681bac258ac5478bcdbcc724",
+                    "681bac258ac5478bcdbcc725",
+                    "681bac258ac5478bcdbcc726",
+                    "681bac258ac5478bcdbcc727"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e880",
@@ -3958,6 +4322,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4941.1,
@@ -3992,6 +4360,16 @@
                     "6424e07c8ac5472ad4dbdd5f",
                     "6424e07c8ac5472ad4dbdd60",
                     "6424e07c8ac5472ad4dbdd61"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc728",
+                    "681bac258ac5478bcdbcc729",
+                    "681bac258ac5478bcdbcc72a",
+                    "681bac258ac5478bcdbcc72b",
+                    "681bac258ac5478bcdbcc72c",
+                    "681bac258ac5478bcdbcc72d",
+                    "681bac258ac5478bcdbcc72e",
+                    "681bac258ac5478bcdbcc72f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e881",
@@ -4106,6 +4484,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4941.1,
@@ -4140,6 +4522,16 @@
                     "6424e07c8ac5472ad4dbdd62",
                     "6424e07c8ac5472ad4dbdd63",
                     "6424e07c8ac5472ad4dbdd64"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc730",
+                    "681bac258ac5478bcdbcc731",
+                    "681bac258ac5478bcdbcc732",
+                    "681bac258ac5478bcdbcc733",
+                    "681bac258ac5478bcdbcc734",
+                    "681bac258ac5478bcdbcc735",
+                    "681bac258ac5478bcdbcc736",
+                    "681bac258ac5478bcdbcc737"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e882",
@@ -4254,6 +4646,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3549.6,
@@ -4288,6 +4684,16 @@
                     "6424e07c8ac5472ad4dbdd65",
                     "6424e07c8ac5472ad4dbdd66",
                     "6424e07c8ac5472ad4dbdd67"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc738",
+                    "681bac258ac5478bcdbcc739",
+                    "681bac258ac5478bcdbcc73a",
+                    "681bac258ac5478bcdbcc73b",
+                    "681bac258ac5478bcdbcc73c",
+                    "681bac258ac5478bcdbcc73d",
+                    "681bac258ac5478bcdbcc73e",
+                    "681bac258ac5478bcdbcc73f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e883",
@@ -4402,6 +4808,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3973.8,
@@ -4436,6 +4846,16 @@
                     "6424e07c8ac5472ad4dbdd68",
                     "6424e07c8ac5472ad4dbdd69",
                     "6424e07c8ac5472ad4dbdd6a"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc740",
+                    "681bac258ac5478bcdbcc741",
+                    "681bac258ac5478bcdbcc742",
+                    "681bac258ac5478bcdbcc743",
+                    "681bac258ac5478bcdbcc744",
+                    "681bac258ac5478bcdbcc745",
+                    "681bac258ac5478bcdbcc746",
+                    "681bac258ac5478bcdbcc747"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e884",
@@ -4550,6 +4970,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3266.9,
@@ -4584,6 +5008,16 @@
                     "6424e07c8ac5472ad4dbdd6b",
                     "6424e07c8ac5472ad4dbdd6c",
                     "6424e07c8ac5472ad4dbdd6d"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc748",
+                    "681bac258ac5478bcdbcc749",
+                    "681bac258ac5478bcdbcc74a",
+                    "681bac258ac5478bcdbcc74b",
+                    "681bac258ac5478bcdbcc74c",
+                    "681bac258ac5478bcdbcc74d",
+                    "681bac258ac5478bcdbcc74e",
+                    "681bac258ac5478bcdbcc74f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e885",
@@ -4698,6 +5132,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3408.3,
@@ -4732,6 +5170,16 @@
                     "6424e07c8ac5472ad4dbdd6e",
                     "6424e07c8ac5472ad4dbdd6f",
                     "6424e07c8ac5472ad4dbdd70"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc750",
+                    "681bac258ac5478bcdbcc751",
+                    "681bac258ac5478bcdbcc752",
+                    "681bac258ac5478bcdbcc753",
+                    "681bac258ac5478bcdbcc754",
+                    "681bac258ac5478bcdbcc755",
+                    "681bac258ac5478bcdbcc756",
+                    "681bac258ac5478bcdbcc757"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e886",
@@ -4846,6 +5294,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3430.6,
@@ -4880,6 +5332,16 @@
                     "6424e07c8ac5472ad4dbdd71",
                     "6424e07c8ac5472ad4dbdd72",
                     "6424e07c8ac5472ad4dbdd73"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc758",
+                    "681bac258ac5478bcdbcc759",
+                    "681bac258ac5478bcdbcc75a",
+                    "681bac258ac5478bcdbcc75b",
+                    "681bac258ac5478bcdbcc75c",
+                    "681bac258ac5478bcdbcc75d",
+                    "681bac258ac5478bcdbcc75e",
+                    "681bac258ac5478bcdbcc75f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e887",
@@ -4994,6 +5456,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4174.7,
@@ -5028,6 +5494,16 @@
                     "6424e07c8ac5472ad4dbdd74",
                     "6424e07c8ac5472ad4dbdd75",
                     "6424e07c8ac5472ad4dbdd76"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc760",
+                    "681bac258ac5478bcdbcc761",
+                    "681bac258ac5478bcdbcc762",
+                    "681bac258ac5478bcdbcc763",
+                    "681bac258ac5478bcdbcc764",
+                    "681bac258ac5478bcdbcc765",
+                    "681bac258ac5478bcdbcc766",
+                    "681bac258ac5478bcdbcc767"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e888",
@@ -5142,6 +5618,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 2560.0,
@@ -5176,6 +5656,16 @@
                     "6424e07c8ac5472ad4dbdd77",
                     "6424e07c8ac5472ad4dbdd78",
                     "6424e07c8ac5472ad4dbdd79"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc768",
+                    "681bac258ac5478bcdbcc769",
+                    "681bac258ac5478bcdbcc76a",
+                    "681bac258ac5478bcdbcc76b",
+                    "681bac258ac5478bcdbcc76c",
+                    "681bac258ac5478bcdbcc76d",
+                    "681bac258ac5478bcdbcc76e",
+                    "681bac258ac5478bcdbcc76f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e889",
@@ -5290,6 +5780,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 2560.0,
@@ -5324,6 +5818,16 @@
                     "6424e07c8ac5472ad4dbdd7a",
                     "6424e07c8ac5472ad4dbdd7b",
                     "6424e07c8ac5472ad4dbdd7c"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc770",
+                    "681bac258ac5478bcdbcc771",
+                    "681bac258ac5478bcdbcc772",
+                    "681bac258ac5478bcdbcc773",
+                    "681bac258ac5478bcdbcc774",
+                    "681bac258ac5478bcdbcc775",
+                    "681bac258ac5478bcdbcc776",
+                    "681bac258ac5478bcdbcc777"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e88a",
@@ -5438,6 +5942,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4375.6,
@@ -5472,6 +5980,16 @@
                     "6424e07c8ac5472ad4dbdd7d",
                     "6424e07c8ac5472ad4dbdd7e",
                     "6424e07c8ac5472ad4dbdd7f"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc778",
+                    "681bac258ac5478bcdbcc779",
+                    "681bac258ac5478bcdbcc77a",
+                    "681bac258ac5478bcdbcc77b",
+                    "681bac258ac5478bcdbcc77c",
+                    "681bac258ac5478bcdbcc77d",
+                    "681bac258ac5478bcdbcc77e",
+                    "681bac258ac5478bcdbcc77f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e88b",
@@ -5586,6 +6104,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3817.5,
@@ -5620,6 +6142,16 @@
                     "6424e07c8ac5472ad4dbdd80",
                     "6424e07c8ac5472ad4dbdd81",
                     "6424e07c8ac5472ad4dbdd82"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc780",
+                    "681bac258ac5478bcdbcc781",
+                    "681bac258ac5478bcdbcc782",
+                    "681bac258ac5478bcdbcc783",
+                    "681bac258ac5478bcdbcc784",
+                    "681bac258ac5478bcdbcc785",
+                    "681bac258ac5478bcdbcc786",
+                    "681bac258ac5478bcdbcc787"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e88c",
@@ -5734,6 +6266,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3415.7,
@@ -5768,6 +6304,16 @@
                     "6424e07c8ac5472ad4dbdd83",
                     "6424e07c8ac5472ad4dbdd84",
                     "6424e07c8ac5472ad4dbdd85"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc788",
+                    "681bac258ac5478bcdbcc789",
+                    "681bac258ac5478bcdbcc78a",
+                    "681bac258ac5478bcdbcc78b",
+                    "681bac258ac5478bcdbcc78c",
+                    "681bac258ac5478bcdbcc78d",
+                    "681bac258ac5478bcdbcc78e",
+                    "681bac258ac5478bcdbcc78f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e88d",
@@ -5882,6 +6428,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 2969.3,
@@ -5916,6 +6466,16 @@
                     "6424e07c8ac5472ad4dbdd86",
                     "6424e07c8ac5472ad4dbdd87",
                     "6424e07c8ac5472ad4dbdd88"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc790",
+                    "681bac258ac5478bcdbcc791",
+                    "681bac258ac5478bcdbcc792",
+                    "681bac258ac5478bcdbcc793",
+                    "681bac258ac5478bcdbcc794",
+                    "681bac258ac5478bcdbcc795",
+                    "681bac258ac5478bcdbcc796",
+                    "681bac258ac5478bcdbcc797"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e88e",
@@ -6030,6 +6590,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4197.0,
@@ -6064,6 +6628,16 @@
                     "6424e07c8ac5472ad4dbdd89",
                     "6424e07c8ac5472ad4dbdd8a",
                     "6424e07c8ac5472ad4dbdd8b"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc798",
+                    "681bac258ac5478bcdbcc799",
+                    "681bac258ac5478bcdbcc79a",
+                    "681bac258ac5478bcdbcc79b",
+                    "681bac258ac5478bcdbcc79c",
+                    "681bac258ac5478bcdbcc79d",
+                    "681bac258ac5478bcdbcc79e",
+                    "681bac258ac5478bcdbcc79f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e88f",
@@ -6178,6 +6752,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4011.0,
@@ -6212,6 +6790,16 @@
                     "6424e07c8ac5472ad4dbdd8c",
                     "6424e07c8ac5472ad4dbdd8d",
                     "6424e07c8ac5472ad4dbdd8e"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc7a0",
+                    "681bac258ac5478bcdbcc7a1",
+                    "681bac258ac5478bcdbcc7a2",
+                    "681bac258ac5478bcdbcc7a3",
+                    "681bac258ac5478bcdbcc7a4",
+                    "681bac258ac5478bcdbcc7a5",
+                    "681bac258ac5478bcdbcc7a6",
+                    "681bac258ac5478bcdbcc7a7"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e890",
@@ -6326,6 +6914,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4226.8,
@@ -6360,6 +6952,16 @@
                     "6424e07c8ac5472ad4dbdd8f",
                     "6424e07c8ac5472ad4dbdd90",
                     "6424e07c8ac5472ad4dbdd91"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc7a8",
+                    "681bac258ac5478bcdbcc7a9",
+                    "681bac258ac5478bcdbcc7aa",
+                    "681bac258ac5478bcdbcc7ab",
+                    "681bac258ac5478bcdbcc7ac",
+                    "681bac258ac5478bcdbcc7ad",
+                    "681bac258ac5478bcdbcc7ae",
+                    "681bac258ac5478bcdbcc7af"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e891",
@@ -6474,6 +7076,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3237.1,
@@ -6508,6 +7114,16 @@
                     "6424e07c8ac5472ad4dbdd92",
                     "6424e07c8ac5472ad4dbdd93",
                     "6424e07c8ac5472ad4dbdd94"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc7b0",
+                    "681bac258ac5478bcdbcc7b1",
+                    "681bac258ac5478bcdbcc7b2",
+                    "681bac258ac5478bcdbcc7b3",
+                    "681bac258ac5478bcdbcc7b4",
+                    "681bac258ac5478bcdbcc7b5",
+                    "681bac258ac5478bcdbcc7b6",
+                    "681bac258ac5478bcdbcc7b7"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e892",
@@ -6622,6 +7238,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4219.3,
@@ -6656,6 +7276,16 @@
                     "6424e07c8ac5472ad4dbdd95",
                     "6424e07c8ac5472ad4dbdd96",
                     "6424e07c8ac5472ad4dbdd97"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc7b8",
+                    "681bac258ac5478bcdbcc7b9",
+                    "681bac258ac5478bcdbcc7ba",
+                    "681bac258ac5478bcdbcc7bb",
+                    "681bac258ac5478bcdbcc7bc",
+                    "681bac258ac5478bcdbcc7bd",
+                    "681bac258ac5478bcdbcc7be",
+                    "681bac258ac5478bcdbcc7bf"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e893",
@@ -6770,6 +7400,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4591.4,
@@ -6804,6 +7438,16 @@
                     "6424e07c8ac5472ad4dbdd98",
                     "6424e07c8ac5472ad4dbdd99",
                     "6424e07c8ac5472ad4dbdd9a"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc7c0",
+                    "681bac258ac5478bcdbcc7c1",
+                    "681bac258ac5478bcdbcc7c2",
+                    "681bac258ac5478bcdbcc7c3",
+                    "681bac258ac5478bcdbcc7c4",
+                    "681bac258ac5478bcdbcc7c5",
+                    "681bac258ac5478bcdbcc7c6",
+                    "681bac258ac5478bcdbcc7c7"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e894",
@@ -6918,6 +7562,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4516.9,
@@ -6952,6 +7600,16 @@
                     "6424e07c8ac5472ad4dbdd9b",
                     "6424e07c8ac5472ad4dbdd9c",
                     "6424e07c8ac5472ad4dbdd9d"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc7c8",
+                    "681bac258ac5478bcdbcc7c9",
+                    "681bac258ac5478bcdbcc7ca",
+                    "681bac258ac5478bcdbcc7cb",
+                    "681bac258ac5478bcdbcc7cc",
+                    "681bac258ac5478bcdbcc7cd",
+                    "681bac258ac5478bcdbcc7ce",
+                    "681bac258ac5478bcdbcc7cf"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e895",
@@ -7066,6 +7724,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3668.7,
@@ -7100,6 +7762,16 @@
                     "6424e07c8ac5472ad4dbdd9e",
                     "6424e07c8ac5472ad4dbdd9f",
                     "6424e07c8ac5472ad4dbdda0"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc7d0",
+                    "681bac258ac5478bcdbcc7d1",
+                    "681bac258ac5478bcdbcc7d2",
+                    "681bac258ac5478bcdbcc7d3",
+                    "681bac258ac5478bcdbcc7d4",
+                    "681bac258ac5478bcdbcc7d5",
+                    "681bac258ac5478bcdbcc7d6",
+                    "681bac258ac5478bcdbcc7d7"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e896",
@@ -7214,6 +7886,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4115.1,
@@ -7248,6 +7924,16 @@
                     "6424e07c8ac5472ad4dbdda1",
                     "6424e07c8ac5472ad4dbdda2",
                     "6424e07c8ac5472ad4dbdda3"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc7d8",
+                    "681bac258ac5478bcdbcc7d9",
+                    "681bac258ac5478bcdbcc7da",
+                    "681bac258ac5478bcdbcc7db",
+                    "681bac258ac5478bcdbcc7dc",
+                    "681bac258ac5478bcdbcc7dd",
+                    "681bac258ac5478bcdbcc7de",
+                    "681bac258ac5478bcdbcc7df"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e897",
@@ -7362,6 +8048,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4911.3,
@@ -7396,6 +8086,16 @@
                     "6424e07c8ac5472ad4dbdda4",
                     "6424e07c8ac5472ad4dbdda5",
                     "6424e07c8ac5472ad4dbdda6"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc7e0",
+                    "681bac258ac5478bcdbcc7e1",
+                    "681bac258ac5478bcdbcc7e2",
+                    "681bac258ac5478bcdbcc7e3",
+                    "681bac258ac5478bcdbcc7e4",
+                    "681bac258ac5478bcdbcc7e5",
+                    "681bac258ac5478bcdbcc7e6",
+                    "681bac258ac5478bcdbcc7e7"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e898",
@@ -7510,6 +8210,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4546.7,
@@ -7544,6 +8248,16 @@
                     "6424e07c8ac5472ad4dbdda7",
                     "6424e07c8ac5472ad4dbdda8",
                     "6424e07c8ac5472ad4dbdda9"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc7e8",
+                    "681bac258ac5478bcdbcc7e9",
+                    "681bac258ac5478bcdbcc7ea",
+                    "681bac258ac5478bcdbcc7eb",
+                    "681bac258ac5478bcdbcc7ec",
+                    "681bac258ac5478bcdbcc7ed",
+                    "681bac258ac5478bcdbcc7ee",
+                    "681bac258ac5478bcdbcc7ef"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e899",
@@ -7658,6 +8372,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3988.6,
@@ -7692,6 +8410,16 @@
                     "6424e07c8ac5472ad4dbddaa",
                     "6424e07c8ac5472ad4dbddab",
                     "6424e07c8ac5472ad4dbddac"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc7f0",
+                    "681bac258ac5478bcdbcc7f1",
+                    "681bac258ac5478bcdbcc7f2",
+                    "681bac258ac5478bcdbcc7f3",
+                    "681bac258ac5478bcdbcc7f4",
+                    "681bac258ac5478bcdbcc7f5",
+                    "681bac258ac5478bcdbcc7f6",
+                    "681bac258ac5478bcdbcc7f7"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e89a",
@@ -7806,6 +8534,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3906.8,
@@ -7840,6 +8572,16 @@
                     "6424e07c8ac5472ad4dbddad",
                     "6424e07c8ac5472ad4dbddae",
                     "6424e07c8ac5472ad4dbddaf"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc7f8",
+                    "681bac258ac5478bcdbcc7f9",
+                    "681bac258ac5478bcdbcc7fa",
+                    "681bac258ac5478bcdbcc7fb",
+                    "681bac258ac5478bcdbcc7fc",
+                    "681bac258ac5478bcdbcc7fd",
+                    "681bac258ac5478bcdbcc7fe",
+                    "681bac258ac5478bcdbcc7ff"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e89b",
@@ -7954,6 +8696,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3274.3,
@@ -7988,6 +8734,16 @@
                     "6424e07c8ac5472ad4dbddb0",
                     "6424e07c8ac5472ad4dbddb1",
                     "6424e07c8ac5472ad4dbddb2"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc800",
+                    "681bac258ac5478bcdbcc801",
+                    "681bac258ac5478bcdbcc802",
+                    "681bac258ac5478bcdbcc803",
+                    "681bac258ac5478bcdbcc804",
+                    "681bac258ac5478bcdbcc805",
+                    "681bac258ac5478bcdbcc806",
+                    "681bac258ac5478bcdbcc807"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e89c",
@@ -8102,6 +8858,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4814.6,
@@ -8136,6 +8896,16 @@
                     "6424e07c8ac5472ad4dbddb3",
                     "6424e07c8ac5472ad4dbddb4",
                     "6424e07c8ac5472ad4dbddb5"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc808",
+                    "681bac258ac5478bcdbcc809",
+                    "681bac258ac5478bcdbcc80a",
+                    "681bac258ac5478bcdbcc80b",
+                    "681bac258ac5478bcdbcc80c",
+                    "681bac258ac5478bcdbcc80d",
+                    "681bac258ac5478bcdbcc80e",
+                    "681bac258ac5478bcdbcc80f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e89d",
@@ -8250,6 +9020,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3601.7,
@@ -8284,6 +9058,16 @@
                     "6424e07c8ac5472ad4dbddb6",
                     "6424e07c8ac5472ad4dbddb7",
                     "6424e07c8ac5472ad4dbddb8"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc810",
+                    "681bac258ac5478bcdbcc811",
+                    "681bac258ac5478bcdbcc812",
+                    "681bac258ac5478bcdbcc813",
+                    "681bac258ac5478bcdbcc814",
+                    "681bac258ac5478bcdbcc815",
+                    "681bac258ac5478bcdbcc816",
+                    "681bac258ac5478bcdbcc817"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e89e",
@@ -8398,6 +9182,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3825.0,
@@ -8432,6 +9220,16 @@
                     "6424e07c8ac5472ad4dbddb9",
                     "6424e07c8ac5472ad4dbddba",
                     "6424e07c8ac5472ad4dbddbb"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc818",
+                    "681bac258ac5478bcdbcc819",
+                    "681bac258ac5478bcdbcc81a",
+                    "681bac258ac5478bcdbcc81b",
+                    "681bac258ac5478bcdbcc81c",
+                    "681bac258ac5478bcdbcc81d",
+                    "681bac258ac5478bcdbcc81e",
+                    "681bac258ac5478bcdbcc81f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e89f",
@@ -8546,6 +9344,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4494.6,
@@ -8580,6 +9382,16 @@
                     "6424e07c8ac5472ad4dbddbc",
                     "6424e07c8ac5472ad4dbddbd",
                     "6424e07c8ac5472ad4dbddbe"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc820",
+                    "681bac258ac5478bcdbcc821",
+                    "681bac258ac5478bcdbcc822",
+                    "681bac258ac5478bcdbcc823",
+                    "681bac258ac5478bcdbcc824",
+                    "681bac258ac5478bcdbcc825",
+                    "681bac258ac5478bcdbcc826",
+                    "681bac258ac5478bcdbcc827"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e8a0",
@@ -8694,6 +9506,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3028.8,
@@ -8728,6 +9544,16 @@
                     "6424e07c8ac5472ad4dbddbf",
                     "6424e07c8ac5472ad4dbddc0",
                     "6424e07c8ac5472ad4dbddc1"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc828",
+                    "681bac258ac5478bcdbcc829",
+                    "681bac258ac5478bcdbcc82a",
+                    "681bac258ac5478bcdbcc82b",
+                    "681bac258ac5478bcdbcc82c",
+                    "681bac258ac5478bcdbcc82d",
+                    "681bac258ac5478bcdbcc82e",
+                    "681bac258ac5478bcdbcc82f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e8a1",
@@ -8842,6 +9668,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4100.3,
@@ -8876,6 +9706,16 @@
                     "6424e07c8ac5472ad4dbddc2",
                     "6424e07c8ac5472ad4dbddc3",
                     "6424e07c8ac5472ad4dbddc4"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc830",
+                    "681bac258ac5478bcdbcc831",
+                    "681bac258ac5478bcdbcc832",
+                    "681bac258ac5478bcdbcc833",
+                    "681bac258ac5478bcdbcc834",
+                    "681bac258ac5478bcdbcc835",
+                    "681bac258ac5478bcdbcc836",
+                    "681bac258ac5478bcdbcc837"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e8a2",
@@ -8990,6 +9830,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4211.9,
@@ -9024,6 +9868,16 @@
                     "6424e07c8ac5472ad4dbddc5",
                     "6424e07c8ac5472ad4dbddc6",
                     "6424e07c8ac5472ad4dbddc7"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc838",
+                    "681bac258ac5478bcdbcc839",
+                    "681bac258ac5478bcdbcc83a",
+                    "681bac258ac5478bcdbcc83b",
+                    "681bac258ac5478bcdbcc83c",
+                    "681bac258ac5478bcdbcc83d",
+                    "681bac258ac5478bcdbcc83e",
+                    "681bac258ac5478bcdbcc83f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e8a3",
@@ -9138,6 +9992,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 4137.5,
@@ -9172,6 +10030,16 @@
                     "6424e07c8ac5472ad4dbddc8",
                     "6424e07c8ac5472ad4dbddc9",
                     "6424e07c8ac5472ad4dbddca"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc840",
+                    "681bac258ac5478bcdbcc841",
+                    "681bac258ac5478bcdbcc842",
+                    "681bac258ac5478bcdbcc843",
+                    "681bac258ac5478bcdbcc844",
+                    "681bac258ac5478bcdbcc845",
+                    "681bac258ac5478bcdbcc846",
+                    "681bac258ac5478bcdbcc847"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e8a4",
@@ -9286,6 +10154,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3825.0,
@@ -9320,6 +10192,16 @@
                     "6424e07c8ac5472ad4dbddcb",
                     "6424e07c8ac5472ad4dbddcc",
                     "6424e07c8ac5472ad4dbddcd"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc848",
+                    "681bac258ac5478bcdbcc849",
+                    "681bac258ac5478bcdbcc84a",
+                    "681bac258ac5478bcdbcc84b",
+                    "681bac258ac5478bcdbcc84c",
+                    "681bac258ac5478bcdbcc84d",
+                    "681bac258ac5478bcdbcc84e",
+                    "681bac258ac5478bcdbcc84f"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e8a5",
@@ -9434,6 +10316,10 @@
                     "2018339": "Disk",
                     "2018340": "Laser level"
                 },
+                "EDATE": "04/26/2028",
+                "PLYRE": 2018,
+                "PLODE": 116,
+                "LF1D": "05/07/2018",
                 "HARM": "Machine",
                 "HADAT": "10/30/2018",
                 "WBWAH": 3147.8,
@@ -9468,6 +10354,16 @@
                     "6424e07c8ac5472ad4dbddce",
                     "6424e07c8ac5472ad4dbddcf",
                     "6424e07c8ac5472ad4dbddd0"
+                ],
+                "paids": [
+                    "681bac258ac5478bcdbcc850",
+                    "681bac258ac5478bcdbcc851",
+                    "681bac258ac5478bcdbcc852",
+                    "681bac258ac5478bcdbcc853",
+                    "681bac258ac5478bcdbcc854",
+                    "681bac258ac5478bcdbcc855",
+                    "681bac258ac5478bcdbcc856",
+                    "681bac258ac5478bcdbcc857"
                 ]
             },
             "_id": "6424d1af8ac547248ba8e8a6",

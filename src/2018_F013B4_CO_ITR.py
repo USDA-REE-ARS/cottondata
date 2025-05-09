@@ -6,6 +6,7 @@ import plot
 import harvestarea
 import neutronswc
 import cropcanopy
+import plantanalysis
 import pandas as pd
 from osgeo import ogr
 import geojson
@@ -172,6 +173,12 @@ for feature in layer:
     tdata.update({'2018339':'Disk'})
     tdata.update({'2018340':'Laser level'})
     myplot.setproperty('TI_NOTES',tdata)
+    #Crop development data (location unknown)
+    #Using field average for each plot
+    myplot.setproperty('EDATE', '04/26/2028')
+    myplot.setproperty('PLYRE', 2018)
+    myplot.setproperty('PLODE', 116)
+    myplot.setproperty('LF1D', '05/07/2018')
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
@@ -357,6 +364,9 @@ layer = shapes.GetLayer()
 ccfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
 cch = pd.read_excel(ccfile,sheet_name='Height')
 ccw = pd.read_excel(ccfile,sheet_name='Width')
+ccl = pd.read_excel(ccfile,sheet_name='LAImeter')
+ccden = pd.read_excel(ccfile,sheet_name='Density')
+ccdev = pd.read_excel(ccfile,sheet_name='Develop')
 crpcns = list()
 for feature in layer:
     ccid = feature.GetField('ObjectId')
@@ -388,18 +398,94 @@ for feature in layer:
             wddata.update({key:round(CWID,2)})
     if wddata:
         mycc.setproperty('CWID',wddata)
+    laidata = dict()
+    rowl = ccl.loc[ccl['CCID'] == cc_label]
+    if not rowl.empty:
+        doycols = sorted([col for col in ccl.columns if col[:3]=='DOY'])
+        for doycol in doycols:
+            key = '2018'+'{:03d}'.format(int(doycol[3:]))
+            if not math.isnan(rowl.iloc[0][doycol]):
+                LAID = float(rowl.iloc[0][doycol])
+                laidata.update({key:round(LAID,2)})
+        if laidata:
+            mycc.setproperty('LAID',laidata)
+    rowden = ccden.loc[ccden['CCID'] == cc_label]
+    if not rowden.empty:
+        if not math.isnan(rowden.iloc[0]['PLPD']):
+            PLPD = float(rowden.iloc[0]['PLPD'])
+            mycc.setproperty('PLPD',round(PLPD,1))
+    rowdev = ccdev.loc[ccdev['CCID'] == cc_label]
+    if not rowdev.empty:
+        if not str(rowdev.iloc[0]['ADAT']) in ['nan','NaT']:
+            mycc.setproperty('ADAT',rowdev.iloc[0]['ADAT'].strftime('%m/%d/%Y'))
+        if not math.isnan(rowdev.iloc[0]['ADOY']):
+            mycc.setproperty('ADOY',int(round(rowdev.iloc[0]['ADOY'],0)))
+        nawf = dict()
+        for doy in ['176','184','190','198','204','211','218','227','232','241','247','253']:
+            if not math.isnan(rowdev.iloc[0]['NAWF'+doy]):
+                nawf.update({'2018'+doy:round(rowdev.iloc[0]['NAWF'+doy],1)})
+        if nawf:
+            mycc.setproperty('NAWF',nawf)
     found = False
     for plot in plots:
         if plot.plt_label[1:] == cc_label[:4]:
             plot.addccid(mycc.getid())
             found = True
             break
-    
-    ###Note from April 26 that cotton plants popped over last night.
-    
     if not found:
         raise Exception('Did not find plot for crop canopy %s' % cc_label)
     crpcns.append(mycc)
+########################################################################
+
+########################################################################
+#Plant Analysis
+shapefile = '../Data/'+fname+'/'+fname+'_PlantAnalysis.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+pafile = '../Data/'+fname+'/'+fname+'_PlantAnalysis.xlsx'
+pa = pd.read_excel(pafile,sheet_name='PlantDF')
+pas = list()
+for feature in layer:
+    paid = feature.GetField('ObjectId')
+    pa_label = feature.GetField('Sample')  #(e.g., p01-1-S1)
+    geometry = feature.GetGeometryRef()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in plot shapefile.')
+        sys.exit()
+    mypa = plantanalysis.PlantAnalysis(paid=paid,geometry=geometry,pa_label=pa_label)
+    #Plant analysis data
+    row = pa[pa['SID'] == pa_label]
+    if not str(row.iloc[0]['PSDATE']) in ['nan','NaT']:
+        mypa.setproperty('PSDATE',row.iloc[0]['PSDATE'].strftime('%m/%d/%Y'))
+    items={'PHTD':2,'MSNODE':0,'PFNODE':0,'FRBNUM':0}
+    for item in items.keys():
+        padata = dict()
+        for i in list(range(row.iloc[0]['NumPlts'])):
+            if not math.isnan(row.iloc[0][item+str(i+1)]):
+                value = round(float(row.iloc[0][item+str(i+1)]),items[item])
+                if items[item] == 0: value=int(value)
+                padata.update({i+1:value})
+        if padata:
+            mypa.setproperty(item,padata)
+    items={'ABCNUM':1,'SQRNUM':1,'FLRNUM':1,'GBNUM':1,'MBNUM':1,
+           'LWPD':2,'SWPD':2,'CWPD':2,'LWAD':1,'SWAD':1,'MBWAD':1,
+           'PWAD':1,'CWAD':1,'LAID':3}
+    for item in items.keys():
+        if not math.isnan(row.iloc[0][item]):
+            value = round(float(row.iloc[0][item]),items[item])
+            if items[item] == 0: value=int(value)
+            mypa.setproperty(item,value)
+    found = False
+    for plot in plots:
+        if plot.plt_label == pa_label[:5]:
+            plot.addpaid(mypa.getid())
+            found = True
+            break
+    if not found:
+        raise Exception('Did not find plot for plant analysis %s' % pa_label)
+    pas.append(mypa)
 ########################################################################
 
 ########################################################################
@@ -438,6 +524,14 @@ for mycrpcn in crpcns:
     features.append(mycrpcn.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/'+fname+'/'+fname+'_cropcanopy.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
+for mypa in pas:
+    features.append(mypa.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_plantanalysis.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################

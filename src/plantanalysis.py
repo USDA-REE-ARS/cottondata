@@ -15,9 +15,17 @@ class PlantAnalysis:
                 sprefout.ImportFromEPSG(4326) #Geographic WGS84
                 coordtrans = osr.CoordinateTransformation(sprefin,sprefout)
                 geometry.Transform(coordtrans)
-            coords = (geometry.GetX(),geometry.GetY())
-            point=geojson.Point(coords,precision=8)
-            self.doc = geojson.Feature(geometry=point)
+            if geometry.GetGeometryCount() > 1: #MultiPoint
+                coords = list()
+                for i in range(geometry.GetGeometryCount()):
+                    point = geometry.GetGeometryRef(i)
+                    coords.append((point.GetX(),point.GetY()))
+                points=geojson.MultiPoint(coords,precision=8)
+                self.doc = geojson.Feature(geometry=points)
+            else:
+                coords = (geometry.GetX(),geometry.GetY())
+                point=geojson.Point(coords,precision=8)
+                self.doc = geojson.Feature(geometry=point)
         else:
             self.doc = geojson.Feature()
 
