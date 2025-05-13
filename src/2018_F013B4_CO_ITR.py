@@ -7,6 +7,7 @@ import harvestarea
 import neutronswc
 import cropcanopy
 import plantanalysis
+import soilanalysis
 import pandas as pd
 from osgeo import ogr
 import geojson
@@ -114,6 +115,8 @@ yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
+ufile = '../Data/'+fname+'/'+fname+'_UAS.xlsx'
+cover = pd.read_excel(ufile,sheet_name='PlotCover')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -173,6 +176,17 @@ for feature in layer:
     tdata.update({'2018339':'Disk'})
     tdata.update({'2018340':'Laser level'})
     myplot.setproperty('TI_NOTES',tdata)
+    #UAS crop cover fraction
+    fcdata = dict()
+    row = cover.loc[cover['PlotID'] == plt_label]
+    doycols = sorted([col for col in cover.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2018'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            FRCOV = float(row.iloc[0][doycol])
+            fcdata.update({key:round(FRCOV,3)})
+    if fcdata:
+        myplot.setproperty('FRCOV',fcdata)
     #Crop development data (location unknown)
     #Using field average for each plot
     myplot.setproperty('EDATE', '04/26/2028')
@@ -236,6 +250,8 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=46)
+ufile = '../Data/'+fname+'/'+fname+'_UAS.xlsx'
+cover = pd.read_excel(ufile,sheet_name='HACover')
 hareas = list()
 for feature in layer:
     haid = feature.GetField('ObjectId')
@@ -299,6 +315,17 @@ for feature in layer:
         myha.setproperty('FBELO' ,round(row.iloc[0]['FBELO' ],1))
     if not math.isnan(row.iloc[0]['FBSFI']):
         myha.setproperty('FBSFI' ,round(row.iloc[0]['FBSFI' ],1))
+    #UAS crop cover fraction
+    fcdata = dict()
+    row = cover.loc[cover['HID'] == ha_label]
+    doycols = sorted([col for col in cover.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2018'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            FRCOV = float(row.iloc[0][doycol])
+            fcdata.update({key:round(FRCOV,3)})
+    if fcdata:
+        myha.setproperty('FRCOV',fcdata)
     found=False
     for plot in plots:
         if plot.plt_label[1:] == ha_label[:4]:
@@ -489,6 +516,50 @@ for feature in layer:
 ########################################################################
 
 ########################################################################
+#Soil Analysis
+shapefile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+sa = pd.read_excel(safile,sheet_name='SoilDF')
+sas = list()
+for feature in layer:
+    said = feature.GetField('ObjectId')
+    sa_label = feature.GetField('Core')  #(e.g., p01-2)
+    geometry = feature.GetGeometryRef()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in plot shapefile.')
+        sys.exit()
+    mysa = soilanalysis.SoilAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    #Soil analysis data
+    rows = sa[sa['Plot'] == sa_label]
+    if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
+        mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%m/%d/%Y'))
+    items={'SNO3':1}
+    for item in items.keys():
+        sadata = dict()
+        for depth in [20,60,100,140,180]:
+            row = sa[(sa['Plot'] == sa_label) & (sa['Depth'] == depth)]
+            if not math.isnan(row.iloc[0][item]):
+                value = round(row.iloc[0][item],items[item])
+                if items[item] == 0: value=int(value)
+                sadata.update({depth:value})
+        if sadata:
+            mysa.setproperty(item,sadata)
+    found = False
+    for plot in plots:
+        if plot.plt_label == sa_label:
+            plot.addsaid(mysa.getid())
+            found = True
+            break
+    if not found:
+        raise Exception('Did not find plot for soil analysis %s' % sa_label)
+    sas.append(mysa)
+########################################################################
+
+########################################################################
 #Write geojson files
 fc = geojson.FeatureCollection([myexp.doc])
 with open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w') as f:
@@ -532,6 +603,14 @@ for mypa in pas:
     features.append(mypa.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/'+fname+'/'+fname+'_plantanalysis.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
+for mysa in sas:
+    features.append(mysa.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_soilanalysis.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################
