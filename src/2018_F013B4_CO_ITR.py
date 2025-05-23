@@ -189,7 +189,7 @@ for feature in layer:
         myplot.setproperty('FRCOV',fcdata)
     #Crop development data (location unknown)
     #Using field average for each plot
-    myplot.setproperty('EDATE', '04/26/2028')
+    myplot.setproperty('EDATE', '04/26/2018')
     myplot.setproperty('PLYRE', 2018)
     myplot.setproperty('PLODE', 116)
     myplot.setproperty('LF1D', '05/07/2018')
@@ -345,6 +345,8 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 swcfile = '../Data/'+fname+'/'+fname+'_NeutronSWC.xlsx'
 swc = pd.read_excel(swcfile,sheet_name='Summary')
+tdrfile = '../Data/'+fname+'/'+fname+'_SurfaceTDR.xlsx'
+tdr = pd.read_excel(tdrfile,sheet_name='MiniTrase')
 tubes = list()
 for feature in layer:
     tid = feature.GetField('ObjectId')
@@ -355,20 +357,34 @@ for feature in layer:
         print('Unexpected spatial reference in plot shapefile.')
         sys.exit()
     mytube = neutronswc.NeutronSWC(tid=tid,geometry=geometry,tb_label=tb_label)
+    #Setup swcdata with neutron and TDR measurement dates
+    swcdata = dict()
+    tdoys = [int(col[3:]) for col in tdr.columns if col[:3]=='DOY']
+    ndoys = list(set(swc['DOY'].tolist()))
+    doys = sorted(list(set(tdoys+ndoys)))
+    for doy in doys:
+        key = '2018'+'{:03d}'.format(doy)
+        swcdata.update({key:{}})
+    #Surface TDR soil water content measurements
+    row = tdr.loc[tdr['PlotID'] == tb_label]
+    doycols = sorted([col for col in row.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2018'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            STDR = float(row.iloc[0][doycol])/100. #cm3/cm3
+            swcdata[key].update({'00TDR':round(STDR,5)})
     #Neutron soil water content data
     rows = swc.loc[swc['Tube'] == tb_label]
     rows = rows.sort_values(by='DOY')
     depcols = sorted([col for col in rows.columns if col[-2:]=='cm'])
-    swcdata = dict()
     for i, row in rows.iterrows():
-        swcitem = dict()
+        key = '{:04d}{:03d}'.format(row.loc['Year'],row.loc['DOY'])
         for depcol in depcols:
             if not math.isnan(row.loc[depcol]):
                 depth = int(depcol[1:-2])
-                swcitem.update({depth:round(row.loc[depcol],5)})
-        key = '{:04d}{:03d}'.format(row.loc['Year'],row.loc['DOY'])
-        if swcitem:
-            swcdata.update({key:swcitem})
+                swcdata[key].update({depth:round(row.loc[depcol],5)})
+    if len(swcdata['2018190'])==0:
+        del swcdata['2018190']
     if swcdata:
         mytube.setproperty('SWLD',swcdata)
     found=False
