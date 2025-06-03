@@ -441,7 +441,7 @@ for feature in layer:
             wddata.update({key:round(CWID,2)})
     if wddata:
         mycc.setproperty('CWID',wddata)
-        laidata = dict()
+    laidata = dict()
     rowl = ccl.loc[ccl['CCID'] == cc_label]
     if not rowl.empty:
         doycols = sorted([col for col in ccl.columns if col[:3]=='DOY'])
