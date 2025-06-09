@@ -2,6 +2,7 @@ import bson
 import json
 import geojson
 from osgeo import osr
+from osgeo import ogr
 
 class PlantAnalysis:
     def __init__(self,paid=None,geometry=None,pa_label=None):
@@ -15,14 +16,22 @@ class PlantAnalysis:
                 sprefout.ImportFromEPSG(4326) #Geographic WGS84
                 coordtrans = osr.CoordinateTransformation(sprefin,sprefout)
                 geometry.Transform(coordtrans)
-            if geometry.GetGeometryCount() > 1: #MultiPoint
+            if geometry.GetGeometryType() == ogr.wkbPolygon:
+                oring = geometry.GetGeometryRef(0)
+                coords = list()
+                for i in list(range(oring.GetPointCount())):
+                    lat, lon, z = oring.GetPoint(i)
+                    coords.append((lon,lat))
+                poly=geojson.Polygon([coords],precision=8)
+                self.doc = geojson.Feature(geometry=poly)
+            elif geometry.GetGeometryType() == ogr.wkbMultiPoint:
                 coords = list()
                 for i in range(geometry.GetGeometryCount()):
                     point = geometry.GetGeometryRef(i)
                     coords.append((point.GetX(),point.GetY()))
                 points=geojson.MultiPoint(coords,precision=8)
                 self.doc = geojson.Feature(geometry=points)
-            else:
+            elif geometry.GetGeometryType() == ogr.wkbPoint:
                 coords = (geometry.GetX(),geometry.GetY())
                 point=geojson.Point(coords,precision=8)
                 self.doc = geojson.Feature(geometry=point)
