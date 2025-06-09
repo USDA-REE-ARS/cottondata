@@ -351,7 +351,7 @@ for feature in layer:
                 LAID = float(rowl.iloc[0][doycol])
                 laidata.update({key:round(LAID,2)})
         if laidata:
-            mycc.setproperty('LAID',laidata)
+            mycc.setproperty('LAIDF',laidata)
     rowden = ccden.loc[ccden['CCID'] == cc_label]
     if not rowden.empty:
         if not math.isnan(rowden.iloc[0]['PLPD']):
