@@ -141,8 +141,8 @@ for feature in layer:
     fdata.update({'2015175':60.0})
     fdata.update({'2015188':60.0})
     myplot.setproperty('FEAMN',fdata)
-    plpd = {'p02':11.2,'p03':10.9,'p04':10.1,'p05':10.2,'p06':9.9,
-            'p07':10.3,'p08':10.8,'p09':9.6,'p10':9.8,'p11':8.8}
+    plpd = {'p02':11.0,'p03':10.8,'p04':10.0,'p05':10.1,'p06':9.8,
+            'p07':10.1,'p08':10.6,'p09':9.5,'p10':9.6,'p11':8.6}
     myplot.setproperty('PLPD',plpd[plt_label])
     #Crop development data (location unknown)
     #Using field average for each plot
