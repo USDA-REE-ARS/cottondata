@@ -381,7 +381,7 @@ for feature in layer:
 ########################################################################
 #Write geojson files
 fc = geojson.FeatureCollection([myexp.doc])
-with open('../geojson/'+fname+'/'+fname+'_experiment.geojson','w') as f:
+with open('../geojson/'+fname+'/'+fname+'_Experiment.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 
@@ -389,7 +389,7 @@ features = list()
 for myplot in plots:
     features.append(myplot.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/'+fname+'/'+fname+'_plots.geojson','w') as f:
+with open('../geojson/'+fname+'/'+fname+'_Plots.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 
@@ -397,7 +397,7 @@ features = list()
 for myzone in zones:
     features.append(myzone.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/'+fname+'/'+fname+'_zones.geojson','w') as f:
+with open('../geojson/'+fname+'/'+fname+'_Zones.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 
@@ -405,7 +405,7 @@ features = list()
 for myha in hareas:
     features.append(myha.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/'+fname+'/'+fname+'_harvestareas.geojson','w') as f:
+with open('../geojson/'+fname+'/'+fname+'_HarvestAreas.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 
@@ -413,7 +413,7 @@ features = list()
 for mytube in tubes:
     features.append(mytube.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/'+fname+'/'+fname+'_neutronswc.geojson','w') as f:
+with open('../geojson/'+fname+'/'+fname+'_NeutronSWC.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 
@@ -421,7 +421,7 @@ features = list()
 for mycrpcn in crpcns:
     features.append(mycrpcn.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/'+fname+'/'+fname+'_cropcanopy.geojson','w') as f:
+with open('../geojson/'+fname+'/'+fname+'_CropCanopy.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################
