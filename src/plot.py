@@ -68,17 +68,23 @@ class Plot:
         else:
             self.doc['properties'].update({'ccids':[ccid]})
 
+    def addpaid(self,paid):
+        if 'paids' in self.doc['properties'].keys():
+            self.doc['properties']['paids'].append(paid)
+        else:
+            self.doc['properties'].update({'paids':[paid]})
+
     def addsaid(self,said):
         if 'saids' in self.doc['properties'].keys():
             self.doc['properties']['saids'].append(said)
         else:
             self.doc['properties'].update({'saids':[said]})
 
-    def addpaid(self,paid):
-        if 'paids' in self.doc['properties'].keys():
-            self.doc['properties']['paids'].append(paid)
+    def addscid(self,scid):
+        if 'scids' in self.doc['properties'].keys():
+            self.doc['properties']['scids'].append(scid)
         else:
-            self.doc['properties'].update({'paids':[paid]})
+            self.doc['properties'].update({'scids':[scid]})
 
     def addzid(self,zid):
         if 'zids' in self.doc['properties'].keys():

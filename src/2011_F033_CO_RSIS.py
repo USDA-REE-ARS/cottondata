@@ -179,7 +179,7 @@ for feature in layer:
         sys.exit()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in zone shapefile.')
         sys.exit()
     zon_area = geometry.GetArea()
     myzone = zone.Zone(zid=zid,geometry=geometry,zon_label=zon_label)
@@ -218,9 +218,14 @@ for feature in layer:
         myzone.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
     if not math.isnan(row.iloc[0]['WSCWAH']):
         myzone.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
+    found=False
     for plot in plots:
         if plot.plt_label == zon_label[:3]:
             plot.addzid(myzone.getid())
+            found=True
+            break
+    if not found:
+        raise Exception('Did not find plot for zone %s' % zon_label)
     zones.append(myzone)
 ########################################################################
 
@@ -244,7 +249,7 @@ for feature in layer:
         sys.exit()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in harvest area shapefile.')
         sys.exit()
     ha_area = geometry.GetArea()
     myha = harvestarea.HarvestArea(haid=haid,geometry=geometry,ha_label=ha_label)
@@ -297,7 +302,7 @@ for feature in layer:
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in neutronSWC shapefile.')
         sys.exit()
     mytube = neutronswc.NeutronSWC(tid=tid,geometry=geometry,tb_label=tb_label)
     #Neutron soil water content data
@@ -343,7 +348,7 @@ for feature in layer:
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in crop canopy shapefile.')
         sys.exit()
     mycc = cropcanopy.CropCanopy(ccid=ccid,geometry=geometry,cc_label=cc_label)
     #Crop canopy data

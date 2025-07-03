@@ -186,7 +186,7 @@ for feature in layer:
         sys.exit()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in harvest area shapefile.')
         sys.exit()
     ha_area = geometry.GetArea()
     myha = harvestarea.HarvestArea(haid=haid,geometry=geometry,ha_label=ha_label)
@@ -237,7 +237,7 @@ for feature in layer:
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in neutronSWC shapefile.')
         sys.exit()
     mytube = neutronswc.NeutronSWC(tid=tid,geometry=geometry,tb_label=tb_label)
     #Neutron soil water content data
@@ -282,7 +282,7 @@ for feature in layer:
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in crop canopy shapefile.')
         sys.exit()
     mycc = cropcanopy.CropCanopy(ccid=ccid,geometry=geometry,cc_label=cc_label)
     #Crop canopy data

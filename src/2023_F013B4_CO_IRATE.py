@@ -103,6 +103,8 @@ mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
 ufile = '../Data/'+fname+'/'+fname+'_UAS.xlsx'
 cover = pd.read_excel(ufile,sheet_name='PlotCover')
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+soil = pd.read_excel(safile,sheet_name='SoilPlots')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -165,6 +167,67 @@ for feature in layer:
             fcdata.update({key:round(FRCOV,3)})
     if fcdata:
         myplot.setproperty('FRCOV',fcdata)
+    #Soil analysis
+    row = soil.loc[soil['Plot'] == plt_label]
+    em38 = dict()
+    if not math.isnan(row.iloc[0]['2013d260EM38']):
+        em38.update({'2013260':round(row.iloc[0]['2013d260EM38'],2)})
+    if not math.isnan(row.iloc[0]['2015d118EM38']):
+        em38.update({'2015118':round(row.iloc[0]['2015d118EM38'],2)})
+    if not math.isnan(row.iloc[0]['2015d119EM38']):
+        em38.update({'2015119':round(row.iloc[0]['2015d119EM38'],2)})
+    if em38:
+        myplot.setproperty('EM38',em38)
+    slsnd = dict()
+    slslt = dict()
+    slcly = dict()
+    slwp1 = dict()
+    slwp2 = dict()
+    slfc1 = dict()
+    for depth in ['015','045','075','105','135','165']:
+        if not math.isnan(row.iloc[0]['SLSND'+depth]):
+            slsnd.update({int(depth):round(row.iloc[0]['SLSND'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSLT'+depth]):
+            slslt.update({int(depth):round(row.iloc[0]['SLSLT'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLCLY'+depth]):
+            slcly.update({int(depth):round(row.iloc[0]['SLCLY'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLWP1'+depth]):
+            slwp1.update({int(depth):round(row.iloc[0]['SLWP1'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLWP2'+depth]):
+            slwp2.update({int(depth):round(row.iloc[0]['SLWP2'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLFC1'+depth]):
+            slfc1.update({int(depth):round(row.iloc[0]['SLFC1'+depth],3)})
+    if slsnd: myplot.setproperty('SLSND',slsnd)
+    if slslt: myplot.setproperty('SLSLT',slslt)
+    if slcly: myplot.setproperty('SLCLY',slcly)
+    if slwp1: myplot.setproperty('SLWP1',slwp1)
+    if slwp2: myplot.setproperty('SLWP2',slwp2)
+    if slfc1: myplot.setproperty('SLFC1',slfc1)
+    slsnd_KRT = dict()
+    slslt_KRT = dict()
+    slcly_KRT = dict()
+    slsnd2_KRT = dict()
+    slslt2_KRT = dict()
+    slcly2_KRT = dict()
+    for depth in ['020','060','100','140','180']:
+        if not math.isnan(row.iloc[0]['SLSND'+depth]):
+            slsnd_KRT.update({int(depth):round(row.iloc[0]['SLSND'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSLT'+depth]):
+            slslt_KRT.update({int(depth):round(row.iloc[0]['SLSLT'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLCLY'+depth]):
+            slcly_KRT.update({int(depth):round(row.iloc[0]['SLCLY'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSND2'+depth]):
+            slsnd2_KRT.update({int(depth):round(row.iloc[0]['SLSND2'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSLT2'+depth]):
+            slslt2_KRT.update({int(depth):round(row.iloc[0]['SLSLT2'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLCLY2'+depth]):
+            slcly2_KRT.update({int(depth):round(row.iloc[0]['SLCLY2'+depth],2)})
+    if slsnd_KRT:  myplot.setproperty('SLSND_KRT',slsnd_KRT)
+    if slslt_KRT:  myplot.setproperty('SLSLT_KRT',slslt_KRT)
+    if slcly_KRT:  myplot.setproperty('SLCLY_KRT',slcly_KRT)
+    if slsnd2_KRT: myplot.setproperty('SLSND2_KRT',slsnd2_KRT)
+    if slslt2_KRT: myplot.setproperty('SLSLT2_KRT',slslt2_KRT)
+    if slcly2_KRT: myplot.setproperty('SLCLY2_KRT',slcly2_KRT)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     row = row.astype({'FBTCT':float})
@@ -233,6 +296,8 @@ yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=64)
 ufile = '../Data/'+fname+'/'+fname+'_UAS.xlsx'
 cover = pd.read_excel(ufile,sheet_name='HACover')
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+soil = pd.read_excel(safile,sheet_name='SoilHA')
 hareas = list()
 for feature in layer:
     haid = feature.GetField('ObjectId')
@@ -245,7 +310,7 @@ for feature in layer:
         sys.exit()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in harvest area shapefile.')
         sys.exit()
     ha_area = geometry.GetArea()
     myha = harvestarea.HarvestArea(haid=haid,geometry=geometry,ha_label=ha_label)
@@ -318,6 +383,67 @@ for feature in layer:
             fcdata.update({key:round(FRCOV,3)})
     if fcdata:
         myha.setproperty('FRCOV',fcdata)
+    #Soil analysis
+    row = soil.loc[soil['HID'] == ha_label]
+    em38 = dict()
+    if not math.isnan(row.iloc[0]['2013d260EM38']):
+        em38.update({'2013260':round(row.iloc[0]['2013d260EM38'],2)})
+    if not math.isnan(row.iloc[0]['2015d118EM38']):
+        em38.update({'2015118':round(row.iloc[0]['2015d118EM38'],2)})
+    if not math.isnan(row.iloc[0]['2015d119EM38']):
+        em38.update({'2015119':round(row.iloc[0]['2015d119EM38'],2)})
+    if em38:
+        myha.setproperty('EM38',em38)
+    slsnd = dict()
+    slslt = dict()
+    slcly = dict()
+    slwp1 = dict()
+    slwp2 = dict()
+    slfc1 = dict()
+    for depth in ['015','045','075','105','135','165']:
+        if not math.isnan(row.iloc[0]['SLSND'+depth]):
+            slsnd.update({int(depth):round(row.iloc[0]['SLSND'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSLT'+depth]):
+            slslt.update({int(depth):round(row.iloc[0]['SLSLT'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLCLY'+depth]):
+            slcly.update({int(depth):round(row.iloc[0]['SLCLY'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLWP1'+depth]):
+            slwp1.update({int(depth):round(row.iloc[0]['SLWP1'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLWP2'+depth]):
+            slwp2.update({int(depth):round(row.iloc[0]['SLWP2'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLFC1'+depth]):
+            slfc1.update({int(depth):round(row.iloc[0]['SLFC1'+depth],3)})
+    if slsnd: myha.setproperty('SLSND',slsnd)
+    if slslt: myha.setproperty('SLSLT',slslt)
+    if slcly: myha.setproperty('SLCLY',slcly)
+    if slwp1: myha.setproperty('SLWP1',slwp1)
+    if slwp2: myha.setproperty('SLWP2',slwp2)
+    if slfc1: myha.setproperty('SLFC1',slfc1)
+    slsnd_KRT = dict()
+    slslt_KRT = dict()
+    slcly_KRT = dict()
+    slsnd2_KRT = dict()
+    slslt2_KRT = dict()
+    slcly2_KRT = dict()
+    for depth in ['020','060','100','140','180']:
+        if not math.isnan(row.iloc[0]['SLSND'+depth]):
+            slsnd_KRT.update({int(depth):round(row.iloc[0]['SLSND'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSLT'+depth]):
+            slslt_KRT.update({int(depth):round(row.iloc[0]['SLSLT'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLCLY'+depth]):
+            slcly_KRT.update({int(depth):round(row.iloc[0]['SLCLY'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSND2'+depth]):
+            slsnd2_KRT.update({int(depth):round(row.iloc[0]['SLSND2'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSLT2'+depth]):
+            slslt2_KRT.update({int(depth):round(row.iloc[0]['SLSLT2'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLCLY2'+depth]):
+            slcly2_KRT.update({int(depth):round(row.iloc[0]['SLCLY2'+depth],2)})
+    if slsnd_KRT:  myha.setproperty('SLSND_KRT',slsnd_KRT)
+    if slslt_KRT:  myha.setproperty('SLSLT_KRT',slslt_KRT)
+    if slcly_KRT:  myha.setproperty('SLCLY_KRT',slcly_KRT)
+    if slsnd2_KRT: myha.setproperty('SLSND2_KRT',slsnd2_KRT)
+    if slslt2_KRT: myha.setproperty('SLSLT2_KRT',slslt2_KRT)
+    if slcly2_KRT: myha.setproperty('SLCLY2_KRT',slcly2_KRT)
     found=False
     for plot in plots:
         if plot.plt_label == ha_label[:4]:
@@ -344,7 +470,7 @@ for feature in layer:
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in neutronSWC shapefile.')
         sys.exit()
     mytube = neutronswc.NeutronSWC(tid=tid,geometry=geometry,tb_label=tb_label)
     #Neutron soil water content data
@@ -372,6 +498,29 @@ for feature in layer:
     if not found:
         raise Exception('Did not find plot for neutron tube %s' % tb_label)
     tubes.append(mytube)
+########################################################################
+
+########################################################################
+#Soil Analysis
+shapefile = '../Data/Soil/F013B4_SoilAnalysis_DJH.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+sa = pd.read_excel(safile,sheet_name='SoilDJH')
+for feature in layer:
+    said = feature.GetField('ObjectId')
+    sa_label = feature.GetField('Core')  #(e.g., 2014-p01-1)
+    if sa_label in sa['Core'].values:
+        row = sa[sa['Core'] == sa_label]
+        found = False
+        for plot in plots:
+            if plot.plt_label == row.iloc[0]['Plot']:
+                plot.addsaid(said)
+                found = True
+                break
+        if not found:
+            raise Exception('Did not find plot for soil analysis %s' % sa_label)
 ########################################################################
 
 ########################################################################
