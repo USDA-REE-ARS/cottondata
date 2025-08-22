@@ -1,0 +1,1013 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07373065,
+                    -111.99003201
+                ]
+            },
+            "properties": {
+                "sc_label": "p01-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 0.54,
+                    "60": 1.65,
+                    "90": 2.55
+                }
+            },
+            "_id": "689baadc8ac5472c70ba165f",
+            "scid": "689baadc8ac5472c70ba165f"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07420866,
+                    -111.99003736
+                ]
+            },
+            "properties": {
+                "sc_label": "p01-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 1.44,
+                    "60": 3.34,
+                    "90": 3.18
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1660",
+            "scid": "689baadc8ac5472c70ba1660"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07468666,
+                    -111.99004272
+                ]
+            },
+            "properties": {
+                "sc_label": "p01-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 6.38,
+                    "60": 2.38,
+                    "90": 9.66
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1661",
+            "scid": "689baadc8ac5472c70ba1661"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07372944,
+                    -111.99018438
+                ]
+            },
+            "properties": {
+                "sc_label": "p02-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 5.28,
+                    "60": 9.05,
+                    "90": 10.99
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1662",
+            "scid": "689baadc8ac5472c70ba1662"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07420745,
+                    -111.99018973
+                ]
+            },
+            "properties": {
+                "sc_label": "p02-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 9.52,
+                    "60": 7.08,
+                    "90": 7.96
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1663",
+            "scid": "689baadc8ac5472c70ba1663"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07468545,
+                    -111.99019509
+                ]
+            },
+            "properties": {
+                "sc_label": "p02-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 9.09,
+                    "60": 4.5,
+                    "90": 4.06
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1664",
+            "scid": "689baadc8ac5472c70ba1664"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07372823,
+                    -111.99033675
+                ]
+            },
+            "properties": {
+                "sc_label": "p03-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 2.06,
+                    "60": 4.89,
+                    "90": 2.82
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1665",
+            "scid": "689baadc8ac5472c70ba1665"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07420624,
+                    -111.9903421
+                ]
+            },
+            "properties": {
+                "sc_label": "p03-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 0.78,
+                    "60": 1.25,
+                    "90": 2.21
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1666",
+            "scid": "689baadc8ac5472c70ba1666"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07468424,
+                    -111.99034746
+                ]
+            },
+            "properties": {
+                "sc_label": "p03-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 7.46,
+                    "60": 4.2,
+                    "90": 7.02
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1667",
+            "scid": "689baadc8ac5472c70ba1667"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07372702,
+                    -111.99048912
+                ]
+            },
+            "properties": {
+                "sc_label": "p04-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 8.91,
+                    "60": 9.33,
+                    "90": 15.89
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1668",
+            "scid": "689baadc8ac5472c70ba1668"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07420503,
+                    -111.99049447
+                ]
+            },
+            "properties": {
+                "sc_label": "p04-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 14.96,
+                    "60": 29.68,
+                    "90": 10.66
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1669",
+            "scid": "689baadc8ac5472c70ba1669"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07468303,
+                    -111.99049983
+                ]
+            },
+            "properties": {
+                "sc_label": "p04-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 4.62,
+                    "60": 2.33,
+                    "90": 2.82
+                }
+            },
+            "_id": "689baadc8ac5472c70ba166a",
+            "scid": "689baadc8ac5472c70ba166a"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07372581,
+                    -111.99064149
+                ]
+            },
+            "properties": {
+                "sc_label": "p05-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 2.84,
+                    "60": 3.14,
+                    "90": 4.48
+                }
+            },
+            "_id": "689baadc8ac5472c70ba166b",
+            "scid": "689baadc8ac5472c70ba166b"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07420382,
+                    -111.99064685
+                ]
+            },
+            "properties": {
+                "sc_label": "p05-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 2.53,
+                    "60": 7.8,
+                    "90": 3.09
+                }
+            },
+            "_id": "689baadc8ac5472c70ba166c",
+            "scid": "689baadc8ac5472c70ba166c"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07468182,
+                    -111.9906522
+                ]
+            },
+            "properties": {
+                "sc_label": "p05-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 10.3,
+                    "60": 8.22,
+                    "90": 3.38
+                }
+            },
+            "_id": "689baadc8ac5472c70ba166d",
+            "scid": "689baadc8ac5472c70ba166d"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0737246,
+                    -111.99079386
+                ]
+            },
+            "properties": {
+                "sc_label": "p06-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 11.44,
+                    "60": 12.99,
+                    "90": 17.64
+                }
+            },
+            "_id": "689baadc8ac5472c70ba166e",
+            "scid": "689baadc8ac5472c70ba166e"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07420261,
+                    -111.99079922
+                ]
+            },
+            "properties": {
+                "sc_label": "p06-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 15.9,
+                    "60": 16.56,
+                    "90": 11.08
+                }
+            },
+            "_id": "689baadc8ac5472c70ba166f",
+            "scid": "689baadc8ac5472c70ba166f"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07468061,
+                    -111.99080457
+                ]
+            },
+            "properties": {
+                "sc_label": "p06-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 14.43,
+                    "60": 8.85,
+                    "90": 2.47
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1670",
+            "scid": "689baadc8ac5472c70ba1670"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07372339,
+                    -111.99094623
+                ]
+            },
+            "properties": {
+                "sc_label": "p07-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 12.08,
+                    "60": 9.43,
+                    "90": 1.95
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1671",
+            "scid": "689baadc8ac5472c70ba1671"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07420139,
+                    -111.99095159
+                ]
+            },
+            "properties": {
+                "sc_label": "p07-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 13.59,
+                    "60": 11.23,
+                    "90": 10.74
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1672",
+            "scid": "689baadc8ac5472c70ba1672"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0746794,
+                    -111.99095694
+                ]
+            },
+            "properties": {
+                "sc_label": "p07-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 12.77,
+                    "60": 7.2,
+                    "90": 2.4
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1673",
+            "scid": "689baadc8ac5472c70ba1673"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07372218,
+                    -111.9910986
+                ]
+            },
+            "properties": {
+                "sc_label": "p08-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 29.19,
+                    "60": 24.34,
+                    "90": 15.7
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1674",
+            "scid": "689baadc8ac5472c70ba1674"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07420018,
+                    -111.99110396
+                ]
+            },
+            "properties": {
+                "sc_label": "p08-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 13.88,
+                    "60": 10.35,
+                    "90": 6.84
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1675",
+            "scid": "689baadc8ac5472c70ba1675"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07467819,
+                    -111.99110932
+                ]
+            },
+            "properties": {
+                "sc_label": "p08-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 18.76,
+                    "60": 7.39,
+                    "90": 2.36
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1676",
+            "scid": "689baadc8ac5472c70ba1676"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07372097,
+                    -111.99125097
+                ]
+            },
+            "properties": {
+                "sc_label": "p09-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 9.47,
+                    "60": 7.44,
+                    "90": 5.64
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1677",
+            "scid": "689baadc8ac5472c70ba1677"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07419897,
+                    -111.99125633
+                ]
+            },
+            "properties": {
+                "sc_label": "p09-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 20.48,
+                    "60": 5.17,
+                    "90": 3.45
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1678",
+            "scid": "689baadc8ac5472c70ba1678"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07467698,
+                    -111.99126169
+                ]
+            },
+            "properties": {
+                "sc_label": "p09-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 9.82,
+                    "60": 10.46,
+                    "90": 13.55
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1679",
+            "scid": "689baadc8ac5472c70ba1679"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07371976,
+                    -111.99140333
+                ]
+            },
+            "properties": {
+                "sc_label": "p10-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 21.27,
+                    "60": 18.54,
+                    "90": 19.45
+                }
+            },
+            "_id": "689baadc8ac5472c70ba167a",
+            "scid": "689baadc8ac5472c70ba167a"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07419776,
+                    -111.9914087
+                ]
+            },
+            "properties": {
+                "sc_label": "p10-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 19.84,
+                    "60": 18.95,
+                    "90": 15.55
+                }
+            },
+            "_id": "689baadc8ac5472c70ba167b",
+            "scid": "689baadc8ac5472c70ba167b"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07467576,
+                    -111.99141406
+                ]
+            },
+            "properties": {
+                "sc_label": "p10-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 15.62,
+                    "60": 10.49,
+                    "90": 10.5
+                }
+            },
+            "_id": "689baadc8ac5472c70ba167c",
+            "scid": "689baadc8ac5472c70ba167c"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07371855,
+                    -111.9915557
+                ]
+            },
+            "properties": {
+                "sc_label": "p11-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 11.44,
+                    "60": 15.62,
+                    "90": 14.12
+                }
+            },
+            "_id": "689baadc8ac5472c70ba167d",
+            "scid": "689baadc8ac5472c70ba167d"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07419655,
+                    -111.99156107
+                ]
+            },
+            "properties": {
+                "sc_label": "p11-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 17.92,
+                    "60": 7.47,
+                    "90": 2.61
+                }
+            },
+            "_id": "689baadc8ac5472c70ba167e",
+            "scid": "689baadc8ac5472c70ba167e"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07467455,
+                    -111.99156643
+                ]
+            },
+            "properties": {
+                "sc_label": "p11-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 21.94,
+                    "60": 9.71,
+                    "90": 3.65
+                }
+            },
+            "_id": "689baadc8ac5472c70ba167f",
+            "scid": "689baadc8ac5472c70ba167f"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07371734,
+                    -111.99170807
+                ]
+            },
+            "properties": {
+                "sc_label": "p12-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 15.19,
+                    "60": 10.27,
+                    "90": 11.17
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1680",
+            "scid": "689baadc8ac5472c70ba1680"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07419534,
+                    -111.99171344
+                ]
+            },
+            "properties": {
+                "sc_label": "p12-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 33.73,
+                    "60": 18.06,
+                    "90": 10.52
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1681",
+            "scid": "689baadc8ac5472c70ba1681"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07467334,
+                    -111.9917188
+                ]
+            },
+            "properties": {
+                "sc_label": "p12-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 30.43,
+                    "60": 8.61,
+                    "90": 6.95
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1682",
+            "scid": "689baadc8ac5472c70ba1682"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07371491,
+                    -111.99201281
+                ]
+            },
+            "properties": {
+                "sc_label": "p13-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 39.85,
+                    "60": 14.24,
+                    "90": 5.4
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1683",
+            "scid": "689baadc8ac5472c70ba1683"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07419291,
+                    -111.99201818
+                ]
+            },
+            "properties": {
+                "sc_label": "p13-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 15.47,
+                    "60": 8.36,
+                    "90": 9.14
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1684",
+            "scid": "689baadc8ac5472c70ba1684"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07467092,
+                    -111.99202354
+                ]
+            },
+            "properties": {
+                "sc_label": "p13-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 11.18,
+                    "60": 7.21,
+                    "90": 2.41
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1685",
+            "scid": "689baadc8ac5472c70ba1685"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0737137,
+                    -111.99216518
+                ]
+            },
+            "properties": {
+                "sc_label": "p14-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 30.78,
+                    "60": 6.57,
+                    "90": 4.58
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1686",
+            "scid": "689baadc8ac5472c70ba1686"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0741917,
+                    -111.99217055
+                ]
+            },
+            "properties": {
+                "sc_label": "p14-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 14.06,
+                    "60": 5.81,
+                    "90": 2.61
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1687",
+            "scid": "689baadc8ac5472c70ba1687"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0746697,
+                    -111.99217591
+                ]
+            },
+            "properties": {
+                "sc_label": "p14-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 14.7,
+                    "60": 5.11,
+                    "90": 4.94
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1688",
+            "scid": "689baadc8ac5472c70ba1688"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07371249,
+                    -111.99231755
+                ]
+            },
+            "properties": {
+                "sc_label": "p15-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 9.68,
+                    "60": 5.9,
+                    "90": 2.11
+                }
+            },
+            "_id": "689baadc8ac5472c70ba1689",
+            "scid": "689baadc8ac5472c70ba1689"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07419049,
+                    -111.99232292
+                ]
+            },
+            "properties": {
+                "sc_label": "p15-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 11.51,
+                    "60": 9.25,
+                    "90": 6.78
+                }
+            },
+            "_id": "689baadc8ac5472c70ba168a",
+            "scid": "689baadc8ac5472c70ba168a"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07466849,
+                    -111.99232828
+                ]
+            },
+            "properties": {
+                "sc_label": "p15-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 10.37,
+                    "60": 5.36,
+                    "90": 8.99
+                }
+            },
+            "_id": "689baadc8ac5472c70ba168b",
+            "scid": "689baadc8ac5472c70ba168b"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07371127,
+                    -111.99246992
+                ]
+            },
+            "properties": {
+                "sc_label": "p16-2",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 12.17,
+                    "60": 9.28,
+                    "90": 3.23
+                }
+            },
+            "_id": "689baadc8ac5472c70ba168c",
+            "scid": "689baadc8ac5472c70ba168c"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07418928,
+                    -111.99247529
+                ]
+            },
+            "properties": {
+                "sc_label": "p16-4",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 11.11,
+                    "60": 19.2,
+                    "90": 2.34
+                }
+            },
+            "_id": "689baadc8ac5472c70ba168d",
+            "scid": "689baadc8ac5472c70ba168d"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.07466728,
+                    -111.99248066
+                ]
+            },
+            "properties": {
+                "sc_label": "p16-6",
+                "SOIL_DATE": "05/01/2011",
+                "SNO3": {
+                    "30": 11.47,
+                    "60": 8.58,
+                    "90": 1.71
+                }
+            },
+            "_id": "689baadc8ac5472c70ba168e",
+            "scid": "689baadc8ac5472c70ba168e"
+        }
+    ]
+}

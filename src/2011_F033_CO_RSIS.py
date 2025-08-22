@@ -7,6 +7,8 @@ import zone
 import harvestarea
 import neutronswc
 import cropcanopy
+import plantanalysis
+import soilchemistry
 import pandas as pd
 from osgeo import ogr
 import geojson
@@ -100,6 +102,11 @@ layer = shapes.GetLayer()
 #    print(lyrdef.GetFieldDefn(i).GetName())
 yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
+rsfile = '../Data/'+fname+'/'+fname+'_RS.xlsx'
+ndvi = pd.read_excel(rsfile,sheet_name='PlotsNDVI')
+lst = pd.read_excel(rsfile,sheet_name='PlotsLST')
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+soil = pd.read_excel(safile,sheet_name='SoilPlots')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -132,6 +139,82 @@ for feature in layer:
     fdata = dict()
     fdata.update({'2011151':56.0})
     myplot.setproperty('FEAMN',fdata)
+    cdata = dict()
+    cdata.update({'2011181':'Apply layby herbicide'})
+    cdata.update({'2011200':'Apply insecticide'})
+    cdata.update({'2011205':'Apply insecticide'})
+    cdata.update({'2011257':'Apply Ginstar (diuron, thidiazuron) and Finish (ethephon, cyclanilide)'})
+    cdata.update({'2011277':'Apply sodium chlorate'})
+    cdata.update({'2011280':'Apply paraquat'})
+    myplot.setproperty('CH_NOTES',cdata)
+    tdata = dict()
+    tdata.update({'2011053':'Disk'})
+    tdata.update({'2011054':'Rip'})
+    tdata.update({'2011057':'Moldboard plow'})
+    tdata.update({'2011068':'Laser level'})
+    tdata.update({'2011081':'Raise beds'})
+    tdata.update({'2011102':'Field cultivator'})
+    tdata.update({'2011104':'Mulch beds'})
+    tdata.update({'2011129':'Field cultivator'})
+    myplot.setproperty('TI_NOTES',tdata)
+    #Remote sensing NDVI and land surface temperature (LST)
+    ndvidata = dict()
+    row = ndvi.loc[ndvi['Plot'] == plt_label]
+    doycols = sorted([col for col in ndvi.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2011'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            NDVImean = float(row.iloc[0][doycol])
+            ndvidata.update({key:round(NDVImean,3)})
+    if ndvidata:
+        myplot.setproperty('RSNDVI',ndvidata)
+    lstdata = dict()
+    row = lst.loc[lst['Plot'] == plt_label]
+    doycols = sorted([col for col in lst.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2011'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            LSTmean = float(row.iloc[0][doycol])
+            lstdata.update({key:round(LSTmean,1)})
+    if lstdata:
+        myplot.setproperty('RSLST',lstdata)
+    #Soil analysis
+    row = soil.loc[soil['Plot'] == plt_label]
+    em38h = dict()
+    if not math.isnan(row.iloc[0]['2009d079EM38H']):
+        em38h.update({'2009079':round(row.iloc[0]['2009d079EM38H'],2)})
+    if em38h:
+        myplot.setproperty('EM38H',em38h)
+    em38v = dict()
+    if not math.isnan(row.iloc[0]['2009d079EM38V']):
+        em38v.update({'2009079':round(row.iloc[0]['2009d079EM38V'],2)})
+    if em38v:
+        myplot.setproperty('EM38V',em38v)
+    slsnd = dict()
+    slslt = dict()
+    slcly = dict()
+    slwp1 = dict()
+    slwp2 = dict()
+    slfc1 = dict()
+    for depth in ['015','045','075','105','135','165','210']:
+        if not math.isnan(row.iloc[0]['SLSND'+depth]):
+            slsnd.update({int(depth):round(row.iloc[0]['SLSND'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSLT'+depth]):
+            slslt.update({int(depth):round(row.iloc[0]['SLSLT'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLCLY'+depth]):
+            slcly.update({int(depth):round(row.iloc[0]['SLCLY'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLWP1'+depth]):
+            slwp1.update({int(depth):round(row.iloc[0]['SLWP1'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLWP2'+depth]):
+            slwp2.update({int(depth):round(row.iloc[0]['SLWP2'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLFC1'+depth]):
+            slfc1.update({int(depth):round(row.iloc[0]['SLFC1'+depth],3)})
+    if slsnd: myplot.setproperty('SLSND',slsnd)
+    if slslt: myplot.setproperty('SLSLT',slslt)
+    if slcly: myplot.setproperty('SLCLY',slcly)
+    if slwp1: myplot.setproperty('SLWP1',slwp1)
+    if slwp2: myplot.setproperty('SLWP2',slwp2)
+    if slfc1: myplot.setproperty('SLFC1',slfc1)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
@@ -167,6 +250,11 @@ yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Zone Scale',skiprows=5)
 mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
+rsfile = '../Data/'+fname+'/'+fname+'_RS.xlsx'
+ndvi = pd.read_excel(rsfile,sheet_name='Zones2NDVI')
+lst = pd.read_excel(rsfile,sheet_name='Zones2LST')
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+soil = pd.read_excel(safile,sheet_name='SoilZones2')
 zones = list()
 for feature in layer:
     zid = feature.GetField('ObjectId')
@@ -185,8 +273,9 @@ for feature in layer:
     myzone = zone.Zone(zid=zid,geometry=geometry,zon_label=zon_label)
     myzone.setproperty('ZON_AREA',round(zon_area,6))
     #Management information
-    myplot.setproperty('IROP', 'IR001')
+    myzone.setproperty('IROP', 'IR001')
     idata = dict()
+    idata.update({'2011090':300.0}) #Prewater
     row = irrig[irrig['ZoneID'] == zon_label]
     for i in range(1,10):
         IrrDOY = row.iloc[0]['IrrDOY'+str(i)]
@@ -196,6 +285,64 @@ for feature in layer:
             idata.update({key:round(IRVAL,1)})
     if idata:
         myzone.setproperty('IRVAL',idata)
+    #Remote sensing NDVI and land surface temperature (LST)
+    ndvidata = dict()
+    row = ndvi.loc[ndvi['ZoneID'] == zon_label]
+    doycols = sorted([col for col in ndvi.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2011'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            NDVImean = float(row.iloc[0][doycol])
+            ndvidata.update({key:round(NDVImean,3)})
+    if ndvidata:
+        myzone.setproperty('RSNDVI',ndvidata)
+    lstdata = dict()
+    row = lst.loc[lst['ZoneID'] == zon_label]
+    doycols = sorted([col for col in lst.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2011'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            LSTmean = float(row.iloc[0][doycol])
+            lstdata.update({key:round(LSTmean,1)})
+    if lstdata:
+        myzone.setproperty('RSLST',lstdata)
+    #Soil analysis
+    row = soil.loc[soil['ZoneID'] == zon_label]
+    em38h = dict()
+    if not math.isnan(row.iloc[0]['2009d079EM38H']):
+        em38h.update({'2009079':round(row.iloc[0]['2009d079EM38H'],2)})
+    if em38h:
+        myzone.setproperty('EM38H',em38h)
+    em38v = dict()
+    if not math.isnan(row.iloc[0]['2009d079EM38V']):
+        em38v.update({'2009079':round(row.iloc[0]['2009d079EM38V'],2)})
+    if em38v:
+        myzone.setproperty('EM38V',em38v)
+    slsnd = dict()
+    slslt = dict()
+    slcly = dict()
+    slwp1 = dict()
+    slwp2 = dict()
+    slfc1 = dict()
+    for depth in ['015','045','075','105','135','165','210']:
+        if not math.isnan(row.iloc[0]['SLSND'+depth]):
+            slsnd.update({int(depth):round(row.iloc[0]['SLSND'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSLT'+depth]):
+            slslt.update({int(depth):round(row.iloc[0]['SLSLT'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLCLY'+depth]):
+            slcly.update({int(depth):round(row.iloc[0]['SLCLY'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLWP1'+depth]):
+            slwp1.update({int(depth):round(row.iloc[0]['SLWP1'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLWP2'+depth]):
+            slwp2.update({int(depth):round(row.iloc[0]['SLWP2'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLFC1'+depth]):
+            slfc1.update({int(depth):round(row.iloc[0]['SLFC1'+depth],3)})
+    if slsnd: myzone.setproperty('SLSND',slsnd)
+    if slslt: myzone.setproperty('SLSLT',slslt)
+    if slcly: myzone.setproperty('SLCLY',slcly)
+    if slwp1: myzone.setproperty('SLWP1',slwp1)
+    if slwp2: myzone.setproperty('SLWP2',slwp2)
+    if slfc1: myzone.setproperty('SLFC1',slfc1)
     #Yield data
     row = yld.loc[yld['ZID'] == zon_label]
     if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
@@ -237,6 +384,11 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=32)
+rsfile = '../Data/'+fname+'/'+fname+'_RS.xlsx'
+ndvi = pd.read_excel(rsfile,sheet_name='HANDVI')
+lst = pd.read_excel(rsfile,sheet_name='HALST')
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+soil = pd.read_excel(safile,sheet_name='SoilHA')
 hareas = list()
 for feature in layer:
     haid = feature.GetField('ObjectId')
@@ -276,6 +428,64 @@ for feature in layer:
         myha.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
     if not math.isnan(row.iloc[0]['WSCWAH']):
         myha.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
+    #Remote sensing NDVI and land surface temperature (LST)
+    ndvidata = dict()
+    row = ndvi.loc[ndvi['HID'] == ha_label]
+    doycols = sorted([col for col in ndvi.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2011'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            NDVImean = float(row.iloc[0][doycol])
+            ndvidata.update({key:round(NDVImean,3)})
+    if ndvidata:
+        myha.setproperty('RSNDVI',ndvidata)
+    lstdata = dict()
+    row = lst.loc[lst['HID'] == ha_label]
+    doycols = sorted([col for col in lst.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2011'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            LSTmean = float(row.iloc[0][doycol])
+            lstdata.update({key:round(LSTmean,1)})
+    if lstdata:
+        myha.setproperty('RSLST',lstdata)
+    #Soil analysis
+    row = soil.loc[soil['HID'] == ha_label]
+    em38h = dict()
+    if not math.isnan(row.iloc[0]['2009d079EM38H']):
+        em38h.update({'2009079':round(row.iloc[0]['2009d079EM38H'],2)})
+    if em38h:
+        myha.setproperty('EM38H',em38h)
+    em38v = dict()
+    if not math.isnan(row.iloc[0]['2009d079EM38V']):
+        em38v.update({'2009079':round(row.iloc[0]['2009d079EM38V'],2)})
+    if em38v:
+        myha.setproperty('EM38V',em38v)
+    slsnd = dict()
+    slslt = dict()
+    slcly = dict()
+    slwp1 = dict()
+    slwp2 = dict()
+    slfc1 = dict()
+    for depth in ['015','045','075','105','135','165','210']:
+        if not math.isnan(row.iloc[0]['SLSND'+depth]):
+            slsnd.update({int(depth):round(row.iloc[0]['SLSND'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSLT'+depth]):
+            slslt.update({int(depth):round(row.iloc[0]['SLSLT'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLCLY'+depth]):
+            slcly.update({int(depth):round(row.iloc[0]['SLCLY'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLWP1'+depth]):
+            slwp1.update({int(depth):round(row.iloc[0]['SLWP1'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLWP2'+depth]):
+            slwp2.update({int(depth):round(row.iloc[0]['SLWP2'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLFC1'+depth]):
+            slfc1.update({int(depth):round(row.iloc[0]['SLFC1'+depth],3)})
+    if slsnd: myha.setproperty('SLSND',slsnd)
+    if slslt: myha.setproperty('SLSLT',slslt)
+    if slcly: myha.setproperty('SLCLY',slcly)
+    if slwp1: myha.setproperty('SLWP1',slwp1)
+    if slwp2: myha.setproperty('SLWP2',slwp2)
+    if slfc1: myha.setproperty('SLFC1',slfc1)
     found=False
     for plot in plots:
         if plot.plt_label == ha_label[:3]:
@@ -341,6 +551,10 @@ layer = shapes.GetLayer()
 ccfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
 cch = pd.read_excel(ccfile,sheet_name='Height')
 ccw = pd.read_excel(ccfile,sheet_name='Width')
+ccl = pd.read_excel(ccfile,sheet_name='LAImeter')
+ccs = pd.read_excel(ccfile,sheet_name='SPAD')
+ccden = pd.read_excel(ccfile,sheet_name='Density')
+ccdev = pd.read_excel(ccfile,sheet_name='Develop')
 crpcns = list()
 for feature in layer:
     ccid = feature.GetField('ObjectId')
@@ -354,24 +568,71 @@ for feature in layer:
     #Crop canopy data
     htdata = dict()
     rowh = cch.loc[cch['CCID'] == cc_label]
-    doycols = sorted([col for col in cch.columns if col[:3]=='DOY'])
-    for doycol in doycols:
-        key = '2011'+'{:03d}'.format(int(doycol[3:]))
-        if not math.isnan(rowh.iloc[0][doycol]):
-            CHTD = float(rowh.iloc[0][doycol])/100. #m
-            htdata.update({key:round(CHTD,2)})
-    if htdata:
-        mycc.setproperty('CHTD',htdata)
+    if not rowh.empty:
+        doycols = sorted([col for col in cch.columns if col[:3]=='DOY'])
+        for doycol in doycols:
+            key = '2011'+'{:03d}'.format(int(doycol[3:]))
+            if not math.isnan(rowh.iloc[0][doycol]):
+                CHTD = float(rowh.iloc[0][doycol])/100. #m
+                htdata.update({key:round(CHTD,2)})
+        if htdata:
+            mycc.setproperty('CHTD',htdata)
     wddata = dict()
     roww = ccw.loc[ccw['CCID'] == cc_label]
-    doycols = sorted([col for col in ccw.columns if col[:3]=='DOY'])
-    for doycol in doycols:
-        key = '2011'+'{:03d}'.format(int(doycol[3:]))
-        if not math.isnan(roww.iloc[0][doycol]):
-            CWID = float(roww.iloc[0][doycol])/100. #m
-            wddata.update({key:round(CWID,2)})
-    if wddata:
-        mycc.setproperty('CWID',wddata)
+    if not roww.empty:
+        doycols = sorted([col for col in ccw.columns if col[:3]=='DOY'])
+        for doycol in doycols:
+            key = '2011'+'{:03d}'.format(int(doycol[3:]))
+            if not math.isnan(roww.iloc[0][doycol]):
+                CWID = float(roww.iloc[0][doycol])/100. #m
+                wddata.update({key:round(CWID,2)})
+        if wddata:
+            mycc.setproperty('CWID',wddata)
+    laidata = dict()
+    rowl = ccl.loc[ccl['CCID'] == cc_label]
+    if not rowl.empty:
+        doycols = sorted([col for col in ccl.columns if col[:3]=='DOY'])
+        for doycol in doycols:
+            key = '2011'+'{:03d}'.format(int(doycol[3:]))
+            if not math.isnan(rowl.iloc[0][doycol]):
+                LAID = float(rowl.iloc[0][doycol])
+                laidata.update({key:round(LAID,2)})
+        if laidata:
+            mycc.setproperty('LAIDF',laidata)
+    spaddata = dict()
+    rows = ccs.loc[ccs['CCID'] == cc_label]
+    if not rows.empty:
+        doycols = sorted([col for col in ccs.columns if col[:3]=='DOY'])
+        for doycol in doycols:
+            key = '2011'+'{:03d}'.format(int(doycol[3:]))
+            if not math.isnan(rows.iloc[0][doycol]):
+                SPAD = float(rows.iloc[0][doycol])
+                spaddata.update({key:round(SPAD,1)})
+        if spaddata:
+            mycc.setproperty('SPAD',spaddata)
+    rowden = ccden.loc[ccden['CCID'] == cc_label]
+    if not rowden.empty:
+        if not math.isnan(rowden.iloc[0]['PLPD']):
+            PLPD = float(rowden.iloc[0]['PLPD'])
+            mycc.setproperty('PLPD',round(PLPD,1))
+    rowdev = ccdev.loc[ccdev['CCID'] == cc_label]
+    if not rowdev.empty:
+        if not str(rowdev.iloc[0]['EDATE']) in ['nan','NaT']:
+            mycc.setproperty('EDATE',rowdev.iloc[0]['EDATE'].strftime('%m/%d/%Y'))
+        if not math.isnan(rowdev.iloc[0]['PLYRE']):
+            mycc.setproperty('PLYRE',int(rowdev.iloc[0]['PLYRE']))
+        if not math.isnan(rowdev.iloc[0]['PLDOE']):
+            mycc.setproperty('PLDOE',int(round(rowdev.iloc[0]['PLDOE'],0)))
+        if not str(rowdev.iloc[0]['ADAT']) in ['nan','NaT']:
+            mycc.setproperty('ADAT',rowdev.iloc[0]['ADAT'].strftime('%m/%d/%Y'))
+        if not math.isnan(rowdev.iloc[0]['ADOY']):
+            mycc.setproperty('ADOY',int(round(rowdev.iloc[0]['ADOY'],0)))
+        nawf = dict()
+        for doy in ['213']:
+            if not math.isnan(rowdev.iloc[0]['NAWF'+doy]):
+                nawf.update({'2011'+doy:round(float(rowdev.iloc[0]['NAWF'+doy]),1)})
+        if nawf:
+            mycc.setproperty('NAWF',nawf)
     found = False
     for plot in plots:
         if plot.plt_label == cc_label[:3]:
@@ -381,6 +642,114 @@ for feature in layer:
     if not found:
         raise Exception('Did not find plot for crop canopy %s' % cc_label)
     crpcns.append(mycc)
+########################################################################
+
+########################################################################
+#Plant Analysis
+shapefile = '../Data/'+fname+'/'+fname+'_PlantAnalysis.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+pafile = '../Data/'+fname+'/'+fname+'_PlantAnalysis.xlsx'
+pa = pd.read_excel(pafile,sheet_name='PlantDF')
+pas = list()
+for feature in layer:
+    paid = feature.GetField('ObjectId')
+    pa_label = feature.GetField('Sample')  #(e.g., p01-S1)
+    geometry = feature.GetGeometryRef()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in plant analysis shapefile.')
+        sys.exit()
+    mypa = plantanalysis.PlantAnalysis(paid=paid,geometry=geometry,pa_label=pa_label)
+    #Plant analysis data
+    row = pa[pa['SID'] == pa_label]
+    if not str(row.iloc[0]['PSDATE']) in ['nan','NaT']:
+        mypa.setproperty('PSDATE',row.iloc[0]['PSDATE'].strftime('%m/%d/%Y'))
+    items={'SQRNUM':1,'FLRNUM':1,'GBNUM':1,'MBNUM':1,
+           'LWPD':2,'SWPD':2,'CWPD':2,'LWAD':1,'SWAD':1,'PWAD':1,
+           'CWAD':1,'LAIDL':3}
+    for item in items.keys():
+        if not math.isnan(row.iloc[0][item]):
+            value = round(float(row.iloc[0][item]),items[item])
+            if items[item] == 0: value=int(value)
+            mypa.setproperty(item,value)
+    found = False
+    for plot in plots:
+        if plot.plt_label == pa_label[:3]:
+            plot.addpaid(mypa.getid())
+            found = True
+            break
+    if not found:
+        raise Exception('Did not find plot for plant analysis %s' % pa_label)
+    pas.append(mypa)
+########################################################################
+
+########################################################################
+#Soil Chemistry
+shapefile = '../Data/'+fname+'/'+fname+'_SoilChemistry.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+scfile = '../Data/'+fname+'/'+fname+'_SoilChemistry.xlsx'
+sc = pd.read_excel(scfile,sheet_name='SoilChemDF')
+scs = list()
+for feature in layer:
+    scid = feature.GetField('ObjectId')
+    sc_label = feature.GetField('Tube')  #(e.g., p01-2)
+    geometry = feature.GetGeometryRef()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in soil chemistry shapefile.')
+        sys.exit()
+    mysc = soilchemistry.SoilChemistry(scid=scid,geometry=geometry,sc_label=sc_label)
+    #Soil chemistry data
+    rows = sc[sc['Sample'] == sc_label]
+    if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
+        mysc.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%m/%d/%Y'))
+    items={'SNO3':2}
+    for item in items.keys():
+        scdata = dict()
+        for depth in [30,60,90]:
+            row = sc[(sc['Sample'] == sc_label) & (sc['Depth'] == depth)]
+            if not math.isnan(row.iloc[0][item]):
+                value = round(row.iloc[0][item],items[item])
+                if items[item] == 0: value=int(value)
+                scdata.update({depth:value})
+        if scdata:
+            mysc.setproperty(item,scdata)
+    found = False
+    for plot in plots:
+        if plot.plt_label == sc_label[:3]:
+            plot.addscid(mysc.getid())
+            found = True
+            break
+    if not found:
+        raise Exception('Did not find plot for soil chemistry %s' % sc_label)
+    scs.append(mysc)
+########################################################################
+
+########################################################################
+#Soil Analysis
+shapefile = '../Data/Soil/F033_SoilAnalysis_DJH.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+sa = pd.read_excel(safile,sheet_name='SoilDJH')
+for feature in layer:
+    said = feature.GetField('ObjectId')
+    sa_label = feature.GetField('Core')  #(e.g., 2009-p01-1)
+    if sa_label in sa['Core'].values:
+        row = sa[sa['Core'] == sa_label]
+        found = False
+        for plot in plots:
+            if plot.plt_label == row.iloc[0]['Plot']:
+                plot.addsaid(said)
+                found = True
+                break
+        if not found:
+            raise Exception('Did not find plot for soil analysis %s' % sa_label)
 ########################################################################
 
 ########################################################################
@@ -427,6 +796,22 @@ for mycrpcn in crpcns:
     features.append(mycrpcn.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/'+fname+'/'+fname+'_CropCanopy.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
+for mypa in pas:
+    features.append(mypa.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_PlantAnalysis.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
+for mysc in scs:
+    features.append(mysc.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_SoilChemistry.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################
