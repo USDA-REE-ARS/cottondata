@@ -155,9 +155,12 @@ for feature in layer:
     myplot.setproperty('LF1D', '05/18/2014')
     #Soil analysis
     row = soil.loc[soil['Plot'] == plt_label]
+    em38v = dict()
+    if not math.isnan(row.iloc[0]['2013d260EM38V']):
+        em38v.update({'2013260':round(row.iloc[0]['2013d260EM38V'],2)})
+    if em38v:
+        myplot.setproperty('EM38V',em38v)
     em38 = dict()
-    if not math.isnan(row.iloc[0]['2013d260EM38']):
-        em38.update({'2013260':round(row.iloc[0]['2013d260EM38'],2)})
     if not math.isnan(row.iloc[0]['2015d118EM38']):
         em38.update({'2015118':round(row.iloc[0]['2015d118EM38'],2)})
     if not math.isnan(row.iloc[0]['2015d119EM38']):
@@ -310,9 +313,12 @@ for feature in layer:
         myha.setproperty('DSCWAH',round(row.iloc[0]['DSCWAH'],1))
     #Soil analysis
     row = soil.loc[soil['HID'] == ha_label]
+    em38v = dict()
+    if not math.isnan(row.iloc[0]['2013d260EM38V']):
+        em38v.update({'2013260':round(row.iloc[0]['2013d260EM38V'],2)})
+    if em38v:
+        myha.setproperty('EM38V',em38v)
     em38 = dict()
-    if not math.isnan(row.iloc[0]['2013d260EM38']):
-        em38.update({'2013260':round(row.iloc[0]['2013d260EM38'],2)})
     if not math.isnan(row.iloc[0]['2015d118EM38']):
         em38.update({'2015118':round(row.iloc[0]['2015d118EM38'],2)})
     if not math.isnan(row.iloc[0]['2015d119EM38']):
