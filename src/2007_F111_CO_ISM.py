@@ -106,6 +106,8 @@ yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
 fert = pd.read_excel(mfile,sheet_name='FertilizerDF')
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+soil = pd.read_excel(safile,sheet_name='SoilPlots')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -147,6 +149,54 @@ for feature in layer:
             fdata.update({key:round(FEAMN,1)})
     if fdata:
         myplot.setproperty('FEAMN',fdata)
+    #Soil analysis
+    row = soil.loc[soil['Plot'] == plt_label]
+    em38h = dict()
+    if not math.isnan(row.iloc[0]['2008d291EM38H']):
+        em38h.update({'2008291':round(row.iloc[0]['2008d291EM38H'],2)})
+    if not math.isnan(row.iloc[0]['2008d313EM38H']):
+        em38h.update({'2008313':round(row.iloc[0]['2008d313EM38H'],2)})
+    if em38h:
+        myplot.setproperty('EM38H',em38h)
+    em38v = dict()
+    if not math.isnan(row.iloc[0]['2008d290EM38V']):
+        em38v.update({'2008290':round(row.iloc[0]['2008d290EM38V'],2)})
+    if not math.isnan(row.iloc[0]['2008d313EM38V']):
+        em38v.update({'2008313':round(row.iloc[0]['2008d313EM38V'],2)})
+    if em38v:
+        myplot.setproperty('EM38V',em38v)
+    slsnd = dict()
+    slslt = dict()
+    slcly = dict()
+    slwp1 = dict()
+    slwp2 = dict()
+    slfc1 = dict()
+    for depth in ['015','045','075','105','135','165']:
+        if not math.isnan(row.iloc[0]['SLSND'+depth]):
+            slsnd.update({int(depth):round(row.iloc[0]['SLSND'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSLT'+depth]):
+            slslt.update({int(depth):round(row.iloc[0]['SLSLT'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLCLY'+depth]):
+            slcly.update({int(depth):round(row.iloc[0]['SLCLY'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLWP1'+depth]):
+            slwp1.update({int(depth):round(row.iloc[0]['SLWP1'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLWP2'+depth]):
+            slwp2.update({int(depth):round(row.iloc[0]['SLWP2'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLFC1'+depth]):
+            slfc1.update({int(depth):round(row.iloc[0]['SLFC1'+depth],3)})
+    for depth in ['195','225','255','285']:
+        if not math.isnan(row.iloc[0]['SLSND'+depth]):
+            slsnd.update({int(depth):round(row.iloc[0]['SLSND'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSLT'+depth]):
+            slslt.update({int(depth):round(row.iloc[0]['SLSLT'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLCLY'+depth]):
+            slcly.update({int(depth):round(row.iloc[0]['SLCLY'+depth],2)})
+    if slsnd: myplot.setproperty('SLSND',slsnd)
+    if slslt: myplot.setproperty('SLSLT',slslt)
+    if slcly: myplot.setproperty('SLCLY',slcly)
+    if slwp1: myplot.setproperty('SLWP1',slwp1)
+    if slwp2: myplot.setproperty('SLWP2',slwp2)
+    if slfc1: myplot.setproperty('SLFC1',slfc1)
     #Yield and fiber quality data
     if plt_label not in ['p01','p03']:
         row = yld.loc[yld['PID'] == plt_label]
@@ -181,6 +231,8 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=26)
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+soil = pd.read_excel(safile,sheet_name='SoilHA')
 hareas = list()
 for feature in layer:
     haid = feature.GetField('ObjectId')
@@ -220,6 +272,54 @@ for feature in layer:
         myha.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
     if not math.isnan(row.iloc[0]['WSCWAH']):
         myha.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
+    #Soil analysis
+    row = soil.loc[soil['HID'] == ha_label]
+    em38h = dict()
+    if not math.isnan(row.iloc[0]['2008d291EM38H']):
+        em38h.update({'2008291':round(row.iloc[0]['2008d291EM38H'],2)})
+    if not math.isnan(row.iloc[0]['2008d313EM38H']):
+        em38h.update({'2008313':round(row.iloc[0]['2008d313EM38H'],2)})
+    if em38h:
+        myha.setproperty('EM38H',em38h)
+    em38v = dict()
+    if not math.isnan(row.iloc[0]['2008d290EM38V']):
+        em38v.update({'2008290':round(row.iloc[0]['2008d290EM38V'],2)})
+    if not math.isnan(row.iloc[0]['2008d313EM38V']):
+        em38v.update({'2008313':round(row.iloc[0]['2008d313EM38V'],2)})
+    if em38v:
+        myha.setproperty('EM38V',em38v)
+    slsnd = dict()
+    slslt = dict()
+    slcly = dict()
+    slwp1 = dict()
+    slwp2 = dict()
+    slfc1 = dict()
+    for depth in ['015','045','075','105','135','165']:
+        if not math.isnan(row.iloc[0]['SLSND'+depth]):
+            slsnd.update({int(depth):round(row.iloc[0]['SLSND'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSLT'+depth]):
+            slslt.update({int(depth):round(row.iloc[0]['SLSLT'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLCLY'+depth]):
+            slcly.update({int(depth):round(row.iloc[0]['SLCLY'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLWP1'+depth]):
+            slwp1.update({int(depth):round(row.iloc[0]['SLWP1'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLWP2'+depth]):
+            slwp2.update({int(depth):round(row.iloc[0]['SLWP2'+depth],3)})
+        if not math.isnan(row.iloc[0]['SLFC1'+depth]):
+            slfc1.update({int(depth):round(row.iloc[0]['SLFC1'+depth],3)})
+    for depth in ['195','225','255','285']:
+        if not math.isnan(row.iloc[0]['SLSND'+depth]):
+            slsnd.update({int(depth):round(row.iloc[0]['SLSND'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLSLT'+depth]):
+            slslt.update({int(depth):round(row.iloc[0]['SLSLT'+depth],2)})
+        if not math.isnan(row.iloc[0]['SLCLY'+depth]):
+            slcly.update({int(depth):round(row.iloc[0]['SLCLY'+depth],2)})
+    if slsnd: myha.setproperty('SLSND',slsnd)
+    if slslt: myha.setproperty('SLSLT',slslt)
+    if slcly: myha.setproperty('SLCLY',slcly)
+    if slwp1: myha.setproperty('SLWP1',slwp1)
+    if slwp2: myha.setproperty('SLWP2',slwp2)
+    if slfc1: myha.setproperty('SLFC1',slfc1)
     found=False
     for plot in plots:
         if plot.plt_label == ha_label:
@@ -285,6 +385,7 @@ layer = shapes.GetLayer()
 ccfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
 cch = pd.read_excel(ccfile,sheet_name='Height')
 ccw = pd.read_excel(ccfile,sheet_name='Width')
+ccden = pd.read_excel(ccfile,sheet_name='Density')
 crpcns = list()
 for feature in layer:
     ccid = feature.GetField('ObjectId')
@@ -316,6 +417,11 @@ for feature in layer:
             wddata.update({key:round(CWID,2)})
     if wddata:
         mycc.setproperty('CWID',wddata)
+    rowden = ccden.loc[ccden['CCID'] == cc_label]
+    if not rowden.empty:
+        if not math.isnan(rowden.iloc[0]['PLPD']):
+            PLPD = float(rowden.iloc[0]['PLPD'])
+            mycc.setproperty('PLPD',round(PLPD,1))
     found = False
     for plot in plots:
         if plot.plt_label == cc_label[:3]:
@@ -325,6 +431,29 @@ for feature in layer:
     if not found:
         raise Exception('Did not find plot for crop canopy %s' % cc_label)
     crpcns.append(mycc)
+########################################################################
+
+########################################################################
+#Soil Analysis
+shapefile = '../Data/Soil/F111_SoilAnalysis_DJH.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+sa = pd.read_excel(safile,sheet_name='SoilDJH')
+for feature in layer:
+    said = feature.GetField('ObjectId')
+    sa_label = feature.GetField('Core')  #(e.g., 20062007camelinap02)
+    if sa_label in sa['Core'].values:
+        row = sa[sa['Core'] == sa_label]
+        found = False
+        for plot in plots:
+            if plot.plt_label == row.iloc[0]['Plot']:
+                plot.addsaid(said)
+                found = True
+                break
+        if not found:
+            raise Exception('Did not find plot for soil analysis %s' % sa_label)
 ########################################################################
 
 ########################################################################
