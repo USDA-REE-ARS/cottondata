@@ -6,6 +6,7 @@ import plot
 import harvestarea
 import neutronswc
 import cropcanopy
+import plantanalysis
 import pandas as pd
 from osgeo import ogr
 import geojson
@@ -177,29 +178,68 @@ for feature in layer:
             myplot.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
         if not math.isnan(row.iloc[0]['WSCWAH']):
             myplot.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
-    #Crop canopy data
-    if plt_label not in ['p901','p903','p905','p907']:
-        htdata = dict()
-        rowh = cch.loc[cch['Plot'] == plt_label]
-        doycols = sorted([col for col in cch.columns if col[:3]=='DOY'])
-        for doycol in doycols:
-            key = '2003'+'{:03d}'.format(int(doycol[3:]))
-            if not math.isnan(rowh.iloc[0][doycol]):
-                CHTD = float(rowh.iloc[0][doycol])/100. #m
-                htdata.update({key:round(CHTD,2)})
-        if htdata:
-            myplot.setproperty('CHTD',htdata)
-        wddata = dict()
-        roww = ccw.loc[ccw['Plot'] == plt_label]
-        doycols = sorted([col for col in ccw.columns if col[:3]=='DOY'])
-        for doycol in doycols:
-            key = '2003'+'{:03d}'.format(int(doycol[3:]))
-            if not math.isnan(roww.iloc[0][doycol]):
-                CWID = float(roww.iloc[0][doycol])/100. #m
-                wddata.update({key:round(CWID,2)})
-        if wddata:
-            myplot.setproperty('CWID',wddata)
     plots.append(myplot)
+########################################################################
+
+########################################################################
+#Harvest Areas
+shapefile = '../Data/'+fname+'/'+fname+'_HarvestAreas.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=28)
+#safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+#soil = pd.read_excel(safile,sheet_name='SoilHA')
+hareas = list()
+for feature in layer:
+    haid = feature.GetField('ObjectId')
+    ha_label = feature.GetField('HID') #(e.g., p101)
+    geometry = feature.GetGeometryRef()
+    geomcount = geometry.GetGeometryCount()
+    nodecount = geometry.GetGeometryRef(0).GetPointCount()
+    if geomcount != 1 or nodecount != 5:
+        print('Polygons should have one geometry and five nodes.')
+        sys.exit()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in harvest area shapefile.')
+        sys.exit()
+    ha_area = geometry.GetArea()
+    myha = harvestarea.HarvestArea(haid=haid,geometry=geometry,ha_label=ha_label)
+    myha.setproperty('HA_AREA',round(ha_area,6))
+    #Yield and fiber quality data
+    if plt_label not in ['p901','p903','p905','p907']:
+        row = yld.loc[yld['HID'] == ha_label]
+        if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
+            myha.setproperty('HARM',row.iloc[0]['HARM'])
+        if not str(row.iloc[0]['HADAT']) in ['nan','NaT']:
+            myha.setproperty('HADAT',row.iloc[0]['HADAT'].strftime('%m/%d/%Y'))
+        if not math.isnan(row.iloc[0]['WBWAH']):
+            myha.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))
+        if not str(row.iloc[0]['GNDAT']) in ['nan','NaT']:
+            myha.setproperty('GNDAT',row.iloc[0]['GNDAT'].strftime('%m/%d/%Y'))
+        if not math.isnan(row.iloc[0]['FFRAC']):
+            myha.setproperty('FFRAC' ,round(row.iloc[0]['FFRAC' ],4))
+        if not math.isnan(row.iloc[0]['SFRAC']):
+            myha.setproperty('SFRAC' ,round(row.iloc[0]['SFRAC' ],4))
+        if not math.isnan(row.iloc[0]['TFRAC']):
+            myha.setproperty('TFRAC' ,round(row.iloc[0]['TFRAC' ],4))
+        if not math.isnan(row.iloc[0]['WFWAH']):
+            myha.setproperty('WFWAH' ,round(row.iloc[0]['WFWAH' ],1))
+        if not math.isnan(row.iloc[0]['WSWAH']):
+            myha.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
+        if not math.isnan(row.iloc[0]['WSCWAH']):
+            myha.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
+    found=False
+    for plot in plots:
+        if plot.plt_label == ha_label:
+            plot.addhaid(myha.getid())
+            found=True
+            break
+    if not found:
+        raise Exception('Did not find plot for HA %s' % ha_label)
+    hareas.append(myha)
 ########################################################################
 
 ########################################################################
@@ -248,6 +288,147 @@ for feature in layer:
 ########################################################################
 
 ########################################################################
+#Crop Canopy
+shapefile = '../Data/'+fname+'/'+fname+'_CropCanopy.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+ccfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
+cch = pd.read_excel(ccfile,sheet_name='Height')
+ccw = pd.read_excel(ccfile,sheet_name='Width')
+ccs = pd.read_excel(ccfile,sheet_name='SPAD')
+ccca = pd.read_excel(ccfile,sheet_name='ChlA')
+ccden = pd.read_excel(ccfile,sheet_name='Density')
+ccdev = pd.read_excel(ccfile,sheet_name='Develop')
+crpcns = list()
+for feature in layer:
+    ccid = feature.GetField('ObjectId')
+    cc_label = feature.GetField('CCID')  #(e.g., p101-1)
+    geometry = feature.GetGeometryRef()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in crop canopy shapefile.')
+        sys.exit()
+    mycc = cropcanopy.CropCanopy(ccid=ccid,geometry=geometry,cc_label=cc_label)
+    #Crop canopy data
+    htdata = dict()
+    rowh = cch.loc[cch['CCID'] == cc_label]
+    doycols = sorted([col for col in cch.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2003'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(rowh.iloc[0][doycol]):
+            CHTD = float(rowh.iloc[0][doycol])/100. #m
+            htdata.update({key:round(CHTD,2)})
+    if htdata:
+        mycc.setproperty('CHTD',htdata)
+    wddata = dict()
+    roww = ccw.loc[ccw['CCID'] == cc_label]
+    doycols = sorted([col for col in ccw.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2003'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(roww.iloc[0][doycol]):
+            CWID = float(roww.iloc[0][doycol])/100. #m
+            wddata.update({key:round(CWID,2)})
+    if wddata:
+        mycc.setproperty('CWID',wddata)
+    spaddata = dict()
+    rows = ccs.loc[ccs['CCID'] == cc_label]
+    if not rows.empty:
+        doycols = sorted([col for col in ccs.columns if col[:3]=='DOY'])
+        for doycol in doycols:
+            key = '2003'+'{:03d}'.format(int(doycol[3:]))
+            if not math.isnan(rows.iloc[0][doycol]):
+                SPAD = float(rows.iloc[0][doycol])
+                spaddata.update({key:round(SPAD,1)})
+        if spaddata:
+            mycc.setproperty('SPAD',spaddata)
+    chladata = dict()
+    rows = ccca.loc[ccca['CCID'] == cc_label]
+    if not rows.empty:
+        doycols = sorted([col for col in ccca.columns if col[:3]=='DOY'])
+        for doycol in doycols:
+            key = '2003'+'{:03d}'.format(int(doycol[3:]))
+            if not math.isnan(rows.iloc[0][doycol]):
+                CHLA = float(rows.iloc[0][doycol])
+                chladata.update({key:round(CHLA,1)})
+        if chladata:
+            mycc.setproperty('CHLA',chladata)
+    rowden = ccden.loc[ccden['CCID'] == cc_label]
+    if not rowden.empty:
+        if not math.isnan(rowden.iloc[0]['PLPD']):
+            PLPD = float(rowden.iloc[0]['PLPD'])
+            mycc.setproperty('PLPD',round(PLPD,1))
+    rowdev = ccdev.loc[ccdev['CCID'] == cc_label]
+    if not rowdev.empty:
+        if not str(rowdev.iloc[0]['EDATE']) in ['nan','NaT']:
+            mycc.setproperty('EDATE',rowdev.iloc[0]['EDATE'].strftime('%m/%d/%Y'))
+        if not math.isnan(rowdev.iloc[0]['PLYRE']):
+            mycc.setproperty('PLYRE',int(rowdev.iloc[0]['PLYRE']))
+        if not math.isnan(rowdev.iloc[0]['PLDOE']):
+            mycc.setproperty('PLDOE',int(round(rowdev.iloc[0]['PLDOE'],0)))
+    found = False
+    for plot in plots:
+        if plot.plt_label == cc_label[:4]:
+            plot.addccid(mycc.getid())
+            found = True
+            break
+    if not found:
+        raise Exception('Did not find plot for crop canopy %s' % cc_label)
+    crpcns.append(mycc)
+########################################################################
+
+########################################################################
+#Plant Analysis
+shapefile = '../Data/'+fname+'/'+fname+'_PlantAnalysis.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+pafile = '../Data/'+fname+'/'+fname+'_PlantAnalysis.xlsx'
+pa = pd.read_excel(pafile,sheet_name='PlantDF')
+pas = list()
+for feature in layer:
+    paid = feature.GetField('ObjectId')
+    pa_label = feature.GetField('SID')  #(e.g., p101-S01)
+    geometry = feature.GetGeometryRef()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in plant analysis shapefile.')
+        sys.exit()
+    mypa = plantanalysis.PlantAnalysis(paid=paid,geometry=geometry,pa_label=pa_label)
+    #Plant analysis data
+    row = pa[pa['SID'] == pa_label]
+    if not str(row.iloc[0]['PSDATE']) in ['nan','NaT']:
+        mypa.setproperty('PSDATE',row.iloc[0]['PSDATE'].strftime('%m/%d/%Y'))
+    items={'PHTD':3,'STDD':1,'MSNODE':0,'PFNODE':0,'VBNUM':0,'VBNODE':0}
+    for item in items.keys():
+        padata = dict()
+        for i in list(range(row.iloc[0]['NumPlts'])):
+            if not math.isnan(row.iloc[0][item+str(i+1)]):
+                value = round(float(row.iloc[0][item+str(i+1)]),items[item])
+                if items[item] == 0: value=int(value)
+                padata.update({i+1:value})
+        if padata:
+            mypa.setproperty(item,padata)
+    items={'SQRNUM':1,'FLRNUM':1,'GBNUM':1,'MBNUM':1,
+           'LWPD':2,'SWPD':2,'CWPD':2,'LWAD':1,'SWAD':1,'MBWAD':1,
+           'PWAD':1,'CWAD':1,'LAIDL':3}
+    for item in items.keys():
+        if not math.isnan(row.iloc[0][item]):
+            value = round(float(row.iloc[0][item]),items[item])
+            if items[item] == 0: value=int(value)
+            mypa.setproperty(item,value)
+    found = False
+    for plot in plots:
+        if plot.plt_label == pa_label[:4]:
+            plot.addpaid(mypa.getid())
+            found = True
+            break
+    if not found:
+        raise Exception('Did not find plot for plant analysis %s' % pa_label)
+    pas.append(mypa)
+########################################################################
+
+########################################################################
 #Write geojson files
 fc = geojson.FeatureCollection([myexp.doc])
 with open('../geojson/'+fname+'/'+fname+'_Experiment.geojson','w') as f:
@@ -263,10 +444,34 @@ with open('../geojson/'+fname+'/'+fname+'_Plots.geojson','w') as f:
 f.close()
 
 features = list()
+for myha in hareas:
+    features.append(myha.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_HarvestAreas.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
 for mytube in tubes:
     features.append(mytube.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/'+fname+'/'+fname+'_NeutronSWC.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
+for mycrpcn in crpcns:
+    features.append(mycrpcn.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_CropCanopy.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
+for mypa in pas:
+    features.append(mypa.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_PlantAnalysis.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################

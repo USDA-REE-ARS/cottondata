@@ -219,6 +219,85 @@ for feature in layer:
     plots.append(myplot)
 ########################################################################
 
+
+########################################################################
+#Harvest Areas
+shapefile = '../Data/'+fname+'/'+fname+'_HarvestAreas.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=36)
+#safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+#soil = pd.read_excel(safile,sheet_name='SoilHA')
+hareas = list()
+for feature in layer:
+    haid = feature.GetField('ObjectId')
+    ha_label = feature.GetField('HID') #(e.g., p101)
+    geometry = feature.GetGeometryRef()
+    geomcount = geometry.GetGeometryCount()
+    nodecount = geometry.GetGeometryRef(0).GetPointCount()
+    if geomcount != 1 or nodecount != 5:
+        print('Polygons should have one geometry and five nodes.')
+        sys.exit()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in harvest area shapefile.')
+        sys.exit()
+    ha_area = geometry.GetArea()
+    myha = harvestarea.HarvestArea(haid=haid,geometry=geometry,ha_label=ha_label)
+    myha.setproperty('HA_AREA',round(ha_area,6))
+    #Yield and fiber quality data
+    if plt_label not in ['p901','p903','p905','p907']:
+        row = yld.loc[yld['HID'] == ha_label]
+        row = row.astype({'FBMIC':float,'FBUNI':float,'FBCRD':float})
+        if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
+            myha.setproperty('HARM',row.iloc[0]['HARM'])
+        if not str(row.iloc[0]['HADAT']) in ['nan','NaT']:
+            myha.setproperty('HADAT',row.iloc[0]['HADAT'].strftime('%m/%d/%Y'))
+        if not math.isnan(row.iloc[0]['WBWAH']):
+            myha.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))
+        if not str(row.iloc[0]['GNDAT']) in ['nan','NaT']:
+            myha.setproperty('GNDAT',row.iloc[0]['GNDAT'].strftime('%m/%d/%Y'))
+        if not math.isnan(row.iloc[0]['FFRAC']):
+            myha.setproperty('FFRAC' ,round(row.iloc[0]['FFRAC' ],4))
+        if not math.isnan(row.iloc[0]['SFRAC']):
+            myha.setproperty('SFRAC' ,round(row.iloc[0]['SFRAC' ],4))
+        if not math.isnan(row.iloc[0]['TFRAC']):
+            myha.setproperty('TFRAC' ,round(row.iloc[0]['TFRAC' ],4))
+        if not math.isnan(row.iloc[0]['WFWAH']):
+            myha.setproperty('WFWAH' ,round(row.iloc[0]['WFWAH' ],1))
+        if not math.isnan(row.iloc[0]['WSWAH']):
+            myha.setproperty('WSWAH' ,round(row.iloc[0]['WSWAH' ],1))
+        if not math.isnan(row.iloc[0]['WSCWAH']):
+            myha.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
+        if not str(row.iloc[0]['QLDAT']) in ['nan','NaT']:
+            myha.setproperty('QLDAT' ,row.iloc[0]['QLDAT'].strftime('%m/%d/%Y'))
+        if not math.isnan(row.iloc[0]['FBMIC']):
+            myha.setproperty('FBMIC' ,round(row.iloc[0]['FBMIC' ],0))
+        if not math.isnan(row.iloc[0]['FBLTH']):
+            myha.setproperty('FBLTH' ,round(row.iloc[0]['FBLTH' ],2))
+        if not math.isnan(row.iloc[0]['FBUNI']):
+            myha.setproperty('FBUNI' ,round(row.iloc[0]['FBUNI' ],1))
+        if not math.isnan(row.iloc[0]['FBSTR']):
+            myha.setproperty('FBSTR' ,round(row.iloc[0]['FBSTR' ],1))
+        if not math.isnan(row.iloc[0]['FBCRD']):
+            myha.setproperty('FBCRD' ,round(row.iloc[0]['FBCRD' ],1))
+        if not str(row.iloc[0]['FBCGR']) in ['nan','NaT']:
+            myha.setproperty('FBCGR' ,row.iloc[0]['FBCGR'])
+        if not math.isnan(row.iloc[0]['FBTAR']):
+            myha.setproperty('FBTAR' ,round(row.iloc[0]['FBTAR' ],2))
+    found=False
+    for plot in plots:
+        if plot.plt_label == ha_label:
+            plot.addhaid(myha.getid())
+            found=True
+            break
+    if not found:
+        raise Exception('Did not find plot for HA %s' % ha_label)
+    hareas.append(myha)
+########################################################################
+
 ########################################################################
 #Neutron Soil Water Content
 shapefile = '../Data/'+fname+'/'+fname+'_NeutronSWC.shp'
@@ -276,6 +355,14 @@ for myplot in plots:
     features.append(myplot.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/'+fname+'/'+fname+'_Plots.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
+for myha in hareas:
+    features.append(myha.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_HarvestAreas.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 
