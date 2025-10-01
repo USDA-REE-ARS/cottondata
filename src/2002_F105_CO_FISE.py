@@ -194,31 +194,8 @@ for feature in layer:
             myplot.setproperty('FBCGR' ,row.iloc[0]['FBCGR'])
         if not math.isnan(row.iloc[0]['FBTAR']):
             myplot.setproperty('FBTAR' ,round(row.iloc[0]['FBTAR' ],2))
-    #Crop canopy data
-    if plt_label not in ['p901','p903','p905','p907']:
-        htdata = dict()
-        rowh = cch.loc[cch['Plot'] == plt_label]
-        doycols = sorted([col for col in cch.columns if col[:3]=='DOY'])
-        for doycol in doycols:
-            key = '2002'+'{:03d}'.format(int(doycol[3:]))
-            if not math.isnan(rowh.iloc[0][doycol]):
-                CHTD = float(rowh.iloc[0][doycol])/100. #m
-                htdata.update({key:round(CHTD,2)})
-        if htdata:
-            myplot.setproperty('CHTD',htdata)
-        wddata = dict()
-        roww = ccw.loc[ccw['Plot'] == plt_label]
-        doycols = sorted([col for col in ccw.columns if col[:3]=='DOY'])
-        for doycol in doycols:
-            key = '2002'+'{:03d}'.format(int(doycol[3:]))
-            if not math.isnan(roww.iloc[0][doycol]):
-                CWID = float(roww.iloc[0][doycol])/100. #m
-                wddata.update({key:round(CWID,2)})
-        if wddata:
-            myplot.setproperty('CWID',wddata)
     plots.append(myplot)
 ########################################################################
-
 
 ########################################################################
 #Harvest Areas
@@ -344,6 +321,84 @@ for feature in layer:
 ########################################################################
 
 ########################################################################
+#Crop Canopy
+shapefile = '../Data/'+fname+'/'+fname+'_CropCanopy.shp'
+driver = ogr.GetDriverByName('ESRI Shapefile')
+shapes = driver.Open(shapefile, 0)
+layer = shapes.GetLayer()
+ccfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
+cch = pd.read_excel(ccfile,sheet_name='Height')
+ccw = pd.read_excel(ccfile,sheet_name='Width')
+ccs = pd.read_excel(ccfile,sheet_name='SPAD')
+ccden = pd.read_excel(ccfile,sheet_name='Density')
+ccdev = pd.read_excel(ccfile,sheet_name='Develop')
+crpcns = list()
+for feature in layer:
+    ccid = feature.GetField('ObjectId')
+    cc_label = feature.GetField('CCID')  #(e.g., p101-1)
+    geometry = feature.GetGeometryRef()
+    epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
+    if int(epsg) != 32612: #WGS84 UTM Zone 12 N
+        print('Unexpected spatial reference in crop canopy shapefile.')
+        sys.exit()
+    mycc = cropcanopy.CropCanopy(ccid=ccid,geometry=geometry,cc_label=cc_label)
+    #Crop canopy data
+    htdata = dict()
+    rowh = cch.loc[cch['CCID'] == cc_label]
+    doycols = sorted([col for col in cch.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2002'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(rowh.iloc[0][doycol]):
+            CHTD = float(rowh.iloc[0][doycol])/100. #m
+            htdata.update({key:round(CHTD,3)})
+    if htdata:
+        mycc.setproperty('CHTD',htdata)
+    wddata = dict()
+    roww = ccw.loc[ccw['CCID'] == cc_label]
+    doycols = sorted([col for col in ccw.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2002'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(roww.iloc[0][doycol]):
+            CWID = float(roww.iloc[0][doycol])/100. #m
+            wddata.update({key:round(CWID,3)})
+    if wddata:
+        mycc.setproperty('CWID',wddata)
+    spaddata = dict()
+    rows = ccs.loc[ccs['CCID'] == cc_label]
+    if not rows.empty:
+        doycols = sorted([col for col in ccs.columns if col[:3]=='DOY'])
+        for doycol in doycols:
+            key = '2002'+'{:03d}'.format(int(doycol[3:]))
+            if not math.isnan(rows.iloc[0][doycol]):
+                SPAD = float(rows.iloc[0][doycol])
+                spaddata.update({key:round(SPAD,1)})
+        if spaddata:
+            mycc.setproperty('SPAD',spaddata)
+    rowden = ccden.loc[ccden['CCID'] == cc_label]
+    if not rowden.empty:
+        if not math.isnan(rowden.iloc[0]['PLPD']):
+            PLPD = float(rowden.iloc[0]['PLPD'])
+            mycc.setproperty('PLPD',round(PLPD,1))
+    rowdev = ccdev.loc[ccdev['CCID'] == cc_label]
+    if not rowdev.empty:
+        if not str(rowdev.iloc[0]['EDATE']) in ['nan','NaT']:
+            mycc.setproperty('EDATE',rowdev.iloc[0]['EDATE'].strftime('%m/%d/%Y'))
+        if not math.isnan(rowdev.iloc[0]['PLYRE']):
+            mycc.setproperty('PLYRE',int(rowdev.iloc[0]['PLYRE']))
+        if not math.isnan(rowdev.iloc[0]['PLDOE']):
+            mycc.setproperty('PLDOE',int(round(rowdev.iloc[0]['PLDOE'],0)))
+    found = False
+    for plot in plots:
+        if plot.plt_label == cc_label[:4]:
+            plot.addccid(mycc.getid())
+            found = True
+            break
+    if not found:
+        raise Exception('Did not find plot for crop canopy %s' % cc_label)
+    crpcns.append(mycc)
+########################################################################
+
+########################################################################
 #Write geojson files
 fc = geojson.FeatureCollection([myexp.doc])
 with open('../geojson/'+fname+'/'+fname+'_Experiment.geojson','w') as f:
@@ -371,6 +426,14 @@ for mytube in tubes:
     features.append(mytube.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/'+fname+'/'+fname+'_NeutronSWC.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
+for mycrpcn in crpcns:
+    features.append(mycrpcn.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_CropCanopy.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################
