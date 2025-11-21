@@ -70,6 +70,10 @@ for (var in vars) {
         header<-paste(var,sprintf("%03d",depth),sep="")
         data<-subset(soildf,Depth==depth)
 
+        #if (!(header %in% c("SLFC1165"))){
+        #    next
+        #}
+
         #Check for duplicates
         coords<-data[c("UTMX","UTMY")]
         sp_points<-SpatialPoints(coords)
@@ -129,39 +133,35 @@ for (var in vars) {
                     }
                 } else { #Fix nugget for cases where range hits minimum
                     if (header=="SLWP1015"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000058, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00015, fix.nugget=TRUE)
                     } else if (header=="SLWP1045"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000180, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00046, fix.nugget=TRUE)
                     } else if (header=="SLWP1075"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000410, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00100, fix.nugget=TRUE)
                     } else if (header=="SLWP1105"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000400, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00100, fix.nugget=TRUE)
                     } else if (header=="SLWP1135"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000230, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00061, fix.nugget=TRUE)
                     } else if (header=="SLWP1165"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000093, fix.nugget=TRUE)
-                    } else if (header=="SLWP2015"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000035, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00024, fix.nugget=TRUE)
                     } else if (header=="SLWP2045"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000200, fix.nugget=TRUE)
-                    } else if (header=="SLWP2075"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000550, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00055, fix.nugget=TRUE)
                     } else if (header=="SLWP2105"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000490, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00124, fix.nugget=TRUE)
                     } else if (header=="SLWP2135"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000260, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00073, fix.nugget=TRUE)
                     } else if (header=="SLWP2165"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000200, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00053, fix.nugget=TRUE)
                     } else if (header=="SLFC1015"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000180, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00047, fix.nugget=TRUE)
                     } else if (header=="SLFC1045"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000600, fix.nugget=TRUE)
-                    } else if (header=="SLFC1105"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.001200, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00154, fix.nugget=TRUE)
+                    } else if (header=="SLFC1075"){
+                        fit.gdata<-variofit(var.gdata,nugget=0.00280, fix.nugget=TRUE)
                     } else if (header=="SLFC1135"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000700, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00190, fix.nugget=TRUE)
                     } else if (header=="SLFC1165"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.000570, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.00146, fix.nugget=TRUE)
                     } else {
                         fit.gdata<-variofit(var.gdata)
                     }
@@ -218,39 +218,35 @@ for (var in vars) {
             }
         } else { #Fix nugget for cases where range hits minimum
             if (header=="SLWP1015"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000058, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00015, fix.nugget=TRUE)
             } else if (header=="SLWP1045"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000180, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00046, fix.nugget=TRUE)
             } else if (header=="SLWP1075"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000410, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00100, fix.nugget=TRUE)
             } else if (header=="SLWP1105"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000400, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00100, fix.nugget=TRUE)
             } else if (header=="SLWP1135"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000230, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00061, fix.nugget=TRUE)
             } else if (header=="SLWP1165"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000093, fix.nugget=TRUE)
-            } else if (header=="SLWP2015"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000035, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00024, fix.nugget=TRUE)
             } else if (header=="SLWP2045"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000200, fix.nugget=TRUE)
-            } else if (header=="SLWP2075"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000550, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00055, fix.nugget=TRUE)
             } else if (header=="SLWP2105"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000490, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00124, fix.nugget=TRUE)
             } else if (header=="SLWP2135"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000260, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00073, fix.nugget=TRUE)
             } else if (header=="SLWP2165"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000200, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00053, fix.nugget=TRUE)
             } else if (header=="SLFC1015"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000180, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00047, fix.nugget=TRUE)
             } else if (header=="SLFC1045"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000600, fix.nugget=TRUE)
-            } else if (header=="SLFC1105"){
-                fit.gdata<-variofit(var.gdata,nugget=0.001200, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00154, fix.nugget=TRUE)
+            } else if (header=="SLFC1075"){
+                fit.gdata<-variofit(var.gdata,nugget=0.00280, fix.nugget=TRUE)
             } else if (header=="SLFC1135"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000700, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00190, fix.nugget=TRUE)
             } else if (header=="SLFC1165"){
-                fit.gdata<-variofit(var.gdata,nugget=0.000570, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.00146, fix.nugget=TRUE)
             } else {
                 fit.gdata<-variofit(var.gdata)
             }

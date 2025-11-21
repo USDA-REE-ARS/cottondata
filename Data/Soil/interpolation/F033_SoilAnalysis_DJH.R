@@ -63,6 +63,10 @@ for (var in vars) {
         header<-paste(var,sprintf("%03d",depth),sep="")
         data<-subset(soildf,Depth==depth)
 
+        #if (!(header %in% c("SLWP1105","SLWP1135","SLFC1105","SLFC1135"))){
+        #    next
+        #}
+
         #Check for duplicates
         coords<-data[c("UTMX","UTMY")]
         sp_points<-SpatialPoints(coords)
@@ -91,10 +95,10 @@ for (var in vars) {
                         fit.gdata<-variofit(var.gdata,nugget=11.0, fix.nugget=TRUE, limits=limits)
                     } else if (header=="SLCLY015"){
                         fit.gdata<-variofit(var.gdata,nugget=1.0, fix.nugget=TRUE, limits=limits)
+                    } else if (header=="SLSLT015"){ #1.0
+                        fit.gdata<-variofit(var.gdata,nugget=1.0, fix.nugget=TRUE, limits=limits)
                     } else if (header=="SLSLT165"){
                         fit.gdata<-variofit(var.gdata,nugget=15.0, fix.nugget=TRUE, limits=limits)
-                    } else if (header=="SLSLT015"){
-                        fit.gdata<-variofit(var.gdata,nugget=1.0, fix.nugget=TRUE, limits=limits)
                     } else if (header=="SLSND165"){
                         fit.gdata<-variofit(var.gdata,nugget=38.0, fix.nugget=TRUE, limits=limits)
                     } else if (header=="SLSND135"){
@@ -105,11 +109,7 @@ for (var in vars) {
                         fit.gdata<-variofit(var.gdata,limits=limits)
                     }
                 } else { #Fix nugget for cases where range hits minimum
-                    if (header=="SLFC1135"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.0010, fix.nugget=TRUE)
-                    } else {
-                        fit.gdata<-variofit(var.gdata)
-                    }
+                    fit.gdata<-variofit(var.gdata)
                 }
                 #print(attributes(fit.gdata))
                 #print(c(max.dist,numbins,fit.gdata$value))
@@ -132,10 +132,10 @@ for (var in vars) {
                 fit.gdata<-variofit(var.gdata,nugget=11.0, fix.nugget=TRUE, limits=limits)
             } else if (header=="SLCLY015"){
                 fit.gdata<-variofit(var.gdata,nugget=1.0, fix.nugget=TRUE, limits=limits)
-            } else if (header=="SLSLT165"){
-                fit.gdata<-variofit(var.gdata,nugget=15.0, fix.nugget=TRUE, limits=limits)
             } else if (header=="SLSLT015"){
                 fit.gdata<-variofit(var.gdata,nugget=1.0, fix.nugget=TRUE, limits=limits)
+            } else if (header=="SLSLT165"){
+                fit.gdata<-variofit(var.gdata,nugget=15.0, fix.nugget=TRUE, limits=limits)
             } else if (header=="SLSND165"){
                 fit.gdata<-variofit(var.gdata,nugget=38.0, fix.nugget=TRUE, limits=limits)
             } else if (header=="SLSND135"){
@@ -146,11 +146,7 @@ for (var in vars) {
                 fit.gdata<-variofit(var.gdata,limits=limits)
             }
         } else { #Fix nugget for cases where range hits minimum
-            if (header=="SLFC1135"){
-                fit.gdata<-variofit(var.gdata,nugget=0.0010, fix.nugget=TRUE)
-            } else {
-                fit.gdata<-variofit(var.gdata)
-            }
+            fit.gdata<-variofit(var.gdata)
         }
 
         plot(var.gdata,xlab="Distance (m)",ylab="Semi-variance",cex=1.5)

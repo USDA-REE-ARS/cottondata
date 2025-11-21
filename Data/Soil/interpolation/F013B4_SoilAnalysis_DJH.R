@@ -60,8 +60,13 @@ dokrige <- function(geodata,locations,krige){
 
 for (var in vars) {
     for (depth in depths) {
+
         header<-paste(var,sprintf("%03d",depth),sep="")
         data<-subset(soildf,Depth==depth)
+
+        #if (!(header %in% c('SLWP2135','SLWP2165','SLFC1135','SLFC1165'))){
+        #   next
+        #}
 
         #Check for duplicates
         coords<-data[c("UTMX","UTMY")]
@@ -88,13 +93,13 @@ for (var in vars) {
                     fit.gdata<-variofit(var.gdata,limits=limits)
                 } else { #Fix nugget for cases where range hits minimum
                     if (header=="SLWP2135"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.0003, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.0008, fix.nugget=TRUE)
                     } else if (header=="SLWP2165"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.0003, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.0008, fix.nugget=TRUE)
                     } else if (header=="SLFC1135"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.0007, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.0021, fix.nugget=TRUE)
                     } else if (header=="SLFC1165"){
-                        fit.gdata<-variofit(var.gdata,nugget=0.0012, fix.nugget=TRUE)
+                        fit.gdata<-variofit(var.gdata,nugget=0.0033, fix.nugget=TRUE)
                     } else {
                         fit.gdata<-variofit(var.gdata)
                     }
@@ -117,13 +122,13 @@ for (var in vars) {
             fit.gdata<-variofit(var.gdata,limits=limits)
         } else { #Fix nugget for cases where range hits minimum
             if (header=="SLWP2135"){
-                fit.gdata<-variofit(var.gdata,nugget=0.0003, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.0008, fix.nugget=TRUE)
             } else if (header=="SLWP2165"){
-                fit.gdata<-variofit(var.gdata,nugget=0.0003, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.0008, fix.nugget=TRUE)
             } else if (header=="SLFC1135"){
-                fit.gdata<-variofit(var.gdata,nugget=0.0007, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.0021, fix.nugget=TRUE)
             } else if (header=="SLFC1165"){
-                fit.gdata<-variofit(var.gdata,nugget=0.0012, fix.nugget=TRUE)
+                fit.gdata<-variofit(var.gdata,nugget=0.0033, fix.nugget=TRUE)
             } else {
                 fit.gdata<-variofit(var.gdata)
             }
