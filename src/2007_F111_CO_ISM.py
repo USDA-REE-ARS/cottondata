@@ -106,6 +106,8 @@ yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
 fert = pd.read_excel(mfile,sheet_name='FertilizerDF')
+exfile = '../Data/'+fname+'/'+fname+'_Exotech.xlsx'
+exndvi = pd.read_excel(exfile,sheet_name='EXNDVI')
 safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
 soil = pd.read_excel(safile,sheet_name='SoilPlots')
 plots = list()
@@ -149,6 +151,17 @@ for feature in layer:
             fdata.update({key:round(FEAMN,1)})
     if fdata:
         myplot.setproperty('FEAMN',fdata)
+    #Proximal (Exotech) NDVI
+    exndvidata = dict()
+    row = exndvi.loc[exndvi['Plot'] == plt_label]
+    doycols = sorted([col for col in exndvi.columns if col[:3]=='DOY'])
+    for doycol in doycols:
+        key = '2007'+'{:03d}'.format(int(doycol[3:]))
+        if not math.isnan(row.iloc[0][doycol]):
+            NDVImean = float(row.iloc[0][doycol])
+            exndvidata.update({key:round(NDVImean,3)})
+    if exndvidata:
+        myplot.setproperty('EXNDVI',exndvidata)
     #Soil analysis
     row = soil.loc[soil['Plot'] == plt_label]
     em38h = dict()
