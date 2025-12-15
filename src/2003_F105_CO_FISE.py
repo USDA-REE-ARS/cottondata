@@ -159,6 +159,11 @@ for feature in layer:
             fdata.update({key:round(FEAMN,1)})
     if fdata:
         myplot.setproperty('FEAMN',fdata)
+    tdata = dict()
+    #cdata = dict()
+    tdata.update({'2003March':'Rip, disk, laser level, raise beds'})
+    myplot.setproperty('TI_NOTES',tdata)
+    #myplot.setproperty('CH_NOTES',cdata)
     #Proximal (Exotech) NDVI
     exndvidata = dict()
     row = exndvi.loc[exndvi['Plot'] == plt_label]

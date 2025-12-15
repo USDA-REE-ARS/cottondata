@@ -160,6 +160,11 @@ for feature in layer:
             fdata.update({key:round(FEAMN,1)})
     if fdata:
         myplot.setproperty('FEAMN',fdata)
+    tdata = dict()
+    #cdata = dict()
+    tdata.update({'2002March':'Rip, disk, laser level, raise beds'})
+    myplot.setproperty('TI_NOTES',tdata)
+    #myplot.setproperty('CH_NOTES',cdata)
     #Remote sensing NDVI
     ndvidata = dict()
     row = ndvi.loc[ndvi['Plot'] == plt_label]

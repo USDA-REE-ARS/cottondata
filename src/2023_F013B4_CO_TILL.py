@@ -167,8 +167,7 @@ for feature in layer:
     cdata.update({'2023282':'Apply Redipik (diuron, thidiazuron)'})
     cdata.update({'2023298':'Apply Redipik (diuron, thidiazuron) and CottonQuik (urea sulfate, ethephon)'})
     tdata.update({'2023Fall':'Root pull, rip, moldboard plow, disk, and land plane'})
-    if tdata:
-        myplot.setproperty('TI_NOTES',tdata)
+    myplot.setproperty('TI_NOTES',tdata)
     myplot.setproperty('CH_NOTES',cdata)
     #Crop Development
     row = develop.loc[develop['Plot'] == plt_label]

@@ -144,6 +144,7 @@ for feature in layer:
     cdata.update({'2009284':'Apply defoliant'})
     myplot.setproperty('CH_NOTES',cdata)
     tdata = dict()
+    tdata.update({'2009March':'Laser level, raise beds'})
     tdata.update({'2009107':'Rotary hoe'})
     tdata.update({'2009111':'Mulch beds'})
     tdata.update({'2009134':'Field cultivator'})

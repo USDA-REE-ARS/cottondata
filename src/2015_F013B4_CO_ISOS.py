@@ -139,9 +139,9 @@ for feature in layer:
     if idata:
         myplot.setproperty('IRVAL',idata)
     fdata = dict()
-    fdata.update({'2015160':60.0})
-    fdata.update({'2015175':60.0})
-    fdata.update({'2015188':60.0})
+    fdata.update({'2015160':43.5})
+    fdata.update({'2015175':43.5})
+    fdata.update({'2015188':43.5})
     myplot.setproperty('FEAMN',fdata)
     plpd = {'p02':11.0,'p03':10.8,'p04':10.0,'p05':10.1,'p06':9.8,
             'p07':10.1,'p08':10.6,'p09':9.5,'p10':9.6,'p11':8.6}

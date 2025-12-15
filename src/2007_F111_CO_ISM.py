@@ -144,6 +144,11 @@ for feature in layer:
     if idata:
         myplot.setproperty('IRVAL',idata)
     fdata = dict()
+    tdata = dict()
+    #cdata = dict()
+    tdata.update({'2007April':'Rip, disk, laser level, raise beds'})
+    myplot.setproperty('TI_NOTES',tdata)
+    #myplot.setproperty('CH_NOTES',cdata)
     for index, row in fert.iterrows():
         key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
         FEAMN = row[plt_label]
