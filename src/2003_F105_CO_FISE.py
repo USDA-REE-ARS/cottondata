@@ -40,7 +40,7 @@ for feature in layer:
         sys.exit()
     exp_area = geometry.GetArea()
     myexp = experiment.Experiment(eid=eid,geometry=geometry,exp_label=fname)
-myexp.setproperty('EXP_AREA',round(exp_area,6))
+myexp.setproperty('FAREA',round(exp_area,6))
 
 expmeta = {
     'EXNAME':'FAO-56 Irrigation Scheduling Experiment (FISE), Season 2 of 2',
@@ -48,7 +48,7 @@ expmeta = {
     'EXP_NARR':'See Hunsaker, D. J., Barnes, E. M., Clarke, T. R., Fitzgerald, G. J., Pinter, Jr., P. J., 2005. Cotton irrigation scheduling using remotely sensed and FAO-56 basal crop coefficients. Transactions of the ASAE. 48(4):1395-1407. doi:10.13031/2013.19197',
     'MAIN_FACTOR':'Irrigation scheduling method: stand-alone models versus soil water assisted models',
     'FACTORS':'Six irrigation scheduling methods and two cotton varieties',
-    'TRT_NO':12,
+    'TRT_COUNT':12,
     'REP_NO':4,
     'METHODS':'See Hunsaker, D. J., Barnes, E. M., Clarke, T. R., Fitzgerald, G. J., Pinter, Jr., P. J., 2005. Cotton irrigation scheduling using remotely sensed and FAO-56 basal crop coefficients. Transactions of the ASAE. 48(4):1395-1407. doi:10.13031/2013.19197',
     'EXPER_TYPE':'ET001',

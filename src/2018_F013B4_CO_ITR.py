@@ -41,7 +41,7 @@ for feature in layer:
         sys.exit()
     exp_area = geometry.GetArea()
     myexp = experiment.Experiment(eid=eid,geometry=geometry,exp_label=fname)
-myexp.setproperty('EXP_AREA',round(exp_area,6))
+myexp.setproperty('FAREA',round(exp_area,6))
 
 expmeta = {
     'EXNAME':'Irrigation timing and rate experiment, Season 3 of 3',
@@ -49,7 +49,7 @@ expmeta = {
     'EXP_NARR':'See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146',
     'MAIN_FACTOR':'Irrigation timing and rate: Combinations of four irrigation rates (60%%, 80%%, 100%%, and 120%% of full irrigation) in two time periods (first square to peak bloom and peak bloom to 90%% open boll)',
     'FACTORS':'Irrigation timing and rate: Combinations of four irrigation rates (60%%, 80%%, 100%%, and 120%% of full irrigation) in two time periods (first square to peak bloom and peak bloom to 90%% open boll)',
-    'TRT_NO':16,
+    'TRT_COUNT':16,
     'REP_NO':4,
     'METHODS':'See Thorp, K. R., Thompson, A. L., Bronson, K. F., 2020. Irrigation rate and timing effects on Arizona cotton yield, water productivity, and fiber quality. Agricultural Water Management 234, 106146. doi:10.1016/j.agwat.2020.106146',
     'EXPER_TYPE':'ET001',

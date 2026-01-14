@@ -70,11 +70,11 @@
                         ]
                     }
                 ],
-                "EXP_AREA": 27283.679289,
+                "FAREA": 27283.679289,
                 "EXNAME": "Tillage and cover crop study, Season 1 of 1",
                 "MAIN_FACTOR": "Type of tillage: beds and furrows, on-the-flat, strip tillage, no tillage",
                 "FACTORS": "Four tillage treatments",
-                "TRT_NO": 4,
+                "TRT_COUNT": 4,
                 "REP_NO": 3,
                 "EXPER_TYPE": "ET001",
                 "SITE_NAME": "Maricopa Agricultural Center, Field 13, Bench 4",

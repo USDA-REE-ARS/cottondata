@@ -74,13 +74,13 @@
                         ]
                     }
                 ],
-                "EXP_AREA": 9244.157016,
+                "FAREA": 9244.157016,
                 "EXNAME": "Agricultural Irrigation Imaging System (AGIIS, \"Ag Eyes\"), Season 2 of 2",
                 "OBJECTIVES": "See Kostrzewski, M., Waller, P., Guertin, P., Haberland, J., Colaizzi, P., Barnes, E., Thompson, T., Clarke, T., Riley, E., Choi, C., 2002. Ground-base remote sensing of water and nitrogen stress. Transactions of the ASAE. 46(1):29-38. doi:10.13031/2013.12546",
                 "EXP_NARR": "See Kostrzewski, M., Waller, P., Guertin, P., Haberland, J., Colaizzi, P., Barnes, E., Thompson, T., Clarke, T., Riley, E., Choi, C., 2002. Ground-base remote sensing of water and nitrogen stress. Transactions of the ASAE. 46(1):29-38. doi:10.13031/2013.12546",
                 "MAIN_FACTOR": "Optimal and low irrigation and optimal and low nitrogen",
                 "FACTORS": "Optimal and low irrigation and optimal and low nitrogen",
-                "TRT_NO": 4,
+                "TRT_COUNT": 4,
                 "REP_NO": 4,
                 "METHODS": "See Kostrzewski, M., Waller, P., Guertin, P., Haberland, J., Colaizzi, P., Barnes, E., Thompson, T., Clarke, T., Riley, E., Choi, C., 2002. Ground-base remote sensing of water and nitrogen stress. Transactions of the ASAE. 46(1):29-38. doi:10.13031/2013.12546",
                 "EXPER_TYPE": "ET001",

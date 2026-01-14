@@ -82,13 +82,13 @@
                         ]
                     }
                 ],
-                "EXP_AREA": 27193.688504,
+                "FAREA": 27193.688504,
                 "EXNAME": "Precision irrigation technologies, Season 2 of 2",
                 "OBJECTIVES": "See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950",
                 "EXP_NARR": "See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950",
                 "MAIN_FACTOR": "Irrigation management methods: increasing complexity of technologies used",
                 "FACTORS": "Four irrigation management methods",
-                "TRT_NO": 4,
+                "TRT_COUNT": 4,
                 "REP_NO": 6,
                 "METHODS": "See See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950",
                 "EXPER_TYPE": "ET001",

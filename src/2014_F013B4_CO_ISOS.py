@@ -40,7 +40,7 @@ for feature in layer:
         sys.exit()
     exp_area = geometry.GetArea()
     myexp = experiment.Experiment(eid=eid,geometry=geometry,exp_label=fname)
-myexp.setproperty('EXP_AREA',round(exp_area,6))
+myexp.setproperty('FAREA',round(exp_area,6))
 
 expmeta = {
     'EXNAME':'Irrigation scheduling methods for overhead sprinkler, Season 1 of 2',
@@ -48,7 +48,7 @@ expmeta = {
     'EXP_NARR':'See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323',
     'MAIN_FACTOR':'Irrigation scheduling method: stand-alone models versus soil water assisted models',
     'FACTORS':'Six irrigation scheduling methods and two cotton varieties',
-    'TRT_NO':5,
+    'TRT_COUNT':5,
     'REP_NO':2,
     'METHODS':'See Thorp, K. R., Hunsaker, D. J., Bronson, K. F., Andrade-Sanchez, P., Barnes, E. M., 2017. Cotton irrigation scheduling using a crop growth model and FAO-56 methods: Field and simulation studies. Transactions of the ASABE. 60(6):2023-2039. doi:10.13031/trans.12323',
     'EXPER_TYPE':'ET001',

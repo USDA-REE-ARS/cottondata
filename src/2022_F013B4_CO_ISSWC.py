@@ -40,7 +40,7 @@ for feature in layer:
         sys.exit()
     exp_area = geometry.GetArea()
     myexp = experiment.Experiment(eid=eid,geometry=geometry,exp_label=fname)
-myexp.setproperty('EXP_AREA',round(exp_area,6))
+myexp.setproperty('FAREA',round(exp_area,6))
 
 expmeta = {
     'EXNAME':'Soil water guided irrigation scheduling models, Season 2 of 2',
@@ -48,7 +48,7 @@ expmeta = {
     'EXP_NARR':'See Thorp, K. R., 2023. Combining soil water content data with computer simulation models for improved irrigation scheduling. Journal of the ASABE 66 (5), 1265-1279. doi:10.13031/ja.15591',
     'MAIN_FACTOR':'Irrigation scheduling method: stand-alone models versus soil water assisted models',
     'FACTORS':'Six irrigation scheduling methods and two cotton varieties',
-    'TRT_NO':12,
+    'TRT_COUNT':12,
     'REP_NO':4,
     'METHODS':'See Thorp, K. R., 2023. Combining soil water content data with computer simulation models for improved irrigation scheduling. Journal of the ASABE 66 (5), 1265-1279. doi:10.13031/ja.15591',
     'EXPER_TYPE':'ET001',

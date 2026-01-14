@@ -114,11 +114,11 @@
                         ]
                     }
                 ],
-                "EXP_AREA": 10316.786537,
+                "FAREA": 10316.786537,
                 "EXNAME": "Irrigation scheduling methods, Season 1 of 1",
                 "MAIN_FACTOR": "Irrigation scheduling method",
                 "FACTORS": "Four irrigation scheduling methods with typical and sparse planting density",
-                "TRT_NO": 8,
+                "TRT_COUNT": 8,
                 "REP_NO": 4,
                 "EXPER_TYPE": "ET001",
                 "SITE_NAME": "Maricopa Agricultural Center, Field 111",

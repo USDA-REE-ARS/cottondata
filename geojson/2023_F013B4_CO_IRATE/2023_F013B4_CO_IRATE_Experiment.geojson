@@ -74,11 +74,11 @@
                         ]
                     }
                 ],
-                "EXP_AREA": 4551.680071,
+                "FAREA": 4551.680071,
                 "EXNAME": "Irrigation rate experiment, Season 2 of 2",
                 "MAIN_FACTOR": "Irrigation rate (40%%, 60%%, 80%%, and 100%% of full irrigation)",
                 "FACTORS": "Four irrigation rates initiated at flowering (40%%, 60%%, 80%%, and 100%% of full irrigation)",
-                "TRT_NO": 4,
+                "TRT_COUNT": 4,
                 "REP_NO": 4,
                 "EXPER_TYPE": "ET001",
                 "SITE_NAME": "Maricopa Agricultural Center, Field 13, Bench 4",

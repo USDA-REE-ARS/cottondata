@@ -41,7 +41,7 @@ for feature in layer:
         sys.exit()
     exp_area = geometry.GetArea()
     myexp = experiment.Experiment(eid=eid,geometry=geometry,exp_label=fname)
-myexp.setproperty('EXP_AREA',round(exp_area,6))
+myexp.setproperty('FAREA',round(exp_area,6))
 
 expmeta = {
     'EXNAME':'Tillage and cover crop study, Season 1 of 1',
@@ -49,7 +49,7 @@ expmeta = {
     #'EXP_NARR':'See Thorp et al., TBD',
     'MAIN_FACTOR':'Type of tillage: beds and furrows, on-the-flat, strip tillage, no tillage',
     'FACTORS':'Four tillage treatments',
-    'TRT_NO':4,
+    'TRT_COUNT':4,
     'REP_NO':3,
     #'METHODS':'See Thorp et al., TBD',
     'EXPER_TYPE':'ET001',

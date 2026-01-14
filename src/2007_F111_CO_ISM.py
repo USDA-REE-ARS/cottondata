@@ -39,7 +39,7 @@ for feature in layer:
         sys.exit()
     exp_area = geometry.GetArea()
     myexp = experiment.Experiment(eid=eid,geometry=geometry,exp_label=fname)
-myexp.setproperty('EXP_AREA',round(exp_area,6))
+myexp.setproperty('FAREA',round(exp_area,6))
 
 expmeta = {
     'EXNAME':'Irrigation scheduling methods, Season 1 of 1',
@@ -47,7 +47,7 @@ expmeta = {
     #'EXP_NARR':'Unpublished',
     'MAIN_FACTOR':'Irrigation scheduling method',
     'FACTORS':'Four irrigation scheduling methods with typical and sparse planting density',
-    'TRT_NO':8,
+    'TRT_COUNT':8,
     'REP_NO':4,
     #'METHODS':'Unpublished',
     'EXPER_TYPE':'ET001',

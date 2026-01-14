@@ -41,7 +41,7 @@ for feature in layer:
         sys.exit()
     exp_area = geometry.GetArea()
     myexp = experiment.Experiment(eid=eid,geometry=geometry,exp_label=fname)
-myexp.setproperty('EXP_AREA',round(exp_area,6))
+myexp.setproperty('FAREA',round(exp_area,6))
 
 expmeta = {
     'EXNAME':'Field-scale remote sensing-based irrigation scheduling, Season 1 of 2',
@@ -49,7 +49,7 @@ expmeta = {
     'EXP_NARR':'See Hunsaker, D. J., French, A. N., Waller, P. M., Bautista, E., Thorp, K. R., Bronson, K. F., Andrade-Sanchez, P., 2015. Comparison of traditional and ET-based irrigation scheduling of surface-irrigated cotton in the arid southwestern USA. Agricultural Water Management 159, 209-224. doi:10.1016/j.agwat.2015.06.016',
     'MAIN_FACTOR':'Irrigation scheduling method: ET-based soil water balance and remote sensing-based methods',
     'FACTORS':'Four irrigation scheduling methods',
-    'TRT_NO':4,
+    'TRT_COUNT':4,
     'REP_NO':4,
     'METHODS':'See Hunsaker, D. J., French, A. N., Waller, P. M., Bautista, E., Thorp, K. R., Bronson, K. F., Andrade-Sanchez, P., 2015. Comparison of traditional and ET-based irrigation scheduling of surface-irrigated cotton in the arid southwestern USA. Agricultural Water Management 159, 209-224. doi:10.1016/j.agwat.2015.06.016',
     'EXPER_TYPE':'ET001',
@@ -730,18 +730,18 @@ with open('../geojson/'+fname+'/'+fname+'_NeutronSWC.geojson','w') as f:
 f.close()
 
 features = list()
-for mypa in pas:
-    features.append(mypa.doc)
-fc = geojson.FeatureCollection(features)
-with open('../geojson/'+fname+'/'+fname+'_PlantAnalysis.geojson','w') as f:
-    geojson.dump(fc,f,indent=4)
-f.close()
-
-features = list()
 for mycrpcn in crpcns:
     features.append(mycrpcn.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/'+fname+'/'+fname+'_CropCanopy.geojson','w') as f:
+    geojson.dump(fc,f,indent=4)
+f.close()
+
+features = list()
+for mypa in pas:
+    features.append(mypa.doc)
+fc = geojson.FeatureCollection(features)
+with open('../geojson/'+fname+'/'+fname+'_PlantAnalysis.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################

@@ -42,7 +42,7 @@ for feature in layer:
         sys.exit()
     exp_area = geometry.GetArea()
     myexp = experiment.Experiment(eid=eid,geometry=geometry,exp_label=fname)
-myexp.setproperty('EXP_AREA',round(exp_area,6))
+myexp.setproperty('FAREA',round(exp_area,6))
 
 expmeta = {
     'EXNAME':'Precision irrigation technologies, Season 2 of 2',
@@ -50,7 +50,7 @@ expmeta = {
     'EXP_NARR':'See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950',
     'MAIN_FACTOR':'Irrigation management methods: increasing complexity of technologies used',
     'FACTORS':'Four irrigation management methods',
-    'TRT_NO':4,
+    'TRT_COUNT':4,
     'REP_NO':6,
     'METHODS':'See See Thorp, K. R., Calleja, S., Pauli, D., Thompson, A. L., Elshikha, D. E., 2022. Agronomic outcomes of precision irrigation management technologies. Journal of the ASABE 65(1):135-150. doi:10.13031/ja.14950',
     'EXPER_TYPE':'ET001',
