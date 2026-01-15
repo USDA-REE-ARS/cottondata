@@ -232,10 +232,10 @@ for feature in layer:
             slwp2.update({int(depth):round(row.iloc[0]['SLWP2'+depth],3)})
         if not math.isnan(row.iloc[0]['SLFC1'+depth]):
             slfc1.update({int(depth):round(row.iloc[0]['SLFC1'+depth],3)})
-    if slsnd: myplot.setproperty('SLSND',slsnd)
-    if slslt: myplot.setproperty('SLSLT',slslt)
-    if slcly: myplot.setproperty('SLCLY',slcly)
-    if slwp1: myplot.setproperty('SLWP1',slwp1)
+    if slsnd: myplot.setproperty('SLSND_M',slsnd)
+    if slslt: myplot.setproperty('SLSLT_M',slslt)
+    if slcly: myplot.setproperty('SLCLY_M',slcly)
+    if slwp1: myplot.setproperty('SLWP',slwp1)
     if slwp2: myplot.setproperty('SLWP2',slwp2)
     if slfc1: myplot.setproperty('SLFC1',slfc1)
     slsnd_KRT = dict()
@@ -257,12 +257,12 @@ for feature in layer:
             slslt2_KRT.update({int(depth):round(row.iloc[0]['SLSLT2'+depth],2)})
         if not math.isnan(row.iloc[0]['SLCLY2'+depth]):
             slcly2_KRT.update({int(depth):round(row.iloc[0]['SLCLY2'+depth],2)})
-    if slsnd_KRT:  myplot.setproperty('SLSND_KRT',slsnd_KRT)
-    if slslt_KRT:  myplot.setproperty('SLSLT_KRT',slslt_KRT)
-    if slcly_KRT:  myplot.setproperty('SLCLY_KRT',slcly_KRT)
-    if slsnd2_KRT: myplot.setproperty('SLSND2_KRT',slsnd2_KRT)
-    if slslt2_KRT: myplot.setproperty('SLSLT2_KRT',slslt2_KRT)
-    if slcly2_KRT: myplot.setproperty('SLCLY2_KRT',slcly2_KRT)
+    if slsnd_KRT:  myplot.setproperty('SLSND_GBM',slsnd_KRT)
+    if slslt_KRT:  myplot.setproperty('SLSLT_GBM',slslt_KRT)
+    if slcly_KRT:  myplot.setproperty('SLCLY_GBM',slcly_KRT)
+    if slsnd2_KRT: myplot.setproperty('SLSND_GB',slsnd2_KRT)
+    if slslt2_KRT: myplot.setproperty('SLSLT_GB',slslt2_KRT)
+    if slcly2_KRT: myplot.setproperty('SLCLY_GB',slcly2_KRT)
     #Yield and fiber quality data
     row = yld.loc[yld['PID'] == plt_label]
     row = row.astype({'FBMIC':float})
@@ -439,10 +439,10 @@ for feature in layer:
             slwp2.update({int(depth):round(row.iloc[0]['SLWP2'+depth],3)})
         if not math.isnan(row.iloc[0]['SLFC1'+depth]):
             slfc1.update({int(depth):round(row.iloc[0]['SLFC1'+depth],3)})
-    if slsnd: myha.setproperty('SLSND',slsnd)
-    if slslt: myha.setproperty('SLSLT',slslt)
-    if slcly: myha.setproperty('SLCLY',slcly)
-    if slwp1: myha.setproperty('SLWP1',slwp1)
+    if slsnd: myha.setproperty('SLSND_M',slsnd)
+    if slslt: myha.setproperty('SLSLT_M',slslt)
+    if slcly: myha.setproperty('SLCLY_M',slcly)
+    if slwp1: myha.setproperty('SLWP',slwp1)
     if slwp2: myha.setproperty('SLWP2',slwp2)
     if slfc1: myha.setproperty('SLFC1',slfc1)
     slsnd_KRT = dict()
@@ -464,12 +464,12 @@ for feature in layer:
             slslt2_KRT.update({int(depth):round(row.iloc[0]['SLSLT2'+depth],2)})
         if not math.isnan(row.iloc[0]['SLCLY2'+depth]):
             slcly2_KRT.update({int(depth):round(row.iloc[0]['SLCLY2'+depth],2)})
-    if slsnd_KRT:  myha.setproperty('SLSND_KRT',slsnd_KRT)
-    if slslt_KRT:  myha.setproperty('SLSLT_KRT',slslt_KRT)
-    if slcly_KRT:  myha.setproperty('SLCLY_KRT',slcly_KRT)
-    if slsnd2_KRT: myha.setproperty('SLSND2_KRT',slsnd2_KRT)
-    if slslt2_KRT: myha.setproperty('SLSLT2_KRT',slslt2_KRT)
-    if slcly2_KRT: myha.setproperty('SLCLY2_KRT',slcly2_KRT)
+    if slsnd_KRT:  myha.setproperty('SLSND_GBM',slsnd_KRT)
+    if slslt_KRT:  myha.setproperty('SLSLT_GBM',slslt_KRT)
+    if slcly_KRT:  myha.setproperty('SLCLY_GBM',slcly_KRT)
+    if slsnd2_KRT: myha.setproperty('SLSND_GB',slsnd2_KRT)
+    if slslt2_KRT: myha.setproperty('SLSLT_GB',slslt2_KRT)
+    if slcly2_KRT: myha.setproperty('SLCLY_GB',slcly2_KRT)
     found=False
     for plot in plots:
         if plot.plt_label[1:] == ha_label[:4]:

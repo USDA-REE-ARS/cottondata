@@ -28,7 +28,7 @@ for feature in layer:
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
         mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%m/%Y'))
-    items={'SLSND':2,'SLSLT':2,'SLCLY':2,'SLTX':-99,'SLWP1':3,'SLWP2':3,'SLFC1':3}
+    items={'SLSND_M':2,'SLSLT_M':2,'SLCLY_M':2,'SLTX':-99,'SLWP':3,'SLWP2':3,'SLFC1':3}
     for item in items.keys():
         sadata = dict()
         for depth in [15,45,75,105,135,165]:
@@ -74,7 +74,7 @@ for feature in layer:
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
         mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%m/%Y'))
-    items={'SLSND':1,'SLSLT':1,'SLCLY':1,'SLSND2':1,'SLSLT2':1,'SLCLY2':1}
+    items={'SLSND_GBM':1,'SLSLT_GBM':1,'SLCLY_GBM':1,'SLSND_GB':1,'SLSLT_GB':1,'SLCLY_GB':1}
     for item in items.keys():
         sadata = dict()
         for depth in [20,60,100,140,180]:
@@ -118,7 +118,7 @@ for feature in layer:
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
         mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%m/%Y'))
-    items={'SLSND':2,'SLSLT':2,'SLCLY':2,'SLTX':-99,'SLWP1':3,'SLWP2':3,'SLFC1':3}
+    items={'SLSND_M':2,'SLSLT_M':2,'SLCLY_M':2,'SLTX':-99,'SLWP':3,'SLWP2':3,'SLFC1':3}
     for item in items.keys():
         sadata = dict()
         for depth in [15,45,75,105,135,150,165,210]:
@@ -165,7 +165,7 @@ for feature in layer:
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
         mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%m/%Y'))
-    items={'SLSND':2,'SLSLT':2,'SLCLY':2,'SLTX':-99,'SLWP1':3,'SLWP2':3,'SLFC1':3}
+    items={'SLSND_M':2,'SLSLT_M':2,'SLCLY_M':2,'SLTX':-99,'SLWP':3,'SLWP2':3,'SLFC1':3}
     for item in items.keys():
         sadata = dict()
         for depth in [15,45,75,105,135,165,195,225,255,285]:
@@ -212,7 +212,7 @@ for feature in layer:
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
         mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y'))
-    items={'SLSND':2,'SLSLT':2,'SLCLY':2,'SLTX':-99,'SLWP1':3,'SLWP2':3,'SLFC1':3}
+    items={'SLSND_M':2,'SLSLT_M':2,'SLCLY_M':2,'SLTX':-99,'SLWP':3,'SLWP2':3,'SLFC1':3}
     for item in items.keys():
         sadata = dict()
         for depth in [15,45,75,105,135,165]:
