@@ -41,7 +41,7 @@
                     "2": 0,
                     "3": 0
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -101,7 +101,7 @@
                     "2": 10,
                     "3": 7
                 },
-                "ABCNUM": 5.3,
+                "ABSNUM": 5.3,
                 "SQRNUM": 6.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -161,7 +161,7 @@
                     "2": 13,
                     "3": 13
                 },
-                "ABCNUM": 18.0,
+                "ABSNUM": 18.0,
                 "SQRNUM": 10.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.3,
@@ -221,7 +221,7 @@
                     "2": 17,
                     "3": 16
                 },
-                "ABCNUM": 19.3,
+                "ABSNUM": 19.3,
                 "SQRNUM": 21.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 6.0,
@@ -281,7 +281,7 @@
                     "2": 19,
                     "3": 19
                 },
-                "ABCNUM": 44.0,
+                "ABSNUM": 44.0,
                 "SQRNUM": 22.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 20.3,
@@ -341,7 +341,7 @@
                     "2": 9,
                     "3": 22
                 },
-                "ABCNUM": 38.3,
+                "ABSNUM": 38.3,
                 "SQRNUM": 6.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 9.0,
@@ -393,7 +393,7 @@
                 "FRBNUM": {
                     "1": 19
                 },
-                "ABCNUM": 25.0,
+                "ABSNUM": 25.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 13.0,
@@ -445,7 +445,7 @@
                 "FRBNUM": {
                     "1": 21
                 },
-                "ABCNUM": 46.0,
+                "ABSNUM": 46.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 14.0,
@@ -504,7 +504,7 @@
                     "2": 1,
                     "3": 3
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -564,7 +564,7 @@
                     "2": 6,
                     "3": 6
                 },
-                "ABCNUM": 3.7,
+                "ABSNUM": 3.7,
                 "SQRNUM": 7.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -624,7 +624,7 @@
                     "2": 12,
                     "3": 9
                 },
-                "ABCNUM": 15.7,
+                "ABSNUM": 15.7,
                 "SQRNUM": 11.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.0,
@@ -684,7 +684,7 @@
                     "2": 14,
                     "3": 18
                 },
-                "ABCNUM": 28.0,
+                "ABSNUM": 28.0,
                 "SQRNUM": 23.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 7.7,
@@ -744,7 +744,7 @@
                     "2": 18,
                     "3": 22
                 },
-                "ABCNUM": 40.7,
+                "ABSNUM": 40.7,
                 "SQRNUM": 25.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 10.0,
@@ -800,7 +800,7 @@
                     "1": 24,
                     "2": 27
                 },
-                "ABCNUM": 68.5,
+                "ABSNUM": 68.5,
                 "SQRNUM": 25.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 17.5,
@@ -852,7 +852,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 41.0,
+                "ABSNUM": 41.0,
                 "SQRNUM": 16.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 14.0,
@@ -904,7 +904,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 82.0,
+                "ABSNUM": 82.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 20.0,
@@ -963,7 +963,7 @@
                     "2": 3,
                     "3": 0
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -1023,7 +1023,7 @@
                     "2": 8,
                     "3": 9
                 },
-                "ABCNUM": 8.3,
+                "ABSNUM": 8.3,
                 "SQRNUM": 9.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -1083,7 +1083,7 @@
                     "2": 13,
                     "3": 13
                 },
-                "ABCNUM": 17.3,
+                "ABSNUM": 17.3,
                 "SQRNUM": 12.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.3,
@@ -1143,7 +1143,7 @@
                     "2": 19,
                     "3": 17
                 },
-                "ABCNUM": 32.3,
+                "ABSNUM": 32.3,
                 "SQRNUM": 20.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 6.7,
@@ -1203,7 +1203,7 @@
                     "2": 20,
                     "3": 14
                 },
-                "ABCNUM": 21.0,
+                "ABSNUM": 21.0,
                 "SQRNUM": 8.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 9.0,
@@ -1263,7 +1263,7 @@
                     "2": 25,
                     "3": 23
                 },
-                "ABCNUM": 40.7,
+                "ABSNUM": 40.7,
                 "SQRNUM": 9.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 17.3,
@@ -1315,7 +1315,7 @@
                 "FRBNUM": {
                     "1": 24
                 },
-                "ABCNUM": 65.0,
+                "ABSNUM": 65.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 36.0,
@@ -1367,7 +1367,7 @@
                 "FRBNUM": {
                     "1": 18
                 },
-                "ABCNUM": 26.0,
+                "ABSNUM": 26.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 7.0,
@@ -1426,7 +1426,7 @@
                     "2": 3,
                     "3": 0
                 },
-                "ABCNUM": 2.0,
+                "ABSNUM": 2.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -1486,7 +1486,7 @@
                     "2": 7,
                     "3": 6
                 },
-                "ABCNUM": 3.7,
+                "ABSNUM": 3.7,
                 "SQRNUM": 9.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -1546,7 +1546,7 @@
                     "2": 12,
                     "3": 6
                 },
-                "ABCNUM": 12.3,
+                "ABSNUM": 12.3,
                 "SQRNUM": 9.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 2.0,
@@ -1606,7 +1606,7 @@
                     "2": 13,
                     "3": 18
                 },
-                "ABCNUM": 19.0,
+                "ABSNUM": 19.0,
                 "SQRNUM": 16.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 5.3,
@@ -1666,7 +1666,7 @@
                     "2": 21,
                     "3": 21
                 },
-                "ABCNUM": 37.0,
+                "ABSNUM": 37.0,
                 "SQRNUM": 19.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 16.0,
@@ -1726,7 +1726,7 @@
                     "2": 23,
                     "3": 19
                 },
-                "ABCNUM": 40.3,
+                "ABSNUM": 40.3,
                 "SQRNUM": 13.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 13.3,
@@ -1778,7 +1778,7 @@
                 "FRBNUM": {
                     "1": 21
                 },
-                "ABCNUM": 28.0,
+                "ABSNUM": 28.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 7.0,
@@ -1830,7 +1830,7 @@
                 "FRBNUM": {
                     "1": 19
                 },
-                "ABCNUM": 18.0,
+                "ABSNUM": 18.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 6.0,
@@ -1888,7 +1888,7 @@
                     "2": 0,
                     "3": 0
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -1948,7 +1948,7 @@
                     "2": 8,
                     "3": 8
                 },
-                "ABCNUM": 8.7,
+                "ABSNUM": 8.7,
                 "SQRNUM": 5.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -2008,7 +2008,7 @@
                     "2": 14,
                     "3": 15
                 },
-                "ABCNUM": 21.7,
+                "ABSNUM": 21.7,
                 "SQRNUM": 12.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.7,
@@ -2068,7 +2068,7 @@
                     "2": 18,
                     "3": 16
                 },
-                "ABCNUM": 33.3,
+                "ABSNUM": 33.3,
                 "SQRNUM": 23.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 2.7,
@@ -2128,7 +2128,7 @@
                     "2": 23,
                     "3": 20
                 },
-                "ABCNUM": 46.0,
+                "ABSNUM": 46.0,
                 "SQRNUM": 26.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 8.3,
@@ -2188,7 +2188,7 @@
                     "2": 27,
                     "3": 23
                 },
-                "ABCNUM": 50.0,
+                "ABSNUM": 50.0,
                 "SQRNUM": 17.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 7.3,
@@ -2240,7 +2240,7 @@
                 "FRBNUM": {
                     "1": 30
                 },
-                "ABCNUM": 67.0,
+                "ABSNUM": 67.0,
                 "SQRNUM": 20.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 25.0,
@@ -2292,7 +2292,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 38.0,
+                "ABSNUM": 38.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 9.0,
@@ -2352,7 +2352,7 @@
                     "2": 3,
                     "3": 3
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -2412,7 +2412,7 @@
                     "2": 9,
                     "3": 9
                 },
-                "ABCNUM": 6.3,
+                "ABSNUM": 6.3,
                 "SQRNUM": 7.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -2472,7 +2472,7 @@
                     "2": 12,
                     "3": 11
                 },
-                "ABCNUM": 13.7,
+                "ABSNUM": 13.7,
                 "SQRNUM": 15.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.3,
@@ -2532,7 +2532,7 @@
                     "2": 13,
                     "3": 16
                 },
-                "ABCNUM": 16.3,
+                "ABSNUM": 16.3,
                 "SQRNUM": 16.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 9.0,
@@ -2592,7 +2592,7 @@
                     "2": 21,
                     "3": 23
                 },
-                "ABCNUM": 45.7,
+                "ABSNUM": 45.7,
                 "SQRNUM": 20.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 17.0,
@@ -2652,7 +2652,7 @@
                     "2": 24,
                     "3": 24
                 },
-                "ABCNUM": 45.7,
+                "ABSNUM": 45.7,
                 "SQRNUM": 25.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 10.0,
@@ -2704,7 +2704,7 @@
                 "FRBNUM": {
                     "1": 29
                 },
-                "ABCNUM": 51.0,
+                "ABSNUM": 51.0,
                 "SQRNUM": 18.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 15.0,
@@ -2756,7 +2756,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 56.0,
+                "ABSNUM": 56.0,
                 "SQRNUM": 10.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 6.0,
@@ -2816,7 +2816,7 @@
                     "2": 4,
                     "3": 3
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -2876,7 +2876,7 @@
                     "2": 9,
                     "3": 6
                 },
-                "ABCNUM": 8.7,
+                "ABSNUM": 8.7,
                 "SQRNUM": 4.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -2936,7 +2936,7 @@
                     "2": 15,
                     "3": 14
                 },
-                "ABCNUM": 25.3,
+                "ABSNUM": 25.3,
                 "SQRNUM": 17.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 2.0,
@@ -2996,7 +2996,7 @@
                     "2": 19,
                     "3": 21
                 },
-                "ABCNUM": 31.3,
+                "ABSNUM": 31.3,
                 "SQRNUM": 15.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 3.3,
@@ -3056,7 +3056,7 @@
                     "2": 22,
                     "3": 21
                 },
-                "ABCNUM": 34.0,
+                "ABSNUM": 34.0,
                 "SQRNUM": 16.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 5.0,
@@ -3116,7 +3116,7 @@
                     "2": 27,
                     "3": 26
                 },
-                "ABCNUM": 46.3,
+                "ABSNUM": 46.3,
                 "SQRNUM": 13.3,
                 "FLRNUM": 1.0,
                 "GBNUM": 12.0,
@@ -3168,7 +3168,7 @@
                 "FRBNUM": {
                     "1": 29
                 },
-                "ABCNUM": 53.0,
+                "ABSNUM": 53.0,
                 "SQRNUM": 8.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 25.0,
@@ -3220,7 +3220,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 83.0,
+                "ABSNUM": 83.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 20.0,
@@ -3279,7 +3279,7 @@
                     "2": 3,
                     "3": 0
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -3339,7 +3339,7 @@
                     "2": 9,
                     "3": 8
                 },
-                "ABCNUM": 6.7,
+                "ABSNUM": 6.7,
                 "SQRNUM": 5.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -3399,7 +3399,7 @@
                     "2": 12,
                     "3": 9
                 },
-                "ABCNUM": 13.3,
+                "ABSNUM": 13.3,
                 "SQRNUM": 11.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.3,
@@ -3459,7 +3459,7 @@
                     "2": 15,
                     "3": 16
                 },
-                "ABCNUM": 17.7,
+                "ABSNUM": 17.7,
                 "SQRNUM": 9.0,
                 "FLRNUM": 1.3,
                 "GBNUM": 7.7,
@@ -3519,7 +3519,7 @@
                     "2": 10,
                     "3": 18
                 },
-                "ABCNUM": 29.3,
+                "ABSNUM": 29.3,
                 "SQRNUM": 8.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 9.0,
@@ -3579,7 +3579,7 @@
                     "2": 20,
                     "3": 19
                 },
-                "ABCNUM": 38.7,
+                "ABSNUM": 38.7,
                 "SQRNUM": 9.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 12.3,
@@ -3631,7 +3631,7 @@
                 "FRBNUM": {
                     "1": 17
                 },
-                "ABCNUM": 18.0,
+                "ABSNUM": 18.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 6.0,
@@ -3683,7 +3683,7 @@
                 "FRBNUM": {
                     "1": 21
                 },
-                "ABCNUM": 30.0,
+                "ABSNUM": 30.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 7.0,
@@ -3742,7 +3742,7 @@
                     "2": 3,
                     "3": 0
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -3802,7 +3802,7 @@
                     "2": 8,
                     "3": 7
                 },
-                "ABCNUM": 8.0,
+                "ABSNUM": 8.0,
                 "SQRNUM": 6.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -3862,7 +3862,7 @@
                     "2": 15,
                     "3": 14
                 },
-                "ABCNUM": 25.0,
+                "ABSNUM": 25.0,
                 "SQRNUM": 15.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 0.7,
@@ -3922,7 +3922,7 @@
                     "2": 13,
                     "3": 18
                 },
-                "ABCNUM": 21.3,
+                "ABSNUM": 21.3,
                 "SQRNUM": 17.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 3.0,
@@ -3982,7 +3982,7 @@
                     "2": 22,
                     "3": 22
                 },
-                "ABCNUM": 28.7,
+                "ABSNUM": 28.7,
                 "SQRNUM": 24.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 9.7,
@@ -4042,7 +4042,7 @@
                     "2": 23,
                     "3": 21
                 },
-                "ABCNUM": 45.3,
+                "ABSNUM": 45.3,
                 "SQRNUM": 18.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 15.7,
@@ -4094,7 +4094,7 @@
                 "FRBNUM": {
                     "1": 23
                 },
-                "ABCNUM": 50.0,
+                "ABSNUM": 50.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 9.0,
@@ -4146,7 +4146,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 74.0,
+                "ABSNUM": 74.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 17.0,
@@ -4206,7 +4206,7 @@
                     "2": 3,
                     "3": 3
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -4266,7 +4266,7 @@
                     "2": 6,
                     "3": 7
                 },
-                "ABCNUM": 4.7,
+                "ABSNUM": 4.7,
                 "SQRNUM": 7.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -4326,7 +4326,7 @@
                     "2": 12,
                     "3": 11
                 },
-                "ABCNUM": 15.7,
+                "ABSNUM": 15.7,
                 "SQRNUM": 18.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 2.0,
@@ -4386,7 +4386,7 @@
                     "2": 18,
                     "3": 17
                 },
-                "ABCNUM": 34.7,
+                "ABSNUM": 34.7,
                 "SQRNUM": 16.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 2.3,
@@ -4446,7 +4446,7 @@
                     "2": 22,
                     "3": 22
                 },
-                "ABCNUM": 39.3,
+                "ABSNUM": 39.3,
                 "SQRNUM": 17.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 12.7,
@@ -4506,7 +4506,7 @@
                     "2": 22,
                     "3": 20
                 },
-                "ABCNUM": 54.0,
+                "ABSNUM": 54.0,
                 "SQRNUM": 9.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 10.7,
@@ -4558,7 +4558,7 @@
                 "FRBNUM": {
                     "1": 23
                 },
-                "ABCNUM": 45.0,
+                "ABSNUM": 45.0,
                 "SQRNUM": 8.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 17.0,
@@ -4610,7 +4610,7 @@
                 "FRBNUM": {
                     "1": 18
                 },
-                "ABCNUM": 67.0,
+                "ABSNUM": 67.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 5.0,
@@ -4670,7 +4670,7 @@
                     "2": 3,
                     "3": 3
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -4730,7 +4730,7 @@
                     "2": 5,
                     "3": 9
                 },
-                "ABCNUM": 6.0,
+                "ABSNUM": 6.0,
                 "SQRNUM": 3.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -4790,7 +4790,7 @@
                     "2": 11,
                     "3": 13
                 },
-                "ABCNUM": 16.3,
+                "ABSNUM": 16.3,
                 "SQRNUM": 15.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.7,
@@ -4850,7 +4850,7 @@
                     "2": 19,
                     "3": 19
                 },
-                "ABCNUM": 41.0,
+                "ABSNUM": 41.0,
                 "SQRNUM": 28.7,
                 "FLRNUM": 1.0,
                 "GBNUM": 12.3,
@@ -4910,7 +4910,7 @@
                     "2": 21,
                     "3": 21
                 },
-                "ABCNUM": 30.3,
+                "ABSNUM": 30.3,
                 "SQRNUM": 14.3,
                 "FLRNUM": 1.3,
                 "GBNUM": 8.0,
@@ -4970,7 +4970,7 @@
                     "2": 23,
                     "3": 22
                 },
-                "ABCNUM": 54.3,
+                "ABSNUM": 54.3,
                 "SQRNUM": 15.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 8.3,
@@ -5022,7 +5022,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 78.0,
+                "ABSNUM": 78.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 34.0,
@@ -5074,7 +5074,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 179.0,
+                "ABSNUM": 179.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 38.0,
@@ -5134,7 +5134,7 @@
                     "2": 4,
                     "3": 4
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -5194,7 +5194,7 @@
                     "2": 9,
                     "3": 7
                 },
-                "ABCNUM": 10.0,
+                "ABSNUM": 10.0,
                 "SQRNUM": 7.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -5254,7 +5254,7 @@
                     "2": 16,
                     "3": 12
                 },
-                "ABCNUM": 25.7,
+                "ABSNUM": 25.7,
                 "SQRNUM": 16.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 2.3,
@@ -5314,7 +5314,7 @@
                     "2": 18,
                     "3": 17
                 },
-                "ABCNUM": 27.0,
+                "ABSNUM": 27.0,
                 "SQRNUM": 17.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 4.7,
@@ -5374,7 +5374,7 @@
                     "2": 21,
                     "3": 24
                 },
-                "ABCNUM": 39.3,
+                "ABSNUM": 39.3,
                 "SQRNUM": 22.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 7.3,
@@ -5434,7 +5434,7 @@
                     "2": 25,
                     "3": 21
                 },
-                "ABCNUM": 37.0,
+                "ABSNUM": 37.0,
                 "SQRNUM": 10.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 13.0,
@@ -5486,7 +5486,7 @@
                 "FRBNUM": {
                     "1": 24
                 },
-                "ABCNUM": 46.0,
+                "ABSNUM": 46.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 13.0,
@@ -5538,7 +5538,7 @@
                 "FRBNUM": {
                     "1": 19
                 },
-                "ABCNUM": 23.0,
+                "ABSNUM": 23.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 4.0,
@@ -5596,7 +5596,7 @@
                     "2": 3,
                     "3": 4
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -5656,7 +5656,7 @@
                     "2": 8,
                     "3": 8
                 },
-                "ABCNUM": 6.3,
+                "ABSNUM": 6.3,
                 "SQRNUM": 11.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -5716,7 +5716,7 @@
                     "2": 13,
                     "3": 15
                 },
-                "ABCNUM": 17.0,
+                "ABSNUM": 17.0,
                 "SQRNUM": 18.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 1.3,
@@ -5776,7 +5776,7 @@
                     "2": 18,
                     "3": 18
                 },
-                "ABCNUM": 26.3,
+                "ABSNUM": 26.3,
                 "SQRNUM": 22.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 5.7,
@@ -5836,7 +5836,7 @@
                     "2": 23,
                     "3": 18
                 },
-                "ABCNUM": 36.7,
+                "ABSNUM": 36.7,
                 "SQRNUM": 18.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 7.3,
@@ -5896,7 +5896,7 @@
                     "2": 27,
                     "3": 26
                 },
-                "ABCNUM": 68.3,
+                "ABSNUM": 68.3,
                 "SQRNUM": 25.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 12.0,
@@ -5948,7 +5948,7 @@
                 "FRBNUM": {
                     "1": 30
                 },
-                "ABCNUM": 89.0,
+                "ABSNUM": 89.0,
                 "SQRNUM": 32.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 27.0,
@@ -6000,7 +6000,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 60.0,
+                "ABSNUM": 60.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 16.0,
@@ -6060,7 +6060,7 @@
                     "2": 1,
                     "3": 0
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -6120,7 +6120,7 @@
                     "2": 6,
                     "3": 8
                 },
-                "ABCNUM": 5.0,
+                "ABSNUM": 5.0,
                 "SQRNUM": 8.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -6180,7 +6180,7 @@
                     "2": 12,
                     "3": 13
                 },
-                "ABCNUM": 12.7,
+                "ABSNUM": 12.7,
                 "SQRNUM": 18.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.0,
@@ -6240,7 +6240,7 @@
                     "2": 16,
                     "3": 17
                 },
-                "ABCNUM": 17.7,
+                "ABSNUM": 17.7,
                 "SQRNUM": 23.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 3.7,
@@ -6300,7 +6300,7 @@
                     "2": 23,
                     "3": 18
                 },
-                "ABCNUM": 27.0,
+                "ABSNUM": 27.0,
                 "SQRNUM": 19.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 6.7,
@@ -6360,7 +6360,7 @@
                     "2": 25,
                     "3": 26
                 },
-                "ABCNUM": 55.0,
+                "ABSNUM": 55.0,
                 "SQRNUM": 18.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 12.3,
@@ -6412,7 +6412,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 43.0,
+                "ABSNUM": 43.0,
                 "SQRNUM": 21.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 10.0,
@@ -6464,7 +6464,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 61.0,
+                "ABSNUM": 61.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 22.0,
@@ -6524,7 +6524,7 @@
                     "2": 1,
                     "3": 2
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -6584,7 +6584,7 @@
                     "2": 5,
                     "3": 4
                 },
-                "ABCNUM": 3.0,
+                "ABSNUM": 3.0,
                 "SQRNUM": 4.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -6644,7 +6644,7 @@
                     "2": 10,
                     "3": 9
                 },
-                "ABCNUM": 10.7,
+                "ABSNUM": 10.7,
                 "SQRNUM": 10.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 0.7,
@@ -6704,7 +6704,7 @@
                     "2": 13,
                     "3": 12
                 },
-                "ABCNUM": 20.3,
+                "ABSNUM": 20.3,
                 "SQRNUM": 17.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 2.3,
@@ -6764,7 +6764,7 @@
                     "2": 20,
                     "3": 19
                 },
-                "ABCNUM": 35.0,
+                "ABSNUM": 35.0,
                 "SQRNUM": 18.0,
                 "FLRNUM": 1.3,
                 "GBNUM": 11.3,
@@ -6824,7 +6824,7 @@
                     "2": 27,
                     "3": 27
                 },
-                "ABCNUM": 55.7,
+                "ABSNUM": 55.7,
                 "SQRNUM": 20.7,
                 "FLRNUM": 1.7,
                 "GBNUM": 13.3,
@@ -6876,7 +6876,7 @@
                 "FRBNUM": {
                     "1": 19
                 },
-                "ABCNUM": 16.0,
+                "ABSNUM": 16.0,
                 "SQRNUM": 4.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 7.0,
@@ -6928,7 +6928,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 63.0,
+                "ABSNUM": 63.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 23.0,
@@ -6988,7 +6988,7 @@
                     "2": 2,
                     "3": 1
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 1.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -7048,7 +7048,7 @@
                     "2": 7,
                     "3": 9
                 },
-                "ABCNUM": 6.7,
+                "ABSNUM": 6.7,
                 "SQRNUM": 10.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -7108,7 +7108,7 @@
                     "2": 7,
                     "3": 6
                 },
-                "ABCNUM": 8.3,
+                "ABSNUM": 8.3,
                 "SQRNUM": 12.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.7,
@@ -7168,7 +7168,7 @@
                     "2": 15,
                     "3": 17
                 },
-                "ABCNUM": 21.7,
+                "ABSNUM": 21.7,
                 "SQRNUM": 23.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 10.0,
@@ -7228,7 +7228,7 @@
                     "2": 20,
                     "3": 22
                 },
-                "ABCNUM": 44.0,
+                "ABSNUM": 44.0,
                 "SQRNUM": 20.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 13.7,
@@ -7288,7 +7288,7 @@
                     "2": 20,
                     "3": 22
                 },
-                "ABCNUM": 46.0,
+                "ABSNUM": 46.0,
                 "SQRNUM": 16.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 22.3,
@@ -7340,7 +7340,7 @@
                 "FRBNUM": {
                     "1": 29
                 },
-                "ABCNUM": 64.0,
+                "ABSNUM": 64.0,
                 "SQRNUM": 13.0,
                 "FLRNUM": 2.0,
                 "GBNUM": 28.0,
@@ -7392,7 +7392,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 51.0,
+                "ABSNUM": 51.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 25.0,
@@ -7451,7 +7451,7 @@
                     "2": 4,
                     "3": 1
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -7511,7 +7511,7 @@
                     "2": 7,
                     "3": 8
                 },
-                "ABCNUM": 7.0,
+                "ABSNUM": 7.0,
                 "SQRNUM": 10.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -7571,7 +7571,7 @@
                     "2": 14,
                     "3": 7
                 },
-                "ABCNUM": 11.7,
+                "ABSNUM": 11.7,
                 "SQRNUM": 15.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.0,
@@ -7631,7 +7631,7 @@
                     "2": 16,
                     "3": 15
                 },
-                "ABCNUM": 30.3,
+                "ABSNUM": 30.3,
                 "SQRNUM": 20.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 5.0,
@@ -7691,7 +7691,7 @@
                     "2": 22,
                     "3": 15
                 },
-                "ABCNUM": 29.7,
+                "ABSNUM": 29.7,
                 "SQRNUM": 20.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 13.7,
@@ -7751,7 +7751,7 @@
                     "2": 25,
                     "3": 25
                 },
-                "ABCNUM": 58.7,
+                "ABSNUM": 58.7,
                 "SQRNUM": 27.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 8.3,
@@ -7803,7 +7803,7 @@
                 "FRBNUM": {
                     "1": 25
                 },
-                "ABCNUM": 42.0,
+                "ABSNUM": 42.0,
                 "SQRNUM": 9.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 19.0,
@@ -7855,7 +7855,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 49.0,
+                "ABSNUM": 49.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 15.0,
@@ -7914,7 +7914,7 @@
                     "2": 2,
                     "3": 0
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -7974,7 +7974,7 @@
                     "2": 6,
                     "3": 7
                 },
-                "ABCNUM": 5.3,
+                "ABSNUM": 5.3,
                 "SQRNUM": 7.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -8034,7 +8034,7 @@
                     "2": 10,
                     "3": 12
                 },
-                "ABCNUM": 20.0,
+                "ABSNUM": 20.0,
                 "SQRNUM": 9.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.7,
@@ -8094,7 +8094,7 @@
                     "2": 20,
                     "3": 20
                 },
-                "ABCNUM": 33.3,
+                "ABSNUM": 33.3,
                 "SQRNUM": 30.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 5.7,
@@ -8154,7 +8154,7 @@
                     "2": 19,
                     "3": 25
                 },
-                "ABCNUM": 43.7,
+                "ABSNUM": 43.7,
                 "SQRNUM": 30.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 12.3,
@@ -8214,7 +8214,7 @@
                     "2": 25,
                     "3": 20
                 },
-                "ABCNUM": 54.3,
+                "ABSNUM": 54.3,
                 "SQRNUM": 14.3,
                 "FLRNUM": 1.0,
                 "GBNUM": 15.3,
@@ -8266,7 +8266,7 @@
                 "FRBNUM": {
                     "1": 25
                 },
-                "ABCNUM": 41.0,
+                "ABSNUM": 41.0,
                 "SQRNUM": 12.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 18.0,
@@ -8318,7 +8318,7 @@
                 "FRBNUM": {
                     "1": 25
                 },
-                "ABCNUM": 43.0,
+                "ABSNUM": 43.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 12.0,
@@ -8377,7 +8377,7 @@
                     "2": 0,
                     "3": 2
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -8437,7 +8437,7 @@
                     "2": 8,
                     "3": 7
                 },
-                "ABCNUM": 5.3,
+                "ABSNUM": 5.3,
                 "SQRNUM": 10.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -8497,7 +8497,7 @@
                     "2": 13,
                     "3": 13
                 },
-                "ABCNUM": 18.7,
+                "ABSNUM": 18.7,
                 "SQRNUM": 10.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 2.3,
@@ -8557,7 +8557,7 @@
                     "2": 19,
                     "3": 15
                 },
-                "ABCNUM": 22.7,
+                "ABSNUM": 22.7,
                 "SQRNUM": 24.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 3.3,
@@ -8617,7 +8617,7 @@
                     "2": 20,
                     "3": 23
                 },
-                "ABCNUM": 32.0,
+                "ABSNUM": 32.0,
                 "SQRNUM": 21.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 8.0,
@@ -8677,7 +8677,7 @@
                     "2": 24,
                     "3": 22
                 },
-                "ABCNUM": 46.7,
+                "ABSNUM": 46.7,
                 "SQRNUM": 17.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 12.3,
@@ -8729,7 +8729,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 45.0,
+                "ABSNUM": 45.0,
                 "SQRNUM": 18.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 16.0,
@@ -8781,7 +8781,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 68.0,
+                "ABSNUM": 68.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 21.0,
@@ -8840,7 +8840,7 @@
                     "2": 0,
                     "3": 4
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -8900,7 +8900,7 @@
                     "2": 7,
                     "3": 5
                 },
-                "ABCNUM": 4.3,
+                "ABSNUM": 4.3,
                 "SQRNUM": 7.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -8960,7 +8960,7 @@
                     "2": 14,
                     "3": 14
                 },
-                "ABCNUM": 14.0,
+                "ABSNUM": 14.0,
                 "SQRNUM": 17.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 3.7,
@@ -9020,7 +9020,7 @@
                     "2": 21,
                     "3": 17
                 },
-                "ABCNUM": 28.3,
+                "ABSNUM": 28.3,
                 "SQRNUM": 29.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 6.0,
@@ -9080,7 +9080,7 @@
                     "2": 20,
                     "3": 7
                 },
-                "ABCNUM": 36.3,
+                "ABSNUM": 36.3,
                 "SQRNUM": 18.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 10.3,
@@ -9140,7 +9140,7 @@
                     "2": 21,
                     "3": 23
                 },
-                "ABCNUM": 33.3,
+                "ABSNUM": 33.3,
                 "SQRNUM": 8.3,
                 "FLRNUM": 1.3,
                 "GBNUM": 14.7,
@@ -9192,7 +9192,7 @@
                 "FRBNUM": {
                     "1": 20
                 },
-                "ABCNUM": 29.0,
+                "ABSNUM": 29.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 13.0,
@@ -9244,7 +9244,7 @@
                 "FRBNUM": {
                     "1": 24
                 },
-                "ABCNUM": 48.0,
+                "ABSNUM": 48.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 17.0,
@@ -9303,7 +9303,7 @@
                     "2": 2,
                     "3": 0
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -9363,7 +9363,7 @@
                     "2": 7,
                     "3": 10
                 },
-                "ABCNUM": 9.3,
+                "ABSNUM": 9.3,
                 "SQRNUM": 8.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -9423,7 +9423,7 @@
                     "2": 14,
                     "3": 12
                 },
-                "ABCNUM": 16.0,
+                "ABSNUM": 16.0,
                 "SQRNUM": 16.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 2.3,
@@ -9483,7 +9483,7 @@
                     "2": 18,
                     "3": 17
                 },
-                "ABCNUM": 32.0,
+                "ABSNUM": 32.0,
                 "SQRNUM": 25.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 4.7,
@@ -9543,7 +9543,7 @@
                     "2": 21,
                     "3": 22
                 },
-                "ABCNUM": 31.7,
+                "ABSNUM": 31.7,
                 "SQRNUM": 20.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 7.7,
@@ -9603,7 +9603,7 @@
                     "2": 24,
                     "3": 26
                 },
-                "ABCNUM": 57.7,
+                "ABSNUM": 57.7,
                 "SQRNUM": 25.7,
                 "FLRNUM": 1.0,
                 "GBNUM": 8.7,
@@ -9655,7 +9655,7 @@
                 "FRBNUM": {
                     "1": 29
                 },
-                "ABCNUM": 68.0,
+                "ABSNUM": 68.0,
                 "SQRNUM": 17.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 10.0,
@@ -9707,7 +9707,7 @@
                 "FRBNUM": {
                     "1": 29
                 },
-                "ABCNUM": 48.0,
+                "ABSNUM": 48.0,
                 "SQRNUM": 6.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 20.0,
@@ -9767,7 +9767,7 @@
                     "2": 1,
                     "3": 2
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -9827,7 +9827,7 @@
                     "2": 6,
                     "3": 7
                 },
-                "ABCNUM": 8.3,
+                "ABSNUM": 8.3,
                 "SQRNUM": 4.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -9887,7 +9887,7 @@
                     "2": 12,
                     "3": 13
                 },
-                "ABCNUM": 18.7,
+                "ABSNUM": 18.7,
                 "SQRNUM": 11.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.7,
@@ -9947,7 +9947,7 @@
                     "2": 19,
                     "3": 19
                 },
-                "ABCNUM": 35.0,
+                "ABSNUM": 35.0,
                 "SQRNUM": 44.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 7.3,
@@ -10007,7 +10007,7 @@
                     "2": 19,
                     "3": 22
                 },
-                "ABCNUM": 38.0,
+                "ABSNUM": 38.0,
                 "SQRNUM": 24.0,
                 "FLRNUM": 1.3,
                 "GBNUM": 12.0,
@@ -10067,7 +10067,7 @@
                     "2": 28,
                     "3": 21
                 },
-                "ABCNUM": 50.3,
+                "ABSNUM": 50.3,
                 "SQRNUM": 20.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 17.3,
@@ -10119,7 +10119,7 @@
                 "FRBNUM": {
                     "1": 22
                 },
-                "ABCNUM": 23.0,
+                "ABSNUM": 23.0,
                 "SQRNUM": 6.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 8.0,
@@ -10171,7 +10171,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 58.0,
+                "ABSNUM": 58.0,
                 "SQRNUM": 8.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 24.0,
@@ -10230,7 +10230,7 @@
                     "2": 1,
                     "3": 0
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -10290,7 +10290,7 @@
                     "2": 7,
                     "3": 8
                 },
-                "ABCNUM": 5.0,
+                "ABSNUM": 5.0,
                 "SQRNUM": 10.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -10350,7 +10350,7 @@
                     "2": 13,
                     "3": 11
                 },
-                "ABCNUM": 17.3,
+                "ABSNUM": 17.3,
                 "SQRNUM": 16.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 1.0,
@@ -10410,7 +10410,7 @@
                     "2": 16,
                     "3": 18
                 },
-                "ABCNUM": 25.0,
+                "ABSNUM": 25.0,
                 "SQRNUM": 19.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 3.0,
@@ -10470,7 +10470,7 @@
                     "2": 24,
                     "3": 20
                 },
-                "ABCNUM": 38.7,
+                "ABSNUM": 38.7,
                 "SQRNUM": 20.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 15.7,
@@ -10530,7 +10530,7 @@
                     "2": 28,
                     "3": 24
                 },
-                "ABCNUM": 52.0,
+                "ABSNUM": 52.0,
                 "SQRNUM": 19.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 15.7,
@@ -10582,7 +10582,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 65.0,
+                "ABSNUM": 65.0,
                 "SQRNUM": 8.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 18.0,
@@ -10634,7 +10634,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 57.0,
+                "ABSNUM": 57.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 15.0,
@@ -10693,7 +10693,7 @@
                     "2": 2,
                     "3": 0
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -10752,7 +10752,7 @@
                     "2": 5,
                     "3": 6
                 },
-                "ABCNUM": 5.7,
+                "ABSNUM": 5.7,
                 "SQRNUM": 5.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -10812,7 +10812,7 @@
                     "2": 11,
                     "3": 11
                 },
-                "ABCNUM": 17.0,
+                "ABSNUM": 17.0,
                 "SQRNUM": 10.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.0,
@@ -10872,7 +10872,7 @@
                     "2": 15,
                     "3": 18
                 },
-                "ABCNUM": 23.0,
+                "ABSNUM": 23.0,
                 "SQRNUM": 12.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 6.3,
@@ -10932,7 +10932,7 @@
                     "2": 15,
                     "3": 19
                 },
-                "ABCNUM": 26.7,
+                "ABSNUM": 26.7,
                 "SQRNUM": 11.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 8.0,
@@ -10992,7 +10992,7 @@
                     "2": 26,
                     "3": 29
                 },
-                "ABCNUM": 56.0,
+                "ABSNUM": 56.0,
                 "SQRNUM": 34.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 15.7,
@@ -11044,7 +11044,7 @@
                 "FRBNUM": {
                     "1": 21
                 },
-                "ABCNUM": 48.0,
+                "ABSNUM": 48.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 26.0,
@@ -11096,7 +11096,7 @@
                 "FRBNUM": {
                     "1": 24
                 },
-                "ABCNUM": 43.0,
+                "ABSNUM": 43.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 19.0,
@@ -11156,7 +11156,7 @@
                     "2": 2,
                     "3": 5
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 1.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -11216,7 +11216,7 @@
                     "2": 9,
                     "3": 8
                 },
-                "ABCNUM": 8.3,
+                "ABSNUM": 8.3,
                 "SQRNUM": 9.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -11276,7 +11276,7 @@
                     "2": 15,
                     "3": 11
                 },
-                "ABCNUM": 15.0,
+                "ABSNUM": 15.0,
                 "SQRNUM": 18.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 0.7,
@@ -11336,7 +11336,7 @@
                     "2": 18,
                     "3": 20
                 },
-                "ABCNUM": 40.7,
+                "ABSNUM": 40.7,
                 "SQRNUM": 24.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 3.0,
@@ -11396,7 +11396,7 @@
                     "2": 22,
                     "3": 24
                 },
-                "ABCNUM": 48.3,
+                "ABSNUM": 48.3,
                 "SQRNUM": 24.7,
                 "FLRNUM": 2.0,
                 "GBNUM": 11.0,
@@ -11456,7 +11456,7 @@
                     "2": 29,
                     "3": 23
                 },
-                "ABCNUM": 58.0,
+                "ABSNUM": 58.0,
                 "SQRNUM": 25.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 4.0,
@@ -11508,7 +11508,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 51.0,
+                "ABSNUM": 51.0,
                 "SQRNUM": 17.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 11.0,
@@ -11560,7 +11560,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 68.0,
+                "ABSNUM": 68.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 15.0,
@@ -11620,7 +11620,7 @@
                     "2": 3,
                     "3": 4
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -11680,7 +11680,7 @@
                     "2": 8,
                     "3": 3
                 },
-                "ABCNUM": 6.3,
+                "ABSNUM": 6.3,
                 "SQRNUM": 4.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -11740,7 +11740,7 @@
                     "2": 12,
                     "3": 11
                 },
-                "ABCNUM": 15.3,
+                "ABSNUM": 15.3,
                 "SQRNUM": 13.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 1.0,
@@ -11800,7 +11800,7 @@
                     "2": 18,
                     "3": 20
                 },
-                "ABCNUM": 40.3,
+                "ABSNUM": 40.3,
                 "SQRNUM": 25.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 4.0,
@@ -11860,7 +11860,7 @@
                     "2": 22,
                     "3": 23
                 },
-                "ABCNUM": 40.0,
+                "ABSNUM": 40.0,
                 "SQRNUM": 21.3,
                 "FLRNUM": 1.3,
                 "GBNUM": 9.0,
@@ -11920,7 +11920,7 @@
                     "2": 26,
                     "3": 25
                 },
-                "ABCNUM": 61.3,
+                "ABSNUM": 61.3,
                 "SQRNUM": 18.0,
                 "FLRNUM": 2.7,
                 "GBNUM": 11.0,
@@ -11972,7 +11972,7 @@
                 "FRBNUM": {
                     "1": 24
                 },
-                "ABCNUM": 55.0,
+                "ABSNUM": 55.0,
                 "SQRNUM": 4.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 23.0,
@@ -12024,7 +12024,7 @@
                 "FRBNUM": {
                     "1": 25
                 },
-                "ABCNUM": 90.0,
+                "ABSNUM": 90.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 26.0,
@@ -12083,7 +12083,7 @@
                     "2": 4,
                     "3": 0
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -12143,7 +12143,7 @@
                     "2": 7,
                     "3": 8
                 },
-                "ABCNUM": 4.3,
+                "ABSNUM": 4.3,
                 "SQRNUM": 6.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -12203,7 +12203,7 @@
                     "2": 12,
                     "3": 14
                 },
-                "ABCNUM": 20.0,
+                "ABSNUM": 20.0,
                 "SQRNUM": 8.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.0,
@@ -12263,7 +12263,7 @@
                     "2": 19,
                     "3": 17
                 },
-                "ABCNUM": 34.3,
+                "ABSNUM": 34.3,
                 "SQRNUM": 19.3,
                 "FLRNUM": 1.3,
                 "GBNUM": 8.7,
@@ -12323,7 +12323,7 @@
                     "2": 19,
                     "3": 18
                 },
-                "ABCNUM": 30.0,
+                "ABSNUM": 30.0,
                 "SQRNUM": 18.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 6.7,
@@ -12383,7 +12383,7 @@
                     "2": 22,
                     "3": 26
                 },
-                "ABCNUM": 45.7,
+                "ABSNUM": 45.7,
                 "SQRNUM": 18.0,
                 "FLRNUM": 1.3,
                 "GBNUM": 16.0,
@@ -12435,7 +12435,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 61.0,
+                "ABSNUM": 61.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 29.0,
@@ -12487,7 +12487,7 @@
                 "FRBNUM": {
                     "1": 24
                 },
-                "ABCNUM": 43.0,
+                "ABSNUM": 43.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 14.0,
@@ -12547,7 +12547,7 @@
                     "2": 5,
                     "3": 4
                 },
-                "ABCNUM": 2.7,
+                "ABSNUM": 2.7,
                 "SQRNUM": 0.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -12607,7 +12607,7 @@
                     "2": 3,
                     "3": 8
                 },
-                "ABCNUM": 4.7,
+                "ABSNUM": 4.7,
                 "SQRNUM": 6.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -12667,7 +12667,7 @@
                     "2": 9,
                     "3": 13
                 },
-                "ABCNUM": 14.3,
+                "ABSNUM": 14.3,
                 "SQRNUM": 7.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.3,
@@ -12727,7 +12727,7 @@
                     "2": 16,
                     "3": 17
                 },
-                "ABCNUM": 16.3,
+                "ABSNUM": 16.3,
                 "SQRNUM": 12.7,
                 "FLRNUM": 1.0,
                 "GBNUM": 8.7,
@@ -12787,7 +12787,7 @@
                     "2": 19,
                     "3": 21
                 },
-                "ABCNUM": 43.7,
+                "ABSNUM": 43.7,
                 "SQRNUM": 13.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 17.0,
@@ -12847,7 +12847,7 @@
                     "2": 23,
                     "3": 18
                 },
-                "ABCNUM": 35.7,
+                "ABSNUM": 35.7,
                 "SQRNUM": 11.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 12.0,
@@ -12899,7 +12899,7 @@
                 "FRBNUM": {
                     "1": 21
                 },
-                "ABCNUM": 36.0,
+                "ABSNUM": 36.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 2.0,
                 "GBNUM": 11.0,
@@ -12951,7 +12951,7 @@
                 "FRBNUM": {
                     "1": 20
                 },
-                "ABCNUM": 39.0,
+                "ABSNUM": 39.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 8.0,
@@ -13010,7 +13010,7 @@
                     "2": 4,
                     "3": 0
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -13070,7 +13070,7 @@
                     "2": 7,
                     "3": 9
                 },
-                "ABCNUM": 8.7,
+                "ABSNUM": 8.7,
                 "SQRNUM": 8.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -13130,7 +13130,7 @@
                     "2": 13,
                     "3": 12
                 },
-                "ABCNUM": 23.0,
+                "ABSNUM": 23.0,
                 "SQRNUM": 20.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 1.0,
@@ -13190,7 +13190,7 @@
                     "2": 18,
                     "3": 19
                 },
-                "ABCNUM": 36.7,
+                "ABSNUM": 36.7,
                 "SQRNUM": 13.3,
                 "FLRNUM": 1.0,
                 "GBNUM": 2.0,
@@ -13250,7 +13250,7 @@
                     "2": 19,
                     "3": 22
                 },
-                "ABCNUM": 44.0,
+                "ABSNUM": 44.0,
                 "SQRNUM": 21.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 5.0,
@@ -13310,7 +13310,7 @@
                     "2": 28,
                     "3": 26
                 },
-                "ABCNUM": 68.7,
+                "ABSNUM": 68.7,
                 "SQRNUM": 26.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 9.3,
@@ -13362,7 +13362,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 43.0,
+                "ABSNUM": 43.0,
                 "SQRNUM": 22.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 9.0,
@@ -13414,7 +13414,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 56.0,
+                "ABSNUM": 56.0,
                 "SQRNUM": 4.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 21.0,
@@ -13474,7 +13474,7 @@
                     "2": 3,
                     "3": 1
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -13534,7 +13534,7 @@
                     "2": 8,
                     "3": 6
                 },
-                "ABCNUM": 5.0,
+                "ABSNUM": 5.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -13594,7 +13594,7 @@
                     "2": 13,
                     "3": 13
                 },
-                "ABCNUM": 16.7,
+                "ABSNUM": 16.7,
                 "SQRNUM": 13.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.3,
@@ -13654,7 +13654,7 @@
                     "2": 18,
                     "3": 18
                 },
-                "ABCNUM": 34.7,
+                "ABSNUM": 34.7,
                 "SQRNUM": 21.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 4.7,
@@ -13714,7 +13714,7 @@
                     "2": 21,
                     "3": 20
                 },
-                "ABCNUM": 32.0,
+                "ABSNUM": 32.0,
                 "SQRNUM": 17.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 6.0,
@@ -13774,7 +13774,7 @@
                     "2": 25,
                     "3": 26
                 },
-                "ABCNUM": 62.7,
+                "ABSNUM": 62.7,
                 "SQRNUM": 20.0,
                 "FLRNUM": 1.3,
                 "GBNUM": 16.7,
@@ -13826,7 +13826,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 58.0,
+                "ABSNUM": 58.0,
                 "SQRNUM": 9.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 15.0,
@@ -13878,7 +13878,7 @@
                 "FRBNUM": {
                     "1": 22
                 },
-                "ABCNUM": 65.0,
+                "ABSNUM": 65.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 7.0,
@@ -13937,7 +13937,7 @@
                     "2": 2,
                     "3": 0
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -13997,7 +13997,7 @@
                     "2": 10,
                     "3": 7
                 },
-                "ABCNUM": 7.0,
+                "ABSNUM": 7.0,
                 "SQRNUM": 8.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -14057,7 +14057,7 @@
                     "2": 10,
                     "3": 12
                 },
-                "ABCNUM": 20.3,
+                "ABSNUM": 20.3,
                 "SQRNUM": 8.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.3,
@@ -14117,7 +14117,7 @@
                     "2": 18,
                     "3": 18
                 },
-                "ABCNUM": 21.7,
+                "ABSNUM": 21.7,
                 "SQRNUM": 11.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.3,
@@ -14177,7 +14177,7 @@
                     "2": 20,
                     "3": 23
                 },
-                "ABCNUM": 41.7,
+                "ABSNUM": 41.7,
                 "SQRNUM": 19.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 7.7,
@@ -14237,7 +14237,7 @@
                     "2": 24,
                     "3": 25
                 },
-                "ABCNUM": 45.7,
+                "ABSNUM": 45.7,
                 "SQRNUM": 18.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 11.0,
@@ -14289,7 +14289,7 @@
                 "FRBNUM": {
                     "1": 23
                 },
-                "ABCNUM": 47.0,
+                "ABSNUM": 47.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 17.0,
@@ -14341,7 +14341,7 @@
                 "FRBNUM": {
                     "1": 23
                 },
-                "ABCNUM": 38.0,
+                "ABSNUM": 38.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 15.0,
@@ -14401,7 +14401,7 @@
                     "2": 4,
                     "3": 3
                 },
-                "ABCNUM": 1.3,
+                "ABSNUM": 1.3,
                 "SQRNUM": 0.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -14461,7 +14461,7 @@
                     "2": 8,
                     "3": 5
                 },
-                "ABCNUM": 4.0,
+                "ABSNUM": 4.0,
                 "SQRNUM": 5.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -14521,7 +14521,7 @@
                     "2": 14,
                     "3": 14
                 },
-                "ABCNUM": 24.3,
+                "ABSNUM": 24.3,
                 "SQRNUM": 16.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 1.3,
@@ -14581,7 +14581,7 @@
                     "2": 17,
                     "3": 17
                 },
-                "ABCNUM": 30.3,
+                "ABSNUM": 30.3,
                 "SQRNUM": 20.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 8.3,
@@ -14641,7 +14641,7 @@
                     "2": 21,
                     "3": 17
                 },
-                "ABCNUM": 28.3,
+                "ABSNUM": 28.3,
                 "SQRNUM": 22.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 9.7,
@@ -14701,7 +14701,7 @@
                     "2": 28,
                     "3": 25
                 },
-                "ABCNUM": 61.3,
+                "ABSNUM": 61.3,
                 "SQRNUM": 23.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 21.7,
@@ -14753,7 +14753,7 @@
                 "FRBNUM": {
                     "1": 21
                 },
-                "ABCNUM": 26.0,
+                "ABSNUM": 26.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 9.0,
@@ -14805,7 +14805,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 80.0,
+                "ABSNUM": 80.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 29.0,
@@ -14865,7 +14865,7 @@
                     "2": 3,
                     "3": 4
                 },
-                "ABCNUM": 1.3,
+                "ABSNUM": 1.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -14925,7 +14925,7 @@
                     "2": 9,
                     "3": 9
                 },
-                "ABCNUM": 9.0,
+                "ABSNUM": 9.0,
                 "SQRNUM": 8.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -14985,7 +14985,7 @@
                     "2": 13,
                     "3": 13
                 },
-                "ABCNUM": 25.0,
+                "ABSNUM": 25.0,
                 "SQRNUM": 17.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.7,
@@ -15045,7 +15045,7 @@
                     "2": 18,
                     "3": 19
                 },
-                "ABCNUM": 36.0,
+                "ABSNUM": 36.0,
                 "SQRNUM": 30.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 5.3,
@@ -15105,7 +15105,7 @@
                     "2": 21,
                     "3": 23
                 },
-                "ABCNUM": 41.7,
+                "ABSNUM": 41.7,
                 "SQRNUM": 27.0,
                 "FLRNUM": 1.7,
                 "GBNUM": 6.7,
@@ -15165,7 +15165,7 @@
                     "2": 21,
                     "3": 28
                 },
-                "ABCNUM": 64.7,
+                "ABSNUM": 64.7,
                 "SQRNUM": 28.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 13.3,
@@ -15217,7 +15217,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 77.0,
+                "ABSNUM": 77.0,
                 "SQRNUM": 10.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 13.0,
@@ -15269,7 +15269,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 85.0,
+                "ABSNUM": 85.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 2.0,
                 "GBNUM": 20.0,
@@ -15329,7 +15329,7 @@
                     "2": 1,
                     "3": 3
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -15389,7 +15389,7 @@
                     "2": 9,
                     "3": 6
                 },
-                "ABCNUM": 7.7,
+                "ABSNUM": 7.7,
                 "SQRNUM": 5.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -15449,7 +15449,7 @@
                     "2": 13,
                     "3": 12
                 },
-                "ABCNUM": 24.7,
+                "ABSNUM": 24.7,
                 "SQRNUM": 18.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.3,
@@ -15509,7 +15509,7 @@
                     "2": 17,
                     "3": 19
                 },
-                "ABCNUM": 23.3,
+                "ABSNUM": 23.3,
                 "SQRNUM": 16.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 2.3,
@@ -15569,7 +15569,7 @@
                     "2": 19,
                     "3": 23
                 },
-                "ABCNUM": 41.0,
+                "ABSNUM": 41.0,
                 "SQRNUM": 25.3,
                 "FLRNUM": 1.0,
                 "GBNUM": 8.0,
@@ -15629,7 +15629,7 @@
                     "2": 27,
                     "3": 27
                 },
-                "ABCNUM": 52.7,
+                "ABSNUM": 52.7,
                 "SQRNUM": 20.7,
                 "FLRNUM": 1.3,
                 "GBNUM": 12.0,
@@ -15681,7 +15681,7 @@
                 "FRBNUM": {
                     "1": 24
                 },
-                "ABCNUM": 39.0,
+                "ABSNUM": 39.0,
                 "SQRNUM": 23.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 5.0,
@@ -15733,7 +15733,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 56.0,
+                "ABSNUM": 56.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 10.0,
@@ -15791,7 +15791,7 @@
                     "2": 2,
                     "3": 0
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -15851,7 +15851,7 @@
                     "2": 7,
                     "3": 7
                 },
-                "ABCNUM": 3.7,
+                "ABSNUM": 3.7,
                 "SQRNUM": 8.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -15911,7 +15911,7 @@
                     "2": 10,
                     "3": 12
                 },
-                "ABCNUM": 16.7,
+                "ABSNUM": 16.7,
                 "SQRNUM": 16.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.3,
@@ -15971,7 +15971,7 @@
                     "2": 18,
                     "3": 15
                 },
-                "ABCNUM": 35.3,
+                "ABSNUM": 35.3,
                 "SQRNUM": 25.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 6.3,
@@ -16031,7 +16031,7 @@
                     "2": 19,
                     "3": 19
                 },
-                "ABCNUM": 28.3,
+                "ABSNUM": 28.3,
                 "SQRNUM": 12.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 11.3,
@@ -16091,7 +16091,7 @@
                     "2": 22,
                     "3": 20
                 },
-                "ABCNUM": 49.7,
+                "ABSNUM": 49.7,
                 "SQRNUM": 16.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 19.7,
@@ -16143,7 +16143,7 @@
                 "FRBNUM": {
                     "1": 15
                 },
-                "ABCNUM": 14.0,
+                "ABSNUM": 14.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 4.0,
@@ -16195,7 +16195,7 @@
                 "FRBNUM": {
                     "1": 16
                 },
-                "ABCNUM": 17.0,
+                "ABSNUM": 17.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 6.0,
@@ -16255,7 +16255,7 @@
                     "2": 3,
                     "3": 3
                 },
-                "ABCNUM": 1.0,
+                "ABSNUM": 1.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -16315,7 +16315,7 @@
                     "2": 8,
                     "3": 9
                 },
-                "ABCNUM": 9.7,
+                "ABSNUM": 9.7,
                 "SQRNUM": 4.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -16375,7 +16375,7 @@
                     "2": 11,
                     "3": 15
                 },
-                "ABCNUM": 26.0,
+                "ABSNUM": 26.0,
                 "SQRNUM": 18.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 2.0,
@@ -16435,7 +16435,7 @@
                     "2": 16,
                     "3": 19
                 },
-                "ABCNUM": 21.3,
+                "ABSNUM": 21.3,
                 "SQRNUM": 14.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 5.7,
@@ -16495,7 +16495,7 @@
                     "2": 22,
                     "3": 23
                 },
-                "ABCNUM": 34.0,
+                "ABSNUM": 34.0,
                 "SQRNUM": 13.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 7.7,
@@ -16555,7 +16555,7 @@
                     "2": 25,
                     "3": 23
                 },
-                "ABCNUM": 48.7,
+                "ABSNUM": 48.7,
                 "SQRNUM": 10.3,
                 "FLRNUM": 1.3,
                 "GBNUM": 13.3,
@@ -16607,7 +16607,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 52.0,
+                "ABSNUM": 52.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 18.0,
@@ -16659,7 +16659,7 @@
                 "FRBNUM": {
                     "1": 25
                 },
-                "ABCNUM": 58.0,
+                "ABSNUM": 58.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 23.0,
@@ -16718,7 +16718,7 @@
                     "2": 0,
                     "3": 2
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -16778,7 +16778,7 @@
                     "2": 7,
                     "3": 10
                 },
-                "ABCNUM": 9.3,
+                "ABSNUM": 9.3,
                 "SQRNUM": 8.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -16838,7 +16838,7 @@
                     "2": 12,
                     "3": 12
                 },
-                "ABCNUM": 15.7,
+                "ABSNUM": 15.7,
                 "SQRNUM": 12.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 0.3,
@@ -16898,7 +16898,7 @@
                     "2": 17,
                     "3": 18
                 },
-                "ABCNUM": 35.7,
+                "ABSNUM": 35.7,
                 "SQRNUM": 21.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 4.7,
@@ -16958,7 +16958,7 @@
                     "2": 22,
                     "3": 24
                 },
-                "ABCNUM": 47.0,
+                "ABSNUM": 47.0,
                 "SQRNUM": 25.3,
                 "FLRNUM": 1.0,
                 "GBNUM": 8.3,
@@ -17018,7 +17018,7 @@
                     "2": 21,
                     "3": 27
                 },
-                "ABCNUM": 57.3,
+                "ABSNUM": 57.3,
                 "SQRNUM": 16.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 5.7,
@@ -17070,7 +17070,7 @@
                 "FRBNUM": {
                     "1": 32
                 },
-                "ABCNUM": 90.0,
+                "ABSNUM": 90.0,
                 "SQRNUM": 37.0,
                 "FLRNUM": 2.0,
                 "GBNUM": 21.0,
@@ -17122,7 +17122,7 @@
                 "FRBNUM": {
                     "1": 32
                 },
-                "ABCNUM": 82.0,
+                "ABSNUM": 82.0,
                 "SQRNUM": 19.0,
                 "FLRNUM": 2.0,
                 "GBNUM": 13.0,
@@ -17182,7 +17182,7 @@
                     "2": 2,
                     "3": 1
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -17242,7 +17242,7 @@
                     "2": 9,
                     "3": 8
                 },
-                "ABCNUM": 5.7,
+                "ABSNUM": 5.7,
                 "SQRNUM": 9.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -17302,7 +17302,7 @@
                     "2": 14,
                     "3": 13
                 },
-                "ABCNUM": 13.0,
+                "ABSNUM": 13.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 1.3,
@@ -17362,7 +17362,7 @@
                     "2": 18,
                     "3": 19
                 },
-                "ABCNUM": 31.7,
+                "ABSNUM": 31.7,
                 "SQRNUM": 23.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 8.3,
@@ -17422,7 +17422,7 @@
                     "2": 19,
                     "3": 22
                 },
-                "ABCNUM": 32.0,
+                "ABSNUM": 32.0,
                 "SQRNUM": 16.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 10.0,
@@ -17482,7 +17482,7 @@
                     "2": 24,
                     "3": 16
                 },
-                "ABCNUM": 31.0,
+                "ABSNUM": 31.0,
                 "SQRNUM": 13.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 10.7,
@@ -17534,7 +17534,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 49.0,
+                "ABSNUM": 49.0,
                 "SQRNUM": 28.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 21.0,
@@ -17586,7 +17586,7 @@
                 "FRBNUM": {
                     "1": 22
                 },
-                "ABCNUM": 46.0,
+                "ABSNUM": 46.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 12.0,
@@ -17644,7 +17644,7 @@
                     "2": 0,
                     "3": 2
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -17704,7 +17704,7 @@
                     "2": 9,
                     "3": 7
                 },
-                "ABCNUM": 6.7,
+                "ABSNUM": 6.7,
                 "SQRNUM": 6.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -17764,7 +17764,7 @@
                     "2": 14,
                     "3": 11
                 },
-                "ABCNUM": 18.0,
+                "ABSNUM": 18.0,
                 "SQRNUM": 11.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 1.0,
@@ -17824,7 +17824,7 @@
                     "2": 17,
                     "3": 19
                 },
-                "ABCNUM": 35.3,
+                "ABSNUM": 35.3,
                 "SQRNUM": 20.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 7.0,
@@ -17884,7 +17884,7 @@
                     "2": 23,
                     "3": 21
                 },
-                "ABCNUM": 37.0,
+                "ABSNUM": 37.0,
                 "SQRNUM": 25.7,
                 "FLRNUM": 1.0,
                 "GBNUM": 14.0,
@@ -17944,7 +17944,7 @@
                     "2": 23,
                     "3": 22
                 },
-                "ABCNUM": 47.0,
+                "ABSNUM": 47.0,
                 "SQRNUM": 18.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 15.0,
@@ -17996,7 +17996,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 70.0,
+                "ABSNUM": 70.0,
                 "SQRNUM": 9.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 15.0,
@@ -18048,7 +18048,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 53.0,
+                "ABSNUM": 53.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 17.0,
@@ -18107,7 +18107,7 @@
                     "2": 2,
                     "3": 3
                 },
-                "ABCNUM": 1.0,
+                "ABSNUM": 1.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -18167,7 +18167,7 @@
                     "2": 6,
                     "3": 3
                 },
-                "ABCNUM": 5.3,
+                "ABSNUM": 5.3,
                 "SQRNUM": 4.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -18227,7 +18227,7 @@
                     "2": 13,
                     "3": 13
                 },
-                "ABCNUM": 29.7,
+                "ABSNUM": 29.7,
                 "SQRNUM": 8.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.0,
@@ -18287,7 +18287,7 @@
                     "2": 15,
                     "3": 19
                 },
-                "ABCNUM": 33.7,
+                "ABSNUM": 33.7,
                 "SQRNUM": 24.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 3.3,
@@ -18347,7 +18347,7 @@
                     "2": 20,
                     "3": 23
                 },
-                "ABCNUM": 45.3,
+                "ABSNUM": 45.3,
                 "SQRNUM": 19.0,
                 "FLRNUM": 2.0,
                 "GBNUM": 12.7,
@@ -18407,7 +18407,7 @@
                     "2": 19,
                     "3": 21
                 },
-                "ABCNUM": 34.0,
+                "ABSNUM": 34.0,
                 "SQRNUM": 13.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 9.0,
@@ -18459,7 +18459,7 @@
                 "FRBNUM": {
                     "1": 25
                 },
-                "ABCNUM": 51.0,
+                "ABSNUM": 51.0,
                 "SQRNUM": 18.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 15.0,
@@ -18511,7 +18511,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 57.0,
+                "ABSNUM": 57.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 20.0,
@@ -18571,7 +18571,7 @@
                     "2": 3,
                     "3": 3
                 },
-                "ABCNUM": 1.0,
+                "ABSNUM": 1.0,
                 "SQRNUM": 1.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -18631,7 +18631,7 @@
                     "2": 7,
                     "3": 8
                 },
-                "ABCNUM": 8.7,
+                "ABSNUM": 8.7,
                 "SQRNUM": 6.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -18691,7 +18691,7 @@
                     "2": 11,
                     "3": 14
                 },
-                "ABCNUM": 28.7,
+                "ABSNUM": 28.7,
                 "SQRNUM": 12.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.7,
@@ -18751,7 +18751,7 @@
                     "2": 18,
                     "3": 19
                 },
-                "ABCNUM": 37.3,
+                "ABSNUM": 37.3,
                 "SQRNUM": 16.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 5.0,
@@ -18811,7 +18811,7 @@
                     "2": 21,
                     "3": 22
                 },
-                "ABCNUM": 48.0,
+                "ABSNUM": 48.0,
                 "SQRNUM": 19.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 6.0,
@@ -18871,7 +18871,7 @@
                     "2": 26,
                     "3": 26
                 },
-                "ABCNUM": 62.0,
+                "ABSNUM": 62.0,
                 "SQRNUM": 22.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 8.0,
@@ -18923,7 +18923,7 @@
                 "FRBNUM": {
                     "1": 29
                 },
-                "ABCNUM": 83.0,
+                "ABSNUM": 83.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 2.0,
                 "GBNUM": 22.0,
@@ -18975,7 +18975,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 66.0,
+                "ABSNUM": 66.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 19.0,
@@ -19035,7 +19035,7 @@
                     "2": 3,
                     "3": 2
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -19095,7 +19095,7 @@
                     "2": 8,
                     "3": 6
                 },
-                "ABCNUM": 6.0,
+                "ABSNUM": 6.0,
                 "SQRNUM": 5.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -19155,7 +19155,7 @@
                     "2": 12,
                     "3": 14
                 },
-                "ABCNUM": 16.7,
+                "ABSNUM": 16.7,
                 "SQRNUM": 18.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 2.0,
@@ -19215,7 +19215,7 @@
                     "2": 19,
                     "3": 14
                 },
-                "ABCNUM": 19.3,
+                "ABSNUM": 19.3,
                 "SQRNUM": 13.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 6.7,
@@ -19275,7 +19275,7 @@
                     "2": 22,
                     "3": 18
                 },
-                "ABCNUM": 40.0,
+                "ABSNUM": 40.0,
                 "SQRNUM": 18.3,
                 "FLRNUM": 1.0,
                 "GBNUM": 13.7,
@@ -19335,7 +19335,7 @@
                     "2": 27,
                     "3": 30
                 },
-                "ABCNUM": 70.3,
+                "ABSNUM": 70.3,
                 "SQRNUM": 25.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 17.3,
@@ -19387,7 +19387,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 54.0,
+                "ABSNUM": 54.0,
                 "SQRNUM": 8.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 30.0,
@@ -19439,7 +19439,7 @@
                 "FRBNUM": {
                     "1": 23
                 },
-                "ABCNUM": 44.0,
+                "ABSNUM": 44.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 12.0,
@@ -19498,7 +19498,7 @@
                     "2": 3,
                     "3": 0
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -19558,7 +19558,7 @@
                     "2": 7,
                     "3": 9
                 },
-                "ABCNUM": 7.3,
+                "ABSNUM": 7.3,
                 "SQRNUM": 9.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -19618,7 +19618,7 @@
                     "2": 14,
                     "3": 14
                 },
-                "ABCNUM": 25.7,
+                "ABSNUM": 25.7,
                 "SQRNUM": 12.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.0,
@@ -19678,7 +19678,7 @@
                     "2": 18,
                     "3": 18
                 },
-                "ABCNUM": 27.7,
+                "ABSNUM": 27.7,
                 "SQRNUM": 14.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.7,
@@ -19738,7 +19738,7 @@
                     "2": 22,
                     "3": 23
                 },
-                "ABCNUM": 39.0,
+                "ABSNUM": 39.0,
                 "SQRNUM": 13.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 5.3,
@@ -19798,7 +19798,7 @@
                     "2": 23,
                     "3": 27
                 },
-                "ABCNUM": 60.7,
+                "ABSNUM": 60.7,
                 "SQRNUM": 21.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 11.0,
@@ -19850,7 +19850,7 @@
                 "FRBNUM": {
                     "1": 30
                 },
-                "ABCNUM": 62.0,
+                "ABSNUM": 62.0,
                 "SQRNUM": 15.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 22.0,
@@ -19902,7 +19902,7 @@
                 "FRBNUM": {
                     "1": 30
                 },
-                "ABCNUM": 95.0,
+                "ABSNUM": 95.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 37.0,
@@ -19961,7 +19961,7 @@
                     "2": 1,
                     "3": 0
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -20021,7 +20021,7 @@
                     "2": 9,
                     "3": 10
                 },
-                "ABCNUM": 10.7,
+                "ABSNUM": 10.7,
                 "SQRNUM": 6.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -20081,7 +20081,7 @@
                     "2": 14,
                     "3": 9
                 },
-                "ABCNUM": 18.0,
+                "ABSNUM": 18.0,
                 "SQRNUM": 6.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.0,
@@ -20141,7 +20141,7 @@
                     "2": 17,
                     "3": 16
                 },
-                "ABCNUM": 26.7,
+                "ABSNUM": 26.7,
                 "SQRNUM": 11.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 8.3,
@@ -20201,7 +20201,7 @@
                     "2": 23,
                     "3": 18
                 },
-                "ABCNUM": 47.0,
+                "ABSNUM": 47.0,
                 "SQRNUM": 24.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 10.3,
@@ -20261,7 +20261,7 @@
                     "2": 24,
                     "3": 20
                 },
-                "ABCNUM": 37.0,
+                "ABSNUM": 37.0,
                 "SQRNUM": 17.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 12.7,
@@ -20313,7 +20313,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 43.0,
+                "ABSNUM": 43.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 2.0,
                 "GBNUM": 19.0,
@@ -20365,7 +20365,7 @@
                 "FRBNUM": {
                     "1": 24
                 },
-                "ABCNUM": 47.0,
+                "ABSNUM": 47.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 21.0,
@@ -20425,7 +20425,7 @@
                     "2": 2,
                     "3": 2
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -20485,7 +20485,7 @@
                     "2": 9,
                     "3": 8
                 },
-                "ABCNUM": 6.7,
+                "ABSNUM": 6.7,
                 "SQRNUM": 6.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -20545,7 +20545,7 @@
                     "2": 14,
                     "3": 13
                 },
-                "ABCNUM": 22.0,
+                "ABSNUM": 22.0,
                 "SQRNUM": 17.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 1.3,
@@ -20605,7 +20605,7 @@
                     "2": 14,
                     "3": 17
                 },
-                "ABCNUM": 20.0,
+                "ABSNUM": 20.0,
                 "SQRNUM": 18.7,
                 "FLRNUM": 1.0,
                 "GBNUM": 7.3,
@@ -20665,7 +20665,7 @@
                     "2": 16,
                     "3": 16
                 },
-                "ABCNUM": 28.3,
+                "ABSNUM": 28.3,
                 "SQRNUM": 13.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 6.0,
@@ -20725,7 +20725,7 @@
                     "2": 25,
                     "3": 25
                 },
-                "ABCNUM": 49.0,
+                "ABSNUM": 49.0,
                 "SQRNUM": 14.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 14.0,
@@ -20777,7 +20777,7 @@
                 "FRBNUM": {
                     "1": 22
                 },
-                "ABCNUM": 39.0,
+                "ABSNUM": 39.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 17.0,
@@ -20829,7 +20829,7 @@
                 "FRBNUM": {
                     "1": 24
                 },
-                "ABCNUM": 33.0,
+                "ABSNUM": 33.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 17.0,
@@ -20889,7 +20889,7 @@
                     "2": 2,
                     "3": 3
                 },
-                "ABCNUM": 1.0,
+                "ABSNUM": 1.0,
                 "SQRNUM": 0.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -20949,7 +20949,7 @@
                     "2": 6,
                     "3": 9
                 },
-                "ABCNUM": 7.0,
+                "ABSNUM": 7.0,
                 "SQRNUM": 7.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -21009,7 +21009,7 @@
                     "2": 11,
                     "3": 11
                 },
-                "ABCNUM": 13.0,
+                "ABSNUM": 13.0,
                 "SQRNUM": 18.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 3.0,
@@ -21069,7 +21069,7 @@
                     "2": 13,
                     "3": 17
                 },
-                "ABCNUM": 27.7,
+                "ABSNUM": 27.7,
                 "SQRNUM": 29.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 12.3,
@@ -21129,7 +21129,7 @@
                     "2": 18,
                     "3": 20
                 },
-                "ABCNUM": 30.7,
+                "ABSNUM": 30.7,
                 "SQRNUM": 12.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 9.0,
@@ -21189,7 +21189,7 @@
                     "2": 19,
                     "3": 23
                 },
-                "ABCNUM": 40.3,
+                "ABSNUM": 40.3,
                 "SQRNUM": 15.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 12.7,
@@ -21241,7 +21241,7 @@
                 "FRBNUM": {
                     "1": 29
                 },
-                "ABCNUM": 61.0,
+                "ABSNUM": 61.0,
                 "SQRNUM": 29.0,
                 "FLRNUM": 2.0,
                 "GBNUM": 26.0,
@@ -21293,7 +21293,7 @@
                 "FRBNUM": {
                     "1": 29
                 },
-                "ABCNUM": 42.0,
+                "ABSNUM": 42.0,
                 "SQRNUM": 12.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 11.0,
@@ -21353,7 +21353,7 @@
                     "2": 4,
                     "3": 3
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -21413,7 +21413,7 @@
                     "2": 7,
                     "3": 5
                 },
-                "ABCNUM": 6.7,
+                "ABSNUM": 6.7,
                 "SQRNUM": 3.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -21473,7 +21473,7 @@
                     "2": 9,
                     "3": 12
                 },
-                "ABCNUM": 16.3,
+                "ABSNUM": 16.3,
                 "SQRNUM": 13.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.3,
@@ -21533,7 +21533,7 @@
                     "2": 17,
                     "3": 16
                 },
-                "ABCNUM": 19.7,
+                "ABSNUM": 19.7,
                 "SQRNUM": 14.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 5.0,
@@ -21593,7 +21593,7 @@
                     "2": 21,
                     "3": 22
                 },
-                "ABCNUM": 50.7,
+                "ABSNUM": 50.7,
                 "SQRNUM": 26.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 10.0,
@@ -21653,7 +21653,7 @@
                     "2": 26,
                     "3": 24
                 },
-                "ABCNUM": 47.0,
+                "ABSNUM": 47.0,
                 "SQRNUM": 21.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 9.3,
@@ -21705,7 +21705,7 @@
                 "FRBNUM": {
                     "1": 30
                 },
-                "ABCNUM": 75.0,
+                "ABSNUM": 75.0,
                 "SQRNUM": 22.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 23.0,
@@ -21757,7 +21757,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 42.0,
+                "ABSNUM": 42.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 2.0,
                 "GBNUM": 12.0,
@@ -21817,7 +21817,7 @@
                     "2": 2,
                     "3": 1
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -21877,7 +21877,7 @@
                     "2": 7,
                     "3": 8
                 },
-                "ABCNUM": 6.7,
+                "ABSNUM": 6.7,
                 "SQRNUM": 4.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -21937,7 +21937,7 @@
                     "2": 14,
                     "3": 13
                 },
-                "ABCNUM": 16.7,
+                "ABSNUM": 16.7,
                 "SQRNUM": 11.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.3,
@@ -21997,7 +21997,7 @@
                     "2": 15,
                     "3": 16
                 },
-                "ABCNUM": 18.7,
+                "ABSNUM": 18.7,
                 "SQRNUM": 16.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 4.7,
@@ -22057,7 +22057,7 @@
                     "2": 18,
                     "3": 19
                 },
-                "ABCNUM": 28.7,
+                "ABSNUM": 28.7,
                 "SQRNUM": 13.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 9.7,
@@ -22117,7 +22117,7 @@
                     "2": 21,
                     "3": 25
                 },
-                "ABCNUM": 34.3,
+                "ABSNUM": 34.3,
                 "SQRNUM": 14.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 9.3,
@@ -22169,7 +22169,7 @@
                 "FRBNUM": {
                     "1": 21
                 },
-                "ABCNUM": 27.0,
+                "ABSNUM": 27.0,
                 "SQRNUM": 6.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 5.0,
@@ -22221,7 +22221,7 @@
                 "FRBNUM": {
                     "1": 22
                 },
-                "ABCNUM": 30.0,
+                "ABSNUM": 30.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 15.0,
@@ -22280,7 +22280,7 @@
                     "2": 2,
                     "3": 2
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -22340,7 +22340,7 @@
                     "2": 6,
                     "3": 8
                 },
-                "ABCNUM": 6.7,
+                "ABSNUM": 6.7,
                 "SQRNUM": 5.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -22400,7 +22400,7 @@
                     "2": 10,
                     "3": 12
                 },
-                "ABCNUM": 11.0,
+                "ABSNUM": 11.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.0,
@@ -22460,7 +22460,7 @@
                     "2": 15,
                     "3": 17
                 },
-                "ABCNUM": 22.0,
+                "ABSNUM": 22.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 8.3,
@@ -22520,7 +22520,7 @@
                     "2": 20,
                     "3": 12
                 },
-                "ABCNUM": 26.0,
+                "ABSNUM": 26.0,
                 "SQRNUM": 12.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 8.7,
@@ -22580,7 +22580,7 @@
                     "2": 19,
                     "3": 24
                 },
-                "ABCNUM": 45.0,
+                "ABSNUM": 45.0,
                 "SQRNUM": 22.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 12.7,
@@ -22632,7 +22632,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 47.0,
+                "ABSNUM": 47.0,
                 "SQRNUM": 9.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 9.0,
@@ -22684,7 +22684,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 56.0,
+                "ABSNUM": 56.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 14.0,
@@ -22742,7 +22742,7 @@
                     "2": 0,
                     "3": 4
                 },
-                "ABCNUM": 1.0,
+                "ABSNUM": 1.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -22802,7 +22802,7 @@
                     "2": 9,
                     "3": 7
                 },
-                "ABCNUM": 6.0,
+                "ABSNUM": 6.0,
                 "SQRNUM": 7.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -22862,7 +22862,7 @@
                     "2": 13,
                     "3": 11
                 },
-                "ABCNUM": 14.7,
+                "ABSNUM": 14.7,
                 "SQRNUM": 8.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 0.7,
@@ -22922,7 +22922,7 @@
                     "2": 20,
                     "3": 18
                 },
-                "ABCNUM": 32.7,
+                "ABSNUM": 32.7,
                 "SQRNUM": 21.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 4.0,
@@ -22982,7 +22982,7 @@
                     "2": 21,
                     "3": 23
                 },
-                "ABCNUM": 47.0,
+                "ABSNUM": 47.0,
                 "SQRNUM": 25.7,
                 "FLRNUM": 1.7,
                 "GBNUM": 7.3,
@@ -23042,7 +23042,7 @@
                     "2": 27,
                     "3": 28
                 },
-                "ABCNUM": 58.3,
+                "ABSNUM": 58.3,
                 "SQRNUM": 22.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 9.7,
@@ -23094,7 +23094,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 58.0,
+                "ABSNUM": 58.0,
                 "SQRNUM": 11.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 12.0,
@@ -23146,7 +23146,7 @@
                 "FRBNUM": {
                     "1": 29
                 },
-                "ABCNUM": 89.0,
+                "ABSNUM": 89.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 29.0,
@@ -23206,7 +23206,7 @@
                     "2": 3,
                     "3": 2
                 },
-                "ABCNUM": 1.3,
+                "ABSNUM": 1.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -23266,7 +23266,7 @@
                     "2": 5,
                     "3": 6
                 },
-                "ABCNUM": 2.7,
+                "ABSNUM": 2.7,
                 "SQRNUM": 4.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -23326,7 +23326,7 @@
                     "2": 12,
                     "3": 10
                 },
-                "ABCNUM": 24.0,
+                "ABSNUM": 24.0,
                 "SQRNUM": 15.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.3,
@@ -23386,7 +23386,7 @@
                     "2": 17,
                     "3": 15
                 },
-                "ABCNUM": 33.3,
+                "ABSNUM": 33.3,
                 "SQRNUM": 21.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 4.3,
@@ -23446,7 +23446,7 @@
                     "2": 20,
                     "3": 20
                 },
-                "ABCNUM": 36.3,
+                "ABSNUM": 36.3,
                 "SQRNUM": 14.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 5.3,
@@ -23506,7 +23506,7 @@
                     "2": 26,
                     "3": 27
                 },
-                "ABCNUM": 68.3,
+                "ABSNUM": 68.3,
                 "SQRNUM": 21.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 12.7,
@@ -23558,7 +23558,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 58.0,
+                "ABSNUM": 58.0,
                 "SQRNUM": 13.0,
                 "FLRNUM": 3.0,
                 "GBNUM": 24.0,
@@ -23610,7 +23610,7 @@
                 "FRBNUM": {
                     "1": 22
                 },
-                "ABCNUM": 33.0,
+                "ABSNUM": 33.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 10.0,
@@ -23669,7 +23669,7 @@
                     "2": 2,
                     "3": 0
                 },
-                "ABCNUM": 0.7,
+                "ABSNUM": 0.7,
                 "SQRNUM": 0.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -23729,7 +23729,7 @@
                     "2": 8,
                     "3": 8
                 },
-                "ABCNUM": 13.7,
+                "ABSNUM": 13.7,
                 "SQRNUM": 5.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -23789,7 +23789,7 @@
                     "2": 11,
                     "3": 14
                 },
-                "ABCNUM": 18.3,
+                "ABSNUM": 18.3,
                 "SQRNUM": 15.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 2.7,
@@ -23849,7 +23849,7 @@
                     "2": 19,
                     "3": 20
                 },
-                "ABCNUM": 31.7,
+                "ABSNUM": 31.7,
                 "SQRNUM": 23.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 5.0,
@@ -23909,7 +23909,7 @@
                     "2": 23,
                     "3": 22
                 },
-                "ABCNUM": 39.3,
+                "ABSNUM": 39.3,
                 "SQRNUM": 22.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 12.7,
@@ -23969,7 +23969,7 @@
                     "2": 24,
                     "3": 22
                 },
-                "ABCNUM": 45.0,
+                "ABSNUM": 45.0,
                 "SQRNUM": 10.7,
                 "FLRNUM": 1.0,
                 "GBNUM": 14.0,
@@ -24021,7 +24021,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 59.0,
+                "ABSNUM": 59.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 28.0,
@@ -24073,7 +24073,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 49.0,
+                "ABSNUM": 49.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 18.0,
@@ -24133,7 +24133,7 @@
                     "2": 5,
                     "3": 3
                 },
-                "ABCNUM": 1.7,
+                "ABSNUM": 1.7,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -24193,7 +24193,7 @@
                     "2": 8,
                     "3": 7
                 },
-                "ABCNUM": 9.3,
+                "ABSNUM": 9.3,
                 "SQRNUM": 5.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -24253,7 +24253,7 @@
                     "2": 13,
                     "3": 13
                 },
-                "ABCNUM": 17.3,
+                "ABSNUM": 17.3,
                 "SQRNUM": 12.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 1.7,
@@ -24313,7 +24313,7 @@
                     "2": 15,
                     "3": 16
                 },
-                "ABCNUM": 20.7,
+                "ABSNUM": 20.7,
                 "SQRNUM": 13.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 4.7,
@@ -24373,7 +24373,7 @@
                     "2": 20,
                     "3": 20
                 },
-                "ABCNUM": 28.3,
+                "ABSNUM": 28.3,
                 "SQRNUM": 13.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 11.7,
@@ -24433,7 +24433,7 @@
                     "2": 24,
                     "3": 22
                 },
-                "ABCNUM": 51.7,
+                "ABSNUM": 51.7,
                 "SQRNUM": 13.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 17.3,
@@ -24485,7 +24485,7 @@
                 "FRBNUM": {
                     "1": 31
                 },
-                "ABCNUM": 60.0,
+                "ABSNUM": 60.0,
                 "SQRNUM": 23.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 25.0,
@@ -24537,7 +24537,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 68.0,
+                "ABSNUM": 68.0,
                 "SQRNUM": 15.0,
                 "FLRNUM": 2.0,
                 "GBNUM": 29.0,
@@ -24596,7 +24596,7 @@
                     "2": 3,
                     "3": 0
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -24656,7 +24656,7 @@
                     "2": 9,
                     "3": 8
                 },
-                "ABCNUM": 9.3,
+                "ABSNUM": 9.3,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -24716,7 +24716,7 @@
                     "2": 13,
                     "3": 14
                 },
-                "ABCNUM": 23.0,
+                "ABSNUM": 23.0,
                 "SQRNUM": 12.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 1.7,
@@ -24776,7 +24776,7 @@
                     "2": 16,
                     "3": 19
                 },
-                "ABCNUM": 28.3,
+                "ABSNUM": 28.3,
                 "SQRNUM": 23.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 7.3,
@@ -24836,7 +24836,7 @@
                     "2": 18,
                     "3": 19
                 },
-                "ABCNUM": 30.3,
+                "ABSNUM": 30.3,
                 "SQRNUM": 13.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 8.7,
@@ -24896,7 +24896,7 @@
                     "2": 26,
                     "3": 28
                 },
-                "ABCNUM": 62.7,
+                "ABSNUM": 62.7,
                 "SQRNUM": 23.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 19.7,
@@ -24948,7 +24948,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 66.0,
+                "ABSNUM": 66.0,
                 "SQRNUM": 20.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 21.0,
@@ -25000,7 +25000,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 60.0,
+                "ABSNUM": 60.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 20.0,
@@ -25059,7 +25059,7 @@
                     "2": 2,
                     "3": 2
                 },
-                "ABCNUM": 0.3,
+                "ABSNUM": 0.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -25119,7 +25119,7 @@
                     "2": 7,
                     "3": 7
                 },
-                "ABCNUM": 5.7,
+                "ABSNUM": 5.7,
                 "SQRNUM": 7.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -25179,7 +25179,7 @@
                     "2": 12,
                     "3": 14
                 },
-                "ABCNUM": 20.7,
+                "ABSNUM": 20.7,
                 "SQRNUM": 9.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 1.7,
@@ -25239,7 +25239,7 @@
                     "2": 18,
                     "3": 19
                 },
-                "ABCNUM": 21.3,
+                "ABSNUM": 21.3,
                 "SQRNUM": 21.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 6.0,
@@ -25299,7 +25299,7 @@
                     "2": 15,
                     "3": 23
                 },
-                "ABCNUM": 35.0,
+                "ABSNUM": 35.0,
                 "SQRNUM": 21.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 7.3,
@@ -25359,7 +25359,7 @@
                     "2": 30,
                     "3": 26
                 },
-                "ABCNUM": 52.0,
+                "ABSNUM": 52.0,
                 "SQRNUM": 26.0,
                 "FLRNUM": 1.3,
                 "GBNUM": 18.3,
@@ -25411,7 +25411,7 @@
                 "FRBNUM": {
                     "1": 31
                 },
-                "ABCNUM": 73.0,
+                "ABSNUM": 73.0,
                 "SQRNUM": 25.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 37.0,
@@ -25463,7 +25463,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 65.0,
+                "ABSNUM": 65.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 24.0,
@@ -25523,7 +25523,7 @@
                     "2": 3,
                     "3": 3
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -25583,7 +25583,7 @@
                     "2": 9,
                     "3": 8
                 },
-                "ABCNUM": 8.3,
+                "ABSNUM": 8.3,
                 "SQRNUM": 5.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -25643,7 +25643,7 @@
                     "2": 14,
                     "3": 16
                 },
-                "ABCNUM": 26.7,
+                "ABSNUM": 26.7,
                 "SQRNUM": 14.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 2.7,
@@ -25703,7 +25703,7 @@
                     "2": 14,
                     "3": 18
                 },
-                "ABCNUM": 27.3,
+                "ABSNUM": 27.3,
                 "SQRNUM": 11.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 5.3,
@@ -25763,7 +25763,7 @@
                     "2": 17,
                     "3": 19
                 },
-                "ABCNUM": 22.0,
+                "ABSNUM": 22.0,
                 "SQRNUM": 10.3,
                 "FLRNUM": 1.0,
                 "GBNUM": 6.3,
@@ -25823,7 +25823,7 @@
                     "2": 19,
                     "3": 26
                 },
-                "ABCNUM": 38.3,
+                "ABSNUM": 38.3,
                 "SQRNUM": 17.3,
                 "FLRNUM": 1.0,
                 "GBNUM": 13.3,
@@ -25875,7 +25875,7 @@
                 "FRBNUM": {
                     "1": 20
                 },
-                "ABCNUM": 33.0,
+                "ABSNUM": 33.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 14.0,
@@ -25927,7 +25927,7 @@
                 "FRBNUM": {
                     "1": 23
                 },
-                "ABCNUM": 48.0,
+                "ABSNUM": 48.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 21.0,
@@ -25985,7 +25985,7 @@
                     "2": 0,
                     "3": 5
                 },
-                "ABCNUM": 1.0,
+                "ABSNUM": 1.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -26045,7 +26045,7 @@
                     "2": 8,
                     "3": 8
                 },
-                "ABCNUM": 11.0,
+                "ABSNUM": 11.0,
                 "SQRNUM": 8.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -26105,7 +26105,7 @@
                     "2": 14,
                     "3": 13
                 },
-                "ABCNUM": 23.7,
+                "ABSNUM": 23.7,
                 "SQRNUM": 27.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.7,
@@ -26165,7 +26165,7 @@
                     "2": 16,
                     "3": 18
                 },
-                "ABCNUM": 34.0,
+                "ABSNUM": 34.0,
                 "SQRNUM": 14.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 1.7,
@@ -26225,7 +26225,7 @@
                     "2": 19,
                     "3": 25
                 },
-                "ABCNUM": 39.0,
+                "ABSNUM": 39.0,
                 "SQRNUM": 21.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 4.7,
@@ -26285,7 +26285,7 @@
                     "2": 24,
                     "3": 26
                 },
-                "ABCNUM": 51.0,
+                "ABSNUM": 51.0,
                 "SQRNUM": 20.0,
                 "FLRNUM": 1.7,
                 "GBNUM": 7.0,
@@ -26337,7 +26337,7 @@
                 "FRBNUM": {
                     "1": 29
                 },
-                "ABCNUM": 59.0,
+                "ABSNUM": 59.0,
                 "SQRNUM": 9.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 25.0,
@@ -26389,7 +26389,7 @@
                 "FRBNUM": {
                     "1": 31
                 },
-                "ABCNUM": 80.0,
+                "ABSNUM": 80.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 28.0,
@@ -26449,7 +26449,7 @@
                     "2": 4,
                     "3": 2
                 },
-                "ABCNUM": 1.7,
+                "ABSNUM": 1.7,
                 "SQRNUM": 0.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -26509,7 +26509,7 @@
                     "2": 9,
                     "3": 7
                 },
-                "ABCNUM": 7.0,
+                "ABSNUM": 7.0,
                 "SQRNUM": 8.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -26569,7 +26569,7 @@
                     "2": 15,
                     "3": 12
                 },
-                "ABCNUM": 16.3,
+                "ABSNUM": 16.3,
                 "SQRNUM": 20.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 4.0,
@@ -26629,7 +26629,7 @@
                     "2": 15,
                     "3": 18
                 },
-                "ABCNUM": 25.7,
+                "ABSNUM": 25.7,
                 "SQRNUM": 17.7,
                 "FLRNUM": 0.7,
                 "GBNUM": 8.0,
@@ -26689,7 +26689,7 @@
                     "2": 22,
                     "3": 24
                 },
-                "ABCNUM": 45.3,
+                "ABSNUM": 45.3,
                 "SQRNUM": 21.7,
                 "FLRNUM": 1.0,
                 "GBNUM": 15.7,
@@ -26749,7 +26749,7 @@
                     "2": 25,
                     "3": 21
                 },
-                "ABCNUM": 41.7,
+                "ABSNUM": 41.7,
                 "SQRNUM": 18.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 10.3,
@@ -26801,7 +26801,7 @@
                 "FRBNUM": {
                     "1": 24
                 },
-                "ABCNUM": 38.0,
+                "ABSNUM": 38.0,
                 "SQRNUM": 9.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 13.0,
@@ -26853,7 +26853,7 @@
                 "FRBNUM": {
                     "1": 25
                 },
-                "ABCNUM": 82.0,
+                "ABSNUM": 82.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 18.0,
@@ -26913,7 +26913,7 @@
                     "2": 4,
                     "3": 5
                 },
-                "ABCNUM": 3.7,
+                "ABSNUM": 3.7,
                 "SQRNUM": 0.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -26973,7 +26973,7 @@
                     "2": 8,
                     "3": 8
                 },
-                "ABCNUM": 7.3,
+                "ABSNUM": 7.3,
                 "SQRNUM": 7.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -27033,7 +27033,7 @@
                     "2": 15,
                     "3": 16
                 },
-                "ABCNUM": 25.7,
+                "ABSNUM": 25.7,
                 "SQRNUM": 18.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 2.0,
@@ -27093,7 +27093,7 @@
                     "2": 18,
                     "3": 20
                 },
-                "ABCNUM": 42.3,
+                "ABSNUM": 42.3,
                 "SQRNUM": 19.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 5.3,
@@ -27153,7 +27153,7 @@
                     "2": 16,
                     "3": 21
                 },
-                "ABCNUM": 27.7,
+                "ABSNUM": 27.7,
                 "SQRNUM": 12.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 3.3,
@@ -27213,7 +27213,7 @@
                     "2": 25,
                     "3": 22
                 },
-                "ABCNUM": 54.0,
+                "ABSNUM": 54.0,
                 "SQRNUM": 19.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 8.3,
@@ -27265,7 +27265,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 58.0,
+                "ABSNUM": 58.0,
                 "SQRNUM": 9.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 13.0,
@@ -27317,7 +27317,7 @@
                 "FRBNUM": {
                     "1": 30
                 },
-                "ABCNUM": 86.0,
+                "ABSNUM": 86.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 21.0,
@@ -27376,7 +27376,7 @@
                     "2": 4,
                     "3": 3
                 },
-                "ABCNUM": 1.3,
+                "ABSNUM": 1.3,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -27436,7 +27436,7 @@
                     "2": 7,
                     "3": 5
                 },
-                "ABCNUM": 8.7,
+                "ABSNUM": 8.7,
                 "SQRNUM": 2.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -27496,7 +27496,7 @@
                     "2": 13,
                     "3": 11
                 },
-                "ABCNUM": 21.7,
+                "ABSNUM": 21.7,
                 "SQRNUM": 16.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 1.0,
@@ -27556,7 +27556,7 @@
                     "2": 18,
                     "3": 17
                 },
-                "ABCNUM": 32.0,
+                "ABSNUM": 32.0,
                 "SQRNUM": 16.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 3.0,
@@ -27616,7 +27616,7 @@
                     "2": 21,
                     "3": 22
                 },
-                "ABCNUM": 45.3,
+                "ABSNUM": 45.3,
                 "SQRNUM": 21.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 10.7,
@@ -27676,7 +27676,7 @@
                     "2": 26,
                     "3": 26
                 },
-                "ABCNUM": 54.0,
+                "ABSNUM": 54.0,
                 "SQRNUM": 28.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 14.0,
@@ -27728,7 +27728,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 55.0,
+                "ABSNUM": 55.0,
                 "SQRNUM": 16.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 16.0,
@@ -27780,7 +27780,7 @@
                 "FRBNUM": {
                     "1": 25
                 },
-                "ABCNUM": 58.0,
+                "ABSNUM": 58.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 16.0,
@@ -27840,7 +27840,7 @@
                     "2": 2,
                     "3": 2
                 },
-                "ABCNUM": 1.0,
+                "ABSNUM": 1.0,
                 "SQRNUM": 0.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -27900,7 +27900,7 @@
                     "2": 0,
                     "3": 8
                 },
-                "ABCNUM": 4.7,
+                "ABSNUM": 4.7,
                 "SQRNUM": 4.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -27960,7 +27960,7 @@
                     "2": 13,
                     "3": 15
                 },
-                "ABCNUM": 32.7,
+                "ABSNUM": 32.7,
                 "SQRNUM": 23.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.0,
@@ -28020,7 +28020,7 @@
                     "2": 19,
                     "3": 21
                 },
-                "ABCNUM": 36.7,
+                "ABSNUM": 36.7,
                 "SQRNUM": 33.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 4.0,
@@ -28080,7 +28080,7 @@
                     "2": 24,
                     "3": 25
                 },
-                "ABCNUM": 56.3,
+                "ABSNUM": 56.3,
                 "SQRNUM": 33.7,
                 "FLRNUM": 1.0,
                 "GBNUM": 13.7,
@@ -28140,7 +28140,7 @@
                     "2": 27,
                     "3": 19
                 },
-                "ABCNUM": 52.7,
+                "ABSNUM": 52.7,
                 "SQRNUM": 17.0,
                 "FLRNUM": 0.7,
                 "GBNUM": 10.0,
@@ -28192,7 +28192,7 @@
                 "FRBNUM": {
                     "1": 29
                 },
-                "ABCNUM": 67.0,
+                "ABSNUM": 67.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 28.0,
@@ -28244,7 +28244,7 @@
                 "FRBNUM": {
                     "1": 26
                 },
-                "ABCNUM": 50.0,
+                "ABSNUM": 50.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 15.0,
@@ -28302,7 +28302,7 @@
                     "2": 0,
                     "3": 2
                 },
-                "ABCNUM": 0.0,
+                "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -28362,7 +28362,7 @@
                     "2": 9,
                     "3": 8
                 },
-                "ABCNUM": 6.3,
+                "ABSNUM": 6.3,
                 "SQRNUM": 8.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -28422,7 +28422,7 @@
                     "2": 14,
                     "3": 10
                 },
-                "ABCNUM": 19.3,
+                "ABSNUM": 19.3,
                 "SQRNUM": 11.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.7,
@@ -28482,7 +28482,7 @@
                     "2": 16,
                     "3": 18
                 },
-                "ABCNUM": 39.0,
+                "ABSNUM": 39.0,
                 "SQRNUM": 26.7,
                 "FLRNUM": 1.3,
                 "GBNUM": 7.0,
@@ -28542,7 +28542,7 @@
                     "2": 20,
                     "3": 23
                 },
-                "ABCNUM": 41.3,
+                "ABSNUM": 41.3,
                 "SQRNUM": 14.3,
                 "FLRNUM": 0.3,
                 "GBNUM": 12.0,
@@ -28602,7 +28602,7 @@
                     "2": 26,
                     "3": 19
                 },
-                "ABCNUM": 43.7,
+                "ABSNUM": 43.7,
                 "SQRNUM": 14.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 12.7,
@@ -28654,7 +28654,7 @@
                 "FRBNUM": {
                     "1": 17
                 },
-                "ABCNUM": 33.0,
+                "ABSNUM": 33.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 6.0,
@@ -28706,7 +28706,7 @@
                 "FRBNUM": {
                     "1": 25
                 },
-                "ABCNUM": 46.0,
+                "ABSNUM": 46.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 7.0,
@@ -28766,7 +28766,7 @@
                     "2": 4,
                     "3": 1
                 },
-                "ABCNUM": 1.0,
+                "ABSNUM": 1.0,
                 "SQRNUM": 0.3,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -28826,7 +28826,7 @@
                     "2": 6,
                     "3": 8
                 },
-                "ABCNUM": 6.0,
+                "ABSNUM": 6.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -28886,7 +28886,7 @@
                     "2": 14,
                     "3": 10
                 },
-                "ABCNUM": 19.7,
+                "ABSNUM": 19.7,
                 "SQRNUM": 16.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 0.7,
@@ -28946,7 +28946,7 @@
                     "2": 13,
                     "3": 16
                 },
-                "ABCNUM": 22.7,
+                "ABSNUM": 22.7,
                 "SQRNUM": 10.3,
                 "FLRNUM": 0.7,
                 "GBNUM": 5.7,
@@ -29006,7 +29006,7 @@
                     "2": 20,
                     "3": 13
                 },
-                "ABCNUM": 25.7,
+                "ABSNUM": 25.7,
                 "SQRNUM": 8.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 5.7,
@@ -29066,7 +29066,7 @@
                     "2": 23,
                     "3": 21
                 },
-                "ABCNUM": 40.7,
+                "ABSNUM": 40.7,
                 "SQRNUM": 14.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 13.0,
@@ -29118,7 +29118,7 @@
                 "FRBNUM": {
                     "1": 23
                 },
-                "ABCNUM": 41.0,
+                "ABSNUM": 41.0,
                 "SQRNUM": 8.0,
                 "FLRNUM": 1.0,
                 "GBNUM": 17.0,
@@ -29170,7 +29170,7 @@
                 "FRBNUM": {
                     "1": 19
                 },
-                "ABCNUM": 13.0,
+                "ABSNUM": 13.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 4.0,
@@ -29230,7 +29230,7 @@
                     "2": 3,
                     "3": 3
                 },
-                "ABCNUM": 1.3,
+                "ABSNUM": 1.3,
                 "SQRNUM": 0.7,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -29290,7 +29290,7 @@
                     "2": 8,
                     "3": 9
                 },
-                "ABCNUM": 7.7,
+                "ABSNUM": 7.7,
                 "SQRNUM": 7.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 0.0,
@@ -29350,7 +29350,7 @@
                     "2": 12,
                     "3": 7
                 },
-                "ABCNUM": 16.0,
+                "ABSNUM": 16.0,
                 "SQRNUM": 10.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 1.7,
@@ -29410,7 +29410,7 @@
                     "2": 17,
                     "3": 14
                 },
-                "ABCNUM": 29.7,
+                "ABSNUM": 29.7,
                 "SQRNUM": 15.7,
                 "FLRNUM": 0.3,
                 "GBNUM": 2.3,
@@ -29470,7 +29470,7 @@
                     "2": 23,
                     "3": 23
                 },
-                "ABCNUM": 42.3,
+                "ABSNUM": 42.3,
                 "SQRNUM": 24.7,
                 "FLRNUM": 1.7,
                 "GBNUM": 13.0,
@@ -29530,7 +29530,7 @@
                     "2": 24,
                     "3": 26
                 },
-                "ABCNUM": 49.7,
+                "ABSNUM": 49.7,
                 "SQRNUM": 17.0,
                 "FLRNUM": 0.3,
                 "GBNUM": 16.0,
@@ -29582,7 +29582,7 @@
                 "FRBNUM": {
                     "1": 28
                 },
-                "ABCNUM": 57.0,
+                "ABSNUM": 57.0,
                 "SQRNUM": 9.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 19.0,
@@ -29634,7 +29634,7 @@
                 "FRBNUM": {
                     "1": 27
                 },
-                "ABCNUM": 65.0,
+                "ABSNUM": 65.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
                 "GBNUM": 31.0,
