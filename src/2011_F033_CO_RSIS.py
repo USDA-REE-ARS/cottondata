@@ -598,7 +598,7 @@ for feature in layer:
                 LAID = float(rowl.iloc[0][doycol])
                 laidata.update({key:round(LAID,2)})
         if laidata:
-            mycc.setproperty('LAIDF',laidata)
+            mycc.setproperty('LAID_FLD',laidata)
     spaddata = dict()
     rows = ccs.loc[ccs['CCID'] == cc_label]
     if not rows.empty:
@@ -668,7 +668,7 @@ for feature in layer:
         mypa.setproperty('PSDATE',row.iloc[0]['PSDATE'].strftime('%m/%d/%Y'))
     items={'SQRNUM':1,'FLRNUM':1,'GBNUM':1,'MBNUM':1,
            'LWPD':2,'SWPD':2,'CWPD':2,'LWAD':1,'SWAD':1,'PWAD':1,
-           'CWAD':1,'LAIDL':3}
+           'CWAD':1,'LAID_LAB':3}
     for item in items.keys():
         if not math.isnan(row.iloc[0][item]):
             value = round(float(row.iloc[0][item]),items[item])

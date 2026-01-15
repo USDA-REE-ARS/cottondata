@@ -483,7 +483,7 @@ for feature in layer:
                 LAID = float(rowl.iloc[0][doycol])
                 laidata.update({key:round(LAID,2)})
         if laidata:
-            mycc.setproperty('LAIDF',laidata)
+            mycc.setproperty('LAID_FLD',laidata)
     rowden = ccden.loc[ccden['CCID'] == cc_label]
     if not rowden.empty:
         if not math.isnan(rowden.iloc[0]['PLPD']):
@@ -546,8 +546,8 @@ for feature in layer:
             mypa.setproperty(item,padata)
     items={'ABSNUM':1,'SQRNUM':1,'FLRNUM':1,'GBNUM':1,'MBNUM':1,
            'LWPD':2,'SWPD':2,'CWPD':2,'LWAD':1,'SWAD':1,'PWAD':1,
-           'CWAD':1,'LAIDL':3,'SDPB':1,'BBFRAC':3,'BSFRAC':3,
-           'BFFRAC':3,'CHTD':2,'CWID':2,'LAIDF':3}
+           'CWAD':1,'LAID_LAB':3,'SDPB':1,'BBFRAC':3,'BSFRAC':3,
+           'BFFRAC':3,'CHTD':2,'CWID':2,'LAID_FLD':3}
     for item in items.keys():
         if not math.isnan(row.iloc[0][item]):
             value = round(float(row.iloc[0][item]),items[item])

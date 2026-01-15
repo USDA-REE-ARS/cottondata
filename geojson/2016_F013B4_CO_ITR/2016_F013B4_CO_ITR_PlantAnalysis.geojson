@@ -54,7 +54,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 65.3,
-                "LAIDL": 0.062
+                "LAID_LAB": 0.062
             },
             "_id": "683759fd8ac547fa609e2e18",
             "paid": "683759fd8ac547fa609e2e18"
@@ -114,7 +114,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 5.5,
                 "CWAD": 811.9,
-                "LAIDL": 0.726
+                "LAID_LAB": 0.726
             },
             "_id": "683759fd8ac547fa609e2e19",
             "paid": "683759fd8ac547fa609e2e19"
@@ -174,7 +174,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 56.9,
                 "CWAD": 2511.0,
-                "LAIDL": 2.402
+                "LAID_LAB": 2.402
             },
             "_id": "683759fd8ac547fa609e2e1a",
             "paid": "683759fd8ac547fa609e2e1a"
@@ -234,7 +234,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 657.0,
                 "CWAD": 5245.1,
-                "LAIDL": 3.825
+                "LAID_LAB": 3.825
             },
             "_id": "683759fd8ac547fa609e2e1b",
             "paid": "683759fd8ac547fa609e2e1b"
@@ -294,7 +294,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2555.3,
                 "CWAD": 10966.2,
-                "LAIDL": 6.885
+                "LAID_LAB": 6.885
             },
             "_id": "683759fd8ac547fa609e2e1c",
             "paid": "683759fd8ac547fa609e2e1c"
@@ -354,7 +354,7 @@
                 "MBWAD": 155.5,
                 "PWAD": 2603.5,
                 "CWAD": 8172.2,
-                "LAIDL": 4.736
+                "LAID_LAB": 4.736
             },
             "_id": "683759fd8ac547fa609e2e1d",
             "paid": "683759fd8ac547fa609e2e1d"
@@ -406,7 +406,7 @@
                 "MBWAD": 1640.3,
                 "PWAD": 4873.3,
                 "CWAD": 10776.7,
-                "LAIDL": 4.259
+                "LAID_LAB": 4.259
             },
             "_id": "683759fd8ac547fa609e2e1e",
             "paid": "683759fd8ac547fa609e2e1e"
@@ -458,7 +458,7 @@
                 "MBWAD": 5442.7,
                 "PWAD": 10303.3,
                 "CWAD": 21049.0,
-                "LAIDL": 6.261
+                "LAID_LAB": 6.261
             },
             "_id": "683759fd8ac547fa609e2e1f",
             "paid": "683759fd8ac547fa609e2e1f"
@@ -517,7 +517,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 109.0,
-                "LAIDL": 0.103
+                "LAID_LAB": 0.103
             },
             "_id": "683759fd8ac547fa609e2e20",
             "paid": "683759fd8ac547fa609e2e20"
@@ -577,7 +577,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 13.3,
                 "CWAD": 708.1,
-                "LAIDL": 0.678
+                "LAID_LAB": 0.678
             },
             "_id": "683759fd8ac547fa609e2e21",
             "paid": "683759fd8ac547fa609e2e21"
@@ -637,7 +637,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 88.9,
                 "CWAD": 2745.4,
-                "LAIDL": 2.793
+                "LAID_LAB": 2.793
             },
             "_id": "683759fd8ac547fa609e2e22",
             "paid": "683759fd8ac547fa609e2e22"
@@ -697,7 +697,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 554.5,
                 "CWAD": 7379.8,
-                "LAIDL": 6.06
+                "LAID_LAB": 6.06
             },
             "_id": "683759fd8ac547fa609e2e23",
             "paid": "683759fd8ac547fa609e2e23"
@@ -757,7 +757,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1552.3,
                 "CWAD": 9793.1,
-                "LAIDL": 7.203
+                "LAID_LAB": 7.203
             },
             "_id": "683759fd8ac547fa609e2e24",
             "paid": "683759fd8ac547fa609e2e24"
@@ -813,7 +813,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3645.7,
                 "CWAD": 19209.9,
-                "LAIDL": 11.261
+                "LAID_LAB": 11.261
             },
             "_id": "683759fd8ac547fa609e2e25",
             "paid": "683759fd8ac547fa609e2e25"
@@ -865,7 +865,7 @@
                 "MBWAD": 899.2,
                 "PWAD": 3109.8,
                 "CWAD": 14426.8,
-                "LAIDL": 7.1
+                "LAID_LAB": 7.1
             },
             "_id": "683759fd8ac547fa609e2e26",
             "paid": "683759fd8ac547fa609e2e26"
@@ -917,7 +917,7 @@
                 "MBWAD": 979.7,
                 "PWAD": 6614.4,
                 "CWAD": 20793.9,
-                "LAIDL": 8.88
+                "LAID_LAB": 8.88
             },
             "_id": "683759fd8ac547fa609e2e27",
             "paid": "683759fd8ac547fa609e2e27"
@@ -976,7 +976,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 98.0,
-                "LAIDL": 0.094
+                "LAID_LAB": 0.094
             },
             "_id": "683759fd8ac547fa609e2e28",
             "paid": "683759fd8ac547fa609e2e28"
@@ -1036,7 +1036,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 27.5,
                 "CWAD": 1148.2,
-                "LAIDL": 0.998
+                "LAID_LAB": 0.998
             },
             "_id": "683759fd8ac547fa609e2e29",
             "paid": "683759fd8ac547fa609e2e29"
@@ -1096,7 +1096,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 104.1,
                 "CWAD": 2563.7,
-                "LAIDL": 2.336
+                "LAID_LAB": 2.336
             },
             "_id": "683759fd8ac547fa609e2e2a",
             "paid": "683759fd8ac547fa609e2e2a"
@@ -1156,7 +1156,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 926.0,
                 "CWAD": 7158.3,
-                "LAIDL": 5.244
+                "LAID_LAB": 5.244
             },
             "_id": "683759fd8ac547fa609e2e2b",
             "paid": "683759fd8ac547fa609e2e2b"
@@ -1216,7 +1216,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1755.7,
                 "CWAD": 6040.2,
-                "LAIDL": 3.696
+                "LAID_LAB": 3.696
             },
             "_id": "683759fd8ac547fa609e2e2c",
             "paid": "683759fd8ac547fa609e2e2c"
@@ -1276,7 +1276,7 @@
                 "MBWAD": 349.2,
                 "PWAD": 4674.1,
                 "CWAD": 12279.6,
-                "LAIDL": 5.878
+                "LAID_LAB": 5.878
             },
             "_id": "683759fd8ac547fa609e2e2d",
             "paid": "683759fd8ac547fa609e2e2d"
@@ -1328,7 +1328,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 9025.8,
                 "CWAD": 20874.4,
-                "LAIDL": 7.983
+                "LAID_LAB": 7.983
             },
             "_id": "683759fd8ac547fa609e2e2e",
             "paid": "683759fd8ac547fa609e2e2e"
@@ -1380,7 +1380,7 @@
                 "MBWAD": 825.5,
                 "PWAD": 3481.3,
                 "CWAD": 9586.5,
-                "LAIDL": 4.307
+                "LAID_LAB": 4.307
             },
             "_id": "683759fd8ac547fa609e2e2f",
             "paid": "683759fd8ac547fa609e2e2f"
@@ -1439,7 +1439,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 191.4,
-                "LAIDL": 0.196
+                "LAID_LAB": 0.196
             },
             "_id": "683759fd8ac547fa609e2e30",
             "paid": "683759fd8ac547fa609e2e30"
@@ -1499,7 +1499,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 19.4,
                 "CWAD": 925.7,
-                "LAIDL": 0.849
+                "LAID_LAB": 0.849
             },
             "_id": "683759fd8ac547fa609e2e31",
             "paid": "683759fd8ac547fa609e2e31"
@@ -1559,7 +1559,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 147.8,
                 "CWAD": 2117.2,
-                "LAIDL": 1.971
+                "LAID_LAB": 1.971
             },
             "_id": "683759fd8ac547fa609e2e32",
             "paid": "683759fd8ac547fa609e2e32"
@@ -1619,7 +1619,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 611.4,
                 "CWAD": 4356.6,
-                "LAIDL": 3.296
+                "LAID_LAB": 3.296
             },
             "_id": "683759fd8ac547fa609e2e33",
             "paid": "683759fd8ac547fa609e2e33"
@@ -1679,7 +1679,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1858.5,
                 "CWAD": 10143.0,
-                "LAIDL": 6.589
+                "LAID_LAB": 6.589
             },
             "_id": "683759fd8ac547fa609e2e34",
             "paid": "683759fd8ac547fa609e2e34"
@@ -1739,7 +1739,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2508.1,
                 "CWAD": 9089.9,
-                "LAIDL": 4.76
+                "LAID_LAB": 4.76
             },
             "_id": "683759fd8ac547fa609e2e35",
             "paid": "683759fd8ac547fa609e2e35"
@@ -1791,7 +1791,7 @@
                 "MBWAD": 1044.7,
                 "PWAD": 3428.0,
                 "CWAD": 9338.2,
-                "LAIDL": 4.272
+                "LAID_LAB": 4.272
             },
             "_id": "683759fd8ac547fa609e2e36",
             "paid": "683759fd8ac547fa609e2e36"
@@ -1843,7 +1843,7 @@
                 "MBWAD": 1439.5,
                 "PWAD": 3688.9,
                 "CWAD": 7930.7,
-                "LAIDL": 2.362
+                "LAID_LAB": 2.362
             },
             "_id": "683759fd8ac547fa609e2e37",
             "paid": "683759fd8ac547fa609e2e37"
@@ -1901,7 +1901,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.6,
                 "CWAD": 131.9,
-                "LAIDL": 0.122
+                "LAID_LAB": 0.122
             },
             "_id": "683759fd8ac547fa609e2e38",
             "paid": "683759fd8ac547fa609e2e38"
@@ -1961,7 +1961,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 13.9,
                 "CWAD": 1169.5,
-                "LAIDL": 1.017
+                "LAID_LAB": 1.017
             },
             "_id": "683759fd8ac547fa609e2e39",
             "paid": "683759fd8ac547fa609e2e39"
@@ -2021,7 +2021,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 109.0,
                 "CWAD": 3108.8,
-                "LAIDL": 3.053
+                "LAID_LAB": 3.053
             },
             "_id": "683759fd8ac547fa609e2e3a",
             "paid": "683759fd8ac547fa609e2e3a"
@@ -2081,7 +2081,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 356.3,
                 "CWAD": 7202.9,
-                "LAIDL": 6.256
+                "LAID_LAB": 6.256
             },
             "_id": "683759fd8ac547fa609e2e3b",
             "paid": "683759fd8ac547fa609e2e3b"
@@ -2141,7 +2141,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 780.5,
                 "CWAD": 9563.2,
-                "LAIDL": 7.373
+                "LAID_LAB": 7.373
             },
             "_id": "683759fd8ac547fa609e2e3c",
             "paid": "683759fd8ac547fa609e2e3c"
@@ -2201,7 +2201,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1311.1,
                 "CWAD": 11059.6,
-                "LAIDL": 6.663
+                "LAID_LAB": 6.663
             },
             "_id": "683759fd8ac547fa609e2e3d",
             "paid": "683759fd8ac547fa609e2e3d"
@@ -2253,7 +2253,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 4772.4,
                 "CWAD": 21033.5,
-                "LAIDL": 9.651
+                "LAID_LAB": 9.651
             },
             "_id": "683759fd8ac547fa609e2e3e",
             "paid": "683759fd8ac547fa609e2e3e"
@@ -2305,7 +2305,7 @@
                 "MBWAD": 916.6,
                 "PWAD": 2675.3,
                 "CWAD": 11112.3,
-                "LAIDL": 4.764
+                "LAID_LAB": 4.764
             },
             "_id": "683759fd8ac547fa609e2e3f",
             "paid": "683759fd8ac547fa609e2e3f"
@@ -2365,7 +2365,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 167.8,
-                "LAIDL": 0.154
+                "LAID_LAB": 0.154
             },
             "_id": "683759fd8ac547fa609e2e40",
             "paid": "683759fd8ac547fa609e2e40"
@@ -2425,7 +2425,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 24.2,
                 "CWAD": 1011.1,
-                "LAIDL": 0.851
+                "LAID_LAB": 0.851
             },
             "_id": "683759fd8ac547fa609e2e41",
             "paid": "683759fd8ac547fa609e2e41"
@@ -2485,7 +2485,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 98.3,
                 "CWAD": 2463.5,
-                "LAIDL": 2.344
+                "LAID_LAB": 2.344
             },
             "_id": "683759fd8ac547fa609e2e42",
             "paid": "683759fd8ac547fa609e2e42"
@@ -2545,7 +2545,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 835.5,
                 "CWAD": 5572.6,
-                "LAIDL": 3.904
+                "LAID_LAB": 3.904
             },
             "_id": "683759fd8ac547fa609e2e43",
             "paid": "683759fd8ac547fa609e2e43"
@@ -2605,7 +2605,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3083.6,
                 "CWAD": 11764.8,
-                "LAIDL": 7.44
+                "LAID_LAB": 7.44
             },
             "_id": "683759fd8ac547fa609e2e44",
             "paid": "683759fd8ac547fa609e2e44"
@@ -2665,7 +2665,7 @@
                 "MBWAD": 154.2,
                 "PWAD": 2060.0,
                 "CWAD": 10351.8,
-                "LAIDL": 6.301
+                "LAID_LAB": 6.301
             },
             "_id": "683759fd8ac547fa609e2e45",
             "paid": "683759fd8ac547fa609e2e45"
@@ -2717,7 +2717,7 @@
                 "MBWAD": 2397.8,
                 "PWAD": 4729.7,
                 "CWAD": 14635.4,
-                "LAIDL": 7.042
+                "LAID_LAB": 7.042
             },
             "_id": "683759fd8ac547fa609e2e46",
             "paid": "683759fd8ac547fa609e2e46"
@@ -2769,7 +2769,7 @@
                 "MBWAD": 5854.9,
                 "PWAD": 7543.7,
                 "CWAD": 17125.3,
-                "LAIDL": 7.787
+                "LAID_LAB": 7.787
             },
             "_id": "683759fd8ac547fa609e2e47",
             "paid": "683759fd8ac547fa609e2e47"
@@ -2829,7 +2829,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 162.6,
-                "LAIDL": 0.139
+                "LAID_LAB": 0.139
             },
             "_id": "683759fd8ac547fa609e2e48",
             "paid": "683759fd8ac547fa609e2e48"
@@ -2889,7 +2889,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 15.5,
                 "CWAD": 1069.3,
-                "LAIDL": 0.995
+                "LAID_LAB": 0.995
             },
             "_id": "683759fd8ac547fa609e2e49",
             "paid": "683759fd8ac547fa609e2e49"
@@ -2949,7 +2949,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 119.3,
                 "CWAD": 3620.4,
-                "LAIDL": 3.471
+                "LAID_LAB": 3.471
             },
             "_id": "683759fd8ac547fa609e2e4a",
             "paid": "683759fd8ac547fa609e2e4a"
@@ -3009,7 +3009,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 290.0,
                 "CWAD": 5585.9,
-                "LAIDL": 4.907
+                "LAID_LAB": 4.907
             },
             "_id": "683759fd8ac547fa609e2e4b",
             "paid": "683759fd8ac547fa609e2e4b"
@@ -3069,7 +3069,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 230.9,
                 "CWAD": 7619.0,
-                "LAIDL": 5.859
+                "LAID_LAB": 5.859
             },
             "_id": "683759fd8ac547fa609e2e4c",
             "paid": "683759fd8ac547fa609e2e4c"
@@ -3129,7 +3129,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2550.1,
                 "CWAD": 11104.9,
-                "LAIDL": 5.653
+                "LAID_LAB": 5.653
             },
             "_id": "683759fd8ac547fa609e2e4d",
             "paid": "683759fd8ac547fa609e2e4d"
@@ -3181,7 +3181,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 4678.3,
                 "CWAD": 18560.0,
-                "LAIDL": 6.934
+                "LAID_LAB": 6.934
             },
             "_id": "683759fd8ac547fa609e2e4e",
             "paid": "683759fd8ac547fa609e2e4e"
@@ -3233,7 +3233,7 @@
                 "MBWAD": 1554.9,
                 "PWAD": 8186.8,
                 "CWAD": 21454.5,
-                "LAIDL": 7.605
+                "LAID_LAB": 7.605
             },
             "_id": "683759fd8ac547fa609e2e4f",
             "paid": "683759fd8ac547fa609e2e4f"
@@ -3292,7 +3292,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1.0,
                 "CWAD": 167.5,
-                "LAIDL": 0.151
+                "LAID_LAB": 0.151
             },
             "_id": "683759fd8ac547fa609e2e50",
             "paid": "683759fd8ac547fa609e2e50"
@@ -3352,7 +3352,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 17.5,
                 "CWAD": 952.5,
-                "LAIDL": 0.829
+                "LAID_LAB": 0.829
             },
             "_id": "683759fd8ac547fa609e2e51",
             "paid": "683759fd8ac547fa609e2e51"
@@ -3412,7 +3412,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 97.0,
                 "CWAD": 2088.1,
-                "LAIDL": 1.911
+                "LAID_LAB": 1.911
             },
             "_id": "683759fd8ac547fa609e2e52",
             "paid": "683759fd8ac547fa609e2e52"
@@ -3472,7 +3472,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 932.5,
                 "CWAD": 4251.5,
-                "LAIDL": 2.725
+                "LAID_LAB": 2.725
             },
             "_id": "683759fd8ac547fa609e2e53",
             "paid": "683759fd8ac547fa609e2e53"
@@ -3532,7 +3532,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2050.9,
                 "CWAD": 6027.9,
-                "LAIDL": 3.594
+                "LAID_LAB": 3.594
             },
             "_id": "683759fd8ac547fa609e2e54",
             "paid": "683759fd8ac547fa609e2e54"
@@ -3592,7 +3592,7 @@
                 "MBWAD": 1036.6,
                 "PWAD": 4580.7,
                 "CWAD": 10909.9,
-                "LAIDL": 4.736
+                "LAID_LAB": 4.736
             },
             "_id": "683759fd8ac547fa609e2e55",
             "paid": "683759fd8ac547fa609e2e55"
@@ -3644,7 +3644,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1061.2,
                 "CWAD": 4761.7,
-                "LAIDL": 2.316
+                "LAID_LAB": 2.316
             },
             "_id": "683759fd8ac547fa609e2e56",
             "paid": "683759fd8ac547fa609e2e56"
@@ -3696,7 +3696,7 @@
                 "MBWAD": 4472.7,
                 "PWAD": 7394.3,
                 "CWAD": 14019.4,
-                "LAIDL": 3.927
+                "LAID_LAB": 3.927
             },
             "_id": "683759fd8ac547fa609e2e57",
             "paid": "683759fd8ac547fa609e2e57"
@@ -3755,7 +3755,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 92.5,
-                "LAIDL": 0.095
+                "LAID_LAB": 0.095
             },
             "_id": "683759fd8ac547fa609e2e58",
             "paid": "683759fd8ac547fa609e2e58"
@@ -3815,7 +3815,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 19.1,
                 "CWAD": 1152.7,
-                "LAIDL": 0.959
+                "LAID_LAB": 0.959
             },
             "_id": "683759fd8ac547fa609e2e59",
             "paid": "683759fd8ac547fa609e2e59"
@@ -3875,7 +3875,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 108.0,
                 "CWAD": 3971.2,
-                "LAIDL": 3.782
+                "LAID_LAB": 3.782
             },
             "_id": "683759fd8ac547fa609e2e5a",
             "paid": "683759fd8ac547fa609e2e5a"
@@ -3935,7 +3935,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 370.5,
                 "CWAD": 4311.6,
-                "LAIDL": 3.101
+                "LAID_LAB": 3.101
             },
             "_id": "683759fd8ac547fa609e2e5b",
             "paid": "683759fd8ac547fa609e2e5b"
@@ -3995,7 +3995,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1295.9,
                 "CWAD": 7215.2,
-                "LAIDL": 4.8
+                "LAID_LAB": 4.8
             },
             "_id": "683759fd8ac547fa609e2e5c",
             "paid": "683759fd8ac547fa609e2e5c"
@@ -4055,7 +4055,7 @@
                 "MBWAD": 105.4,
                 "PWAD": 4026.5,
                 "CWAD": 13207.5,
-                "LAIDL": 7.029
+                "LAID_LAB": 7.029
             },
             "_id": "683759fd8ac547fa609e2e5d",
             "paid": "683759fd8ac547fa609e2e5d"
@@ -4107,7 +4107,7 @@
                 "MBWAD": 1516.1,
                 "PWAD": 4934.4,
                 "CWAD": 12496.5,
-                "LAIDL": 5.248
+                "LAID_LAB": 5.248
             },
             "_id": "683759fd8ac547fa609e2e5e",
             "paid": "683759fd8ac547fa609e2e5e"
@@ -4159,7 +4159,7 @@
                 "MBWAD": 2962.4,
                 "PWAD": 8282.8,
                 "CWAD": 20356.4,
-                "LAIDL": 7.362
+                "LAID_LAB": 7.362
             },
             "_id": "683759fd8ac547fa609e2e5f",
             "paid": "683759fd8ac547fa609e2e5f"
@@ -4219,7 +4219,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 168.1,
-                "LAIDL": 0.167
+                "LAID_LAB": 0.167
             },
             "_id": "683759fd8ac547fa609e2e60",
             "paid": "683759fd8ac547fa609e2e60"
@@ -4279,7 +4279,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 24.9,
                 "CWAD": 1155.9,
-                "LAIDL": 1.021
+                "LAID_LAB": 1.021
             },
             "_id": "683759fd8ac547fa609e2e61",
             "paid": "683759fd8ac547fa609e2e61"
@@ -4339,7 +4339,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 122.5,
                 "CWAD": 3954.0,
-                "LAIDL": 3.704
+                "LAID_LAB": 3.704
             },
             "_id": "683759fd8ac547fa609e2e62",
             "paid": "683759fd8ac547fa609e2e62"
@@ -4399,7 +4399,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 370.2,
                 "CWAD": 6691.1,
-                "LAIDL": 5.327
+                "LAID_LAB": 5.327
             },
             "_id": "683759fd8ac547fa609e2e63",
             "paid": "683759fd8ac547fa609e2e63"
@@ -4459,7 +4459,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1639.6,
                 "CWAD": 11601.2,
-                "LAIDL": 7.654
+                "LAID_LAB": 7.654
             },
             "_id": "683759fd8ac547fa609e2e64",
             "paid": "683759fd8ac547fa609e2e64"
@@ -4519,7 +4519,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2240.1,
                 "CWAD": 11285.0,
-                "LAIDL": 4.926
+                "LAID_LAB": 4.926
             },
             "_id": "683759fd8ac547fa609e2e65",
             "paid": "683759fd8ac547fa609e2e65"
@@ -4571,7 +4571,7 @@
                 "MBWAD": 324.9,
                 "PWAD": 3420.2,
                 "CWAD": 11269.5,
-                "LAIDL": 5.897
+                "LAID_LAB": 5.897
             },
             "_id": "683759fd8ac547fa609e2e66",
             "paid": "683759fd8ac547fa609e2e66"
@@ -4623,7 +4623,7 @@
                 "MBWAD": 1801.3,
                 "PWAD": 3635.6,
                 "CWAD": 14274.5,
-                "LAIDL": 6.224
+                "LAID_LAB": 6.224
             },
             "_id": "683759fd8ac547fa609e2e67",
             "paid": "683759fd8ac547fa609e2e67"
@@ -4683,7 +4683,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 116.7,
-                "LAIDL": 0.116
+                "LAID_LAB": 0.116
             },
             "_id": "683759fd8ac547fa609e2e68",
             "paid": "683759fd8ac547fa609e2e68"
@@ -4743,7 +4743,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 9.1,
                 "CWAD": 908.6,
-                "LAIDL": 0.876
+                "LAID_LAB": 0.876
             },
             "_id": "683759fd8ac547fa609e2e69",
             "paid": "683759fd8ac547fa609e2e69"
@@ -4803,7 +4803,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 120.0,
                 "CWAD": 3654.6,
-                "LAIDL": 3.271
+                "LAID_LAB": 3.271
             },
             "_id": "683759fd8ac547fa609e2e6a",
             "paid": "683759fd8ac547fa609e2e6a"
@@ -4863,7 +4863,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1786.1,
                 "CWAD": 11196.1,
-                "LAIDL": 8.158
+                "LAID_LAB": 8.158
             },
             "_id": "683759fd8ac547fa609e2e6b",
             "paid": "683759fd8ac547fa609e2e6b"
@@ -4923,7 +4923,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1068.6,
                 "CWAD": 7304.4,
-                "LAIDL": 4.723
+                "LAID_LAB": 4.723
             },
             "_id": "683759fd8ac547fa609e2e6c",
             "paid": "683759fd8ac547fa609e2e6c"
@@ -4983,7 +4983,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2117.8,
                 "CWAD": 10475.0,
-                "LAIDL": 5.747
+                "LAID_LAB": 5.747
             },
             "_id": "683759fd8ac547fa609e2e6d",
             "paid": "683759fd8ac547fa609e2e6d"
@@ -5035,7 +5035,7 @@
                 "MBWAD": 2394.0,
                 "PWAD": 10259.7,
                 "CWAD": 28325.0,
-                "LAIDL": 9.865
+                "LAID_LAB": 9.865
             },
             "_id": "683759fd8ac547fa609e2e6e",
             "paid": "683759fd8ac547fa609e2e6e"
@@ -5087,7 +5087,7 @@
                 "MBWAD": 3537.6,
                 "PWAD": 17036.1,
                 "CWAD": 47165.3,
-                "LAIDL": 13.967
+                "LAID_LAB": 13.967
             },
             "_id": "683759fd8ac547fa609e2e6f",
             "paid": "683759fd8ac547fa609e2e6f"
@@ -5147,7 +5147,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 222.1,
-                "LAIDL": 0.207
+                "LAID_LAB": 0.207
             },
             "_id": "683759fd8ac547fa609e2e70",
             "paid": "683759fd8ac547fa609e2e70"
@@ -5207,7 +5207,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 29.7,
                 "CWAD": 1465.3,
-                "LAIDL": 1.286
+                "LAID_LAB": 1.286
             },
             "_id": "683759fd8ac547fa609e2e71",
             "paid": "683759fd8ac547fa609e2e71"
@@ -5267,7 +5267,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 205.0,
                 "CWAD": 4530.2,
-                "LAIDL": 4.038
+                "LAID_LAB": 4.038
             },
             "_id": "683759fd8ac547fa609e2e72",
             "paid": "683759fd8ac547fa609e2e72"
@@ -5327,7 +5327,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 359.2,
                 "CWAD": 4957.0,
-                "LAIDL": 4.03
+                "LAID_LAB": 4.03
             },
             "_id": "683759fd8ac547fa609e2e73",
             "paid": "683759fd8ac547fa609e2e73"
@@ -5387,7 +5387,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 933.5,
                 "CWAD": 7742.9,
-                "LAIDL": 5.077
+                "LAID_LAB": 5.077
             },
             "_id": "683759fd8ac547fa609e2e74",
             "paid": "683759fd8ac547fa609e2e74"
@@ -5447,7 +5447,7 @@
                 "MBWAD": 171.0,
                 "PWAD": 2336.1,
                 "CWAD": 9704.2,
-                "LAIDL": 5.418
+                "LAID_LAB": 5.418
             },
             "_id": "683759fd8ac547fa609e2e75",
             "paid": "683759fd8ac547fa609e2e75"
@@ -5499,7 +5499,7 @@
                 "MBWAD": 1498.6,
                 "PWAD": 6509.7,
                 "CWAD": 15148.5,
-                "LAIDL": 5.146
+                "LAID_LAB": 5.146
             },
             "_id": "683759fd8ac547fa609e2e76",
             "paid": "683759fd8ac547fa609e2e76"
@@ -5551,7 +5551,7 @@
                 "MBWAD": 1024.3,
                 "PWAD": 2652.9,
                 "CWAD": 6964.6,
-                "LAIDL": 2.873
+                "LAID_LAB": 2.873
             },
             "_id": "683759fd8ac547fa609e2e77",
             "paid": "683759fd8ac547fa609e2e77"
@@ -5609,7 +5609,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 102.5,
-                "LAIDL": 0.096
+                "LAID_LAB": 0.096
             },
             "_id": "683759fd8ac547fa609e2e78",
             "paid": "683759fd8ac547fa609e2e78"
@@ -5669,7 +5669,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 18.1,
                 "CWAD": 1081.9,
-                "LAIDL": 0.991
+                "LAID_LAB": 0.991
             },
             "_id": "683759fd8ac547fa609e2e79",
             "paid": "683759fd8ac547fa609e2e79"
@@ -5729,7 +5729,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 116.7,
                 "CWAD": 3703.5,
-                "LAIDL": 3.595
+                "LAID_LAB": 3.595
             },
             "_id": "683759fd8ac547fa609e2e7a",
             "paid": "683759fd8ac547fa609e2e7a"
@@ -5789,7 +5789,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 592.0,
                 "CWAD": 7190.9,
-                "LAIDL": 6.017
+                "LAID_LAB": 6.017
             },
             "_id": "683759fd8ac547fa609e2e7b",
             "paid": "683759fd8ac547fa609e2e7b"
@@ -5849,7 +5849,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 871.7,
                 "CWAD": 8296.4,
-                "LAIDL": 6.374
+                "LAID_LAB": 6.374
             },
             "_id": "683759fd8ac547fa609e2e7c",
             "paid": "683759fd8ac547fa609e2e7c"
@@ -5909,7 +5909,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2157.0,
                 "CWAD": 14796.7,
-                "LAIDL": 8.991
+                "LAID_LAB": 8.991
             },
             "_id": "683759fd8ac547fa609e2e7d",
             "paid": "683759fd8ac547fa609e2e7d"
@@ -5961,7 +5961,7 @@
                 "MBWAD": 184.3,
                 "PWAD": 5277.8,
                 "CWAD": 22152.9,
-                "LAIDL": 10.548
+                "LAID_LAB": 10.548
             },
             "_id": "683759fd8ac547fa609e2e7e",
             "paid": "683759fd8ac547fa609e2e7e"
@@ -6013,7 +6013,7 @@
                 "MBWAD": 573.3,
                 "PWAD": 4357.2,
                 "CWAD": 16133.0,
-                "LAIDL": 5.78
+                "LAID_LAB": 5.78
             },
             "_id": "683759fd8ac547fa609e2e7f",
             "paid": "683759fd8ac547fa609e2e7f"
@@ -6073,7 +6073,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 117.4,
-                "LAIDL": 0.107
+                "LAID_LAB": 0.107
             },
             "_id": "683759fd8ac547fa609e2e80",
             "paid": "683759fd8ac547fa609e2e80"
@@ -6133,7 +6133,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 16.8,
                 "CWAD": 807.7,
-                "LAIDL": 0.759
+                "LAID_LAB": 0.759
             },
             "_id": "683759fd8ac547fa609e2e81",
             "paid": "683759fd8ac547fa609e2e81"
@@ -6193,7 +6193,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 60.1,
                 "CWAD": 2613.8,
-                "LAIDL": 2.581
+                "LAID_LAB": 2.581
             },
             "_id": "683759fd8ac547fa609e2e82",
             "paid": "683759fd8ac547fa609e2e82"
@@ -6253,7 +6253,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 340.1,
                 "CWAD": 6801.0,
-                "LAIDL": 5.665
+                "LAID_LAB": 5.665
             },
             "_id": "683759fd8ac547fa609e2e83",
             "paid": "683759fd8ac547fa609e2e83"
@@ -6313,7 +6313,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 691.0,
                 "CWAD": 5971.3,
-                "LAIDL": 4.409
+                "LAID_LAB": 4.409
             },
             "_id": "683759fd8ac547fa609e2e84",
             "paid": "683759fd8ac547fa609e2e84"
@@ -6373,7 +6373,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2914.8,
                 "CWAD": 13798.6,
-                "LAIDL": 7.65
+                "LAID_LAB": 7.65
             },
             "_id": "683759fd8ac547fa609e2e85",
             "paid": "683759fd8ac547fa609e2e85"
@@ -6425,7 +6425,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1888.6,
                 "CWAD": 13819.6,
-                "LAIDL": 7.404
+                "LAID_LAB": 7.404
             },
             "_id": "683759fd8ac547fa609e2e86",
             "paid": "683759fd8ac547fa609e2e86"
@@ -6477,7 +6477,7 @@
                 "MBWAD": 3368.8,
                 "PWAD": 10212.2,
                 "CWAD": 26801.1,
-                "LAIDL": 10.039
+                "LAID_LAB": 10.039
             },
             "_id": "683759fd8ac547fa609e2e87",
             "paid": "683759fd8ac547fa609e2e87"
@@ -6537,7 +6537,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 77.3,
-                "LAIDL": 0.07
+                "LAID_LAB": 0.07
             },
             "_id": "683759fd8ac547fa609e2e88",
             "paid": "683759fd8ac547fa609e2e88"
@@ -6597,7 +6597,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 4.8,
                 "CWAD": 470.1,
-                "LAIDL": 0.444
+                "LAID_LAB": 0.444
             },
             "_id": "683759fd8ac547fa609e2e89",
             "paid": "683759fd8ac547fa609e2e89"
@@ -6657,7 +6657,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 50.4,
                 "CWAD": 2061.9,
-                "LAIDL": 2.074
+                "LAID_LAB": 2.074
             },
             "_id": "683759fd8ac547fa609e2e8a",
             "paid": "683759fd8ac547fa609e2e8a"
@@ -6717,7 +6717,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 226.0,
                 "CWAD": 4155.2,
-                "LAIDL": 3.742
+                "LAID_LAB": 3.742
             },
             "_id": "683759fd8ac547fa609e2e8b",
             "paid": "683759fd8ac547fa609e2e8b"
@@ -6777,7 +6777,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1375.5,
                 "CWAD": 8674.7,
-                "LAIDL": 6.04
+                "LAID_LAB": 6.04
             },
             "_id": "683759fd8ac547fa609e2e8c",
             "paid": "683759fd8ac547fa609e2e8c"
@@ -6837,7 +6837,7 @@
                 "MBWAD": 194.0,
                 "PWAD": 3034.5,
                 "CWAD": 13367.6,
-                "LAIDL": 7.36
+                "LAID_LAB": 7.36
             },
             "_id": "683759fd8ac547fa609e2e8d",
             "paid": "683759fd8ac547fa609e2e8d"
@@ -6889,7 +6889,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1609.2,
                 "CWAD": 4967.4,
-                "LAIDL": 2.877
+                "LAID_LAB": 2.877
             },
             "_id": "683759fd8ac547fa609e2e8e",
             "paid": "683759fd8ac547fa609e2e8e"
@@ -6941,7 +6941,7 @@
                 "MBWAD": 1775.1,
                 "PWAD": 8450.6,
                 "CWAD": 22319.7,
-                "LAIDL": 8.271
+                "LAID_LAB": 8.271
             },
             "_id": "683759fd8ac547fa609e2e8f",
             "paid": "683759fd8ac547fa609e2e8f"
@@ -7001,7 +7001,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 152.0,
-                "LAIDL": 0.14
+                "LAID_LAB": 0.14
             },
             "_id": "683759fd8ac547fa609e2e90",
             "paid": "683759fd8ac547fa609e2e90"
@@ -7061,7 +7061,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 28.8,
                 "CWAD": 1178.2,
-                "LAIDL": 0.92
+                "LAID_LAB": 0.92
             },
             "_id": "683759fd8ac547fa609e2e91",
             "paid": "683759fd8ac547fa609e2e91"
@@ -7121,7 +7121,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 110.3,
                 "CWAD": 1942.9,
-                "LAIDL": 1.689
+                "LAID_LAB": 1.689
             },
             "_id": "683759fd8ac547fa609e2e92",
             "paid": "683759fd8ac547fa609e2e92"
@@ -7181,7 +7181,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 964.2,
                 "CWAD": 5411.6,
-                "LAIDL": 3.016
+                "LAID_LAB": 3.016
             },
             "_id": "683759fd8ac547fa609e2e93",
             "paid": "683759fd8ac547fa609e2e93"
@@ -7241,7 +7241,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2991.8,
                 "CWAD": 9215.0,
-                "LAIDL": 5.055
+                "LAID_LAB": 5.055
             },
             "_id": "683759fd8ac547fa609e2e94",
             "paid": "683759fd8ac547fa609e2e94"
@@ -7301,7 +7301,7 @@
                 "MBWAD": 237.6,
                 "PWAD": 4855.8,
                 "CWAD": 12905.2,
-                "LAIDL": 5.843
+                "LAID_LAB": 5.843
             },
             "_id": "683759fd8ac547fa609e2e95",
             "paid": "683759fd8ac547fa609e2e95"
@@ -7353,7 +7353,7 @@
                 "MBWAD": 894.3,
                 "PWAD": 6263.3,
                 "CWAD": 16300.8,
-                "LAIDL": 6.47
+                "LAID_LAB": 6.47
             },
             "_id": "683759fd8ac547fa609e2e96",
             "paid": "683759fd8ac547fa609e2e96"
@@ -7405,7 +7405,7 @@
                 "MBWAD": 2305.7,
                 "PWAD": 9616.6,
                 "CWAD": 19730.8,
-                "LAIDL": 6.269
+                "LAID_LAB": 6.269
             },
             "_id": "683759fd8ac547fa609e2e97",
             "paid": "683759fd8ac547fa609e2e97"
@@ -7464,7 +7464,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 121.2,
-                "LAIDL": 0.115
+                "LAID_LAB": 0.115
             },
             "_id": "683759fd8ac547fa609e2e98",
             "paid": "683759fd8ac547fa609e2e98"
@@ -7524,7 +7524,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 16.5,
                 "CWAD": 1112.3,
-                "LAIDL": 0.974
+                "LAID_LAB": 0.974
             },
             "_id": "683759fd8ac547fa609e2e99",
             "paid": "683759fd8ac547fa609e2e99"
@@ -7584,7 +7584,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 111.6,
                 "CWAD": 2903.9,
-                "LAIDL": 2.317
+                "LAID_LAB": 2.317
             },
             "_id": "683759fd8ac547fa609e2e9a",
             "paid": "683759fd8ac547fa609e2e9a"
@@ -7644,7 +7644,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 863.9,
                 "CWAD": 6199.6,
-                "LAIDL": 3.929
+                "LAID_LAB": 3.929
             },
             "_id": "683759fd8ac547fa609e2e9b",
             "paid": "683759fd8ac547fa609e2e9b"
@@ -7704,7 +7704,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2245.5,
                 "CWAD": 8538.6,
-                "LAIDL": 5.049
+                "LAID_LAB": 5.049
             },
             "_id": "683759fd8ac547fa609e2e9c",
             "paid": "683759fd8ac547fa609e2e9c"
@@ -7764,7 +7764,7 @@
                 "MBWAD": 130.9,
                 "PWAD": 2007.3,
                 "CWAD": 11542.4,
-                "LAIDL": 7.706
+                "LAID_LAB": 7.706
             },
             "_id": "683759fd8ac547fa609e2e9d",
             "paid": "683759fd8ac547fa609e2e9d"
@@ -7816,7 +7816,7 @@
                 "MBWAD": 1255.2,
                 "PWAD": 5054.7,
                 "CWAD": 13194.9,
-                "LAIDL": 6.1
+                "LAID_LAB": 6.1
             },
             "_id": "683759fd8ac547fa609e2e9e",
             "paid": "683759fd8ac547fa609e2e9e"
@@ -7868,7 +7868,7 @@
                 "MBWAD": 3897.5,
                 "PWAD": 7381.7,
                 "CWAD": 15940.0,
-                "LAIDL": 5.85
+                "LAID_LAB": 5.85
             },
             "_id": "683759fd8ac547fa609e2e9f",
             "paid": "683759fd8ac547fa609e2e9f"
@@ -7927,7 +7927,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 110.6,
-                "LAIDL": 0.104
+                "LAID_LAB": 0.104
             },
             "_id": "683759fd8ac547fa609e2ea0",
             "paid": "683759fd8ac547fa609e2ea0"
@@ -7987,7 +7987,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 17.1,
                 "CWAD": 1081.2,
-                "LAIDL": 0.985
+                "LAID_LAB": 0.985
             },
             "_id": "683759fd8ac547fa609e2ea1",
             "paid": "683759fd8ac547fa609e2ea1"
@@ -8047,7 +8047,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 64.0,
                 "CWAD": 3290.2,
-                "LAIDL": 3.167
+                "LAID_LAB": 3.167
             },
             "_id": "683759fd8ac547fa609e2ea2",
             "paid": "683759fd8ac547fa609e2ea2"
@@ -8107,7 +8107,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 667.0,
                 "CWAD": 7976.6,
-                "LAIDL": 6.432
+                "LAID_LAB": 6.432
             },
             "_id": "683759fd8ac547fa609e2ea3",
             "paid": "683759fd8ac547fa609e2ea3"
@@ -8167,7 +8167,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1472.8,
                 "CWAD": 11251.0,
-                "LAIDL": 4.628
+                "LAID_LAB": 4.628
             },
             "_id": "683759fd8ac547fa609e2ea4",
             "paid": "683759fd8ac547fa609e2ea4"
@@ -8227,7 +8227,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3402.8,
                 "CWAD": 14889.8,
-                "LAIDL": 7.756
+                "LAID_LAB": 7.756
             },
             "_id": "683759fd8ac547fa609e2ea5",
             "paid": "683759fd8ac547fa609e2ea5"
@@ -8279,7 +8279,7 @@
                 "MBWAD": 436.5,
                 "PWAD": 3468.7,
                 "CWAD": 14531.6,
-                "LAIDL": 6.55
+                "LAID_LAB": 6.55
             },
             "_id": "683759fd8ac547fa609e2ea6",
             "paid": "683759fd8ac547fa609e2ea6"
@@ -8331,7 +8331,7 @@
                 "MBWAD": 1446.3,
                 "PWAD": 3383.4,
                 "CWAD": 12926.2,
-                "LAIDL": 4.423
+                "LAID_LAB": 4.423
             },
             "_id": "683759fd8ac547fa609e2ea7",
             "paid": "683759fd8ac547fa609e2ea7"
@@ -8390,7 +8390,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 96.4,
-                "LAIDL": 0.095
+                "LAID_LAB": 0.095
             },
             "_id": "683759fd8ac547fa609e2ea8",
             "paid": "683759fd8ac547fa609e2ea8"
@@ -8450,7 +8450,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 17.8,
                 "CWAD": 1042.1,
-                "LAIDL": 0.969
+                "LAID_LAB": 0.969
             },
             "_id": "683759fd8ac547fa609e2ea9",
             "paid": "683759fd8ac547fa609e2ea9"
@@ -8510,7 +8510,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 196.6,
                 "CWAD": 3783.3,
-                "LAIDL": 3.105
+                "LAID_LAB": 3.105
             },
             "_id": "683759fd8ac547fa609e2eaa",
             "paid": "683759fd8ac547fa609e2eaa"
@@ -8570,7 +8570,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 417.4,
                 "CWAD": 5473.7,
-                "LAIDL": 4.666
+                "LAID_LAB": 4.666
             },
             "_id": "683759fd8ac547fa609e2eab",
             "paid": "683759fd8ac547fa609e2eab"
@@ -8630,7 +8630,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1036.0,
                 "CWAD": 8742.3,
-                "LAIDL": 6.073
+                "LAID_LAB": 6.073
             },
             "_id": "683759fd8ac547fa609e2eac",
             "paid": "683759fd8ac547fa609e2eac"
@@ -8690,7 +8690,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2334.1,
                 "CWAD": 11690.4,
-                "LAIDL": 6.751
+                "LAID_LAB": 6.751
             },
             "_id": "683759fd8ac547fa609e2ead",
             "paid": "683759fd8ac547fa609e2ead"
@@ -8742,7 +8742,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2201.9,
                 "CWAD": 12910.7,
-                "LAIDL": 5.425
+                "LAID_LAB": 5.425
             },
             "_id": "683759fd8ac547fa609e2eae",
             "paid": "683759fd8ac547fa609e2eae"
@@ -8794,7 +8794,7 @@
                 "MBWAD": 3275.7,
                 "PWAD": 8926.9,
                 "CWAD": 25103.6,
-                "LAIDL": 9.655
+                "LAID_LAB": 9.655
             },
             "_id": "683759fd8ac547fa609e2eaf",
             "paid": "683759fd8ac547fa609e2eaf"
@@ -8853,7 +8853,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 149.7,
-                "LAIDL": 0.147
+                "LAID_LAB": 0.147
             },
             "_id": "683759fd8ac547fa609e2eb0",
             "paid": "683759fd8ac547fa609e2eb0"
@@ -8913,7 +8913,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 15.8,
                 "CWAD": 903.4,
-                "LAIDL": 0.845
+                "LAID_LAB": 0.845
             },
             "_id": "683759fd8ac547fa609e2eb1",
             "paid": "683759fd8ac547fa609e2eb1"
@@ -8973,7 +8973,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 114.5,
                 "CWAD": 3783.3,
-                "LAIDL": 3.099
+                "LAID_LAB": 3.099
             },
             "_id": "683759fd8ac547fa609e2eb2",
             "paid": "683759fd8ac547fa609e2eb2"
@@ -9033,7 +9033,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 804.8,
                 "CWAD": 6576.9,
-                "LAIDL": 5.17
+                "LAID_LAB": 5.17
             },
             "_id": "683759fd8ac547fa609e2eb3",
             "paid": "683759fd8ac547fa609e2eb3"
@@ -9093,7 +9093,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1061.2,
                 "CWAD": 7352.0,
-                "LAIDL": 5.068
+                "LAID_LAB": 5.068
             },
             "_id": "683759fd8ac547fa609e2eb4",
             "paid": "683759fd8ac547fa609e2eb4"
@@ -9153,7 +9153,7 @@
                 "MBWAD": 182.0,
                 "PWAD": 3123.1,
                 "CWAD": 9861.7,
-                "LAIDL": 4.646
+                "LAID_LAB": 4.646
             },
             "_id": "683759fd8ac547fa609e2eb5",
             "paid": "683759fd8ac547fa609e2eb5"
@@ -9205,7 +9205,7 @@
                 "MBWAD": 514.1,
                 "PWAD": 4086.6,
                 "CWAD": 10176.3,
-                "LAIDL": 3.428
+                "LAID_LAB": 3.428
             },
             "_id": "683759fd8ac547fa609e2eb6",
             "paid": "683759fd8ac547fa609e2eb6"
@@ -9257,7 +9257,7 @@
                 "MBWAD": 2622.9,
                 "PWAD": 9217.9,
                 "CWAD": 19943.2,
-                "LAIDL": 5.408
+                "LAID_LAB": 5.408
             },
             "_id": "683759fd8ac547fa609e2eb7",
             "paid": "683759fd8ac547fa609e2eb7"
@@ -9316,7 +9316,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 159.7,
-                "LAIDL": 0.141
+                "LAID_LAB": 0.141
             },
             "_id": "683759fd8ac547fa609e2eb8",
             "paid": "683759fd8ac547fa609e2eb8"
@@ -9376,7 +9376,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 22.6,
                 "CWAD": 1566.5,
-                "LAIDL": 1.295
+                "LAID_LAB": 1.295
             },
             "_id": "683759fd8ac547fa609e2eb9",
             "paid": "683759fd8ac547fa609e2eb9"
@@ -9436,7 +9436,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 118.0,
                 "CWAD": 3884.2,
-                "LAIDL": 3.38
+                "LAID_LAB": 3.38
             },
             "_id": "683759fd8ac547fa609e2eba",
             "paid": "683759fd8ac547fa609e2eba"
@@ -9496,7 +9496,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 548.4,
                 "CWAD": 7577.6,
-                "LAIDL": 6.336
+                "LAID_LAB": 6.336
             },
             "_id": "683759fd8ac547fa609e2ebb",
             "paid": "683759fd8ac547fa609e2ebb"
@@ -9556,7 +9556,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 788.0,
                 "CWAD": 7515.2,
-                "LAIDL": 5.462
+                "LAID_LAB": 5.462
             },
             "_id": "683759fd8ac547fa609e2ebc",
             "paid": "683759fd8ac547fa609e2ebc"
@@ -9616,7 +9616,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1493.5,
                 "CWAD": 12850.6,
-                "LAIDL": 7.424
+                "LAID_LAB": 7.424
             },
             "_id": "683759fd8ac547fa609e2ebd",
             "paid": "683759fd8ac547fa609e2ebd"
@@ -9668,7 +9668,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2664.6,
                 "CWAD": 13325.9,
-                "LAIDL": 6.953
+                "LAID_LAB": 6.953
             },
             "_id": "683759fd8ac547fa609e2ebe",
             "paid": "683759fd8ac547fa609e2ebe"
@@ -9720,7 +9720,7 @@
                 "MBWAD": 488.9,
                 "PWAD": 4782.1,
                 "CWAD": 15824.6,
-                "LAIDL": 5.225
+                "LAID_LAB": 5.225
             },
             "_id": "683759fd8ac547fa609e2ebf",
             "paid": "683759fd8ac547fa609e2ebf"
@@ -9780,7 +9780,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 114.5,
-                "LAIDL": 0.127
+                "LAID_LAB": 0.127
             },
             "_id": "683759fd8ac547fa609e2ec0",
             "paid": "683759fd8ac547fa609e2ec0"
@@ -9840,7 +9840,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 5.5,
                 "CWAD": 898.9,
-                "LAIDL": 0.845
+                "LAID_LAB": 0.845
             },
             "_id": "683759fd8ac547fa609e2ec1",
             "paid": "683759fd8ac547fa609e2ec1"
@@ -9900,7 +9900,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 72.1,
                 "CWAD": 3198.7,
-                "LAIDL": 2.697
+                "LAID_LAB": 2.697
             },
             "_id": "683759fd8ac547fa609e2ec2",
             "paid": "683759fd8ac547fa609e2ec2"
@@ -9960,7 +9960,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 666.4,
                 "CWAD": 7978.2,
-                "LAIDL": 6.205
+                "LAID_LAB": 6.205
             },
             "_id": "683759fd8ac547fa609e2ec3",
             "paid": "683759fd8ac547fa609e2ec3"
@@ -10020,7 +10020,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1793.5,
                 "CWAD": 9897.9,
-                "LAIDL": 6.061
+                "LAID_LAB": 6.061
             },
             "_id": "683759fd8ac547fa609e2ec4",
             "paid": "683759fd8ac547fa609e2ec4"
@@ -10080,7 +10080,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3903.6,
                 "CWAD": 13924.3,
-                "LAIDL": 7.56
+                "LAID_LAB": 7.56
             },
             "_id": "683759fd8ac547fa609e2ec5",
             "paid": "683759fd8ac547fa609e2ec5"
@@ -10132,7 +10132,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1648.0,
                 "CWAD": 6984.0,
-                "LAIDL": 3.882
+                "LAID_LAB": 3.882
             },
             "_id": "683759fd8ac547fa609e2ec6",
             "paid": "683759fd8ac547fa609e2ec6"
@@ -10184,7 +10184,7 @@
                 "MBWAD": 1779.0,
                 "PWAD": 6342.8,
                 "CWAD": 18103.1,
-                "LAIDL": 6.729
+                "LAID_LAB": 6.729
             },
             "_id": "683759fd8ac547fa609e2ec7",
             "paid": "683759fd8ac547fa609e2ec7"
@@ -10243,7 +10243,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 71.1,
-                "LAIDL": 0.068
+                "LAID_LAB": 0.068
             },
             "_id": "683759fd8ac547fa609e2ec8",
             "paid": "683759fd8ac547fa609e2ec8"
@@ -10303,7 +10303,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 15.5,
                 "CWAD": 988.8,
-                "LAIDL": 0.913
+                "LAID_LAB": 0.913
             },
             "_id": "683759fd8ac547fa609e2ec9",
             "paid": "683759fd8ac547fa609e2ec9"
@@ -10363,7 +10363,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 128.4,
                 "CWAD": 4264.8,
-                "LAIDL": 3.537
+                "LAID_LAB": 3.537
             },
             "_id": "683759fd8ac547fa609e2eca",
             "paid": "683759fd8ac547fa609e2eca"
@@ -10423,7 +10423,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 204.3,
                 "CWAD": 5380.6,
-                "LAIDL": 4.658
+                "LAID_LAB": 4.658
             },
             "_id": "683759fd8ac547fa609e2ecb",
             "paid": "683759fd8ac547fa609e2ecb"
@@ -10483,7 +10483,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2329.3,
                 "CWAD": 11041.2,
-                "LAIDL": 7.045
+                "LAID_LAB": 7.045
             },
             "_id": "683759fd8ac547fa609e2ecc",
             "paid": "683759fd8ac547fa609e2ecc"
@@ -10543,7 +10543,7 @@
                 "MBWAD": 190.1,
                 "PWAD": 3144.7,
                 "CWAD": 13833.5,
-                "LAIDL": 7.495
+                "LAID_LAB": 7.495
             },
             "_id": "683759fd8ac547fa609e2ecd",
             "paid": "683759fd8ac547fa609e2ecd"
@@ -10595,7 +10595,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 4529.9,
                 "CWAD": 17510.4,
-                "LAIDL": 7.913
+                "LAID_LAB": 7.913
             },
             "_id": "683759fd8ac547fa609e2ece",
             "paid": "683759fd8ac547fa609e2ece"
@@ -10647,7 +10647,7 @@
                 "MBWAD": 779.9,
                 "PWAD": 3991.5,
                 "CWAD": 15522.9,
-                "LAIDL": 5.93
+                "LAID_LAB": 5.93
             },
             "_id": "683759fd8ac547fa609e2ecf",
             "paid": "683759fd8ac547fa609e2ecf"
@@ -10765,7 +10765,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 12.0,
                 "CWAD": 746.6,
-                "LAIDL": 1.275
+                "LAID_LAB": 1.275
             },
             "_id": "683759fd8ac547fa609e2ed1",
             "paid": "683759fd8ac547fa609e2ed1"
@@ -10825,7 +10825,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 89.2,
                 "CWAD": 2712.8,
-                "LAIDL": 2.182
+                "LAID_LAB": 2.182
             },
             "_id": "683759fd8ac547fa609e2ed2",
             "paid": "683759fd8ac547fa609e2ed2"
@@ -10885,7 +10885,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 919.2,
                 "CWAD": 4767.2,
-                "LAIDL": 3.273
+                "LAID_LAB": 3.273
             },
             "_id": "683759fd8ac547fa609e2ed3",
             "paid": "683759fd8ac547fa609e2ed3"
@@ -10945,7 +10945,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1241.9,
                 "CWAD": 5008.4,
-                "LAIDL": 3.306
+                "LAID_LAB": 3.306
             },
             "_id": "683759fd8ac547fa609e2ed4",
             "paid": "683759fd8ac547fa609e2ed4"
@@ -11005,7 +11005,7 @@
                 "MBWAD": 354.7,
                 "PWAD": 3337.1,
                 "CWAD": 11868.6,
-                "LAIDL": 6.835
+                "LAID_LAB": 6.835
             },
             "_id": "683759fd8ac547fa609e2ed5",
             "paid": "683759fd8ac547fa609e2ed5"
@@ -11057,7 +11057,7 @@
                 "MBWAD": 1365.8,
                 "PWAD": 8878.4,
                 "CWAD": 18153.5,
-                "LAIDL": 6.293
+                "LAID_LAB": 6.293
             },
             "_id": "683759fd8ac547fa609e2ed6",
             "paid": "683759fd8ac547fa609e2ed6"
@@ -11109,7 +11109,7 @@
                 "MBWAD": 1481.2,
                 "PWAD": 6981.1,
                 "CWAD": 14216.3,
-                "LAIDL": 5.022
+                "LAID_LAB": 5.022
             },
             "_id": "683759fd8ac547fa609e2ed7",
             "paid": "683759fd8ac547fa609e2ed7"
@@ -11169,7 +11169,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 152.0,
-                "LAIDL": 0.142
+                "LAID_LAB": 0.142
             },
             "_id": "683759fd8ac547fa609e2ed8",
             "paid": "683759fd8ac547fa609e2ed8"
@@ -11229,7 +11229,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 21.3,
                 "CWAD": 1404.6,
-                "LAIDL": 0.852
+                "LAID_LAB": 0.852
             },
             "_id": "683759fd8ac547fa609e2ed9",
             "paid": "683759fd8ac547fa609e2ed9"
@@ -11289,7 +11289,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 88.3,
                 "CWAD": 3456.8,
-                "LAIDL": 3.227
+                "LAID_LAB": 3.227
             },
             "_id": "683759fd8ac547fa609e2eda",
             "paid": "683759fd8ac547fa609e2eda"
@@ -11349,7 +11349,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 400.0,
                 "CWAD": 8755.9,
-                "LAIDL": 7.175
+                "LAID_LAB": 7.175
             },
             "_id": "683759fd8ac547fa609e2edb",
             "paid": "683759fd8ac547fa609e2edb"
@@ -11409,7 +11409,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1808.7,
                 "CWAD": 13159.3,
-                "LAIDL": 9.054
+                "LAID_LAB": 9.054
             },
             "_id": "683759fd8ac547fa609e2edc",
             "paid": "683759fd8ac547fa609e2edc"
@@ -11469,7 +11469,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 704.9,
                 "CWAD": 10414.9,
-                "LAIDL": 6.135
+                "LAID_LAB": 6.135
             },
             "_id": "683759fd8ac547fa609e2edd",
             "paid": "683759fd8ac547fa609e2edd"
@@ -11521,7 +11521,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 954.5,
                 "CWAD": 12391.7,
-                "LAIDL": 6.401
+                "LAID_LAB": 6.401
             },
             "_id": "683759fd8ac547fa609e2ede",
             "paid": "683759fd8ac547fa609e2ede"
@@ -11573,7 +11573,7 @@
                 "MBWAD": 772.1,
                 "PWAD": 5314.6,
                 "CWAD": 20030.5,
-                "LAIDL": 7.977
+                "LAID_LAB": 7.977
             },
             "_id": "683759fd8ac547fa609e2edf",
             "paid": "683759fd8ac547fa609e2edf"
@@ -11633,7 +11633,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 146.8,
-                "LAIDL": 0.138
+                "LAID_LAB": 0.138
             },
             "_id": "683759fd8ac547fa609e2ee0",
             "paid": "683759fd8ac547fa609e2ee0"
@@ -11693,7 +11693,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 8.7,
                 "CWAD": 913.1,
-                "LAIDL": 0.852
+                "LAID_LAB": 0.852
             },
             "_id": "683759fd8ac547fa609e2ee1",
             "paid": "683759fd8ac547fa609e2ee1"
@@ -11753,7 +11753,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 96.7,
                 "CWAD": 2887.7,
-                "LAIDL": 2.775
+                "LAID_LAB": 2.775
             },
             "_id": "683759fd8ac547fa609e2ee2",
             "paid": "683759fd8ac547fa609e2ee2"
@@ -11813,7 +11813,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 407.4,
                 "CWAD": 9911.5,
-                "LAIDL": 4.364
+                "LAID_LAB": 4.364
             },
             "_id": "683759fd8ac547fa609e2ee3",
             "paid": "683759fd8ac547fa609e2ee3"
@@ -11873,7 +11873,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 912.4,
                 "CWAD": 8957.3,
-                "LAIDL": 6.476
+                "LAID_LAB": 6.476
             },
             "_id": "683759fd8ac547fa609e2ee4",
             "paid": "683759fd8ac547fa609e2ee4"
@@ -11933,7 +11933,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1722.1,
                 "CWAD": 13907.5,
-                "LAIDL": 8.546
+                "LAID_LAB": 8.546
             },
             "_id": "683759fd8ac547fa609e2ee5",
             "paid": "683759fd8ac547fa609e2ee5"
@@ -11985,7 +11985,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2845.0,
                 "CWAD": 15505.4,
-                "LAIDL": 5.754
+                "LAID_LAB": 5.754
             },
             "_id": "683759fd8ac547fa609e2ee6",
             "paid": "683759fd8ac547fa609e2ee6"
@@ -12037,7 +12037,7 @@
                 "MBWAD": 555.8,
                 "PWAD": 9082.1,
                 "CWAD": 27262.8,
-                "LAIDL": 8.551
+                "LAID_LAB": 8.551
             },
             "_id": "683759fd8ac547fa609e2ee7",
             "paid": "683759fd8ac547fa609e2ee7"
@@ -12096,7 +12096,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 132.2,
-                "LAIDL": 0.126
+                "LAID_LAB": 0.126
             },
             "_id": "683759fd8ac547fa609e2ee8",
             "paid": "683759fd8ac547fa609e2ee8"
@@ -12156,7 +12156,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 16.8,
                 "CWAD": 697.4,
-                "LAIDL": 0.67
+                "LAID_LAB": 0.67
             },
             "_id": "683759fd8ac547fa609e2ee9",
             "paid": "683759fd8ac547fa609e2ee9"
@@ -12216,7 +12216,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 45.3,
                 "CWAD": 2740.9,
-                "LAIDL": 2.793
+                "LAID_LAB": 2.793
             },
             "_id": "683759fd8ac547fa609e2eea",
             "paid": "683759fd8ac547fa609e2eea"
@@ -12276,7 +12276,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1037.3,
                 "CWAD": 7212.3,
-                "LAIDL": 5.182
+                "LAID_LAB": 5.182
             },
             "_id": "683759fd8ac547fa609e2eeb",
             "paid": "683759fd8ac547fa609e2eeb"
@@ -12336,7 +12336,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1162.7,
                 "CWAD": 7155.7,
-                "LAIDL": 4.833
+                "LAID_LAB": 4.833
             },
             "_id": "683759fd8ac547fa609e2eec",
             "paid": "683759fd8ac547fa609e2eec"
@@ -12396,7 +12396,7 @@
                 "MBWAD": 152.6,
                 "PWAD": 2593.1,
                 "CWAD": 12258.5,
-                "LAIDL": 6.524
+                "LAID_LAB": 6.524
             },
             "_id": "683759fd8ac547fa609e2eed",
             "paid": "683759fd8ac547fa609e2eed"
@@ -12448,7 +12448,7 @@
                 "MBWAD": 2295.0,
                 "PWAD": 7640.7,
                 "CWAD": 19461.1,
-                "LAIDL": 6.794
+                "LAID_LAB": 6.794
             },
             "_id": "683759fd8ac547fa609e2eee",
             "paid": "683759fd8ac547fa609e2eee"
@@ -12500,7 +12500,7 @@
                 "MBWAD": 3678.2,
                 "PWAD": 7765.8,
                 "CWAD": 19245.8,
-                "LAIDL": 6.209
+                "LAID_LAB": 6.209
             },
             "_id": "683759fd8ac547fa609e2eef",
             "paid": "683759fd8ac547fa609e2eef"
@@ -12560,7 +12560,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 207.6,
-                "LAIDL": 0.19
+                "LAID_LAB": 0.19
             },
             "_id": "683759fd8ac547fa609e2ef0",
             "paid": "683759fd8ac547fa609e2ef0"
@@ -12620,7 +12620,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 15.8,
                 "CWAD": 744.0,
-                "LAIDL": 0.63
+                "LAID_LAB": 0.63
             },
             "_id": "683759fd8ac547fa609e2ef1",
             "paid": "683759fd8ac547fa609e2ef1"
@@ -12680,7 +12680,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 29.7,
                 "CWAD": 1586.3,
-                "LAIDL": 1.549
+                "LAID_LAB": 1.549
             },
             "_id": "683759fd8ac547fa609e2ef2",
             "paid": "683759fd8ac547fa609e2ef2"
@@ -12740,7 +12740,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 696.5,
                 "CWAD": 4196.2,
-                "LAIDL": 2.724
+                "LAID_LAB": 2.724
             },
             "_id": "683759fd8ac547fa609e2ef3",
             "paid": "683759fd8ac547fa609e2ef3"
@@ -12800,7 +12800,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3273.1,
                 "CWAD": 11786.8,
-                "LAIDL": 5.896
+                "LAID_LAB": 5.896
             },
             "_id": "683759fd8ac547fa609e2ef4",
             "paid": "683759fd8ac547fa609e2ef4"
@@ -12860,7 +12860,7 @@
                 "MBWAD": 525.4,
                 "PWAD": 2780.0,
                 "CWAD": 7752.6,
-                "LAIDL": 3.678
+                "LAID_LAB": 3.678
             },
             "_id": "683759fd8ac547fa609e2ef5",
             "paid": "683759fd8ac547fa609e2ef5"
@@ -12912,7 +12912,7 @@
                 "MBWAD": 787.6,
                 "PWAD": 2870.2,
                 "CWAD": 8194.6,
-                "LAIDL": 3.466
+                "LAID_LAB": 3.466
             },
             "_id": "683759fd8ac547fa609e2ef6",
             "paid": "683759fd8ac547fa609e2ef6"
@@ -12964,7 +12964,7 @@
                 "MBWAD": 2981.8,
                 "PWAD": 6053.8,
                 "CWAD": 13444.2,
-                "LAIDL": 3.724
+                "LAID_LAB": 3.724
             },
             "_id": "683759fd8ac547fa609e2ef7",
             "paid": "683759fd8ac547fa609e2ef7"
@@ -13023,7 +13023,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 193.0,
-                "LAIDL": 0.184
+                "LAID_LAB": 0.184
             },
             "_id": "683759fd8ac547fa609e2ef8",
             "paid": "683759fd8ac547fa609e2ef8"
@@ -13083,7 +13083,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 31.4,
                 "CWAD": 1540.7,
-                "LAIDL": 1.278
+                "LAID_LAB": 1.278
             },
             "_id": "683759fd8ac547fa609e2ef9",
             "paid": "683759fd8ac547fa609e2ef9"
@@ -13143,7 +13143,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 116.1,
                 "CWAD": 3740.0,
-                "LAIDL": 3.487
+                "LAID_LAB": 3.487
             },
             "_id": "683759fd8ac547fa609e2efa",
             "paid": "683759fd8ac547fa609e2efa"
@@ -13203,7 +13203,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 314.3,
                 "CWAD": 6620.6,
-                "LAIDL": 5.834
+                "LAID_LAB": 5.834
             },
             "_id": "683759fd8ac547fa609e2efb",
             "paid": "683759fd8ac547fa609e2efb"
@@ -13263,7 +13263,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 838.1,
                 "CWAD": 8996.1,
-                "LAIDL": 6.322
+                "LAID_LAB": 6.322
             },
             "_id": "683759fd8ac547fa609e2efc",
             "paid": "683759fd8ac547fa609e2efc"
@@ -13323,7 +13323,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1783.5,
                 "CWAD": 15380.6,
-                "LAIDL": 9.15
+                "LAID_LAB": 9.15
             },
             "_id": "683759fd8ac547fa609e2efd",
             "paid": "683759fd8ac547fa609e2efd"
@@ -13375,7 +13375,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1365.8,
                 "CWAD": 12607.1,
-                "LAIDL": 5.788
+                "LAID_LAB": 5.788
             },
             "_id": "683759fd8ac547fa609e2efe",
             "paid": "683759fd8ac547fa609e2efe"
@@ -13427,7 +13427,7 @@
                 "MBWAD": 1433.7,
                 "PWAD": 4837.4,
                 "CWAD": 15452.1,
-                "LAIDL": 5.082
+                "LAID_LAB": 5.082
             },
             "_id": "683759fd8ac547fa609e2eff",
             "paid": "683759fd8ac547fa609e2eff"
@@ -13487,7 +13487,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 158.4,
-                "LAIDL": 0.149
+                "LAID_LAB": 0.149
             },
             "_id": "683759fd8ac547fa609e2f00",
             "paid": "683759fd8ac547fa609e2f00"
@@ -13547,7 +13547,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 11.0,
                 "CWAD": 767.6,
-                "LAIDL": 0.697
+                "LAID_LAB": 0.697
             },
             "_id": "683759fd8ac547fa609e2f01",
             "paid": "683759fd8ac547fa609e2f01"
@@ -13607,7 +13607,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 108.0,
                 "CWAD": 3080.1,
-                "LAIDL": 2.964
+                "LAID_LAB": 2.964
             },
             "_id": "683759fd8ac547fa609e2f02",
             "paid": "683759fd8ac547fa609e2f02"
@@ -13667,7 +13667,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 644.7,
                 "CWAD": 8563.2,
-                "LAIDL": 6.787
+                "LAID_LAB": 6.787
             },
             "_id": "683759fd8ac547fa609e2f03",
             "paid": "683759fd8ac547fa609e2f03"
@@ -13727,7 +13727,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 904.4,
                 "CWAD": 8159.6,
-                "LAIDL": 5.571
+                "LAID_LAB": 5.571
             },
             "_id": "683759fd8ac547fa609e2f04",
             "paid": "683759fd8ac547fa609e2f04"
@@ -13787,7 +13787,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3269.9,
                 "CWAD": 15792.6,
-                "LAIDL": 8.135
+                "LAID_LAB": 8.135
             },
             "_id": "683759fd8ac547fa609e2f05",
             "paid": "683759fd8ac547fa609e2f05"
@@ -13839,7 +13839,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2970.1,
                 "CWAD": 13936.0,
-                "LAIDL": 4.534
+                "LAID_LAB": 4.534
             },
             "_id": "683759fd8ac547fa609e2f06",
             "paid": "683759fd8ac547fa609e2f06"
@@ -13891,7 +13891,7 @@
                 "MBWAD": 2207.7,
                 "PWAD": 4089.5,
                 "CWAD": 13466.5,
-                "LAIDL": 5.506
+                "LAID_LAB": 5.506
             },
             "_id": "683759fd8ac547fa609e2f07",
             "paid": "683759fd8ac547fa609e2f07"
@@ -13950,7 +13950,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 151.0,
-                "LAIDL": 0.136
+                "LAID_LAB": 0.136
             },
             "_id": "683759fd8ac547fa609e2f08",
             "paid": "683759fd8ac547fa609e2f08"
@@ -14010,7 +14010,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 34.0,
                 "CWAD": 1199.9,
-                "LAIDL": 0.757
+                "LAID_LAB": 0.757
             },
             "_id": "683759fd8ac547fa609e2f09",
             "paid": "683759fd8ac547fa609e2f09"
@@ -14070,7 +14070,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 96.0,
                 "CWAD": 3333.2,
-                "LAIDL": 2.714
+                "LAID_LAB": 2.714
             },
             "_id": "683759fd8ac547fa609e2f0a",
             "paid": "683759fd8ac547fa609e2f0a"
@@ -14130,7 +14130,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 160.1,
                 "CWAD": 4259.9,
-                "LAIDL": 3.709
+                "LAID_LAB": 3.709
             },
             "_id": "683759fd8ac547fa609e2f0b",
             "paid": "683759fd8ac547fa609e2f0b"
@@ -14190,7 +14190,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 863.9,
                 "CWAD": 8789.2,
-                "LAIDL": 5.847
+                "LAID_LAB": 5.847
             },
             "_id": "683759fd8ac547fa609e2f0c",
             "paid": "683759fd8ac547fa609e2f0c"
@@ -14250,7 +14250,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1911.5,
                 "CWAD": 10624.1,
-                "LAIDL": 6.02
+                "LAID_LAB": 6.02
             },
             "_id": "683759fd8ac547fa609e2f0d",
             "paid": "683759fd8ac547fa609e2f0d"
@@ -14302,7 +14302,7 @@
                 "MBWAD": 431.6,
                 "PWAD": 3886.8,
                 "CWAD": 13871.0,
-                "LAIDL": 5.891
+                "LAID_LAB": 5.891
             },
             "_id": "683759fd8ac547fa609e2f0e",
             "paid": "683759fd8ac547fa609e2f0e"
@@ -14354,7 +14354,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 5025.6,
                 "CWAD": 14668.3,
-                "LAIDL": 5.651
+                "LAID_LAB": 5.651
             },
             "_id": "683759fd8ac547fa609e2f0f",
             "paid": "683759fd8ac547fa609e2f0f"
@@ -14414,7 +14414,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 186.9,
-                "LAIDL": 0.171
+                "LAID_LAB": 0.171
             },
             "_id": "683759fd8ac547fa609e2f10",
             "paid": "683759fd8ac547fa609e2f10"
@@ -14474,7 +14474,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 8.7,
                 "CWAD": 712.3,
-                "LAIDL": 0.642
+                "LAID_LAB": 0.642
             },
             "_id": "683759fd8ac547fa609e2f11",
             "paid": "683759fd8ac547fa609e2f11"
@@ -14534,7 +14534,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 132.6,
                 "CWAD": 3930.1,
-                "LAIDL": 3.552
+                "LAID_LAB": 3.552
             },
             "_id": "683759fd8ac547fa609e2f12",
             "paid": "683759fd8ac547fa609e2f12"
@@ -14594,7 +14594,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 806.4,
                 "CWAD": 6550.7,
-                "LAIDL": 4.681
+                "LAID_LAB": 4.681
             },
             "_id": "683759fd8ac547fa609e2f13",
             "paid": "683759fd8ac547fa609e2f13"
@@ -14654,7 +14654,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1200.9,
                 "CWAD": 7131.4,
-                "LAIDL": 4.388
+                "LAID_LAB": 4.388
             },
             "_id": "683759fd8ac547fa609e2f14",
             "paid": "683759fd8ac547fa609e2f14"
@@ -14714,7 +14714,7 @@
                 "MBWAD": 619.2,
                 "PWAD": 4496.3,
                 "CWAD": 15103.5,
-                "LAIDL": 7.951
+                "LAID_LAB": 7.951
             },
             "_id": "683759fd8ac547fa609e2f15",
             "paid": "683759fd8ac547fa609e2f15"
@@ -14766,7 +14766,7 @@
                 "MBWAD": 1446.3,
                 "PWAD": 3004.1,
                 "CWAD": 8987.0,
-                "LAIDL": 3.951
+                "LAID_LAB": 3.951
             },
             "_id": "683759fd8ac547fa609e2f16",
             "paid": "683759fd8ac547fa609e2f16"
@@ -14818,7 +14818,7 @@
                 "MBWAD": 2841.1,
                 "PWAD": 9255.7,
                 "CWAD": 22969.6,
-                "LAIDL": 8.188
+                "LAID_LAB": 8.188
             },
             "_id": "683759fd8ac547fa609e2f17",
             "paid": "683759fd8ac547fa609e2f17"
@@ -14878,7 +14878,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 183.7,
-                "LAIDL": 0.179
+                "LAID_LAB": 0.179
             },
             "_id": "683759fd8ac547fa609e2f18",
             "paid": "683759fd8ac547fa609e2f18"
@@ -14938,7 +14938,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 23.3,
                 "CWAD": 1525.2,
-                "LAIDL": 1.284
+                "LAID_LAB": 1.284
             },
             "_id": "683759fd8ac547fa609e2f19",
             "paid": "683759fd8ac547fa609e2f19"
@@ -14998,7 +14998,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 75.3,
                 "CWAD": 4191.0,
-                "LAIDL": 4.107
+                "LAID_LAB": 4.107
             },
             "_id": "683759fd8ac547fa609e2f1a",
             "paid": "683759fd8ac547fa609e2f1a"
@@ -15058,7 +15058,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 460.1,
                 "CWAD": 8766.5,
-                "LAIDL": 4.194
+                "LAID_LAB": 4.194
             },
             "_id": "683759fd8ac547fa609e2f1b",
             "paid": "683759fd8ac547fa609e2f1b"
@@ -15118,7 +15118,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 686.8,
                 "CWAD": 11121.7,
-                "LAIDL": 7.483
+                "LAID_LAB": 7.483
             },
             "_id": "683759fd8ac547fa609e2f1c",
             "paid": "683759fd8ac547fa609e2f1c"
@@ -15178,7 +15178,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2385.6,
                 "CWAD": 16721.2,
-                "LAIDL": 9.408
+                "LAID_LAB": 9.408
             },
             "_id": "683759fd8ac547fa609e2f1d",
             "paid": "683759fd8ac547fa609e2f1d"
@@ -15230,7 +15230,7 @@
                 "MBWAD": 357.9,
                 "PWAD": 2980.8,
                 "CWAD": 17490.1,
-                "LAIDL": 8.324
+                "LAID_LAB": 8.324
             },
             "_id": "683759fd8ac547fa609e2f1e",
             "paid": "683759fd8ac547fa609e2f1e"
@@ -15282,7 +15282,7 @@
                 "MBWAD": 869.1,
                 "PWAD": 4891.7,
                 "CWAD": 23833.9,
-                "LAIDL": 9.784
+                "LAID_LAB": 9.784
             },
             "_id": "683759fd8ac547fa609e2f1f",
             "paid": "683759fd8ac547fa609e2f1f"
@@ -15342,7 +15342,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 205.6,
-                "LAIDL": 0.185
+                "LAID_LAB": 0.185
             },
             "_id": "683759fd8ac547fa609e2f20",
             "paid": "683759fd8ac547fa609e2f20"
@@ -15402,7 +15402,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 9.4,
                 "CWAD": 1170.1,
-                "LAIDL": 1.014
+                "LAID_LAB": 1.014
             },
             "_id": "683759fd8ac547fa609e2f21",
             "paid": "683759fd8ac547fa609e2f21"
@@ -15462,7 +15462,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 81.8,
                 "CWAD": 4336.9,
-                "LAIDL": 3.981
+                "LAID_LAB": 3.981
             },
             "_id": "683759fd8ac547fa609e2f22",
             "paid": "683759fd8ac547fa609e2f22"
@@ -15522,7 +15522,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 172.7,
                 "CWAD": 4880.4,
-                "LAIDL": 4.577
+                "LAID_LAB": 4.577
             },
             "_id": "683759fd8ac547fa609e2f23",
             "paid": "683759fd8ac547fa609e2f23"
@@ -15582,7 +15582,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 747.5,
                 "CWAD": 8774.6,
-                "LAIDL": 6.053
+                "LAID_LAB": 6.053
             },
             "_id": "683759fd8ac547fa609e2f24",
             "paid": "683759fd8ac547fa609e2f24"
@@ -15642,7 +15642,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2661.4,
                 "CWAD": 14182.7,
-                "LAIDL": 7.185
+                "LAID_LAB": 7.185
             },
             "_id": "683759fd8ac547fa609e2f25",
             "paid": "683759fd8ac547fa609e2f25"
@@ -15694,7 +15694,7 @@
                 "MBWAD": 523.8,
                 "PWAD": 1197.0,
                 "CWAD": 14892.4,
-                "LAIDL": 5.984
+                "LAID_LAB": 5.984
             },
             "_id": "683759fd8ac547fa609e2f26",
             "paid": "683759fd8ac547fa609e2f26"
@@ -15746,7 +15746,7 @@
                 "MBWAD": 1904.1,
                 "PWAD": 5488.3,
                 "CWAD": 18178.8,
-                "LAIDL": 5.464
+                "LAID_LAB": 5.464
             },
             "_id": "683759fd8ac547fa609e2f27",
             "paid": "683759fd8ac547fa609e2f27"
@@ -15804,7 +15804,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 80.8,
-                "LAIDL": 0.078
+                "LAID_LAB": 0.078
             },
             "_id": "683759fd8ac547fa609e2f28",
             "paid": "683759fd8ac547fa609e2f28"
@@ -15864,7 +15864,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 13.9,
                 "CWAD": 772.1,
-                "LAIDL": 0.672
+                "LAID_LAB": 0.672
             },
             "_id": "683759fd8ac547fa609e2f29",
             "paid": "683759fd8ac547fa609e2f29"
@@ -15924,7 +15924,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 50.8,
                 "CWAD": 2762.2,
-                "LAIDL": 2.434
+                "LAID_LAB": 2.434
             },
             "_id": "683759fd8ac547fa609e2f2a",
             "paid": "683759fd8ac547fa609e2f2a"
@@ -15984,7 +15984,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 809.9,
                 "CWAD": 6590.8,
-                "LAIDL": 4.465
+                "LAID_LAB": 4.465
             },
             "_id": "683759fd8ac547fa609e2f2b",
             "paid": "683759fd8ac547fa609e2f2b"
@@ -16044,7 +16044,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1171.8,
                 "CWAD": 6746.4,
-                "LAIDL": 3.914
+                "LAID_LAB": 3.914
             },
             "_id": "683759fd8ac547fa609e2f2c",
             "paid": "683759fd8ac547fa609e2f2c"
@@ -16104,7 +16104,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3483.6,
                 "CWAD": 12374.3,
-                "LAIDL": 5.421
+                "LAID_LAB": 5.421
             },
             "_id": "683759fd8ac547fa609e2f2d",
             "paid": "683759fd8ac547fa609e2f2d"
@@ -16156,7 +16156,7 @@
                 "MBWAD": 1021.4,
                 "PWAD": 2141.8,
                 "CWAD": 5305.9,
-                "LAIDL": 2.137
+                "LAID_LAB": 2.137
             },
             "_id": "683759fd8ac547fa609e2f2e",
             "paid": "683759fd8ac547fa609e2f2e"
@@ -16208,7 +16208,7 @@
                 "MBWAD": 236.7,
                 "PWAD": 2153.4,
                 "CWAD": 5462.1,
-                "LAIDL": 2.287
+                "LAID_LAB": 2.287
             },
             "_id": "683759fd8ac547fa609e2f2f",
             "paid": "683759fd8ac547fa609e2f2f"
@@ -16268,7 +16268,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 144.5,
-                "LAIDL": 0.144
+                "LAID_LAB": 0.144
             },
             "_id": "683759fd8ac547fa609e2f30",
             "paid": "683759fd8ac547fa609e2f30"
@@ -16328,7 +16328,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 6.8,
                 "CWAD": 1028.8,
-                "LAIDL": 0.932
+                "LAID_LAB": 0.932
             },
             "_id": "683759fd8ac547fa609e2f31",
             "paid": "683759fd8ac547fa609e2f31"
@@ -16388,7 +16388,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 157.1,
                 "CWAD": 4413.2,
-                "LAIDL": 3.8
+                "LAID_LAB": 3.8
             },
             "_id": "683759fd8ac547fa609e2f32",
             "paid": "683759fd8ac547fa609e2f32"
@@ -16448,7 +16448,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 541.3,
                 "CWAD": 6042.5,
-                "LAIDL": 4.71
+                "LAID_LAB": 4.71
             },
             "_id": "683759fd8ac547fa609e2f33",
             "paid": "683759fd8ac547fa609e2f33"
@@ -16508,7 +16508,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 796.4,
                 "CWAD": 7047.4,
-                "LAIDL": 5.036
+                "LAID_LAB": 5.036
             },
             "_id": "683759fd8ac547fa609e2f34",
             "paid": "683759fd8ac547fa609e2f34"
@@ -16568,7 +16568,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2598.6,
                 "CWAD": 10818.4,
-                "LAIDL": 5.968
+                "LAID_LAB": 5.968
             },
             "_id": "683759fd8ac547fa609e2f35",
             "paid": "683759fd8ac547fa609e2f35"
@@ -16620,7 +16620,7 @@
                 "MBWAD": 642.1,
                 "PWAD": 6359.3,
                 "CWAD": 16695.6,
-                "LAIDL": 6.101
+                "LAID_LAB": 6.101
             },
             "_id": "683759fd8ac547fa609e2f36",
             "paid": "683759fd8ac547fa609e2f36"
@@ -16672,7 +16672,7 @@
                 "MBWAD": 958.4,
                 "PWAD": 8460.3,
                 "CWAD": 21172.2,
-                "LAIDL": 6.401
+                "LAID_LAB": 6.401
             },
             "_id": "683759fd8ac547fa609e2f37",
             "paid": "683759fd8ac547fa609e2f37"
@@ -16731,7 +16731,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 145.5,
-                "LAIDL": 0.141
+                "LAID_LAB": 0.141
             },
             "_id": "683759fd8ac547fa609e2f38",
             "paid": "683759fd8ac547fa609e2f38"
@@ -16791,7 +16791,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 24.9,
                 "CWAD": 1520.3,
-                "LAIDL": 1.324
+                "LAID_LAB": 1.324
             },
             "_id": "683759fd8ac547fa609e2f39",
             "paid": "683759fd8ac547fa609e2f39"
@@ -16851,7 +16851,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 49.8,
                 "CWAD": 2890.3,
-                "LAIDL": 2.872
+                "LAID_LAB": 2.872
             },
             "_id": "683759fd8ac547fa609e2f3a",
             "paid": "683759fd8ac547fa609e2f3a"
@@ -16911,7 +16911,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 621.4,
                 "CWAD": 6939.1,
-                "LAIDL": 5.926
+                "LAID_LAB": 5.926
             },
             "_id": "683759fd8ac547fa609e2f3b",
             "paid": "683759fd8ac547fa609e2f3b"
@@ -16971,7 +16971,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1153.7,
                 "CWAD": 12280.5,
-                "LAIDL": 8.017
+                "LAID_LAB": 8.017
             },
             "_id": "683759fd8ac547fa609e2f3c",
             "paid": "683759fd8ac547fa609e2f3c"
@@ -17031,7 +17031,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 876.2,
                 "CWAD": 11961.1,
-                "LAIDL": 7.368
+                "LAID_LAB": 7.368
             },
             "_id": "683759fd8ac547fa609e2f3d",
             "paid": "683759fd8ac547fa609e2f3d"
@@ -17083,7 +17083,7 @@
                 "MBWAD": 912.8,
                 "PWAD": 3916.9,
                 "CWAD": 22570.0,
-                "LAIDL": 10.503
+                "LAID_LAB": 10.503
             },
             "_id": "683759fd8ac547fa609e2f3e",
             "paid": "683759fd8ac547fa609e2f3e"
@@ -17135,7 +17135,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1114.5,
                 "CWAD": 18781.1,
-                "LAIDL": 7.463
+                "LAID_LAB": 7.463
             },
             "_id": "683759fd8ac547fa609e2f3f",
             "paid": "683759fd8ac547fa609e2f3f"
@@ -17195,7 +17195,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 172.3,
-                "LAIDL": 0.162
+                "LAID_LAB": 0.162
             },
             "_id": "683759fd8ac547fa609e2f40",
             "paid": "683759fd8ac547fa609e2f40"
@@ -17255,7 +17255,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 15.2,
                 "CWAD": 894.3,
-                "LAIDL": 0.84
+                "LAID_LAB": 0.84
             },
             "_id": "683759fd8ac547fa609e2f41",
             "paid": "683759fd8ac547fa609e2f41"
@@ -17315,7 +17315,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 92.2,
                 "CWAD": 2576.0,
-                "LAIDL": 2.623
+                "LAID_LAB": 2.623
             },
             "_id": "683759fd8ac547fa609e2f42",
             "paid": "683759fd8ac547fa609e2f42"
@@ -17375,7 +17375,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 997.2,
                 "CWAD": 8635.9,
-                "LAIDL": 5.868
+                "LAID_LAB": 5.868
             },
             "_id": "683759fd8ac547fa609e2f43",
             "paid": "683759fd8ac547fa609e2f43"
@@ -17435,7 +17435,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1647.4,
                 "CWAD": 8360.4,
-                "LAIDL": 4.771
+                "LAID_LAB": 4.771
             },
             "_id": "683759fd8ac547fa609e2f44",
             "paid": "683759fd8ac547fa609e2f44"
@@ -17495,7 +17495,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2193.5,
                 "CWAD": 8702.5,
-                "LAIDL": 4.782
+                "LAID_LAB": 4.782
             },
             "_id": "683759fd8ac547fa609e2f45",
             "paid": "683759fd8ac547fa609e2f45"
@@ -17547,7 +17547,7 @@
                 "MBWAD": 423.9,
                 "PWAD": 3194.2,
                 "CWAD": 18591.0,
-                "LAIDL": 8.915
+                "LAID_LAB": 8.915
             },
             "_id": "683759fd8ac547fa609e2f46",
             "paid": "683759fd8ac547fa609e2f46"
@@ -17599,7 +17599,7 @@
                 "MBWAD": 474.3,
                 "PWAD": 4781.1,
                 "CWAD": 14384.1,
-                "LAIDL": 5.5
+                "LAID_LAB": 5.5
             },
             "_id": "683759fd8ac547fa609e2f47",
             "paid": "683759fd8ac547fa609e2f47"
@@ -17657,7 +17657,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 98.0,
-                "LAIDL": 0.093
+                "LAID_LAB": 0.093
             },
             "_id": "683759fd8ac547fa609e2f48",
             "paid": "683759fd8ac547fa609e2f48"
@@ -17717,7 +17717,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 16.2,
                 "CWAD": 935.4,
-                "LAIDL": 0.863
+                "LAID_LAB": 0.863
             },
             "_id": "683759fd8ac547fa609e2f49",
             "paid": "683759fd8ac547fa609e2f49"
@@ -17777,7 +17777,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 53.0,
                 "CWAD": 2470.6,
-                "LAIDL": 2.223
+                "LAID_LAB": 2.223
             },
             "_id": "683759fd8ac547fa609e2f4a",
             "paid": "683759fd8ac547fa609e2f4a"
@@ -17837,7 +17837,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 765.7,
                 "CWAD": 7487.8,
-                "LAIDL": 5.571
+                "LAID_LAB": 5.571
             },
             "_id": "683759fd8ac547fa609e2f4b",
             "paid": "683759fd8ac547fa609e2f4b"
@@ -17897,7 +17897,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1689.1,
                 "CWAD": 10527.1,
-                "LAIDL": 6.943
+                "LAID_LAB": 6.943
             },
             "_id": "683759fd8ac547fa609e2f4c",
             "paid": "683759fd8ac547fa609e2f4c"
@@ -17957,7 +17957,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2545.0,
                 "CWAD": 11237.1,
-                "LAIDL": 6.583
+                "LAID_LAB": 6.583
             },
             "_id": "683759fd8ac547fa609e2f4d",
             "paid": "683759fd8ac547fa609e2f4d"
@@ -18009,7 +18009,7 @@
                 "MBWAD": 1278.5,
                 "PWAD": 5224.4,
                 "CWAD": 18616.2,
-                "LAIDL": 8.831
+                "LAID_LAB": 8.831
             },
             "_id": "683759fd8ac547fa609e2f4e",
             "paid": "683759fd8ac547fa609e2f4e"
@@ -18061,7 +18061,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3988.6,
                 "CWAD": 15200.9,
-                "LAIDL": 5.51
+                "LAID_LAB": 5.51
             },
             "_id": "683759fd8ac547fa609e2f4f",
             "paid": "683759fd8ac547fa609e2f4f"
@@ -18120,7 +18120,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 154.9,
-                "LAIDL": 0.149
+                "LAID_LAB": 0.149
             },
             "_id": "683759fd8ac547fa609e2f50",
             "paid": "683759fd8ac547fa609e2f50"
@@ -18180,7 +18180,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 11.0,
                 "CWAD": 791.2,
-                "LAIDL": 0.745
+                "LAID_LAB": 0.745
             },
             "_id": "683759fd8ac547fa609e2f51",
             "paid": "683759fd8ac547fa609e2f51"
@@ -18240,7 +18240,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 48.5,
                 "CWAD": 3518.2,
-                "LAIDL": 3.203
+                "LAID_LAB": 3.203
             },
             "_id": "683759fd8ac547fa609e2f52",
             "paid": "683759fd8ac547fa609e2f52"
@@ -18300,7 +18300,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 393.5,
                 "CWAD": 7882.5,
-                "LAIDL": 6.375
+                "LAID_LAB": 6.375
             },
             "_id": "683759fd8ac547fa609e2f53",
             "paid": "683759fd8ac547fa609e2f53"
@@ -18360,7 +18360,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1382.9,
                 "CWAD": 11304.7,
-                "LAIDL": 7.813
+                "LAID_LAB": 7.813
             },
             "_id": "683759fd8ac547fa609e2f54",
             "paid": "683759fd8ac547fa609e2f54"
@@ -18420,7 +18420,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1809.0,
                 "CWAD": 8907.2,
-                "LAIDL": 5.108
+                "LAID_LAB": 5.108
             },
             "_id": "683759fd8ac547fa609e2f55",
             "paid": "683759fd8ac547fa609e2f55"
@@ -18472,7 +18472,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2295.0,
                 "CWAD": 14314.3,
-                "LAIDL": 6.959
+                "LAID_LAB": 6.959
             },
             "_id": "683759fd8ac547fa609e2f56",
             "paid": "683759fd8ac547fa609e2f56"
@@ -18524,7 +18524,7 @@
                 "MBWAD": 1637.4,
                 "PWAD": 8662.1,
                 "CWAD": 21575.7,
-                "LAIDL": 7.089
+                "LAID_LAB": 7.089
             },
             "_id": "683759fd8ac547fa609e2f57",
             "paid": "683759fd8ac547fa609e2f57"
@@ -18584,7 +18584,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 257.7,
-                "LAIDL": 0.249
+                "LAID_LAB": 0.249
             },
             "_id": "683759fd8ac547fa609e2f58",
             "paid": "683759fd8ac547fa609e2f58"
@@ -18644,7 +18644,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 11.6,
                 "CWAD": 1590.2,
-                "LAIDL": 1.461
+                "LAID_LAB": 1.461
             },
             "_id": "683759fd8ac547fa609e2f59",
             "paid": "683759fd8ac547fa609e2f59"
@@ -18704,7 +18704,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 131.3,
                 "CWAD": 4807.3,
-                "LAIDL": 4.49
+                "LAID_LAB": 4.49
             },
             "_id": "683759fd8ac547fa609e2f5a",
             "paid": "683759fd8ac547fa609e2f5a"
@@ -18764,7 +18764,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 354.4,
                 "CWAD": 7378.1,
-                "LAIDL": 6.463
+                "LAID_LAB": 6.463
             },
             "_id": "683759fd8ac547fa609e2f5b",
             "paid": "683759fd8ac547fa609e2f5b"
@@ -18824,7 +18824,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 940.3,
                 "CWAD": 9955.8,
-                "LAIDL": 6.769
+                "LAID_LAB": 6.769
             },
             "_id": "683759fd8ac547fa609e2f5c",
             "paid": "683759fd8ac547fa609e2f5c"
@@ -18884,7 +18884,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 860.4,
                 "CWAD": 10421.4,
-                "LAIDL": 6.312
+                "LAID_LAB": 6.312
             },
             "_id": "683759fd8ac547fa609e2f5d",
             "paid": "683759fd8ac547fa609e2f5d"
@@ -18936,7 +18936,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3127.3,
                 "CWAD": 21338.1,
-                "LAIDL": 8.674
+                "LAID_LAB": 8.674
             },
             "_id": "683759fd8ac547fa609e2f5e",
             "paid": "683759fd8ac547fa609e2f5e"
@@ -18988,7 +18988,7 @@
                 "MBWAD": 2098.1,
                 "PWAD": 7827.9,
                 "CWAD": 23367.3,
-                "LAIDL": 6.558
+                "LAID_LAB": 6.558
             },
             "_id": "683759fd8ac547fa609e2f5f",
             "paid": "683759fd8ac547fa609e2f5f"
@@ -19048,7 +19048,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 153.9,
-                "LAIDL": 0.143
+                "LAID_LAB": 0.143
             },
             "_id": "683759fd8ac547fa609e2f60",
             "paid": "683759fd8ac547fa609e2f60"
@@ -19108,7 +19108,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 14.9,
                 "CWAD": 1215.1,
-                "LAIDL": 0.949
+                "LAID_LAB": 0.949
             },
             "_id": "683759fd8ac547fa609e2f61",
             "paid": "683759fd8ac547fa609e2f61"
@@ -19168,7 +19168,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 103.1,
                 "CWAD": 3369.5,
-                "LAIDL": 3.18
+                "LAID_LAB": 3.18
             },
             "_id": "683759fd8ac547fa609e2f62",
             "paid": "683759fd8ac547fa609e2f62"
@@ -19228,7 +19228,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 729.4,
                 "CWAD": 5403.5,
-                "LAIDL": 3.94
+                "LAID_LAB": 3.94
             },
             "_id": "683759fd8ac547fa609e2f63",
             "paid": "683759fd8ac547fa609e2f63"
@@ -19288,7 +19288,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2248.5,
                 "CWAD": 10869.5,
-                "LAIDL": 6.247
+                "LAID_LAB": 6.247
             },
             "_id": "683759fd8ac547fa609e2f64",
             "paid": "683759fd8ac547fa609e2f64"
@@ -19348,7 +19348,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3441.2,
                 "CWAD": 15305.6,
-                "LAIDL": 7.052
+                "LAID_LAB": 7.052
             },
             "_id": "683759fd8ac547fa609e2f65",
             "paid": "683759fd8ac547fa609e2f65"
@@ -19400,7 +19400,7 @@
                 "MBWAD": 1133.9,
                 "PWAD": 6602.8,
                 "CWAD": 21957.9,
-                "LAIDL": 7.122
+                "LAID_LAB": 7.122
             },
             "_id": "683759fd8ac547fa609e2f66",
             "paid": "683759fd8ac547fa609e2f66"
@@ -19452,7 +19452,7 @@
                 "MBWAD": 1854.6,
                 "PWAD": 5210.8,
                 "CWAD": 12491.7,
-                "LAIDL": 3.486
+                "LAID_LAB": 3.486
             },
             "_id": "683759fd8ac547fa609e2f67",
             "paid": "683759fd8ac547fa609e2f67"
@@ -19511,7 +19511,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 133.5,
-                "LAIDL": 0.126
+                "LAID_LAB": 0.126
             },
             "_id": "683759fd8ac547fa609e2f68",
             "paid": "683759fd8ac547fa609e2f68"
@@ -19571,7 +19571,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 22.3,
                 "CWAD": 1375.8,
-                "LAIDL": 1.247
+                "LAID_LAB": 1.247
             },
             "_id": "683759fd8ac547fa609e2f69",
             "paid": "683759fd8ac547fa609e2f69"
@@ -19631,7 +19631,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 92.2,
                 "CWAD": 4052.0,
-                "LAIDL": 3.767
+                "LAID_LAB": 3.767
             },
             "_id": "683759fd8ac547fa609e2f6a",
             "paid": "683759fd8ac547fa609e2f6a"
@@ -19691,7 +19691,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 226.0,
                 "CWAD": 5102.2,
-                "LAIDL": 4.428
+                "LAID_LAB": 4.428
             },
             "_id": "683759fd8ac547fa609e2f6b",
             "paid": "683759fd8ac547fa609e2f6b"
@@ -19751,7 +19751,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 801.5,
                 "CWAD": 7918.8,
-                "LAIDL": 5.717
+                "LAID_LAB": 5.717
             },
             "_id": "683759fd8ac547fa609e2f6c",
             "paid": "683759fd8ac547fa609e2f6c"
@@ -19811,7 +19811,7 @@
                 "MBWAD": 32.0,
                 "PWAD": 1803.9,
                 "CWAD": 13956.4,
-                "LAIDL": 8.066
+                "LAID_LAB": 8.066
             },
             "_id": "683759fd8ac547fa609e2f6d",
             "paid": "683759fd8ac547fa609e2f6d"
@@ -19863,7 +19863,7 @@
                 "MBWAD": 890.5,
                 "PWAD": 5233.1,
                 "CWAD": 18371.8,
-                "LAIDL": 7.612
+                "LAID_LAB": 7.612
             },
             "_id": "683759fd8ac547fa609e2f6e",
             "paid": "683759fd8ac547fa609e2f6e"
@@ -19915,7 +19915,7 @@
                 "MBWAD": 182.4,
                 "PWAD": 11303.4,
                 "CWAD": 33657.1,
-                "LAIDL": 11.515
+                "LAID_LAB": 11.515
             },
             "_id": "683759fd8ac547fa609e2f6f",
             "paid": "683759fd8ac547fa609e2f6f"
@@ -19974,7 +19974,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.6,
                 "CWAD": 162.3,
-                "LAIDL": 0.148
+                "LAID_LAB": 0.148
             },
             "_id": "683759fd8ac547fa609e2f70",
             "paid": "683759fd8ac547fa609e2f70"
@@ -20034,7 +20034,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 19.4,
                 "CWAD": 1282.3,
-                "LAIDL": 1.102
+                "LAID_LAB": 1.102
             },
             "_id": "683759fd8ac547fa609e2f71",
             "paid": "683759fd8ac547fa609e2f71"
@@ -20094,7 +20094,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 63.0,
                 "CWAD": 2300.2,
-                "LAIDL": 2.187
+                "LAID_LAB": 2.187
             },
             "_id": "683759fd8ac547fa609e2f72",
             "paid": "683759fd8ac547fa609e2f72"
@@ -20154,7 +20154,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1013.3,
                 "CWAD": 6317.0,
-                "LAIDL": 4.218
+                "LAID_LAB": 4.218
             },
             "_id": "683759fd8ac547fa609e2f73",
             "paid": "683759fd8ac547fa609e2f73"
@@ -20214,7 +20214,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2220.0,
                 "CWAD": 8686.0,
-                "LAIDL": 5.286
+                "LAID_LAB": 5.286
             },
             "_id": "683759fd8ac547fa609e2f74",
             "paid": "683759fd8ac547fa609e2f74"
@@ -20274,7 +20274,7 @@
                 "MBWAD": 296.5,
                 "PWAD": 3048.7,
                 "CWAD": 9610.4,
-                "LAIDL": 5.043
+                "LAID_LAB": 5.043
             },
             "_id": "683759fd8ac547fa609e2f75",
             "paid": "683759fd8ac547fa609e2f75"
@@ -20326,7 +20326,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3193.2,
                 "CWAD": 11828.2,
-                "LAIDL": 5.302
+                "LAID_LAB": 5.302
             },
             "_id": "683759fd8ac547fa609e2f76",
             "paid": "683759fd8ac547fa609e2f76"
@@ -20378,7 +20378,7 @@
                 "MBWAD": 866.2,
                 "PWAD": 5203.1,
                 "CWAD": 14146.5,
-                "LAIDL": 4.501
+                "LAID_LAB": 4.501
             },
             "_id": "683759fd8ac547fa609e2f77",
             "paid": "683759fd8ac547fa609e2f77"
@@ -20438,7 +20438,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 193.4,
-                "LAIDL": 0.172
+                "LAID_LAB": 0.172
             },
             "_id": "683759fd8ac547fa609e2f78",
             "paid": "683759fd8ac547fa609e2f78"
@@ -20498,7 +20498,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 30.4,
                 "CWAD": 1464.4,
-                "LAIDL": 1.156
+                "LAID_LAB": 1.156
             },
             "_id": "683759fd8ac547fa609e2f79",
             "paid": "683759fd8ac547fa609e2f79"
@@ -20558,7 +20558,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 153.6,
                 "CWAD": 3757.5,
-                "LAIDL": 3.22
+                "LAID_LAB": 3.22
             },
             "_id": "683759fd8ac547fa609e2f7a",
             "paid": "683759fd8ac547fa609e2f7a"
@@ -20618,7 +20618,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 627.3,
                 "CWAD": 6287.2,
-                "LAIDL": 2.104
+                "LAID_LAB": 2.104
             },
             "_id": "683759fd8ac547fa609e2f7b",
             "paid": "683759fd8ac547fa609e2f7b"
@@ -20678,7 +20678,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 864.9,
                 "CWAD": 6286.9,
-                "LAIDL": 4.02
+                "LAID_LAB": 4.02
             },
             "_id": "683759fd8ac547fa609e2f7c",
             "paid": "683759fd8ac547fa609e2f7c"
@@ -20738,7 +20738,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3251.8,
                 "CWAD": 11769.0,
-                "LAIDL": 5.696
+                "LAID_LAB": 5.696
             },
             "_id": "683759fd8ac547fa609e2f7d",
             "paid": "683759fd8ac547fa609e2f7d"
@@ -20790,7 +20790,7 @@
                 "MBWAD": 342.4,
                 "PWAD": 3945.0,
                 "CWAD": 10760.2,
-                "LAIDL": 4.246
+                "LAID_LAB": 4.246
             },
             "_id": "683759fd8ac547fa609e2f7e",
             "paid": "683759fd8ac547fa609e2f7e"
@@ -20842,7 +20842,7 @@
                 "MBWAD": 2456.0,
                 "PWAD": 5724.0,
                 "CWAD": 12246.2,
-                "LAIDL": 4.319
+                "LAID_LAB": 4.319
             },
             "_id": "683759fd8ac547fa609e2f7f",
             "paid": "683759fd8ac547fa609e2f7f"
@@ -20902,7 +20902,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 225.4,
-                "LAIDL": 0.204
+                "LAID_LAB": 0.204
             },
             "_id": "683759fd8ac547fa609e2f80",
             "paid": "683759fd8ac547fa609e2f80"
@@ -20962,7 +20962,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 29.1,
                 "CWAD": 1415.6,
-                "LAIDL": 1.139
+                "LAID_LAB": 1.139
             },
             "_id": "683759fd8ac547fa609e2f81",
             "paid": "683759fd8ac547fa609e2f81"
@@ -21022,7 +21022,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 270.6,
                 "CWAD": 2996.3,
-                "LAIDL": 2.141
+                "LAID_LAB": 2.141
             },
             "_id": "683759fd8ac547fa609e2f82",
             "paid": "683759fd8ac547fa609e2f82"
@@ -21082,7 +21082,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1166.9,
                 "CWAD": 7183.8,
-                "LAIDL": 4.454
+                "LAID_LAB": 4.454
             },
             "_id": "683759fd8ac547fa609e2f83",
             "paid": "683759fd8ac547fa609e2f83"
@@ -21142,7 +21142,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1868.2,
                 "CWAD": 7240.1,
-                "LAIDL": 4.436
+                "LAID_LAB": 4.436
             },
             "_id": "683759fd8ac547fa609e2f84",
             "paid": "683759fd8ac547fa609e2f84"
@@ -21202,7 +21202,7 @@
                 "MBWAD": 198.2,
                 "PWAD": 3434.1,
                 "CWAD": 10252.3,
-                "LAIDL": 5.563
+                "LAID_LAB": 5.563
             },
             "_id": "683759fd8ac547fa609e2f85",
             "paid": "683759fd8ac547fa609e2f85"
@@ -21254,7 +21254,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 6253.6,
                 "CWAD": 19084.8,
-                "LAIDL": 8.409
+                "LAID_LAB": 8.409
             },
             "_id": "683759fd8ac547fa609e2f86",
             "paid": "683759fd8ac547fa609e2f86"
@@ -21306,7 +21306,7 @@
                 "MBWAD": 1780.0,
                 "PWAD": 3622.9,
                 "CWAD": 11221.9,
-                "LAIDL": 4.992
+                "LAID_LAB": 4.992
             },
             "_id": "683759fd8ac547fa609e2f87",
             "paid": "683759fd8ac547fa609e2f87"
@@ -21366,7 +21366,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 200.5,
-                "LAIDL": 0.194
+                "LAID_LAB": 0.194
             },
             "_id": "683759fd8ac547fa609e2f88",
             "paid": "683759fd8ac547fa609e2f88"
@@ -21426,7 +21426,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 5.5,
                 "CWAD": 853.3,
-                "LAIDL": 0.783
+                "LAID_LAB": 0.783
             },
             "_id": "683759fd8ac547fa609e2f89",
             "paid": "683759fd8ac547fa609e2f89"
@@ -21486,7 +21486,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 85.4,
                 "CWAD": 2898.0,
-                "LAIDL": 2.903
+                "LAID_LAB": 2.903
             },
             "_id": "683759fd8ac547fa609e2f8a",
             "paid": "683759fd8ac547fa609e2f8a"
@@ -21546,7 +21546,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 468.8,
                 "CWAD": 5559.1,
-                "LAIDL": 4.416
+                "LAID_LAB": 4.416
             },
             "_id": "683759fd8ac547fa609e2f8b",
             "paid": "683759fd8ac547fa609e2f8b"
@@ -21606,7 +21606,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1475.0,
                 "CWAD": 9977.4,
-                "LAIDL": 6.476
+                "LAID_LAB": 6.476
             },
             "_id": "683759fd8ac547fa609e2f8c",
             "paid": "683759fd8ac547fa609e2f8c"
@@ -21666,7 +21666,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1941.0,
                 "CWAD": 11614.8,
-                "LAIDL": 7.199
+                "LAID_LAB": 7.199
             },
             "_id": "683759fd8ac547fa609e2f8d",
             "paid": "683759fd8ac547fa609e2f8d"
@@ -21718,7 +21718,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3738.4,
                 "CWAD": 16905.2,
-                "LAIDL": 8.286
+                "LAID_LAB": 8.286
             },
             "_id": "683759fd8ac547fa609e2f8e",
             "paid": "683759fd8ac547fa609e2f8e"
@@ -21770,7 +21770,7 @@
                 "MBWAD": 129.0,
                 "PWAD": 2401.7,
                 "CWAD": 11596.4,
-                "LAIDL": 4.683
+                "LAID_LAB": 4.683
             },
             "_id": "683759fd8ac547fa609e2f8f",
             "paid": "683759fd8ac547fa609e2f8f"
@@ -21830,7 +21830,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 239.6,
-                "LAIDL": 0.228
+                "LAID_LAB": 0.228
             },
             "_id": "683759fd8ac547fa609e2f90",
             "paid": "683759fd8ac547fa609e2f90"
@@ -21890,7 +21890,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 9.4,
                 "CWAD": 1025.3,
-                "LAIDL": 0.915
+                "LAID_LAB": 0.915
             },
             "_id": "683759fd8ac547fa609e2f91",
             "paid": "683759fd8ac547fa609e2f91"
@@ -21950,7 +21950,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 106.4,
                 "CWAD": 2660.4,
-                "LAIDL": 2.361
+                "LAID_LAB": 2.361
             },
             "_id": "683759fd8ac547fa609e2f92",
             "paid": "683759fd8ac547fa609e2f92"
@@ -22010,7 +22010,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 382.8,
                 "CWAD": 3773.3,
-                "LAIDL": 2.538
+                "LAID_LAB": 2.538
             },
             "_id": "683759fd8ac547fa609e2f93",
             "paid": "683759fd8ac547fa609e2f93"
@@ -22070,7 +22070,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1377.7,
                 "CWAD": 6830.4,
-                "LAIDL": 4.111
+                "LAID_LAB": 4.111
             },
             "_id": "683759fd8ac547fa609e2f94",
             "paid": "683759fd8ac547fa609e2f94"
@@ -22130,7 +22130,7 @@
                 "MBWAD": 579.4,
                 "PWAD": 3139.6,
                 "CWAD": 9113.1,
-                "LAIDL": 4.45
+                "LAID_LAB": 4.45
             },
             "_id": "683759fd8ac547fa609e2f95",
             "paid": "683759fd8ac547fa609e2f95"
@@ -22182,7 +22182,7 @@
                 "MBWAD": 2357.1,
                 "PWAD": 3344.6,
                 "CWAD": 7585.4,
-                "LAIDL": 3.308
+                "LAID_LAB": 3.308
             },
             "_id": "683759fd8ac547fa609e2f96",
             "paid": "683759fd8ac547fa609e2f96"
@@ -22234,7 +22234,7 @@
                 "MBWAD": 819.6,
                 "PWAD": 4863.6,
                 "CWAD": 9853.3,
-                "LAIDL": 3.144
+                "LAID_LAB": 3.144
             },
             "_id": "683759fd8ac547fa609e2f97",
             "paid": "683759fd8ac547fa609e2f97"
@@ -22293,7 +22293,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 200.1,
-                "LAIDL": 0.183
+                "LAID_LAB": 0.183
             },
             "_id": "683759fd8ac547fa609e2f98",
             "paid": "683759fd8ac547fa609e2f98"
@@ -22353,7 +22353,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 16.8,
                 "CWAD": 1204.7,
-                "LAIDL": 1.036
+                "LAID_LAB": 1.036
             },
             "_id": "683759fd8ac547fa609e2f99",
             "paid": "683759fd8ac547fa609e2f99"
@@ -22413,7 +22413,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 83.1,
                 "CWAD": 2601.2,
-                "LAIDL": 2.361
+                "LAID_LAB": 2.361
             },
             "_id": "683759fd8ac547fa609e2f9a",
             "paid": "683759fd8ac547fa609e2f9a"
@@ -22473,7 +22473,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 888.5,
                 "CWAD": 5225.4,
-                "LAIDL": 3.313
+                "LAID_LAB": 3.313
             },
             "_id": "683759fd8ac547fa609e2f9b",
             "paid": "683759fd8ac547fa609e2f9b"
@@ -22533,7 +22533,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1275.5,
                 "CWAD": 6363.8,
-                "LAIDL": 3.911
+                "LAID_LAB": 3.911
             },
             "_id": "683759fd8ac547fa609e2f9c",
             "paid": "683759fd8ac547fa609e2f9c"
@@ -22593,7 +22593,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2494.8,
                 "CWAD": 11296.3,
-                "LAIDL": 6.605
+                "LAID_LAB": 6.605
             },
             "_id": "683759fd8ac547fa609e2f9d",
             "paid": "683759fd8ac547fa609e2f9d"
@@ -22645,7 +22645,7 @@
                 "MBWAD": 1581.1,
                 "PWAD": 4229.2,
                 "CWAD": 10579.8,
-                "LAIDL": 4.54
+                "LAID_LAB": 4.54
             },
             "_id": "683759fd8ac547fa609e2f9e",
             "paid": "683759fd8ac547fa609e2f9e"
@@ -22697,7 +22697,7 @@
                 "MBWAD": 4486.2,
                 "PWAD": 8120.8,
                 "CWAD": 16834.3,
-                "LAIDL": 5.564
+                "LAID_LAB": 5.564
             },
             "_id": "683759fd8ac547fa609e2f9f",
             "paid": "683759fd8ac547fa609e2f9f"
@@ -22755,7 +22755,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 149.4,
-                "LAIDL": 0.137
+                "LAID_LAB": 0.137
             },
             "_id": "683759fd8ac547fa609e2fa0",
             "paid": "683759fd8ac547fa609e2fa0"
@@ -22815,7 +22815,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 31.4,
                 "CWAD": 1377.4,
-                "LAIDL": 1.203
+                "LAID_LAB": 1.203
             },
             "_id": "683759fd8ac547fa609e2fa1",
             "paid": "683759fd8ac547fa609e2fa1"
@@ -22875,7 +22875,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 50.4,
                 "CWAD": 2329.6,
-                "LAIDL": 2.183
+                "LAID_LAB": 2.183
             },
             "_id": "683759fd8ac547fa609e2fa2",
             "paid": "683759fd8ac547fa609e2fa2"
@@ -22935,7 +22935,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3727.1,
                 "CWAD": 10491.5,
-                "LAIDL": 5.575
+                "LAID_LAB": 5.575
             },
             "_id": "683759fd8ac547fa609e2fa3",
             "paid": "683759fd8ac547fa609e2fa3"
@@ -22995,7 +22995,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 817.4,
                 "CWAD": 10559.7,
-                "LAIDL": 7.091
+                "LAID_LAB": 7.091
             },
             "_id": "683759fd8ac547fa609e2fa4",
             "paid": "683759fd8ac547fa609e2fa4"
@@ -23055,7 +23055,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2115.6,
                 "CWAD": 12376.6,
-                "LAIDL": 6.986
+                "LAID_LAB": 6.986
             },
             "_id": "683759fd8ac547fa609e2fa5",
             "paid": "683759fd8ac547fa609e2fa5"
@@ -23107,7 +23107,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3742.3,
                 "CWAD": 18242.8,
-                "LAIDL": 7.245
+                "LAID_LAB": 7.245
             },
             "_id": "683759fd8ac547fa609e2fa6",
             "paid": "683759fd8ac547fa609e2fa6"
@@ -23159,7 +23159,7 @@
                 "MBWAD": 1247.4,
                 "PWAD": 9308.1,
                 "CWAD": 27854.5,
-                "LAIDL": 8.04
+                "LAID_LAB": 8.04
             },
             "_id": "683759fd8ac547fa609e2fa7",
             "paid": "683759fd8ac547fa609e2fa7"
@@ -23219,7 +23219,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 170.1,
-                "LAIDL": 0.154
+                "LAID_LAB": 0.154
             },
             "_id": "683759fd8ac547fa609e2fa8",
             "paid": "683759fd8ac547fa609e2fa8"
@@ -23279,7 +23279,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2.9,
                 "CWAD": 531.2,
-                "LAIDL": 0.545
+                "LAID_LAB": 0.545
             },
             "_id": "683759fd8ac547fa609e2fa9",
             "paid": "683759fd8ac547fa609e2fa9"
@@ -23339,7 +23339,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 118.7,
                 "CWAD": 4034.2,
-                "LAIDL": 3.761
+                "LAID_LAB": 3.761
             },
             "_id": "683759fd8ac547fa609e2faa",
             "paid": "683759fd8ac547fa609e2faa"
@@ -23399,7 +23399,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 387.4,
                 "CWAD": 8580.3,
-                "LAIDL": 7.093
+                "LAID_LAB": 7.093
             },
             "_id": "683759fd8ac547fa609e2fab",
             "paid": "683759fd8ac547fa609e2fab"
@@ -23459,7 +23459,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 581.7,
                 "CWAD": 7600.3,
-                "LAIDL": 5.368
+                "LAID_LAB": 5.368
             },
             "_id": "683759fd8ac547fa609e2fac",
             "paid": "683759fd8ac547fa609e2fac"
@@ -23519,7 +23519,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2160.8,
                 "CWAD": 15485.1,
-                "LAIDL": 8.849
+                "LAID_LAB": 8.849
             },
             "_id": "683759fd8ac547fa609e2fad",
             "paid": "683759fd8ac547fa609e2fad"
@@ -23571,7 +23571,7 @@
                 "MBWAD": 420.0,
                 "PWAD": 3977.0,
                 "CWAD": 19350.5,
-                "LAIDL": 8.729
+                "LAID_LAB": 8.729
             },
             "_id": "683759fd8ac547fa609e2fae",
             "paid": "683759fd8ac547fa609e2fae"
@@ -23623,7 +23623,7 @@
                 "MBWAD": 1661.6,
                 "PWAD": 4964.5,
                 "CWAD": 12483.9,
-                "LAIDL": 4.474
+                "LAID_LAB": 4.474
             },
             "_id": "683759fd8ac547fa609e2faf",
             "paid": "683759fd8ac547fa609e2faf"
@@ -23682,7 +23682,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 174.0,
-                "LAIDL": 0.162
+                "LAID_LAB": 0.162
             },
             "_id": "683759fd8ac547fa609e2fb0",
             "paid": "683759fd8ac547fa609e2fb0"
@@ -23742,7 +23742,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 12.6,
                 "CWAD": 1854.6,
-                "LAIDL": 1.595
+                "LAID_LAB": 1.595
             },
             "_id": "683759fd8ac547fa609e2fb1",
             "paid": "683759fd8ac547fa609e2fb1"
@@ -23802,7 +23802,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 136.8,
                 "CWAD": 3829.6,
-                "LAIDL": 3.573
+                "LAID_LAB": 3.573
             },
             "_id": "683759fd8ac547fa609e2fb2",
             "paid": "683759fd8ac547fa609e2fb2"
@@ -23862,7 +23862,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 521.9,
                 "CWAD": 6764.1,
-                "LAIDL": 5.536
+                "LAID_LAB": 5.536
             },
             "_id": "683759fd8ac547fa609e2fb3",
             "paid": "683759fd8ac547fa609e2fb3"
@@ -23922,7 +23922,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1439.8,
                 "CWAD": 10667.7,
-                "LAIDL": 6.934
+                "LAID_LAB": 6.934
             },
             "_id": "683759fd8ac547fa609e2fb4",
             "paid": "683759fd8ac547fa609e2fb4"
@@ -23982,7 +23982,7 @@
                 "MBWAD": 163.6,
                 "PWAD": 2707.9,
                 "CWAD": 12341.6,
-                "LAIDL": 6.817
+                "LAID_LAB": 6.817
             },
             "_id": "683759fd8ac547fa609e2fb5",
             "paid": "683759fd8ac547fa609e2fb5"
@@ -24034,7 +24034,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 6270.1,
                 "CWAD": 17774.3,
-                "LAIDL": 6.999
+                "LAID_LAB": 6.999
             },
             "_id": "683759fd8ac547fa609e2fb6",
             "paid": "683759fd8ac547fa609e2fb6"
@@ -24086,7 +24086,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 5207.0,
                 "CWAD": 16256.2,
-                "LAIDL": 4.917
+                "LAID_LAB": 4.917
             },
             "_id": "683759fd8ac547fa609e2fb7",
             "paid": "683759fd8ac547fa609e2fb7"
@@ -24146,7 +24146,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 239.9,
-                "LAIDL": 0.237
+                "LAID_LAB": 0.237
             },
             "_id": "683759fd8ac547fa609e2fb8",
             "paid": "683759fd8ac547fa609e2fb8"
@@ -24206,7 +24206,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 21.3,
                 "CWAD": 1339.2,
-                "LAIDL": 1.087
+                "LAID_LAB": 1.087
             },
             "_id": "683759fd8ac547fa609e2fb9",
             "paid": "683759fd8ac547fa609e2fb9"
@@ -24266,7 +24266,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 109.9,
                 "CWAD": 2959.8,
-                "LAIDL": 2.609
+                "LAID_LAB": 2.609
             },
             "_id": "683759fd8ac547fa609e2fba",
             "paid": "683759fd8ac547fa609e2fba"
@@ -24326,7 +24326,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 399.3,
                 "CWAD": 5700.4,
-                "LAIDL": 4.471
+                "LAID_LAB": 4.471
             },
             "_id": "683759fd8ac547fa609e2fbb",
             "paid": "683759fd8ac547fa609e2fbb"
@@ -24386,7 +24386,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1670.0,
                 "CWAD": 7459.9,
-                "LAIDL": 4.924
+                "LAID_LAB": 4.924
             },
             "_id": "683759fd8ac547fa609e2fbc",
             "paid": "683759fd8ac547fa609e2fbc"
@@ -24446,7 +24446,7 @@
                 "MBWAD": 168.5,
                 "PWAD": 5394.2,
                 "CWAD": 14661.2,
-                "LAIDL": 7.244
+                "LAID_LAB": 7.244
             },
             "_id": "683759fd8ac547fa609e2fbd",
             "paid": "683759fd8ac547fa609e2fbd"
@@ -24498,7 +24498,7 @@
                 "MBWAD": 1048.6,
                 "PWAD": 5222.5,
                 "CWAD": 17688.0,
-                "LAIDL": 7.23
+                "LAID_LAB": 7.23
             },
             "_id": "683759fd8ac547fa609e2fbe",
             "paid": "683759fd8ac547fa609e2fbe"
@@ -24550,7 +24550,7 @@
                 "MBWAD": 1120.4,
                 "PWAD": 6705.6,
                 "CWAD": 21233.3,
-                "LAIDL": 7.734
+                "LAID_LAB": 7.734
             },
             "_id": "683759fd8ac547fa609e2fbf",
             "paid": "683759fd8ac547fa609e2fbf"
@@ -24609,7 +24609,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 155.2,
-                "LAIDL": 0.145
+                "LAID_LAB": 0.145
             },
             "_id": "683759fd8ac547fa609e2fc0",
             "paid": "683759fd8ac547fa609e2fc0"
@@ -24669,7 +24669,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 18.1,
                 "CWAD": 1346.0,
-                "LAIDL": 1.107
+                "LAID_LAB": 1.107
             },
             "_id": "683759fd8ac547fa609e2fc1",
             "paid": "683759fd8ac547fa609e2fc1"
@@ -24729,7 +24729,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 124.8,
                 "CWAD": 3769.1,
-                "LAIDL": 3.334
+                "LAID_LAB": 3.334
             },
             "_id": "683759fd8ac547fa609e2fc2",
             "paid": "683759fd8ac547fa609e2fc2"
@@ -24789,7 +24789,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 547.4,
                 "CWAD": 7590.9,
-                "LAIDL": 6.56
+                "LAID_LAB": 6.56
             },
             "_id": "683759fd8ac547fa609e2fc3",
             "paid": "683759fd8ac547fa609e2fc3"
@@ -24849,7 +24849,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1052.8,
                 "CWAD": 7477.7,
-                "LAIDL": 5.138
+                "LAID_LAB": 5.138
             },
             "_id": "683759fd8ac547fa609e2fc4",
             "paid": "683759fd8ac547fa609e2fc4"
@@ -24909,7 +24909,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3677.3,
                 "CWAD": 17939.8,
-                "LAIDL": 9.151
+                "LAID_LAB": 9.151
             },
             "_id": "683759fd8ac547fa609e2fc5",
             "paid": "683759fd8ac547fa609e2fc5"
@@ -24961,7 +24961,7 @@
                 "MBWAD": 1205.7,
                 "PWAD": 4069.1,
                 "CWAD": 19125.5,
-                "LAIDL": 8.539
+                "LAID_LAB": 8.539
             },
             "_id": "683759fd8ac547fa609e2fc6",
             "paid": "683759fd8ac547fa609e2fc6"
@@ -25013,7 +25013,7 @@
                 "MBWAD": 1733.4,
                 "PWAD": 6932.6,
                 "CWAD": 21294.4,
-                "LAIDL": 7.294
+                "LAID_LAB": 7.294
             },
             "_id": "683759fd8ac547fa609e2fc7",
             "paid": "683759fd8ac547fa609e2fc7"
@@ -25072,7 +25072,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 157.1,
-                "LAIDL": 0.15
+                "LAID_LAB": 0.15
             },
             "_id": "683759fd8ac547fa609e2fc8",
             "paid": "683759fd8ac547fa609e2fc8"
@@ -25132,7 +25132,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 22.6,
                 "CWAD": 1340.2,
-                "LAIDL": 1.187
+                "LAID_LAB": 1.187
             },
             "_id": "683759fd8ac547fa609e2fc9",
             "paid": "683759fd8ac547fa609e2fc9"
@@ -25192,7 +25192,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 119.6,
                 "CWAD": 3536.9,
-                "LAIDL": 3.268
+                "LAID_LAB": 3.268
             },
             "_id": "683759fd8ac547fa609e2fca",
             "paid": "683759fd8ac547fa609e2fca"
@@ -25252,7 +25252,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 670.3,
                 "CWAD": 6286.2,
-                "LAIDL": 4.668
+                "LAID_LAB": 4.668
             },
             "_id": "683759fd8ac547fa609e2fcb",
             "paid": "683759fd8ac547fa609e2fcb"
@@ -25312,7 +25312,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 851.7,
                 "CWAD": 8167.4,
-                "LAIDL": 5.585
+                "LAID_LAB": 5.585
             },
             "_id": "683759fd8ac547fa609e2fcc",
             "paid": "683759fd8ac547fa609e2fcc"
@@ -25372,7 +25372,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3708.6,
                 "CWAD": 15091.9,
-                "LAIDL": 7.797
+                "LAID_LAB": 7.797
             },
             "_id": "683759fd8ac547fa609e2fcd",
             "paid": "683759fd8ac547fa609e2fcd"
@@ -25424,7 +25424,7 @@
                 "MBWAD": 319.1,
                 "PWAD": 5472.7,
                 "CWAD": 23256.7,
-                "LAIDL": 9.951
+                "LAID_LAB": 9.951
             },
             "_id": "683759fd8ac547fa609e2fce",
             "paid": "683759fd8ac547fa609e2fce"
@@ -25476,7 +25476,7 @@
                 "MBWAD": 2654.9,
                 "PWAD": 8440.0,
                 "CWAD": 21397.2,
-                "LAIDL": 7.087
+                "LAID_LAB": 7.087
             },
             "_id": "683759fd8ac547fa609e2fcf",
             "paid": "683759fd8ac547fa609e2fcf"
@@ -25536,7 +25536,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 110.6,
-                "LAIDL": 0.232
+                "LAID_LAB": 0.232
             },
             "_id": "683759fd8ac547fa609e2fd0",
             "paid": "683759fd8ac547fa609e2fd0"
@@ -25596,7 +25596,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 11.6,
                 "CWAD": 1068.9,
-                "LAIDL": 0.961
+                "LAID_LAB": 0.961
             },
             "_id": "683759fd8ac547fa609e2fd1",
             "paid": "683759fd8ac547fa609e2fd1"
@@ -25656,7 +25656,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 182.0,
                 "CWAD": 4046.8,
-                "LAIDL": 3.629
+                "LAID_LAB": 3.629
             },
             "_id": "683759fd8ac547fa609e2fd2",
             "paid": "683759fd8ac547fa609e2fd2"
@@ -25716,7 +25716,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 572.6,
                 "CWAD": 4806.7,
-                "LAIDL": 3.675
+                "LAID_LAB": 3.675
             },
             "_id": "683759fd8ac547fa609e2fd3",
             "paid": "683759fd8ac547fa609e2fd3"
@@ -25776,7 +25776,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 940.9,
                 "CWAD": 5693.3,
-                "LAIDL": 4.061
+                "LAID_LAB": 4.061
             },
             "_id": "683759fd8ac547fa609e2fd4",
             "paid": "683759fd8ac547fa609e2fd4"
@@ -25836,7 +25836,7 @@
                 "MBWAD": 133.9,
                 "PWAD": 2256.2,
                 "CWAD": 10854.9,
-                "LAIDL": 4.727
+                "LAID_LAB": 4.727
             },
             "_id": "683759fd8ac547fa609e2fd5",
             "paid": "683759fd8ac547fa609e2fd5"
@@ -25888,7 +25888,7 @@
                 "MBWAD": 1329.9,
                 "PWAD": 5232.2,
                 "CWAD": 12723.5,
-                "LAIDL": 4.585
+                "LAID_LAB": 4.585
             },
             "_id": "683759fd8ac547fa609e2fd6",
             "paid": "683759fd8ac547fa609e2fd6"
@@ -25940,7 +25940,7 @@
                 "MBWAD": 2880.9,
                 "PWAD": 9887.2,
                 "CWAD": 20868.6,
-                "LAIDL": 5.382
+                "LAID_LAB": 5.382
             },
             "_id": "683759fd8ac547fa609e2fd7",
             "paid": "683759fd8ac547fa609e2fd7"
@@ -25998,7 +25998,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 237.6,
-                "LAIDL": 0.221
+                "LAID_LAB": 0.221
             },
             "_id": "683759fd8ac547fa609e2fd8",
             "paid": "683759fd8ac547fa609e2fd8"
@@ -26058,7 +26058,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 28.5,
                 "CWAD": 1966.2,
-                "LAIDL": 1.589
+                "LAID_LAB": 1.589
             },
             "_id": "683759fd8ac547fa609e2fd9",
             "paid": "683759fd8ac547fa609e2fd9"
@@ -26118,7 +26118,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 174.0,
                 "CWAD": 5533.9,
-                "LAIDL": 4.748
+                "LAID_LAB": 4.748
             },
             "_id": "683759fd8ac547fa609e2fda",
             "paid": "683759fd8ac547fa609e2fda"
@@ -26178,7 +26178,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 194.0,
                 "CWAD": 7486.8,
-                "LAIDL": 3.31
+                "LAID_LAB": 3.31
             },
             "_id": "683759fd8ac547fa609e2fdb",
             "paid": "683759fd8ac547fa609e2fdb"
@@ -26238,7 +26238,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 651.2,
                 "CWAD": 8623.3,
-                "LAIDL": 5.841
+                "LAID_LAB": 5.841
             },
             "_id": "683759fd8ac547fa609e2fdc",
             "paid": "683759fd8ac547fa609e2fdc"
@@ -26298,7 +26298,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1247.7,
                 "CWAD": 11512.0,
-                "LAIDL": 6.879
+                "LAID_LAB": 6.879
             },
             "_id": "683759fd8ac547fa609e2fdd",
             "paid": "683759fd8ac547fa609e2fdd"
@@ -26350,7 +26350,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3910.1,
                 "CWAD": 21213.9,
-                "LAIDL": 8.707
+                "LAID_LAB": 8.707
             },
             "_id": "683759fd8ac547fa609e2fde",
             "paid": "683759fd8ac547fa609e2fde"
@@ -26402,7 +26402,7 @@
                 "MBWAD": 1268.8,
                 "PWAD": 5409.7,
                 "CWAD": 23269.3,
-                "LAIDL": 6.474
+                "LAID_LAB": 6.474
             },
             "_id": "683759fd8ac547fa609e2fdf",
             "paid": "683759fd8ac547fa609e2fdf"
@@ -26462,7 +26462,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 259.6,
-                "LAIDL": 0.248
+                "LAID_LAB": 0.248
             },
             "_id": "683759fd8ac547fa609e2fe0",
             "paid": "683759fd8ac547fa609e2fe0"
@@ -26522,7 +26522,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 34.0,
                 "CWAD": 1401.6,
-                "LAIDL": 1.136
+                "LAID_LAB": 1.136
             },
             "_id": "683759fd8ac547fa609e2fe1",
             "paid": "683759fd8ac547fa609e2fe1"
@@ -26582,7 +26582,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 284.2,
                 "CWAD": 3941.8,
-                "LAIDL": 3.384
+                "LAID_LAB": 3.384
             },
             "_id": "683759fd8ac547fa609e2fe2",
             "paid": "683759fd8ac547fa609e2fe2"
@@ -26642,7 +26642,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 822.9,
                 "CWAD": 6143.3,
-                "LAIDL": 4.345
+                "LAID_LAB": 4.345
             },
             "_id": "683759fd8ac547fa609e2fe3",
             "paid": "683759fd8ac547fa609e2fe3"
@@ -26702,7 +26702,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1996.6,
                 "CWAD": 9882.0,
-                "LAIDL": 5.803
+                "LAID_LAB": 5.803
             },
             "_id": "683759fd8ac547fa609e2fe4",
             "paid": "683759fd8ac547fa609e2fe4"
@@ -26762,7 +26762,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2099.1,
                 "CWAD": 9458.5,
-                "LAIDL": 4.957
+                "LAID_LAB": 4.957
             },
             "_id": "683759fd8ac547fa609e2fe5",
             "paid": "683759fd8ac547fa609e2fe5"
@@ -26814,7 +26814,7 @@
                 "MBWAD": 2167.0,
                 "PWAD": 4625.0,
                 "CWAD": 12371.4,
-                "LAIDL": 4.873
+                "LAID_LAB": 4.873
             },
             "_id": "683759fd8ac547fa609e2fe6",
             "paid": "683759fd8ac547fa609e2fe6"
@@ -26866,7 +26866,7 @@
                 "MBWAD": 4819.0,
                 "PWAD": 10308.2,
                 "CWAD": 23145.2,
-                "LAIDL": 7.098
+                "LAID_LAB": 7.098
             },
             "_id": "683759fd8ac547fa609e2fe7",
             "paid": "683759fd8ac547fa609e2fe7"
@@ -26926,7 +26926,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 249.6,
-                "LAIDL": 0.242
+                "LAID_LAB": 0.242
             },
             "_id": "683759fd8ac547fa609e2fe8",
             "paid": "683759fd8ac547fa609e2fe8"
@@ -26986,7 +26986,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 27.8,
                 "CWAD": 1700.7,
-                "LAIDL": 1.457
+                "LAID_LAB": 1.457
             },
             "_id": "683759fd8ac547fa609e2fe9",
             "paid": "683759fd8ac547fa609e2fe9"
@@ -27046,7 +27046,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 138.4,
                 "CWAD": 4564.8,
-                "LAIDL": 4.367
+                "LAID_LAB": 4.367
             },
             "_id": "683759fd8ac547fa609e2fea",
             "paid": "683759fd8ac547fa609e2fea"
@@ -27106,7 +27106,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 591.4,
                 "CWAD": 8363.3,
-                "LAIDL": 6.626
+                "LAID_LAB": 6.626
             },
             "_id": "683759fd8ac547fa609e2feb",
             "paid": "683759fd8ac547fa609e2feb"
@@ -27166,7 +27166,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 270.6,
                 "CWAD": 5923.5,
-                "LAIDL": 4.591
+                "LAID_LAB": 4.591
             },
             "_id": "683759fd8ac547fa609e2fec",
             "paid": "683759fd8ac547fa609e2fec"
@@ -27226,7 +27226,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1353.1,
                 "CWAD": 11949.8,
-                "LAIDL": 6.628
+                "LAID_LAB": 6.628
             },
             "_id": "683759fd8ac547fa609e2fed",
             "paid": "683759fd8ac547fa609e2fed"
@@ -27278,7 +27278,7 @@
                 "MBWAD": 1526.8,
                 "PWAD": 3884.8,
                 "CWAD": 13694.5,
-                "LAIDL": 6.406
+                "LAID_LAB": 6.406
             },
             "_id": "683759fd8ac547fa609e2fee",
             "paid": "683759fd8ac547fa609e2fee"
@@ -27330,7 +27330,7 @@
                 "MBWAD": 1838.1,
                 "PWAD": 7677.6,
                 "CWAD": 23778.6,
-                "LAIDL": 8.376
+                "LAID_LAB": 8.376
             },
             "_id": "683759fd8ac547fa609e2fef",
             "paid": "683759fd8ac547fa609e2fef"
@@ -27389,7 +27389,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 208.2,
-                "LAIDL": 0.206
+                "LAID_LAB": 0.206
             },
             "_id": "683759fd8ac547fa609e2ff0",
             "paid": "683759fd8ac547fa609e2ff0"
@@ -27449,7 +27449,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 6.5,
                 "CWAD": 1102.6,
-                "LAIDL": 1.028
+                "LAID_LAB": 1.028
             },
             "_id": "683759fd8ac547fa609e2ff1",
             "paid": "683759fd8ac547fa609e2ff1"
@@ -27509,7 +27509,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 120.9,
                 "CWAD": 3697.3,
-                "LAIDL": 3.204
+                "LAID_LAB": 3.204
             },
             "_id": "683759fd8ac547fa609e2ff2",
             "paid": "683759fd8ac547fa609e2ff2"
@@ -27569,7 +27569,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 362.5,
                 "CWAD": 6888.0,
-                "LAIDL": 5.655
+                "LAID_LAB": 5.655
             },
             "_id": "683759fd8ac547fa609e2ff3",
             "paid": "683759fd8ac547fa609e2ff3"
@@ -27629,7 +27629,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1216.4,
                 "CWAD": 10303.0,
-                "LAIDL": 6.766
+                "LAID_LAB": 6.766
             },
             "_id": "683759fd8ac547fa609e2ff4",
             "paid": "683759fd8ac547fa609e2ff4"
@@ -27689,7 +27689,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2711.2,
                 "CWAD": 14304.9,
-                "LAIDL": 8.02
+                "LAID_LAB": 8.02
             },
             "_id": "683759fd8ac547fa609e2ff5",
             "paid": "683759fd8ac547fa609e2ff5"
@@ -27741,7 +27741,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 2481.3,
                 "CWAD": 13203.6,
-                "LAIDL": 6.091
+                "LAID_LAB": 6.091
             },
             "_id": "683759fd8ac547fa609e2ff6",
             "paid": "683759fd8ac547fa609e2ff6"
@@ -27793,7 +27793,7 @@
                 "MBWAD": 168.8,
                 "PWAD": 4950.9,
                 "CWAD": 15097.1,
-                "LAIDL": 5.314
+                "LAID_LAB": 5.314
             },
             "_id": "683759fd8ac547fa609e2ff7",
             "paid": "683759fd8ac547fa609e2ff7"
@@ -27853,7 +27853,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 360.8,
-                "LAIDL": 0.344
+                "LAID_LAB": 0.344
             },
             "_id": "683759fd8ac547fa609e2ff8",
             "paid": "683759fd8ac547fa609e2ff8"
@@ -27913,7 +27913,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 7.8,
                 "CWAD": 849.1,
-                "LAIDL": 0.751
+                "LAID_LAB": 0.751
             },
             "_id": "683759fd8ac547fa609e2ff9",
             "paid": "683759fd8ac547fa609e2ff9"
@@ -27973,7 +27973,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 150.7,
                 "CWAD": 6028.9,
-                "LAIDL": 4.918
+                "LAID_LAB": 4.918
             },
             "_id": "683759fd8ac547fa609e2ffa",
             "paid": "683759fd8ac547fa609e2ffa"
@@ -28033,7 +28033,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 482.4,
                 "CWAD": 6140.7,
-                "LAIDL": 4.751
+                "LAID_LAB": 4.751
             },
             "_id": "683759fd8ac547fa609e2ffb",
             "paid": "683759fd8ac547fa609e2ffb"
@@ -28093,7 +28093,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1444.0,
                 "CWAD": 14343.1,
-                "LAIDL": 9.479
+                "LAID_LAB": 9.479
             },
             "_id": "683759fd8ac547fa609e2ffc",
             "paid": "683759fd8ac547fa609e2ffc"
@@ -28153,7 +28153,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1544.2,
                 "CWAD": 11382.0,
-                "LAIDL": 7.152
+                "LAID_LAB": 7.152
             },
             "_id": "683759fd8ac547fa609e2ffd",
             "paid": "683759fd8ac547fa609e2ffd"
@@ -28205,7 +28205,7 @@
                 "MBWAD": 1258.1,
                 "PWAD": 2967.2,
                 "CWAD": 22628.2,
-                "LAIDL": 11.036
+                "LAID_LAB": 11.036
             },
             "_id": "683759fd8ac547fa609e2ffe",
             "paid": "683759fd8ac547fa609e2ffe"
@@ -28257,7 +28257,7 @@
                 "MBWAD": 1632.5,
                 "PWAD": 5449.5,
                 "CWAD": 16063.2,
-                "LAIDL": 6.29
+                "LAID_LAB": 6.29
             },
             "_id": "683759fd8ac547fa609e2fff",
             "paid": "683759fd8ac547fa609e2fff"
@@ -28315,7 +28315,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 192.4,
-                "LAIDL": 0.191
+                "LAID_LAB": 0.191
             },
             "_id": "683759fd8ac547fa609e3000",
             "paid": "683759fd8ac547fa609e3000"
@@ -28375,7 +28375,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 26.5,
                 "CWAD": 1367.4,
-                "LAIDL": 1.189
+                "LAID_LAB": 1.189
             },
             "_id": "683759fd8ac547fa609e3001",
             "paid": "683759fd8ac547fa609e3001"
@@ -28435,7 +28435,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 107.0,
                 "CWAD": 3350.1,
-                "LAIDL": 2.901
+                "LAID_LAB": 2.901
             },
             "_id": "683759fd8ac547fa609e3002",
             "paid": "683759fd8ac547fa609e3002"
@@ -28495,7 +28495,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 537.1,
                 "CWAD": 8426.4,
-                "LAIDL": 6.315
+                "LAID_LAB": 6.315
             },
             "_id": "683759fd8ac547fa609e3003",
             "paid": "683759fd8ac547fa609e3003"
@@ -28555,7 +28555,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1509.3,
                 "CWAD": 9659.9,
-                "LAIDL": 5.278
+                "LAID_LAB": 5.278
             },
             "_id": "683759fd8ac547fa609e3004",
             "paid": "683759fd8ac547fa609e3004"
@@ -28615,7 +28615,7 @@
                 "MBWAD": 183.3,
                 "PWAD": 3321.6,
                 "CWAD": 12293.1,
-                "LAIDL": 4.959
+                "LAID_LAB": 4.959
             },
             "_id": "683759fd8ac547fa609e3005",
             "paid": "683759fd8ac547fa609e3005"
@@ -28667,7 +28667,7 @@
                 "MBWAD": 1478.3,
                 "PWAD": 5901.5,
                 "CWAD": 9536.1,
-                "LAIDL": 2.06
+                "LAID_LAB": 2.06
             },
             "_id": "683759fd8ac547fa609e3006",
             "paid": "683759fd8ac547fa609e3006"
@@ -28719,7 +28719,7 @@
                 "MBWAD": 1685.9,
                 "PWAD": 4373.7,
                 "CWAD": 12271.5,
-                "LAIDL": 3.316
+                "LAID_LAB": 3.316
             },
             "_id": "683759fd8ac547fa609e3007",
             "paid": "683759fd8ac547fa609e3007"
@@ -28779,7 +28779,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 248.6,
-                "LAIDL": 0.248
+                "LAID_LAB": 0.248
             },
             "_id": "683759fd8ac547fa609e3008",
             "paid": "683759fd8ac547fa609e3008"
@@ -28839,7 +28839,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 17.8,
                 "CWAD": 815.1,
-                "LAIDL": 0.68
+                "LAID_LAB": 0.68
             },
             "_id": "683759fd8ac547fa609e3009",
             "paid": "683759fd8ac547fa609e3009"
@@ -28899,7 +28899,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 154.9,
                 "CWAD": 2853.7,
-                "LAIDL": 2.117
+                "LAID_LAB": 2.117
             },
             "_id": "683759fd8ac547fa609e300a",
             "paid": "683759fd8ac547fa609e300a"
@@ -28959,7 +28959,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 784.7,
                 "CWAD": 4598.4,
-                "LAIDL": 3.061
+                "LAID_LAB": 3.061
             },
             "_id": "683759fd8ac547fa609e300b",
             "paid": "683759fd8ac547fa609e300b"
@@ -29019,7 +29019,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 896.3,
                 "CWAD": 4475.6,
-                "LAIDL": 2.606
+                "LAID_LAB": 2.606
             },
             "_id": "683759fd8ac547fa609e300c",
             "paid": "683759fd8ac547fa609e300c"
@@ -29079,7 +29079,7 @@
                 "MBWAD": 1245.8,
                 "PWAD": 3986.1,
                 "CWAD": 10509.0,
-                "LAIDL": 4.414
+                "LAID_LAB": 4.414
             },
             "_id": "683759fd8ac547fa609e300d",
             "paid": "683759fd8ac547fa609e300d"
@@ -29131,7 +29131,7 @@
                 "MBWAD": 1394.9,
                 "PWAD": 5823.9,
                 "CWAD": 12608.1,
-                "LAIDL": 4.694
+                "LAID_LAB": 4.694
             },
             "_id": "683759fd8ac547fa609e300e",
             "paid": "683759fd8ac547fa609e300e"
@@ -29183,7 +29183,7 @@
                 "MBWAD": 1545.2,
                 "PWAD": 2665.6,
                 "CWAD": 7110.1,
-                "LAIDL": 3.114
+                "LAID_LAB": 3.114
             },
             "_id": "683759fd8ac547fa609e300f",
             "paid": "683759fd8ac547fa609e300f"
@@ -29243,7 +29243,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.3,
                 "CWAD": 237.8,
-                "LAIDL": 0.229
+                "LAID_LAB": 0.229
             },
             "_id": "683759fd8ac547fa609e3010",
             "paid": "683759fd8ac547fa609e3010"
@@ -29303,7 +29303,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 16.2,
                 "CWAD": 1080.3,
-                "LAIDL": 1.001
+                "LAID_LAB": 1.001
             },
             "_id": "683759fd8ac547fa609e3011",
             "paid": "683759fd8ac547fa609e3011"
@@ -29363,7 +29363,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 97.6,
                 "CWAD": 3226.5,
-                "LAIDL": 2.559
+                "LAID_LAB": 2.559
             },
             "_id": "683759fd8ac547fa609e3012",
             "paid": "683759fd8ac547fa609e3012"
@@ -29423,7 +29423,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 354.4,
                 "CWAD": 5431.0,
-                "LAIDL": 4.45
+                "LAID_LAB": 4.45
             },
             "_id": "683759fd8ac547fa609e3013",
             "paid": "683759fd8ac547fa609e3013"
@@ -29483,7 +29483,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 1839.1,
                 "CWAD": 11315.7,
-                "LAIDL": 7.043
+                "LAID_LAB": 7.043
             },
             "_id": "683759fd8ac547fa609e3014",
             "paid": "683759fd8ac547fa609e3014"
@@ -29543,7 +29543,7 @@
                 "MBWAD": 0.0,
                 "PWAD": 3274.1,
                 "CWAD": 13755.9,
-                "LAIDL": 7.127
+                "LAID_LAB": 7.127
             },
             "_id": "683759fd8ac547fa609e3015",
             "paid": "683759fd8ac547fa609e3015"
@@ -29595,7 +29595,7 @@
                 "MBWAD": 1889.6,
                 "PWAD": 7611.6,
                 "CWAD": 18315.5,
-                "LAIDL": 7.044
+                "LAID_LAB": 7.044
             },
             "_id": "683759fd8ac547fa609e3016",
             "paid": "683759fd8ac547fa609e3016"
@@ -29647,7 +29647,7 @@
                 "MBWAD": 2042.8,
                 "PWAD": 8413.8,
                 "CWAD": 20487.4,
-                "LAIDL": 7.257
+                "LAID_LAB": 7.257
             },
             "_id": "683759fd8ac547fa609e3017",
             "paid": "683759fd8ac547fa609e3017"
