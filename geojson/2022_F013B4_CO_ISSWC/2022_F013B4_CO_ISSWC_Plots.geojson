@@ -33,7 +33,7 @@
             "properties": {
                 "plt_label": "p01-1",
                 "trt_label": "FAO_NG4936",
-                "PLT_AREA": 366.810188,
+                "PLTA": 366.810188,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -284,7 +284,7 @@
             "properties": {
                 "plt_label": "p01-2",
                 "trt_label": "FAOSWC_NG4936",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -538,7 +538,7 @@
             "properties": {
                 "plt_label": "p01-3",
                 "trt_label": "AQCSWC_NG4936",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -787,7 +787,7 @@
             "properties": {
                 "plt_label": "p01-4",
                 "trt_label": "CSM_NG4936",
-                "PLT_AREA": 366.810114,
+                "PLTA": 366.810114,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -1036,7 +1036,7 @@
             "properties": {
                 "plt_label": "p02-1",
                 "trt_label": "FAO_NG3195",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -1287,7 +1287,7 @@
             "properties": {
                 "plt_label": "p02-2",
                 "trt_label": "FAOSWC_NG3195",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -1538,7 +1538,7 @@
             "properties": {
                 "plt_label": "p02-3",
                 "trt_label": "AQCSWC_NG3195",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -1787,7 +1787,7 @@
             "properties": {
                 "plt_label": "p02-4",
                 "trt_label": "CSM_NG3195",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -2036,7 +2036,7 @@
             "properties": {
                 "plt_label": "p03-1",
                 "trt_label": "CSM_NG4936",
-                "PLT_AREA": 366.810129,
+                "PLTA": 366.810129,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -2287,7 +2287,7 @@
             "properties": {
                 "plt_label": "p03-2",
                 "trt_label": "CSMSWC_NG4936",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -2538,7 +2538,7 @@
             "properties": {
                 "plt_label": "p03-3",
                 "trt_label": "AQC_NG4936",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -2790,7 +2790,7 @@
             "properties": {
                 "plt_label": "p03-4",
                 "trt_label": "FAO_NG4936",
-                "PLT_AREA": 366.810129,
+                "PLTA": 366.810129,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -3039,7 +3039,7 @@
             "properties": {
                 "plt_label": "p04-1",
                 "trt_label": "CSM_NG3195",
-                "PLT_AREA": 366.761265,
+                "PLTA": 366.761265,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -3290,7 +3290,7 @@
             "properties": {
                 "plt_label": "p04-2",
                 "trt_label": "CSMSWC_NG3195",
-                "PLT_AREA": 366.769275,
+                "PLTA": 366.769275,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -3541,7 +3541,7 @@
             "properties": {
                 "plt_label": "p04-3",
                 "trt_label": "AQC_NG3195",
-                "PLT_AREA": 366.777232,
+                "PLTA": 366.777232,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -3790,7 +3790,7 @@
             "properties": {
                 "plt_label": "p04-4",
                 "trt_label": "FAO_NG3195",
-                "PLT_AREA": 366.785228,
+                "PLTA": 366.785228,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -4039,7 +4039,7 @@
             "properties": {
                 "plt_label": "p05-1",
                 "trt_label": "AQC_NG3195",
-                "PLT_AREA": 366.810129,
+                "PLTA": 366.810129,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -4287,7 +4287,7 @@
             "properties": {
                 "plt_label": "p05-2",
                 "trt_label": "AQCSWC_NG3195",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -4535,7 +4535,7 @@
             "properties": {
                 "plt_label": "p05-3",
                 "trt_label": "FAOSWC_NG3195",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -4783,7 +4783,7 @@
             "properties": {
                 "plt_label": "p05-4",
                 "trt_label": "CSMSWC_NG3195",
-                "PLT_AREA": 366.810129,
+                "PLTA": 366.810129,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -5031,7 +5031,7 @@
             "properties": {
                 "plt_label": "p06-1",
                 "trt_label": "AQC_NG4936",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -5281,7 +5281,7 @@
             "properties": {
                 "plt_label": "p06-2",
                 "trt_label": "AQCSWC_NG4936",
-                "PLT_AREA": 366.810188,
+                "PLTA": 366.810188,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -5528,7 +5528,7 @@
             "properties": {
                 "plt_label": "p06-3",
                 "trt_label": "FAOSWC_NG4936",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -5775,7 +5775,7 @@
             "properties": {
                 "plt_label": "p06-4",
                 "trt_label": "CSMSWC_NG4936",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -6022,7 +6022,7 @@
             "properties": {
                 "plt_label": "p07-1",
                 "trt_label": "CSMSWC_NG3195",
-                "PLT_AREA": 366.810114,
+                "PLTA": 366.810114,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -6271,7 +6271,7 @@
             "properties": {
                 "plt_label": "p07-2",
                 "trt_label": "CSM_NG3195",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -6520,7 +6520,7 @@
             "properties": {
                 "plt_label": "p07-3",
                 "trt_label": "FAO_NG3195",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -6769,7 +6769,7 @@
             "properties": {
                 "plt_label": "p07-4",
                 "trt_label": "AQC_NG3195",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -7018,7 +7018,7 @@
             "properties": {
                 "plt_label": "p08-1",
                 "trt_label": "CSMSWC_NG4936",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -7265,7 +7265,7 @@
             "properties": {
                 "plt_label": "p08-2",
                 "trt_label": "CSM_NG4936",
-                "PLT_AREA": 366.810114,
+                "PLTA": 366.810114,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -7512,7 +7512,7 @@
             "properties": {
                 "plt_label": "p08-3",
                 "trt_label": "FAO_NG4936",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -7762,7 +7762,7 @@
             "properties": {
                 "plt_label": "p08-4",
                 "trt_label": "AQC_NG4936",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -8009,7 +8009,7 @@
             "properties": {
                 "plt_label": "p09-1",
                 "trt_label": "AQCSWC_NG4936",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -8257,7 +8257,7 @@
             "properties": {
                 "plt_label": "p09-2",
                 "trt_label": "FAO_NG4936",
-                "PLT_AREA": 366.81011,
+                "PLTA": 366.81011,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -8505,7 +8505,7 @@
             "properties": {
                 "plt_label": "p09-3",
                 "trt_label": "CSMSWC_NG4936",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -8753,7 +8753,7 @@
             "properties": {
                 "plt_label": "p09-4",
                 "trt_label": "FAOSWC_NG4936",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -9001,7 +9001,7 @@
             "properties": {
                 "plt_label": "p10-1",
                 "trt_label": "AQCSWC_NG3195",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -9248,7 +9248,7 @@
             "properties": {
                 "plt_label": "p10-2",
                 "trt_label": "FAO_NG3195",
-                "PLT_AREA": 366.810144,
+                "PLTA": 366.810144,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -9498,7 +9498,7 @@
             "properties": {
                 "plt_label": "p10-3",
                 "trt_label": "CSMSWC_NG3195",
-                "PLT_AREA": 366.81011,
+                "PLTA": 366.81011,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -9745,7 +9745,7 @@
             "properties": {
                 "plt_label": "p10-4",
                 "trt_label": "FAOSWC_NG3195",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -9992,7 +9992,7 @@
             "properties": {
                 "plt_label": "p11-1",
                 "trt_label": "FAOSWC_NG3195",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -10241,7 +10241,7 @@
             "properties": {
                 "plt_label": "p11-2",
                 "trt_label": "AQC_NG3195",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -10490,7 +10490,7 @@
             "properties": {
                 "plt_label": "p11-3",
                 "trt_label": "CSM_NG3195",
-                "PLT_AREA": 366.810144,
+                "PLTA": 366.810144,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -10739,7 +10739,7 @@
             "properties": {
                 "plt_label": "p11-4",
                 "trt_label": "AQCSWC_NG3195",
-                "PLT_AREA": 366.81011,
+                "PLTA": 366.81011,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -10991,7 +10991,7 @@
             "properties": {
                 "plt_label": "p12-1",
                 "trt_label": "FAOSWC_NG4936",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -11238,7 +11238,7 @@
             "properties": {
                 "plt_label": "p12-2",
                 "trt_label": "AQC_NG4936",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -11485,7 +11485,7 @@
             "properties": {
                 "plt_label": "p12-3",
                 "trt_label": "CSM_NG4936",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -11732,7 +11732,7 @@
             "properties": {
                 "plt_label": "p12-4",
                 "trt_label": "AQCSWC_NG4936",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "NexGen 4936 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,

@@ -32,7 +32,7 @@
             },
             "properties": {
                 "ha_label": "p1-1-W",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 663.8,
@@ -152,7 +152,7 @@
             },
             "properties": {
                 "ha_label": "p1-1-E",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1392.1,
@@ -317,7 +317,7 @@
             },
             "properties": {
                 "ha_label": "p1-2-W",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1333.5,
@@ -437,7 +437,7 @@
             },
             "properties": {
                 "ha_label": "p1-2-E",
-                "HA_AREA": 20.319996,
+                "HAREA": 20.319996,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1034.9,
@@ -602,7 +602,7 @@
             },
             "properties": {
                 "ha_label": "p1-3-W",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1333.5,
@@ -722,7 +722,7 @@
             },
             "properties": {
                 "ha_label": "p1-3-E",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 3155.6,
@@ -887,7 +887,7 @@
             },
             "properties": {
                 "ha_label": "p1-4-W",
-                "HA_AREA": 20.319999,
+                "HAREA": 20.319999,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1221.9,
@@ -1004,7 +1004,7 @@
             },
             "properties": {
                 "ha_label": "p1-4-E",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1682.3,
@@ -1169,7 +1169,7 @@
             },
             "properties": {
                 "ha_label": "p1-5-W",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 820.1,
@@ -1286,7 +1286,7 @@
             },
             "properties": {
                 "ha_label": "p1-5-E",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1191.2,
@@ -1451,7 +1451,7 @@
             },
             "properties": {
                 "ha_label": "p1-6-W",
-                "HA_AREA": 20.319996,
+                "HAREA": 20.319996,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1199.6,
@@ -1568,7 +1568,7 @@
             },
             "properties": {
                 "ha_label": "p1-6-E",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 2151.0,
@@ -1733,7 +1733,7 @@
             },
             "properties": {
                 "ha_label": "p1-7-W",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1512.1,
@@ -1850,7 +1850,7 @@
             },
             "properties": {
                 "ha_label": "p1-7-E",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 2820.7,
@@ -2015,7 +2015,7 @@
             },
             "properties": {
                 "ha_label": "p1-8-W",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 462.9,
@@ -2132,7 +2132,7 @@
             },
             "properties": {
                 "ha_label": "p1-8-E",
-                "HA_AREA": 20.319995,
+                "HAREA": 20.319995,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 923.3,
@@ -2297,7 +2297,7 @@
             },
             "properties": {
                 "ha_label": "p2-1-W",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1839.9,
@@ -2462,7 +2462,7 @@
             },
             "properties": {
                 "ha_label": "p2-1-E",
-                "HA_AREA": 20.319997,
+                "HAREA": 20.319997,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1195.4,
@@ -2630,7 +2630,7 @@
             },
             "properties": {
                 "ha_label": "p2-2-W",
-                "HA_AREA": 20.32,
+                "HAREA": 20.32,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 2331.0,
@@ -2795,7 +2795,7 @@
             },
             "properties": {
                 "ha_label": "p2-2-E",
-                "HA_AREA": 20.320002,
+                "HAREA": 20.320002,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 2043.6,
@@ -2963,7 +2963,7 @@
             },
             "properties": {
                 "ha_label": "p2-3-W",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1839.9,
@@ -3128,7 +3128,7 @@
             },
             "properties": {
                 "ha_label": "p2-3-E",
-                "HA_AREA": 20.319997,
+                "HAREA": 20.319997,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1240.0,
@@ -3296,7 +3296,7 @@
             },
             "properties": {
                 "ha_label": "p2-4-W",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 3625.7,
@@ -3461,7 +3461,7 @@
             },
             "properties": {
                 "ha_label": "p2-4-E",
-                "HA_AREA": 20.320002,
+                "HAREA": 20.320002,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 3226.7,
@@ -3629,7 +3629,7 @@
             },
             "properties": {
                 "ha_label": "p2-5-W",
-                "HA_AREA": 20.319996,
+                "HAREA": 20.319996,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1973.9,
@@ -3794,7 +3794,7 @@
             },
             "properties": {
                 "ha_label": "p2-5-E",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1485.6,
@@ -3962,7 +3962,7 @@
             },
             "properties": {
                 "ha_label": "p2-6-W",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 3134.6,
@@ -4127,7 +4127,7 @@
             },
             "properties": {
                 "ha_label": "p2-6-E",
-                "HA_AREA": 20.320002,
+                "HAREA": 20.320002,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 2847.2,
@@ -4295,7 +4295,7 @@
             },
             "properties": {
                 "ha_label": "p2-7-W",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 4139.1,
@@ -4460,7 +4460,7 @@
             },
             "properties": {
                 "ha_label": "p2-7-E",
-                "HA_AREA": 20.319997,
+                "HAREA": 20.319997,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1865.0,
@@ -4628,7 +4628,7 @@
             },
             "properties": {
                 "ha_label": "p2-8-W",
-                "HA_AREA": 20.320001,
+                "HAREA": 20.320001,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 1147.9,
@@ -4796,7 +4796,7 @@
             },
             "properties": {
                 "ha_label": "p2-8-E",
-                "HA_AREA": 20.320002,
+                "HAREA": 20.320002,
                 "HARM": "Machine",
                 "HADAT": "11/13/2023",
                 "WBWAH": 682.0,

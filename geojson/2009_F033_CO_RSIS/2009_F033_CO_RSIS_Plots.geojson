@@ -33,7 +33,7 @@
             "properties": {
                 "plt_label": "p01",
                 "trt_label": "MAC",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -274,7 +274,7 @@
             "properties": {
                 "plt_label": "p02",
                 "trt_label": "VI_B",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -509,7 +509,7 @@
             "properties": {
                 "plt_label": "p03",
                 "trt_label": "FAO",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -748,7 +748,7 @@
             "properties": {
                 "plt_label": "p04",
                 "trt_label": "VI_A",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -983,7 +983,7 @@
             "properties": {
                 "plt_label": "p05",
                 "trt_label": "MAC",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -1221,7 +1221,7 @@
             "properties": {
                 "plt_label": "p06",
                 "trt_label": "FAO",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -1456,7 +1456,7 @@
             "properties": {
                 "plt_label": "p07",
                 "trt_label": "VI_A",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -1695,7 +1695,7 @@
             "properties": {
                 "plt_label": "p08",
                 "trt_label": "VI_B",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -1930,7 +1930,7 @@
             "properties": {
                 "plt_label": "p09",
                 "trt_label": "FAO",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -2170,7 +2170,7 @@
             "properties": {
                 "plt_label": "p10",
                 "trt_label": "VI_B",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -2404,7 +2404,7 @@
             "properties": {
                 "plt_label": "p11",
                 "trt_label": "MAC",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -2643,7 +2643,7 @@
             "properties": {
                 "plt_label": "p12",
                 "trt_label": "VI_A",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -2879,7 +2879,7 @@
             "properties": {
                 "plt_label": "p13",
                 "trt_label": "FAO",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -3119,7 +3119,7 @@
             "properties": {
                 "plt_label": "p14",
                 "trt_label": "VI_A",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -3356,7 +3356,7 @@
             "properties": {
                 "plt_label": "p15",
                 "trt_label": "MAC",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,
@@ -3596,7 +3596,7 @@
             "properties": {
                 "plt_label": "p16",
                 "trt_label": "VI_B",
-                "PLT_AREA": 1300.48,
+                "PLTA": 1300.48,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "04/22/2009",
                 "PLYR": 2009,

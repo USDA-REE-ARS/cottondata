@@ -32,7 +32,7 @@
             },
             "properties": {
                 "ha_label": "p101",
-                "HA_AREA": 24.385584,
+                "HAREA": 24.385584,
                 "HARM": "Hand",
                 "HADAT": "10/08/2002",
                 "WBWAH": 3939.1,
@@ -148,7 +148,7 @@
             },
             "properties": {
                 "ha_label": "p102",
-                "HA_AREA": 24.339976,
+                "HAREA": 24.339976,
                 "HARM": "Hand",
                 "HADAT": "10/08/2002",
                 "WBWAH": 4330.8,
@@ -264,7 +264,7 @@
             },
             "properties": {
                 "ha_label": "p103",
-                "HA_AREA": 24.345254,
+                "HAREA": 24.345254,
                 "HARM": "Hand",
                 "HADAT": "10/08/2002",
                 "WBWAH": 3719.7,
@@ -380,7 +380,7 @@
             },
             "properties": {
                 "ha_label": "p104",
-                "HA_AREA": 24.462547,
+                "HAREA": 24.462547,
                 "HARM": "Hand",
                 "HADAT": "10/08/2002",
                 "WBWAH": 3549.3,
@@ -496,7 +496,7 @@
             },
             "properties": {
                 "ha_label": "p105",
-                "HA_AREA": 24.443695,
+                "HAREA": 24.443695,
                 "HARM": "Hand",
                 "HADAT": "10/08/2002",
                 "WBWAH": 3512.1,
@@ -612,7 +612,7 @@
             },
             "properties": {
                 "ha_label": "p106",
-                "HA_AREA": 24.421927,
+                "HAREA": 24.421927,
                 "HARM": "Hand",
                 "HADAT": "10/08/2002",
                 "WBWAH": 3392.8,
@@ -728,7 +728,7 @@
             },
             "properties": {
                 "ha_label": "p107",
-                "HA_AREA": 24.46374,
+                "HAREA": 24.46374,
                 "HARM": "Hand",
                 "HADAT": "10/08/2002",
                 "WBWAH": 3920.8,
@@ -844,7 +844,7 @@
             },
             "properties": {
                 "ha_label": "p108",
-                "HA_AREA": 24.182099,
+                "HAREA": 24.182099,
                 "HARM": "Hand",
                 "HADAT": "10/08/2002",
                 "WBWAH": 4241.3,
@@ -960,7 +960,7 @@
             },
             "properties": {
                 "ha_label": "p201",
-                "HA_AREA": 24.388842,
+                "HAREA": 24.388842,
                 "HARM": "Hand",
                 "HADAT": "10/08/2002",
                 "WBWAH": 4159.7,
@@ -1076,7 +1076,7 @@
             },
             "properties": {
                 "ha_label": "p202",
-                "HA_AREA": 24.211692,
+                "HAREA": 24.211692,
                 "HARM": "Hand",
                 "HADAT": "10/08/2002",
                 "WBWAH": 3364.1,
@@ -1192,7 +1192,7 @@
             },
             "properties": {
                 "ha_label": "p203",
-                "HA_AREA": 24.501946,
+                "HAREA": 24.501946,
                 "HARM": "Hand",
                 "HADAT": "10/08/2002",
                 "WBWAH": 4520.2,
@@ -1308,7 +1308,7 @@
             },
             "properties": {
                 "ha_label": "p204",
-                "HA_AREA": 24.464976,
+                "HAREA": 24.464976,
                 "HARM": "Hand",
                 "HADAT": "10/08/2002",
                 "WBWAH": 3129.6,
@@ -1424,7 +1424,7 @@
             },
             "properties": {
                 "ha_label": "p205",
-                "HA_AREA": 24.360371,
+                "HAREA": 24.360371,
                 "HARM": "Hand",
                 "HADAT": "10/11/2002",
                 "WBWAH": 4873.4,
@@ -1540,7 +1540,7 @@
             },
             "properties": {
                 "ha_label": "p206",
-                "HA_AREA": 24.461563,
+                "HAREA": 24.461563,
                 "HARM": "Hand",
                 "HADAT": "10/11/2002",
                 "WBWAH": 3594.1,
@@ -1656,7 +1656,7 @@
             },
             "properties": {
                 "ha_label": "p207",
-                "HA_AREA": 24.333005,
+                "HAREA": 24.333005,
                 "HARM": "Hand",
                 "HADAT": "10/11/2002",
                 "WBWAH": 4173.3,
@@ -1772,7 +1772,7 @@
             },
             "properties": {
                 "ha_label": "p208",
-                "HA_AREA": 24.309569,
+                "HAREA": 24.309569,
                 "HARM": "Hand",
                 "HADAT": "10/11/2002",
                 "WBWAH": 4262.0,
@@ -1888,7 +1888,7 @@
             },
             "properties": {
                 "ha_label": "p301",
-                "HA_AREA": 24.300908,
+                "HAREA": 24.300908,
                 "HARM": "Hand",
                 "HADAT": "10/11/2002",
                 "WBWAH": 3781.5,
@@ -2004,7 +2004,7 @@
             },
             "properties": {
                 "ha_label": "p302",
-                "HA_AREA": 24.42449,
+                "HAREA": 24.42449,
                 "HARM": "Hand",
                 "HADAT": "10/08/2002",
                 "WBWAH": 4605.7,
@@ -2120,7 +2120,7 @@
             },
             "properties": {
                 "ha_label": "p303",
-                "HA_AREA": 24.417231,
+                "HAREA": 24.417231,
                 "HARM": "Hand",
                 "HADAT": "10/10/2002",
                 "WBWAH": 3884.1,
@@ -2236,7 +2236,7 @@
             },
             "properties": {
                 "ha_label": "p304",
-                "HA_AREA": 24.465774,
+                "HAREA": 24.465774,
                 "HARM": "Hand",
                 "HADAT": "10/10/2002",
                 "WBWAH": 4625.7,
@@ -2352,7 +2352,7 @@
             },
             "properties": {
                 "ha_label": "p305",
-                "HA_AREA": 24.435206,
+                "HAREA": 24.435206,
                 "HARM": "Hand",
                 "HADAT": "10/11/2002",
                 "WBWAH": 3769.4,
@@ -2468,7 +2468,7 @@
             },
             "properties": {
                 "ha_label": "p306",
-                "HA_AREA": 24.4448,
+                "HAREA": 24.4448,
                 "HARM": "Hand",
                 "HADAT": "10/11/2002",
                 "WBWAH": 4495.4,
@@ -2584,7 +2584,7 @@
             },
             "properties": {
                 "ha_label": "p307",
-                "HA_AREA": 24.364987,
+                "HAREA": 24.364987,
                 "HARM": "Hand",
                 "HADAT": "10/11/2002",
                 "WBWAH": 3780.3,
@@ -2700,7 +2700,7 @@
             },
             "properties": {
                 "ha_label": "p308",
-                "HA_AREA": 24.342083,
+                "HAREA": 24.342083,
                 "HARM": "Hand",
                 "HADAT": "10/11/2002",
                 "WBWAH": 3718.8,
@@ -2816,7 +2816,7 @@
             },
             "properties": {
                 "ha_label": "p401",
-                "HA_AREA": 24.33556,
+                "HAREA": 24.33556,
                 "HARM": "Hand",
                 "HADAT": "10/10/2002",
                 "WBWAH": 3248.9,
@@ -2884,7 +2884,7 @@
             },
             "properties": {
                 "ha_label": "p402",
-                "HA_AREA": 24.391731,
+                "HAREA": 24.391731,
                 "HARM": "Hand",
                 "HADAT": "10/10/2002",
                 "WBWAH": 4072.2,
@@ -2952,7 +2952,7 @@
             },
             "properties": {
                 "ha_label": "p403",
-                "HA_AREA": 24.30912,
+                "HAREA": 24.30912,
                 "HARM": "Hand",
                 "HADAT": "10/10/2002",
                 "WBWAH": 4151.2,
@@ -3020,7 +3020,7 @@
             },
             "properties": {
                 "ha_label": "p404",
-                "HA_AREA": 24.427164,
+                "HAREA": 24.427164,
                 "HARM": "Hand",
                 "HADAT": "10/10/2002",
                 "WBWAH": 4160.5,
@@ -3088,7 +3088,7 @@
             },
             "properties": {
                 "ha_label": "p405",
-                "HA_AREA": 24.369456,
+                "HAREA": 24.369456,
                 "HARM": "Hand",
                 "HADAT": "10/10/2002",
                 "WBWAH": 3884.3,
@@ -3156,7 +3156,7 @@
             },
             "properties": {
                 "ha_label": "p406",
-                "HA_AREA": 24.49272,
+                "HAREA": 24.49272,
                 "HARM": "Hand",
                 "HADAT": "10/10/2002",
                 "WBWAH": 4141.7,
@@ -3224,7 +3224,7 @@
             },
             "properties": {
                 "ha_label": "p407",
-                "HA_AREA": 24.304632,
+                "HAREA": 24.304632,
                 "HARM": "Hand",
                 "HADAT": "10/10/2002",
                 "WBWAH": 3997.3,
@@ -3292,7 +3292,7 @@
             },
             "properties": {
                 "ha_label": "p408",
-                "HA_AREA": 24.298146,
+                "HAREA": 24.298146,
                 "HARM": "Hand",
                 "HADAT": "10/10/2002",
                 "WBWAH": 3365.4,
@@ -3360,7 +3360,7 @@
             },
             "properties": {
                 "ha_label": "p902",
-                "HA_AREA": 12.193374,
+                "HAREA": 12.193374,
                 "HARM": "Hand",
                 "HADAT": "10/15/2002",
                 "WBWAH": 2008.9,
@@ -3476,7 +3476,7 @@
             },
             "properties": {
                 "ha_label": "p904",
-                "HA_AREA": 12.204002,
+                "HAREA": 12.204002,
                 "HARM": "Hand",
                 "HADAT": "10/15/2002",
                 "WBWAH": 520.3,
@@ -3592,7 +3592,7 @@
             },
             "properties": {
                 "ha_label": "p906",
-                "HA_AREA": 12.214217,
+                "HAREA": 12.214217,
                 "HARM": "Hand",
                 "HADAT": "10/15/2002",
                 "WBWAH": 2343.9,
@@ -3708,7 +3708,7 @@
             },
             "properties": {
                 "ha_label": "p908",
-                "HA_AREA": 12.145754,
+                "HAREA": 12.145754,
                 "HARM": "Hand",
                 "HADAT": "10/15/2002",
                 "WBWAH": 630.3,

@@ -33,7 +33,7 @@
             "properties": {
                 "plt_label": "p1-1",
                 "trt_label": "IR040",
-                "PLT_AREA": 121.919997,
+                "PLTA": 121.919997,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -271,7 +271,7 @@
             "properties": {
                 "plt_label": "p1-2",
                 "trt_label": "IR100",
-                "PLT_AREA": 121.920002,
+                "PLTA": 121.920002,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -506,7 +506,7 @@
             "properties": {
                 "plt_label": "p1-3",
                 "trt_label": "IR080",
-                "PLT_AREA": 121.920002,
+                "PLTA": 121.920002,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -741,7 +741,7 @@
             "properties": {
                 "plt_label": "p1-4",
                 "trt_label": "IR060",
-                "PLT_AREA": 121.919991,
+                "PLTA": 121.919991,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -979,7 +979,7 @@
             "properties": {
                 "plt_label": "p1-5",
                 "trt_label": "IR040",
-                "PLT_AREA": 121.920003,
+                "PLTA": 121.920003,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -1214,7 +1214,7 @@
             "properties": {
                 "plt_label": "p1-6",
                 "trt_label": "IR080",
-                "PLT_AREA": 121.920003,
+                "PLTA": 121.920003,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -1449,7 +1449,7 @@
             "properties": {
                 "plt_label": "p1-7",
                 "trt_label": "IR100",
-                "PLT_AREA": 121.920003,
+                "PLTA": 121.920003,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -1687,7 +1687,7 @@
             "properties": {
                 "plt_label": "p1-8",
                 "trt_label": "IR060",
-                "PLT_AREA": 121.920002,
+                "PLTA": 121.920002,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -1922,7 +1922,7 @@
             "properties": {
                 "plt_label": "p2-1",
                 "trt_label": "IR060",
-                "PLT_AREA": 121.920002,
+                "PLTA": 121.920002,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -2157,7 +2157,7 @@
             "properties": {
                 "plt_label": "p2-2",
                 "trt_label": "IR080",
-                "PLT_AREA": 121.920002,
+                "PLTA": 121.920002,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -2392,7 +2392,7 @@
             "properties": {
                 "plt_label": "p2-3",
                 "trt_label": "IR040",
-                "PLT_AREA": 121.919996,
+                "PLTA": 121.919996,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -2627,7 +2627,7 @@
             "properties": {
                 "plt_label": "p2-4",
                 "trt_label": "IR100",
-                "PLT_AREA": 121.920002,
+                "PLTA": 121.920002,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -2862,7 +2862,7 @@
             "properties": {
                 "plt_label": "p2-5",
                 "trt_label": "IR060",
-                "PLT_AREA": 121.920002,
+                "PLTA": 121.920002,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -3097,7 +3097,7 @@
             "properties": {
                 "plt_label": "p2-6",
                 "trt_label": "IR100",
-                "PLT_AREA": 121.920002,
+                "PLTA": 121.920002,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -3332,7 +3332,7 @@
             "properties": {
                 "plt_label": "p2-7",
                 "trt_label": "IR080",
-                "PLT_AREA": 121.920002,
+                "PLTA": 121.920002,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,
@@ -3567,7 +3567,7 @@
             "properties": {
                 "plt_label": "p2-8",
                 "trt_label": "IR040",
-                "PLT_AREA": 121.919996,
+                "PLTA": 121.919996,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/21/2022",
                 "PLYR": 2022,

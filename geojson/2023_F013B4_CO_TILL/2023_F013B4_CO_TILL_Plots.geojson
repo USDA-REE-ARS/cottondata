@@ -33,7 +33,7 @@
             "properties": {
                 "plt_label": "p01",
                 "trt_label": "STRIP",
-                "PLT_AREA": 1950.719954,
+                "PLTA": 1950.719954,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/24/2023",
                 "PLYR": 2023,
@@ -417,7 +417,7 @@
             "properties": {
                 "plt_label": "p02",
                 "trt_label": "NOTILL",
-                "PLT_AREA": 1950.720034,
+                "PLTA": 1950.720034,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/24/2023",
                 "PLYR": 2023,
@@ -800,7 +800,7 @@
             "properties": {
                 "plt_label": "p03",
                 "trt_label": "NOTILL",
-                "PLT_AREA": 1950.720041,
+                "PLTA": 1950.720041,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/24/2023",
                 "PLYR": 2023,
@@ -1183,7 +1183,7 @@
             "properties": {
                 "plt_label": "p04",
                 "trt_label": "STRIP",
-                "PLT_AREA": 1950.719961,
+                "PLTA": 1950.719961,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/24/2023",
                 "PLYR": 2023,
@@ -1567,7 +1567,7 @@
             "properties": {
                 "plt_label": "p05",
                 "trt_label": "NOTILL",
-                "PLT_AREA": 1950.720053,
+                "PLTA": 1950.720053,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/24/2023",
                 "PLYR": 2023,
@@ -1940,7 +1940,7 @@
             "properties": {
                 "plt_label": "p06",
                 "trt_label": "STRIP",
-                "PLT_AREA": 1950.72006,
+                "PLTA": 1950.72006,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/24/2023",
                 "PLYR": 2023,
@@ -2308,7 +2308,7 @@
             "properties": {
                 "plt_label": "p07",
                 "trt_label": "BEDS",
-                "PLT_AREA": 1950.720048,
+                "PLTA": 1950.720048,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/24/2023",
                 "PLYR": 2023,
@@ -2689,7 +2689,7 @@
             "properties": {
                 "plt_label": "p08",
                 "trt_label": "FLAT",
-                "PLT_AREA": 1950.719988,
+                "PLTA": 1950.719988,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/24/2023",
                 "PLYR": 2023,
@@ -3058,7 +3058,7 @@
             "properties": {
                 "plt_label": "p09",
                 "trt_label": "FLAT",
-                "PLT_AREA": 1950.720027,
+                "PLTA": 1950.720027,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/24/2023",
                 "PLYR": 2023,
@@ -3431,7 +3431,7 @@
             "properties": {
                 "plt_label": "p10",
                 "trt_label": "BEDS",
-                "PLT_AREA": 1950.720022,
+                "PLTA": 1950.720022,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/24/2023",
                 "PLYR": 2023,
@@ -3799,7 +3799,7 @@
             "properties": {
                 "plt_label": "p11",
                 "trt_label": "FLAT",
-                "PLT_AREA": 1950.720019,
+                "PLTA": 1950.720019,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/24/2023",
                 "PLYR": 2023,
@@ -4177,7 +4177,7 @@
             "properties": {
                 "plt_label": "p12",
                 "trt_label": "BEDS",
-                "PLT_AREA": 1950.719929,
+                "PLTA": 1950.719929,
                 "CUL_NAME": "NexGen 3195 B3XF",
                 "PDATE": "04/24/2023",
                 "PLYR": 2023,

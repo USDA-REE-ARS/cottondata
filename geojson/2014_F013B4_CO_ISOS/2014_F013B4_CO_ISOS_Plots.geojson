@@ -33,7 +33,7 @@
             "properties": {
                 "plt_label": "p01",
                 "trt_label": "Stress",
-                "PLT_AREA": 3022.303732,
+                "PLTA": 3022.303732,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "05/02/2014",
                 "PLYR": 2014,
@@ -306,7 +306,7 @@
             "properties": {
                 "plt_label": "p02",
                 "trt_label": "FAO",
-                "PLT_AREA": 4029.738309,
+                "PLTA": 4029.738309,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "05/02/2014",
                 "PLYR": 2014,
@@ -589,7 +589,7 @@
             "properties": {
                 "plt_label": "p03",
                 "trt_label": "CropMod",
-                "PLT_AREA": 4273.550062,
+                "PLTA": 4273.550062,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "05/02/2014",
                 "PLYR": 2014,
@@ -873,7 +873,7 @@
             "properties": {
                 "plt_label": "p04",
                 "trt_label": "SEB",
-                "PLT_AREA": 4273.550062,
+                "PLTA": 4273.550062,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "05/02/2014",
                 "PLYR": 2014,
@@ -1150,7 +1150,7 @@
             "properties": {
                 "plt_label": "p05",
                 "trt_label": "NDVI",
-                "PLT_AREA": 4273.550062,
+                "PLTA": 4273.550062,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "05/02/2014",
                 "PLYR": 2014,
@@ -1428,7 +1428,7 @@
             "properties": {
                 "plt_label": "p06",
                 "trt_label": "Stress",
-                "PLT_AREA": 4273.550062,
+                "PLTA": 4273.550062,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "05/02/2014",
                 "PLYR": 2014,
@@ -1709,7 +1709,7 @@
             "properties": {
                 "plt_label": "p07",
                 "trt_label": "CropMod",
-                "PLT_AREA": 4273.550062,
+                "PLTA": 4273.550062,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "05/02/2014",
                 "PLYR": 2014,
@@ -1995,7 +1995,7 @@
             "properties": {
                 "plt_label": "p08",
                 "trt_label": "SEB",
-                "PLT_AREA": 4273.550063,
+                "PLTA": 4273.550063,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "05/02/2014",
                 "PLYR": 2014,
@@ -2272,7 +2272,7 @@
             "properties": {
                 "plt_label": "p09",
                 "trt_label": "NDVI",
-                "PLT_AREA": 4273.550062,
+                "PLTA": 4273.550062,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "05/02/2014",
                 "PLYR": 2014,
@@ -2550,7 +2550,7 @@
             "properties": {
                 "plt_label": "p10",
                 "trt_label": "FAO",
-                "PLT_AREA": 4273.550062,
+                "PLTA": 4273.550062,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "05/02/2014",
                 "PLYR": 2014,
@@ -2835,7 +2835,7 @@
             "properties": {
                 "plt_label": "p11",
                 "trt_label": "CropMod",
-                "PLT_AREA": 4273.550062,
+                "PLTA": 4273.550062,
                 "CUL_NAME": "Deltapine 1044 B2RF",
                 "PDATE": "05/02/2014",
                 "PLYR": 2014,

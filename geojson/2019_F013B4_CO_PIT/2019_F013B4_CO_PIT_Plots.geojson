@@ -33,7 +33,7 @@
             "properties": {
                 "plt_label": "p11",
                 "trt_label": "UAS",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -342,7 +342,7 @@
             "properties": {
                 "plt_label": "p12",
                 "trt_label": "VRI",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -652,7 +652,7 @@
             "properties": {
                 "plt_label": "p13",
                 "trt_label": "UAS",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -961,7 +961,7 @@
             "properties": {
                 "plt_label": "p14",
                 "trt_label": "SOL",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -1274,7 +1274,7 @@
             "properties": {
                 "plt_label": "p21",
                 "trt_label": "MDL",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -1586,7 +1586,7 @@
             "properties": {
                 "plt_label": "p22",
                 "trt_label": "SOL",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -1896,7 +1896,7 @@
             "properties": {
                 "plt_label": "p23",
                 "trt_label": "VRI",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -2205,7 +2205,7 @@
             "properties": {
                 "plt_label": "p24",
                 "trt_label": "MDL",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -2515,7 +2515,7 @@
             "properties": {
                 "plt_label": "p31",
                 "trt_label": "MDL",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -2819,7 +2819,7 @@
             "properties": {
                 "plt_label": "p32",
                 "trt_label": "SOL",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -3123,7 +3123,7 @@
             "properties": {
                 "plt_label": "p33",
                 "trt_label": "UAS",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -3431,7 +3431,7 @@
             "properties": {
                 "plt_label": "p34",
                 "trt_label": "SOL",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -3735,7 +3735,7 @@
             "properties": {
                 "plt_label": "p41",
                 "trt_label": "UAS",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -4039,7 +4039,7 @@
             "properties": {
                 "plt_label": "p42",
                 "trt_label": "VRI",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -4343,7 +4343,7 @@
             "properties": {
                 "plt_label": "p43",
                 "trt_label": "MDL",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -4651,7 +4651,7 @@
             "properties": {
                 "plt_label": "p44",
                 "trt_label": "VRI",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -4955,7 +4955,7 @@
             "properties": {
                 "plt_label": "p51",
                 "trt_label": "VRI",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -5258,7 +5258,7 @@
             "properties": {
                 "plt_label": "p52",
                 "trt_label": "MDL",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -5566,7 +5566,7 @@
             "properties": {
                 "plt_label": "p53",
                 "trt_label": "SOL",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -5870,7 +5870,7 @@
             "properties": {
                 "plt_label": "p54",
                 "trt_label": "UAS",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -6175,7 +6175,7 @@
             "properties": {
                 "plt_label": "p61",
                 "trt_label": "SOL",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -6478,7 +6478,7 @@
             "properties": {
                 "plt_label": "p62",
                 "trt_label": "UAS",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -6783,7 +6783,7 @@
             "properties": {
                 "plt_label": "p63",
                 "trt_label": "MDL",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,
@@ -7087,7 +7087,7 @@
             "properties": {
                 "plt_label": "p64",
                 "trt_label": "VRI",
-                "PLT_AREA": 966.191616,
+                "PLTA": 966.191616,
                 "CUL_NAME": "NexGen 5007 B2XF",
                 "PDATE": "04/18/2019",
                 "PLYR": 2019,

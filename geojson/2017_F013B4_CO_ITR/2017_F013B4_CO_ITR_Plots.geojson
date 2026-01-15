@@ -33,7 +33,7 @@
             "properties": {
                 "plt_label": "p01-1",
                 "trt_label": "80-120",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -320,7 +320,7 @@
             "properties": {
                 "plt_label": "p01-2",
                 "trt_label": "100-100",
-                "PLT_AREA": 366.810129,
+                "PLTA": 366.810129,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -607,7 +607,7 @@
             "properties": {
                 "plt_label": "p01-3",
                 "trt_label": "80-100",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -894,7 +894,7 @@
             "properties": {
                 "plt_label": "p01-4",
                 "trt_label": "60-60",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -1181,7 +1181,7 @@
             "properties": {
                 "plt_label": "p02-1",
                 "trt_label": "120-80",
-                "PLT_AREA": 366.810129,
+                "PLTA": 366.810129,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -1467,7 +1467,7 @@
             "properties": {
                 "plt_label": "p02-2",
                 "trt_label": "60-120",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -1753,7 +1753,7 @@
             "properties": {
                 "plt_label": "p02-3",
                 "trt_label": "100-60",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -2039,7 +2039,7 @@
             "properties": {
                 "plt_label": "p02-4",
                 "trt_label": "120-120",
-                "PLT_AREA": 366.810129,
+                "PLTA": 366.810129,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -2325,7 +2325,7 @@
             "properties": {
                 "plt_label": "p03-1",
                 "trt_label": "120-100",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -2612,7 +2612,7 @@
             "properties": {
                 "plt_label": "p03-2",
                 "trt_label": "60-80",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -2899,7 +2899,7 @@
             "properties": {
                 "plt_label": "p03-3",
                 "trt_label": "60-100",
-                "PLT_AREA": 366.810188,
+                "PLTA": 366.810188,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -3186,7 +3186,7 @@
             "properties": {
                 "plt_label": "p03-4",
                 "trt_label": "120-60",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -3473,7 +3473,7 @@
             "properties": {
                 "plt_label": "p04-1",
                 "trt_label": "80-80",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -3760,7 +3760,7 @@
             "properties": {
                 "plt_label": "p04-2",
                 "trt_label": "80-60",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -4047,7 +4047,7 @@
             "properties": {
                 "plt_label": "p04-3",
                 "trt_label": "100-120",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -4334,7 +4334,7 @@
             "properties": {
                 "plt_label": "p04-4",
                 "trt_label": "100-80",
-                "PLT_AREA": 366.810114,
+                "PLTA": 366.810114,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -4621,7 +4621,7 @@
             "properties": {
                 "plt_label": "p05-1",
                 "trt_label": "100-120",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -4907,7 +4907,7 @@
             "properties": {
                 "plt_label": "p05-2",
                 "trt_label": "100-60",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -5193,7 +5193,7 @@
             "properties": {
                 "plt_label": "p05-3",
                 "trt_label": "120-100",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -5479,7 +5479,7 @@
             "properties": {
                 "plt_label": "p05-4",
                 "trt_label": "60-80",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -5765,7 +5765,7 @@
             "properties": {
                 "plt_label": "p06-1",
                 "trt_label": "80-100",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -6053,7 +6053,7 @@
             "properties": {
                 "plt_label": "p06-2",
                 "trt_label": "60-60",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -6341,7 +6341,7 @@
             "properties": {
                 "plt_label": "p06-3",
                 "trt_label": "60-120",
-                "PLT_AREA": 366.810144,
+                "PLTA": 366.810144,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -6629,7 +6629,7 @@
             "properties": {
                 "plt_label": "p06-4",
                 "trt_label": "60-100",
-                "PLT_AREA": 366.81011,
+                "PLTA": 366.81011,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -6917,7 +6917,7 @@
             "properties": {
                 "plt_label": "p07-1",
                 "trt_label": "120-60",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -7203,7 +7203,7 @@
             "properties": {
                 "plt_label": "p07-2",
                 "trt_label": "80-60",
-                "PLT_AREA": 366.810144,
+                "PLTA": 366.810144,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -7489,7 +7489,7 @@
             "properties": {
                 "plt_label": "p07-3",
                 "trt_label": "120-80",
-                "PLT_AREA": 366.81011,
+                "PLTA": 366.81011,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -7775,7 +7775,7 @@
             "properties": {
                 "plt_label": "p07-4",
                 "trt_label": "80-80",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -8061,7 +8061,7 @@
             "properties": {
                 "plt_label": "p08-1",
                 "trt_label": "80-120",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -8348,7 +8348,7 @@
             "properties": {
                 "plt_label": "p08-2",
                 "trt_label": "120-120",
-                "PLT_AREA": 366.81011,
+                "PLTA": 366.81011,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -8635,7 +8635,7 @@
             "properties": {
                 "plt_label": "p08-3",
                 "trt_label": "100-100",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -8922,7 +8922,7 @@
             "properties": {
                 "plt_label": "p08-4",
                 "trt_label": "100-80",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -9209,7 +9209,7 @@
             "properties": {
                 "plt_label": "p09-1",
                 "trt_label": "80-80",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -9495,7 +9495,7 @@
             "properties": {
                 "plt_label": "p09-2",
                 "trt_label": "120-80",
-                "PLT_AREA": 366.810114,
+                "PLTA": 366.810114,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -9781,7 +9781,7 @@
             "properties": {
                 "plt_label": "p09-3",
                 "trt_label": "80-60",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -10067,7 +10067,7 @@
             "properties": {
                 "plt_label": "p09-4",
                 "trt_label": "100-60",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -10353,7 +10353,7 @@
             "properties": {
                 "plt_label": "p10-1",
                 "trt_label": "100-100",
-                "PLT_AREA": 366.810114,
+                "PLTA": 366.810114,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -10641,7 +10641,7 @@
             "properties": {
                 "plt_label": "p10-2",
                 "trt_label": "60-80",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -10929,7 +10929,7 @@
             "properties": {
                 "plt_label": "p10-3",
                 "trt_label": "60-60",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -11217,7 +11217,7 @@
             "properties": {
                 "plt_label": "p10-4",
                 "trt_label": "60-100",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -11505,7 +11505,7 @@
             "properties": {
                 "plt_label": "p11-1",
                 "trt_label": "60-120",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -11791,7 +11791,7 @@
             "properties": {
                 "plt_label": "p11-2",
                 "trt_label": "80-120",
-                "PLT_AREA": 366.810188,
+                "PLTA": 366.810188,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -12077,7 +12077,7 @@
             "properties": {
                 "plt_label": "p11-3",
                 "trt_label": "100-80",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -12363,7 +12363,7 @@
             "properties": {
                 "plt_label": "p11-4",
                 "trt_label": "120-60",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -12649,7 +12649,7 @@
             "properties": {
                 "plt_label": "p12-1",
                 "trt_label": "120-120",
-                "PLT_AREA": 366.810129,
+                "PLTA": 366.810129,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -12936,7 +12936,7 @@
             "properties": {
                 "plt_label": "p12-2",
                 "trt_label": "100-120",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -13223,7 +13223,7 @@
             "properties": {
                 "plt_label": "p12-3",
                 "trt_label": "80-100",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -13510,7 +13510,7 @@
             "properties": {
                 "plt_label": "p12-4",
                 "trt_label": "120-100",
-                "PLT_AREA": 366.810129,
+                "PLTA": 366.810129,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -13797,7 +13797,7 @@
             "properties": {
                 "plt_label": "p13-1",
                 "trt_label": "100-80",
-                "PLT_AREA": 366.761265,
+                "PLTA": 366.761265,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -14087,7 +14087,7 @@
             "properties": {
                 "plt_label": "p13-2",
                 "trt_label": "80-80",
-                "PLT_AREA": 366.769275,
+                "PLTA": 366.769275,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -14377,7 +14377,7 @@
             "properties": {
                 "plt_label": "p13-3",
                 "trt_label": "60-100",
-                "PLT_AREA": 366.777232,
+                "PLTA": 366.777232,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -14665,7 +14665,7 @@
             "properties": {
                 "plt_label": "p13-4",
                 "trt_label": "80-100",
-                "PLT_AREA": 366.785228,
+                "PLTA": 366.785228,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -14953,7 +14953,7 @@
             "properties": {
                 "plt_label": "p14-1",
                 "trt_label": "60-80",
-                "PLT_AREA": 366.810129,
+                "PLTA": 366.810129,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -15243,7 +15243,7 @@
             "properties": {
                 "plt_label": "p14-2",
                 "trt_label": "120-100",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -15533,7 +15533,7 @@
             "properties": {
                 "plt_label": "p14-3",
                 "trt_label": "60-120",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -15821,7 +15821,7 @@
             "properties": {
                 "plt_label": "p14-4",
                 "trt_label": "80-60",
-                "PLT_AREA": 366.810129,
+                "PLTA": 366.810129,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -16109,7 +16109,7 @@
             "properties": {
                 "plt_label": "p15-1",
                 "trt_label": "100-60",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -16399,7 +16399,7 @@
             "properties": {
                 "plt_label": "p15-2",
                 "trt_label": "60-60",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -16689,7 +16689,7 @@
             "properties": {
                 "plt_label": "p15-3",
                 "trt_label": "120-60",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -16977,7 +16977,7 @@
             "properties": {
                 "plt_label": "p15-4",
                 "trt_label": "100-100",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -17265,7 +17265,7 @@
             "properties": {
                 "plt_label": "p16-1",
                 "trt_label": "120-80",
-                "PLT_AREA": 366.810188,
+                "PLTA": 366.810188,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -17555,7 +17555,7 @@
             "properties": {
                 "plt_label": "p16-2",
                 "trt_label": "120-120",
-                "PLT_AREA": 366.810125,
+                "PLTA": 366.810125,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -17845,7 +17845,7 @@
             "properties": {
                 "plt_label": "p16-3",
                 "trt_label": "80-120",
-                "PLT_AREA": 366.81014,
+                "PLTA": 366.81014,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,
@@ -18133,7 +18133,7 @@
             "properties": {
                 "plt_label": "p16-4",
                 "trt_label": "100-120",
-                "PLT_AREA": 366.810114,
+                "PLTA": 366.810114,
                 "CUL_NAME": "Deltapine 1549 B2XF",
                 "PDATE": "04/18/2017",
                 "PLYR": 2017,

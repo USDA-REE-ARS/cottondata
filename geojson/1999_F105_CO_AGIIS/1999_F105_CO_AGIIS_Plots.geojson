@@ -33,7 +33,7 @@
             "properties": {
                 "plt_label": "p01",
                 "trt_label": "WN",
-                "PLT_AREA": 492.253674,
+                "PLTA": 492.253674,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -172,7 +172,7 @@
             "properties": {
                 "plt_label": "p02",
                 "trt_label": "Wn",
-                "PLT_AREA": 459.089641,
+                "PLTA": 459.089641,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -311,7 +311,7 @@
             "properties": {
                 "plt_label": "p03",
                 "trt_label": "wN",
-                "PLT_AREA": 484.5635,
+                "PLTA": 484.5635,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -444,7 +444,7 @@
             "properties": {
                 "plt_label": "p04",
                 "trt_label": "wn",
-                "PLT_AREA": 476.015527,
+                "PLTA": 476.015527,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -579,7 +579,7 @@
             "properties": {
                 "plt_label": "p05",
                 "trt_label": "wN",
-                "PLT_AREA": 494.621997,
+                "PLTA": 494.621997,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -712,7 +712,7 @@
             "properties": {
                 "plt_label": "p06",
                 "trt_label": "wn",
-                "PLT_AREA": 494.411924,
+                "PLTA": 494.411924,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -845,7 +845,7 @@
             "properties": {
                 "plt_label": "p07",
                 "trt_label": "WN",
-                "PLT_AREA": 498.226362,
+                "PLTA": 498.226362,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -978,7 +978,7 @@
             "properties": {
                 "plt_label": "p08",
                 "trt_label": "Wn",
-                "PLT_AREA": 485.251239,
+                "PLTA": 485.251239,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -1112,7 +1112,7 @@
             "properties": {
                 "plt_label": "p09",
                 "trt_label": "Wn",
-                "PLT_AREA": 474.139875,
+                "PLTA": 474.139875,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -1248,7 +1248,7 @@
             "properties": {
                 "plt_label": "p10",
                 "trt_label": "wN",
-                "PLT_AREA": 457.228994,
+                "PLTA": 457.228994,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -1381,7 +1381,7 @@
             "properties": {
                 "plt_label": "p11",
                 "trt_label": "wn",
-                "PLT_AREA": 452.332292,
+                "PLTA": 452.332292,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -1511,7 +1511,7 @@
             "properties": {
                 "plt_label": "p12",
                 "trt_label": "WN",
-                "PLT_AREA": 445.91506,
+                "PLTA": 445.91506,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -1645,7 +1645,7 @@
             "properties": {
                 "plt_label": "p13",
                 "trt_label": "wn",
-                "PLT_AREA": 476.708268,
+                "PLTA": 476.708268,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -1778,7 +1778,7 @@
             "properties": {
                 "plt_label": "p14",
                 "trt_label": "WN",
-                "PLT_AREA": 489.135089,
+                "PLTA": 489.135089,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -1913,7 +1913,7 @@
             "properties": {
                 "plt_label": "p15",
                 "trt_label": "Wn",
-                "PLT_AREA": 470.511113,
+                "PLTA": 470.511113,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,
@@ -2046,7 +2046,7 @@
             "properties": {
                 "plt_label": "p16",
                 "trt_label": "wN",
-                "PLT_AREA": 484.133444,
+                "PLTA": 484.133444,
                 "CUL_NAME": "Deltapine 90 B",
                 "PDATE": "04/16/1999",
                 "PLYR": 1999,

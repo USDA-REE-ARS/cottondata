@@ -124,7 +124,7 @@ for feature in layer:
     plt_area = geometry.GetArea()
     myplot = plot.Plot(pid=pid,geometry=geometry,plt_label=plt_label,trt_label=trt_label)
     myexp.addpid(trt_label,myplot.getid())
-    myplot.setproperty('PLT_AREA',round(plt_area,6))
+    myplot.setproperty('PLTA',round(plt_area,6))
     #Management information
     myplot.setproperty('CUL_NAME', 'Deltapine 1044 B2RF')
     myplot.setproperty('PDATE', '04/22/2009')
@@ -401,7 +401,7 @@ for feature in layer:
         sys.exit()
     ha_area = geometry.GetArea()
     myha = harvestarea.HarvestArea(haid=haid,geometry=geometry,ha_label=ha_label)
-    myha.setproperty('HA_AREA',round(ha_area,6))
+    myha.setproperty('HAREA',round(ha_area,6))
     #Yield and fiber quality data
     row = yld.loc[yld['HID'] == ha_label]
     if not str(row.iloc[0]['HARM']) in ['nan','NaT']:

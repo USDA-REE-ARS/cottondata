@@ -33,7 +33,7 @@
             "properties": {
                 "plt_label": "p01",
                 "trt_label": "Dry Soil",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -127,7 +127,7 @@
             "properties": {
                 "plt_label": "p02",
                 "trt_label": "Stress",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -324,7 +324,7 @@
             "properties": {
                 "plt_label": "p03",
                 "trt_label": "Wet Soil",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -478,7 +478,7 @@
             "properties": {
                 "plt_label": "p04",
                 "trt_label": "Stress",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -675,7 +675,7 @@
             "properties": {
                 "plt_label": "p05",
                 "trt_label": "Stress",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -872,7 +872,7 @@
             "properties": {
                 "plt_label": "p06",
                 "trt_label": "Stress",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -1069,7 +1069,7 @@
             "properties": {
                 "plt_label": "p07",
                 "trt_label": "Stress",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -1266,7 +1266,7 @@
             "properties": {
                 "plt_label": "p08",
                 "trt_label": "Stress",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -1463,7 +1463,7 @@
             "properties": {
                 "plt_label": "p11",
                 "trt_label": "FAO-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -1662,7 +1662,7 @@
             "properties": {
                 "plt_label": "p12",
                 "trt_label": "FAO-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -1861,7 +1861,7 @@
             "properties": {
                 "plt_label": "p13",
                 "trt_label": "ND-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -2060,7 +2060,7 @@
             "properties": {
                 "plt_label": "p14",
                 "trt_label": "AZ-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -2258,7 +2258,7 @@
             "properties": {
                 "plt_label": "p15",
                 "trt_label": "FAO-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -2458,7 +2458,7 @@
             "properties": {
                 "plt_label": "p16",
                 "trt_label": "AZ-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -2658,7 +2658,7 @@
             "properties": {
                 "plt_label": "p17",
                 "trt_label": "CM-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -2857,7 +2857,7 @@
             "properties": {
                 "plt_label": "p18",
                 "trt_label": "AZ-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -3057,7 +3057,7 @@
             "properties": {
                 "plt_label": "p21",
                 "trt_label": "CM-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -3255,7 +3255,7 @@
             "properties": {
                 "plt_label": "p22",
                 "trt_label": "AZ-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -3454,7 +3454,7 @@
             "properties": {
                 "plt_label": "p23",
                 "trt_label": "CM-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -3653,7 +3653,7 @@
             "properties": {
                 "plt_label": "p24",
                 "trt_label": "ND-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -3852,7 +3852,7 @@
             "properties": {
                 "plt_label": "p25",
                 "trt_label": "FAO-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -4052,7 +4052,7 @@
             "properties": {
                 "plt_label": "p26",
                 "trt_label": "ND-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -4252,7 +4252,7 @@
             "properties": {
                 "plt_label": "p27",
                 "trt_label": "ND-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -4451,7 +4451,7 @@
             "properties": {
                 "plt_label": "p28",
                 "trt_label": "CM-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -4651,7 +4651,7 @@
             "properties": {
                 "plt_label": "p31",
                 "trt_label": "ND-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -4850,7 +4850,7 @@
             "properties": {
                 "plt_label": "p32",
                 "trt_label": "FAO-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -5049,7 +5049,7 @@
             "properties": {
                 "plt_label": "p33",
                 "trt_label": "CM-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -5247,7 +5247,7 @@
             "properties": {
                 "plt_label": "p34",
                 "trt_label": "FAO-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -5446,7 +5446,7 @@
             "properties": {
                 "plt_label": "p35",
                 "trt_label": "CM-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -5645,7 +5645,7 @@
             "properties": {
                 "plt_label": "p36",
                 "trt_label": "ND-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -5845,7 +5845,7 @@
             "properties": {
                 "plt_label": "p37",
                 "trt_label": "AZ-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -6045,7 +6045,7 @@
             "properties": {
                 "plt_label": "p38",
                 "trt_label": "CM-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -6245,7 +6245,7 @@
             "properties": {
                 "plt_label": "p41",
                 "trt_label": "AZ-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -6444,7 +6444,7 @@
             "properties": {
                 "plt_label": "p42",
                 "trt_label": "AZ-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -6643,7 +6643,7 @@
             "properties": {
                 "plt_label": "p43",
                 "trt_label": "ND-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -6842,7 +6842,7 @@
             "properties": {
                 "plt_label": "p44",
                 "trt_label": "ND-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -7041,7 +7041,7 @@
             "properties": {
                 "plt_label": "p45",
                 "trt_label": "CM-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -7241,7 +7241,7 @@
             "properties": {
                 "plt_label": "p46",
                 "trt_label": "FAO-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -7441,7 +7441,7 @@
             "properties": {
                 "plt_label": "p47",
                 "trt_label": "AZ-T",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,
@@ -7641,7 +7641,7 @@
             "properties": {
                 "plt_label": "p48",
                 "trt_label": "FAO-S",
-                "PLT_AREA": 172.68268,
+                "PLTA": 172.68268,
                 "CUL_NAME": "Deltapine 449 BG/RR",
                 "PDATE": "04/30/2007",
                 "PLYR": 2007,

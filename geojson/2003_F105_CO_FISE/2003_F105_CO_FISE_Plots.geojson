@@ -33,7 +33,7 @@
             "properties": {
                 "plt_label": "p101",
                 "trt_label": "FSH",
-                "PLT_AREA": 204.159661,
+                "PLTA": 204.159661,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -365,7 +365,7 @@
             "properties": {
                 "plt_label": "p102",
                 "trt_label": "FTL",
-                "PLT_AREA": 203.62279,
+                "PLTA": 203.62279,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -693,7 +693,7 @@
             "properties": {
                 "plt_label": "p103",
                 "trt_label": "FDH",
-                "PLT_AREA": 203.750824,
+                "PLTA": 203.750824,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -1025,7 +1025,7 @@
             "properties": {
                 "plt_label": "p104",
                 "trt_label": "NTL",
-                "PLT_AREA": 205.305556,
+                "PLTA": 205.305556,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -1353,7 +1353,7 @@
             "properties": {
                 "plt_label": "p105",
                 "trt_label": "NDL",
-                "PLT_AREA": 204.490688,
+                "PLTA": 204.490688,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -1682,7 +1682,7 @@
             "properties": {
                 "plt_label": "p106",
                 "trt_label": "NTH",
-                "PLT_AREA": 204.345028,
+                "PLTA": 204.345028,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -2014,7 +2014,7 @@
             "properties": {
                 "plt_label": "p107",
                 "trt_label": "NTL",
-                "PLT_AREA": 205.528812,
+                "PLTA": 205.528812,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -2342,7 +2342,7 @@
             "properties": {
                 "plt_label": "p108",
                 "trt_label": "FTH",
-                "PLT_AREA": 202.562029,
+                "PLTA": 202.562029,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -2674,7 +2674,7 @@
             "properties": {
                 "plt_label": "p201",
                 "trt_label": "NDL",
-                "PLT_AREA": 204.053948,
+                "PLTA": 204.053948,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -3001,7 +3001,7 @@
             "properties": {
                 "plt_label": "p202",
                 "trt_label": "NTH",
-                "PLT_AREA": 202.531893,
+                "PLTA": 202.531893,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -3331,7 +3331,7 @@
             "properties": {
                 "plt_label": "p203",
                 "trt_label": "FTH",
-                "PLT_AREA": 204.99958,
+                "PLTA": 204.99958,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -3661,7 +3661,7 @@
             "properties": {
                 "plt_label": "p204",
                 "trt_label": "NDH",
-                "PLT_AREA": 205.066486,
+                "PLTA": 205.066486,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -3992,7 +3992,7 @@
             "properties": {
                 "plt_label": "p205",
                 "trt_label": "FSH",
-                "PLT_AREA": 204.509806,
+                "PLTA": 204.509806,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -4322,7 +4322,7 @@
             "properties": {
                 "plt_label": "p206",
                 "trt_label": "NSL",
-                "PLT_AREA": 204.476954,
+                "PLTA": 204.476954,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -4648,7 +4648,7 @@
             "properties": {
                 "plt_label": "p207",
                 "trt_label": "FTL",
-                "PLT_AREA": 204.27731,
+                "PLTA": 204.27731,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -4974,7 +4974,7 @@
             "properties": {
                 "plt_label": "p208",
                 "trt_label": "FSL",
-                "PLT_AREA": 203.169654,
+                "PLTA": 203.169654,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -5300,7 +5300,7 @@
             "properties": {
                 "plt_label": "p301",
                 "trt_label": "NTL",
-                "PLT_AREA": 202.995797,
+                "PLTA": 202.995797,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -5626,7 +5626,7 @@
             "properties": {
                 "plt_label": "p302",
                 "trt_label": "FTL",
-                "PLT_AREA": 204.11444,
+                "PLTA": 204.11444,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -5952,7 +5952,7 @@
             "properties": {
                 "plt_label": "p303",
                 "trt_label": "NSL",
-                "PLT_AREA": 203.778845,
+                "PLTA": 203.778845,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -6278,7 +6278,7 @@
             "properties": {
                 "plt_label": "p304",
                 "trt_label": "FSL",
-                "PLT_AREA": 204.202609,
+                "PLTA": 204.202609,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -6604,7 +6604,7 @@
             "properties": {
                 "plt_label": "p305",
                 "trt_label": "NDH",
-                "PLT_AREA": 204.117879,
+                "PLTA": 204.117879,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -6935,7 +6935,7 @@
             "properties": {
                 "plt_label": "p306",
                 "trt_label": "FTL",
-                "PLT_AREA": 204.140854,
+                "PLTA": 204.140854,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -7261,7 +7261,7 @@
             "properties": {
                 "plt_label": "p307",
                 "trt_label": "NTH",
-                "PLT_AREA": 203.606132,
+                "PLTA": 203.606132,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -7591,7 +7591,7 @@
             "properties": {
                 "plt_label": "p308",
                 "trt_label": "FDH",
-                "PLT_AREA": 203.327836,
+                "PLTA": 203.327836,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -7921,7 +7921,7 @@
             "properties": {
                 "plt_label": "p401",
                 "trt_label": "NSH",
-                "PLT_AREA": 204.072623,
+                "PLTA": 204.072623,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -8250,7 +8250,7 @@
             "properties": {
                 "plt_label": "p402",
                 "trt_label": "NTH",
-                "PLT_AREA": 204.155775,
+                "PLTA": 204.155775,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -8580,7 +8580,7 @@
             "properties": {
                 "plt_label": "p403",
                 "trt_label": "FDL",
-                "PLT_AREA": 203.819024,
+                "PLTA": 203.819024,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -8906,7 +8906,7 @@
             "properties": {
                 "plt_label": "p404",
                 "trt_label": "FTH",
-                "PLT_AREA": 204.619541,
+                "PLTA": 204.619541,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -9236,7 +9236,7 @@
             "properties": {
                 "plt_label": "p405",
                 "trt_label": "FDL",
-                "PLT_AREA": 204.392287,
+                "PLTA": 204.392287,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -9562,7 +9562,7 @@
             "properties": {
                 "plt_label": "p406",
                 "trt_label": "FTH",
-                "PLT_AREA": 205.092754,
+                "PLTA": 205.092754,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -9892,7 +9892,7 @@
             "properties": {
                 "plt_label": "p407",
                 "trt_label": "NSH",
-                "PLT_AREA": 203.733882,
+                "PLTA": 203.733882,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -10215,7 +10215,7 @@
             "properties": {
                 "plt_label": "p408",
                 "trt_label": "NTL",
-                "PLT_AREA": 203.306611,
+                "PLTA": 203.306611,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -10541,7 +10541,7 @@
             "properties": {
                 "plt_label": "p901",
                 "trt_label": "WS",
-                "PLT_AREA": 51.362413,
+                "PLTA": 51.362413,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -10764,7 +10764,7 @@
             "properties": {
                 "plt_label": "p903",
                 "trt_label": "DS",
-                "PLT_AREA": 50.937858,
+                "PLTA": 50.937858,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -10987,7 +10987,7 @@
             "properties": {
                 "plt_label": "p905",
                 "trt_label": "WS",
-                "PLT_AREA": 50.969395,
+                "PLTA": 50.969395,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -11210,7 +11210,7 @@
             "properties": {
                 "plt_label": "p907",
                 "trt_label": "DS",
-                "PLT_AREA": 50.441139,
+                "PLTA": 50.441139,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -11433,7 +11433,7 @@
             "properties": {
                 "plt_label": "p902",
                 "trt_label": "15-Jul",
-                "PLT_AREA": 51.406468,
+                "PLTA": 51.406468,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -11719,7 +11719,7 @@
             "properties": {
                 "plt_label": "p904",
                 "trt_label": "1-Jun",
-                "PLT_AREA": 51.072626,
+                "PLTA": 51.072626,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -12005,7 +12005,7 @@
             "properties": {
                 "plt_label": "p906",
                 "trt_label": "15-Jul",
-                "PLT_AREA": 50.698917,
+                "PLTA": 50.698917,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
@@ -12291,7 +12291,7 @@
             "properties": {
                 "plt_label": "p908",
                 "trt_label": "1-Jun",
-                "PLT_AREA": 49.778117,
+                "PLTA": 49.778117,
                 "CUL_NAME": "Deltapine 458 B/RR",
                 "PDATE": "04/08/2003",
                 "PLYR": 2003,
