@@ -25,9 +25,18 @@ for myfile in files:
             if key not in allkeys[shptype]:
                 allkeys[shptype].append(key)
 f = open('stats2_keys.txt','w')
+condense = []
 for shptype in allkeys:
     f.write(shptype + '\n')
     for key2 in sorted(allkeys[shptype]):
         f.write(key2 + '\n')
     f.write('\n')
+    condense.append(sorted(allkeys[shptype]))
+f.write('\n')
+f.write('\n')
+f.write('Combined keys\n')
+flatten = [item for sublist in condense for item in sublist]
+unique = sorted(list(set(flatten)))
+for item in unique:
+    f.write(item + '\n')
 f.close()

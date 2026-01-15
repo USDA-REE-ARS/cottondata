@@ -193,7 +193,7 @@ for feature in layer:
     #Using field average for each plot
     myplot.setproperty('EDATE', '04/26/2018')
     myplot.setproperty('PLYRE', 2018)
-    myplot.setproperty('PLODE', 116)
+    myplot.setproperty('PLDOE', 116)
     myplot.setproperty('LF1D', '05/07/2018')
     #Soil analysis
     row = soil.loc[soil['Plot'] == plt_label]
