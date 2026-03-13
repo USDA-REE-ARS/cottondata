@@ -59,7 +59,7 @@ expmeta = {
     'MGMT_TYPE':'MT001',
     'EXP_YEAR': '2011',
     'EXP_DUR':1,
-    'CR_SYSTEM':'Cotton after fallow',
+    'CR_SYSTEM':'Cotton on raised beds with furrow flood irrigation after fallow',
     'LAST_NAME':'Hunsaker',
     'FIRST_NAME':'Douglas',
     'MID_INITIAL':'J',

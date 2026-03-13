@@ -58,7 +58,7 @@ expmeta = {
     'MGMT_TYPE':'MT001',
     'EXP_YEAR': '2021',
     'EXP_DUR':1,
-    'CR_SYSTEM':'Strip-till cotton after winter triticale cover crop',
+    'CR_SYSTEM':'Strip-till cotton with overhead sprinkler irrigation after winter triticale cover crop',
     'LAST_NAME':'Thorp',
     'FIRST_NAME':'Kelly',
     'MID_INITIAL':'R',

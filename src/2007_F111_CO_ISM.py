@@ -43,20 +43,20 @@ myexp.setproperty('FAREA',round(exp_area,6))
 
 expmeta = {
     'EXNAME':'Irrigation scheduling methods, Season 1 of 1',
-    #'OBJECTIVES':'Unpublished',
-    #'EXP_NARR':'Unpublished',
+    'OBJECTIVES':'See Maqsood, H., Hunsaker, D. J., Waller, P., Thorp, K. R., French, A., Elshikha, D. E., Loeffler, R., 2023. WINDS model demonstration with field data from a furrow-irrigated cotton experiment. Water 15, 1544. doi:10.3390/w15081544',
+    'EXP_NARR':'See Maqsood, H., Hunsaker, D. J., Waller, P., Thorp, K. R., French, A., Elshikha, D. E., Loeffler, R., 2023. WINDS model demonstration with field data from a furrow-irrigated cotton experiment. Water 15, 1544. doi:10.3390/w15081544',
     'MAIN_FACTOR':'Irrigation scheduling method',
     'FACTORS':'Four irrigation scheduling methods with typical and sparse planting density',
     'TRT_COUNT':8,
     'REP_NO':4,
-    #'METHODS':'Unpublished',
+    'METHODS':'See Maqsood, H., Hunsaker, D. J., Waller, P., Thorp, K. R., French, A., Elshikha, D. E., Loeffler, R., 2023. WINDS model demonstration with field data from a furrow-irrigated cotton experiment. Water 15, 1544. doi:10.3390/w15081544',
     'EXPER_TYPE':'ET001',
     'SITE_NAME':'Maricopa Agricultural Center, Field 111',
     'SITE_TYPE':'ST001',
     'MGMT_TYPE':'MT001',
     'EXP_YEAR': '2007',
     'EXP_DUR':1,
-    'CR_SYSTEM':'Cotton after camelina',
+    'CR_SYSTEM':'Cotton on raised beds with furrow flood irrigation after camelina',
     'LAST_NAME':'Hunsaker',
     'FIRST_NAME':'Douglas',
     'MID_INITIAL':'J',
@@ -68,7 +68,7 @@ expmeta = {
     'IN_ROLE':'IL001',
     'CMPLC':'',
     'SUITE_NAME':'Irrigation scheduling methods',
-    #'SUITE_OBJ':'Unpublished',
+    'SUITE_OBJ':'See Maqsood, H., Hunsaker, D. J., Waller, P., Thorp, K. R., French, A., Elshikha, D. E., Loeffler, R., 2023. WINDS model demonstration with field data from a furrow-irrigated cotton experiment. Water 15, 1544. doi:10.3390/w15081544',
     'FL_NAME':'Field 111',
     'FL_LAT':33.068602, #from Google maps
     'FL_LONG':-111.974241, #from Google maps

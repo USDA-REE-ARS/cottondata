@@ -58,7 +58,7 @@ expmeta = {
     'MGMT_TYPE':'MT001',
     'EXP_YEAR': '2018',
     'EXP_DUR':1,
-    'CR_SYSTEM':'No-till cotton after winter barley cover crop',
+    'CR_SYSTEM':'No-till cotton with overhead sprinkler irrigation after winter barley cover crop',
     'LAST_NAME':'Thorp',
     'FIRST_NAME':'Kelly',
     'MID_INITIAL':'R',
