@@ -1,7 +1,6 @@
 import os
 
 pyfiles = ['Soil.py',
-           '1999_F105_CO_AGIIS.py',
            '2002_F105_CO_FISE.py',
            '2003_F105_CO_FISE.py',
            '2007_F111_CO_ISM.py',
