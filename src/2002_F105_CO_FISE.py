@@ -66,7 +66,7 @@ expmeta = {
     'INSTITUTION':'USDA Agricultural Research Service, Maricopa, Arizona',
     'IN_TYPE':'IT004',
     'IN_ROLE':'IL001',
-    'CMPLC':'',
+    'CMPLC':'AgIIS linear move system was destroyed in microburst with 50 mph winds on July 10',
     'SUITE_NAME':'FAO-56 Irrigation Scheduling Experiment (FISE)',
     'SUITE_OBJ':'See Hunsaker, D. J., Barnes, E. M., Clarke, T. R., Fitzgerald, G. J., Pinter, Jr., P. J., 2005. Cotton irrigation scheduling using remotely sensed and FAO-56 basal crop coefficients. Transactions of the ASAE. 48(4):1395-1407. doi:10.13031/2013.19197',
     'FL_NAME':'Field 105',
