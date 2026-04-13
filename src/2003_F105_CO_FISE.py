@@ -430,7 +430,7 @@ for feature in layer:
         sys.exit()
     mytube = neutronswc.NeutronSWC(tid=tid,geometry=geometry,tb_label=tb_label)
     #Neutron soil water content data
-    rows = swc.loc[swc['Tube'] == tb_label]
+    rows = swc.loc[swc['Tube'] == int(tb_label)]
     rows = rows.sort_values(by='DOY')
     depcols = sorted([col for col in rows.columns if col[-2:]=='cm'])
     swcdata = list()

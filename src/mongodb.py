@@ -1,0 +1,80 @@
+from pymongo import MongoClient
+import geojson
+import sys
+import os
+
+client = MongoClient("mongodb://localhost:27017/")
+
+try:
+    client.admin.command('ping')
+    print("Connected!")
+except Exception as e:
+    print(f"Connection failed: {e}")
+
+db = client["MaricopaCotton"]
+
+exps = ['2002_F105_CO_FISE',
+        '2003_F105_CO_FISE',
+        '2007_F111_CO_ISM',
+        '2009_F033_CO_RSIS',
+        '2011_F033_CO_RSIS',
+        '2014_F013B4_CO_ISOS',
+        '2015_F013B4_CO_ISOS',
+        '2016_F013B4_CO_ITR',
+        '2017_F013B4_CO_ITR',
+        '2018_F013B4_CO_ITR',
+        '2019_F013B4_CO_PIT',
+        '2020_F013B4_CO_PIT',
+        '2021_F013B4_CO_ISSWC',
+        '2022_F013B4_CO_IRATE',
+        '2022_F013B4_CO_ISSWC',
+        '2023_F013B4_CO_IRATE',
+        '2023_F013B4_CO_TILL']
+
+collections = ['Experiment',
+               'Plots',
+               'HarvestAreas',
+               'SWC',
+               'CropCanopy',
+               'PlantAnalysis',
+               'Zones',
+               'SoilChemistry']
+
+for collection in collections:
+    mycollection = db[collection]
+    count = 0
+    for exp in exps:
+        myfile = '../geojson/'+exp+'/'+exp+'_'+collection+'.geojson'
+        if os.path.exists(myfile):
+            print(myfile)
+            f = open(myfile,'r')
+            gj = geojson.load(f)
+            f.close()
+            for feature in gj.features:
+                target_id = feature['_id']
+                exists = mycollection.count_documents({'_id': target_id}, limit=1) > 0
+                if not exists:
+                    mycollection.insert_one(feature)
+                    count += 1
+    print('Added {:d} records to '.format(count) + collection + '.')
+
+for sa in ['F013B4_SoilAnalysis_DJH.geojson',
+           'F013B4_SoilAnalysis_KRT.geojson',
+           'F033_SoilAnalysis_DJH.geojson',
+           'F105_SoilAnalysis_DJH.geojson',
+           'F111_SoilAnalysis_DJH.geojson']:
+    mycollection = db['SoilAnalysis']
+    myfile = '../geojson/Soil/'+sa
+    if os.path.exists(myfile):
+        print(myfile)
+        f = open(myfile,'r')
+        gj = geojson.load(f)
+        f.close()
+        for feature in gj.features:
+            target_id = feature['_id']
+            exists = mycollection.count_documents({'_id': target_id}, limit=1) > 0
+            if not exists:
+                mycollection.insert_one(feature)
+                count += 1
+print('Added {:d} records to '.format(count) + 'Soil Analysis.')
+
