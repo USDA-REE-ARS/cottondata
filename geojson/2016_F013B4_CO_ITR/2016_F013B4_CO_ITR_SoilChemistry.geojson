@@ -12,13 +12,33 @@
             },
             "properties": {
                 "sc_label": "N1",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 0.9,
-                    "45": 1.3,
-                    "75": 1.7,
-                    "105": 2.0
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 0.9
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 1.3
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 1.7
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 2.0
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fcf8",
             "scid": "683f26688ac54759b719fcf8"
@@ -34,13 +54,33 @@
             },
             "properties": {
                 "sc_label": "N3",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 1.2,
-                    "45": 5.6,
-                    "75": 0.8,
-                    "105": 1.2
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 1.2
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 5.6
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 0.8
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 1.2
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fcf9",
             "scid": "683f26688ac54759b719fcf9"
@@ -56,13 +96,33 @@
             },
             "properties": {
                 "sc_label": "N5",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 3.5,
-                    "45": 5.7,
-                    "75": 2.4,
-                    "105": 2.3
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 3.5
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 5.7
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 2.4
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 2.3
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fcfa",
             "scid": "683f26688ac54759b719fcfa"
@@ -78,13 +138,33 @@
             },
             "properties": {
                 "sc_label": "N7",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 10.0,
-                    "45": 2.6,
-                    "75": 0.9,
-                    "105": 0.5
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 10.0
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 2.6
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 0.9
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 0.5
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fcfb",
             "scid": "683f26688ac54759b719fcfb"
@@ -100,13 +180,33 @@
             },
             "properties": {
                 "sc_label": "N9",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 4.6,
-                    "45": 8.5,
-                    "75": 4.9,
-                    "105": 3.0
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 4.6
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 8.5
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 4.9
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 3.0
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fcfc",
             "scid": "683f26688ac54759b719fcfc"
@@ -122,13 +222,33 @@
             },
             "properties": {
                 "sc_label": "N11",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 19.2,
-                    "45": 22.2,
-                    "75": 14.0,
-                    "105": 1.7
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 19.2
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 22.2
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 14.0
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 1.7
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fcfd",
             "scid": "683f26688ac54759b719fcfd"
@@ -144,13 +264,33 @@
             },
             "properties": {
                 "sc_label": "N13",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 5.0,
-                    "45": 4.2,
-                    "75": 1.4,
-                    "105": 1.4
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 5.0
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 4.2
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 1.4
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 1.4
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fcfe",
             "scid": "683f26688ac54759b719fcfe"
@@ -166,13 +306,33 @@
             },
             "properties": {
                 "sc_label": "N15",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 14.9,
-                    "45": 3.2,
-                    "75": 0.7,
-                    "105": 1.6
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 14.9
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 3.2
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 1.6
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fcff",
             "scid": "683f26688ac54759b719fcff"
@@ -188,13 +348,33 @@
             },
             "properties": {
                 "sc_label": "N18",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 5.9,
-                    "45": 0.5,
-                    "75": 0.2,
-                    "105": 0.2
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 5.9
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 0.5
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 0.2
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 0.2
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd00",
             "scid": "683f26688ac54759b719fd00"
@@ -210,13 +390,33 @@
             },
             "properties": {
                 "sc_label": "N20",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 0.5,
-                    "45": 0.3,
-                    "75": 0.7,
-                    "105": 1.4
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 0.5
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 0.3
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 1.4
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd01",
             "scid": "683f26688ac54759b719fd01"
@@ -232,13 +432,33 @@
             },
             "properties": {
                 "sc_label": "N22",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 6.7,
-                    "45": 5.4,
-                    "75": 0.8,
-                    "105": 0.7
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 6.7
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 5.4
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 0.8
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 0.7
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd02",
             "scid": "683f26688ac54759b719fd02"
@@ -254,13 +474,33 @@
             },
             "properties": {
                 "sc_label": "N24",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 2.5,
-                    "45": 8.7,
-                    "75": 2.5,
-                    "105": 1.8
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 2.5
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 8.7
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 2.5
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 1.8
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd03",
             "scid": "683f26688ac54759b719fd03"
@@ -276,13 +516,33 @@
             },
             "properties": {
                 "sc_label": "N26",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 1.7,
-                    "45": 2.6,
-                    "75": 1.2,
-                    "105": 2.2
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 1.7
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 2.6
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 1.2
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 2.2
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd04",
             "scid": "683f26688ac54759b719fd04"
@@ -298,13 +558,33 @@
             },
             "properties": {
                 "sc_label": "N28",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 2.0,
-                    "45": 4.4,
-                    "75": 2.3,
-                    "105": 2.1
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 2.0
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 4.4
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 2.3
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 2.1
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd05",
             "scid": "683f26688ac54759b719fd05"
@@ -320,13 +600,33 @@
             },
             "properties": {
                 "sc_label": "N30",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 0.3,
-                    "45": 1.2,
-                    "75": 3.1,
-                    "105": 5.3
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 0.3
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 1.2
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 3.1
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 5.3
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd06",
             "scid": "683f26688ac54759b719fd06"
@@ -342,13 +642,33 @@
             },
             "properties": {
                 "sc_label": "N32",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 2.8,
-                    "45": 4.9,
-                    "75": 3.4,
-                    "105": 4.0
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 2.8
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 4.9
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 3.4
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 4.0
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd07",
             "scid": "683f26688ac54759b719fd07"
@@ -364,13 +684,33 @@
             },
             "properties": {
                 "sc_label": "N33",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 5.7,
-                    "45": 2.0,
-                    "75": 0.3,
-                    "105": 0.9
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 5.7
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 2.0
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 0.3
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 0.9
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd08",
             "scid": "683f26688ac54759b719fd08"
@@ -386,13 +726,33 @@
             },
             "properties": {
                 "sc_label": "N35",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": -0.0,
-                    "45": 0.3,
-                    "75": 1.1,
-                    "105": 0.5
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": -0.0
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 0.3
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 1.1
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 0.5
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd09",
             "scid": "683f26688ac54759b719fd09"
@@ -408,13 +768,33 @@
             },
             "properties": {
                 "sc_label": "N37",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 15.8,
-                    "45": 2.9,
-                    "75": 0.8,
-                    "105": 3.6
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 15.8
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 2.9
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 0.8
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 3.6
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd0a",
             "scid": "683f26688ac54759b719fd0a"
@@ -430,13 +810,33 @@
             },
             "properties": {
                 "sc_label": "N39",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 9.9,
-                    "45": 2.0,
-                    "75": 1.0,
-                    "105": 0.9
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 9.9
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 2.0
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 1.0
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 0.9
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd0b",
             "scid": "683f26688ac54759b719fd0b"
@@ -452,13 +852,33 @@
             },
             "properties": {
                 "sc_label": "N41",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 0.4,
-                    "45": 1.4,
-                    "75": 3.5,
-                    "105": 1.4
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 0.4
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 1.4
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 3.5
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 1.4
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd0c",
             "scid": "683f26688ac54759b719fd0c"
@@ -474,13 +894,33 @@
             },
             "properties": {
                 "sc_label": "N43",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 1.1,
-                    "45": 3.0,
-                    "75": 4.8,
-                    "105": 1.9
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 1.1
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 3.0
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 4.8
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 1.9
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd0d",
             "scid": "683f26688ac54759b719fd0d"
@@ -496,13 +936,33 @@
             },
             "properties": {
                 "sc_label": "N45",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 0.9,
-                    "45": 1.1,
-                    "75": 1.3,
-                    "105": 1.2
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 0.9
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 1.1
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 1.3
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 1.2
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd0e",
             "scid": "683f26688ac54759b719fd0e"
@@ -518,13 +978,33 @@
             },
             "properties": {
                 "sc_label": "N47",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 1.6,
-                    "45": 5.7,
-                    "75": 2.5,
-                    "105": 2.9
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 1.6
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 5.7
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 2.5
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 2.9
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd0f",
             "scid": "683f26688ac54759b719fd0f"
@@ -540,13 +1020,33 @@
             },
             "properties": {
                 "sc_label": "N50",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 1.6,
-                    "45": 3.9,
-                    "75": 3.0,
-                    "105": 0.5
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 1.6
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 3.9
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 3.0
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 0.5
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd10",
             "scid": "683f26688ac54759b719fd10"
@@ -562,13 +1062,33 @@
             },
             "properties": {
                 "sc_label": "N52",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 0.3,
-                    "45": 0.2,
-                    "75": 0.7,
-                    "105": 2.2
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 0.3
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 0.2
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 2.2
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd11",
             "scid": "683f26688ac54759b719fd11"
@@ -584,13 +1104,33 @@
             },
             "properties": {
                 "sc_label": "N54",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 8.8,
-                    "45": 10.7,
-                    "75": 2.3,
-                    "105": 2.2
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 8.8
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 10.7
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 2.3
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 2.2
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd12",
             "scid": "683f26688ac54759b719fd12"
@@ -606,13 +1146,33 @@
             },
             "properties": {
                 "sc_label": "N56",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 4.1,
-                    "45": 7.4,
-                    "75": 2.3,
-                    "105": 1.4
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 4.1
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 7.4
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 2.3
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 1.4
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd13",
             "scid": "683f26688ac54759b719fd13"
@@ -628,13 +1188,33 @@
             },
             "properties": {
                 "sc_label": "N58",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 0.4,
-                    "45": 3.3,
-                    "75": 5.0,
-                    "105": 1.0
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 0.4
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 3.3
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 5.0
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 1.0
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd14",
             "scid": "683f26688ac54759b719fd14"
@@ -650,13 +1230,33 @@
             },
             "properties": {
                 "sc_label": "N60",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 0.7,
-                    "45": 3.9,
-                    "75": 4.5,
-                    "105": 7.1
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 3.9
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 4.5
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 7.1
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd15",
             "scid": "683f26688ac54759b719fd15"
@@ -672,13 +1272,33 @@
             },
             "properties": {
                 "sc_label": "N62",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 1.9,
-                    "45": 9.3,
-                    "75": 6.3,
-                    "105": 3.3
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 1.9
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 9.3
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 6.3
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 3.3
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd16",
             "scid": "683f26688ac54759b719fd16"
@@ -694,13 +1314,33 @@
             },
             "properties": {
                 "sc_label": "N64",
-                "SOIL_DATE": "03/01/2016",
-                "SNO3": {
-                    "15": 0.4,
-                    "45": 1.3,
-                    "75": 3.8,
-                    "105": 2.2
-                }
+                "SOIL_DATE": "2016-03-01",
+                "SNO3": [
+                    {
+                        "depth": 15,
+                        "mindepth": 0,
+                        "maxdepth": 30,
+                        "value": 0.4
+                    },
+                    {
+                        "depth": 45,
+                        "mindepth": 30,
+                        "maxdepth": 60,
+                        "value": 1.3
+                    },
+                    {
+                        "depth": 75,
+                        "mindepth": 60,
+                        "maxdepth": 90,
+                        "value": 3.8
+                    },
+                    {
+                        "depth": 105,
+                        "mindepth": 90,
+                        "maxdepth": 120,
+                        "value": 2.2
+                    }
+                ]
             },
             "_id": "683f26688ac54759b719fd17",
             "scid": "683f26688ac54759b719fd17"

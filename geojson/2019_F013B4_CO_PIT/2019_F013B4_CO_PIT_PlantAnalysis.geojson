@@ -12,19 +12,12 @@
             },
             "properties": {
                 "pa_label": "p11-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.12
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.12,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -54,19 +47,12 @@
             },
             "properties": {
                 "pa_label": "p11-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.25
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 1
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.25,
+                "MSNODE": 6.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 1.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 0.0,
@@ -96,19 +82,12 @@
             },
             "properties": {
                 "pa_label": "p11-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.52
-                },
-                "MSNODE": {
-                    "1": 15
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 9
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.52,
+                "MSNODE": 15.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 9.0,
                 "ABSNUM": 8.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 0.0,
@@ -138,19 +117,12 @@
             },
             "properties": {
                 "pa_label": "p11-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.79
-                },
-                "MSNODE": {
-                    "1": 19
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 14
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.79,
+                "MSNODE": 19.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 14.0,
                 "ABSNUM": 34.0,
                 "SQRNUM": 31.0,
                 "FLRNUM": 13.0,
@@ -180,19 +152,12 @@
             },
             "properties": {
                 "pa_label": "p11-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 1.04
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 19
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 1.04,
+                "MSNODE": 24.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 19.0,
                 "ABSNUM": 40.0,
                 "SQRNUM": 32.0,
                 "FLRNUM": 1.0,
@@ -222,19 +187,12 @@
             },
             "properties": {
                 "pa_label": "p11-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 1.0
-                },
-                "MSNODE": {
-                    "1": 25
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 19
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 1.0,
+                "MSNODE": 25.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 19.0,
                 "ABSNUM": 50.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
@@ -264,19 +222,12 @@
             },
             "properties": {
                 "pa_label": "p11-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.1
-                },
-                "MSNODE": {
-                    "1": 27
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 22
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.1,
+                "MSNODE": 27.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 22.0,
                 "ABSNUM": 84.0,
                 "SQRNUM": 7.0,
                 "FLRNUM": 0.0,
@@ -306,19 +257,12 @@
             },
             "properties": {
                 "pa_label": "p11-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.3
-                },
-                "MSNODE": {
-                    "1": 31
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 27
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.3,
+                "MSNODE": 31.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 27.0,
                 "ABSNUM": 82.0,
                 "SQRNUM": 19.0,
                 "FLRNUM": 1.0,
@@ -348,19 +292,12 @@
             },
             "properties": {
                 "pa_label": "p12-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.15
-                },
-                "MSNODE": {
-                    "1": 5
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.15,
+                "MSNODE": 5.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -390,19 +327,12 @@
             },
             "properties": {
                 "pa_label": "p12-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.32
-                },
-                "MSNODE": {
-                    "1": 9
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 3
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.32,
+                "MSNODE": 9.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 3.0,
                 "ABSNUM": 2.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
@@ -432,19 +362,12 @@
             },
             "properties": {
                 "pa_label": "p12-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.55
-                },
-                "MSNODE": {
-                    "1": 16
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 10
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.55,
+                "MSNODE": 16.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 10.0,
                 "ABSNUM": 9.0,
                 "SQRNUM": 12.0,
                 "FLRNUM": 0.0,
@@ -474,19 +397,12 @@
             },
             "properties": {
                 "pa_label": "p12-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.71
-                },
-                "MSNODE": {
-                    "1": 18
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 12
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.71,
+                "MSNODE": 18.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 12.0,
                 "ABSNUM": 26.0,
                 "SQRNUM": 32.0,
                 "FLRNUM": 6.0,
@@ -516,19 +432,12 @@
             },
             "properties": {
                 "pa_label": "p12-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.85
-                },
-                "MSNODE": {
-                    "1": 21
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.85,
+                "MSNODE": 21.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 41.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 2.0,
@@ -558,19 +467,12 @@
             },
             "properties": {
                 "pa_label": "p12-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 1.07
-                },
-                "MSNODE": {
-                    "1": 26
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 21
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 1.07,
+                "MSNODE": 26.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 21.0,
                 "ABSNUM": 58.0,
                 "SQRNUM": 24.0,
                 "FLRNUM": 0.0,
@@ -600,19 +502,12 @@
             },
             "properties": {
                 "pa_label": "p12-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.3
-                },
-                "MSNODE": {
-                    "1": 30
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 24
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.3,
+                "MSNODE": 30.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 24.0,
                 "ABSNUM": 111.0,
                 "SQRNUM": 7.0,
                 "FLRNUM": 0.0,
@@ -642,19 +537,12 @@
             },
             "properties": {
                 "pa_label": "p12-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.3
-                },
-                "MSNODE": {
-                    "1": 28
-                },
-                "PFNODE": {
-                    "1": 8
-                },
-                "FRBNUM": {
-                    "1": 20
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.3,
+                "MSNODE": 28.0,
+                "PFNODE": 8.0,
+                "FRBNUM": 20.0,
                 "ABSNUM": 50.0,
                 "SQRNUM": 38.0,
                 "FLRNUM": 1.0,
@@ -684,19 +572,12 @@
             },
             "properties": {
                 "pa_label": "p13-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.13
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.13,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -726,19 +607,12 @@
             },
             "properties": {
                 "pa_label": "p13-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.26
-                },
-                "MSNODE": {
-                    "1": 9
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 3
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.26,
+                "MSNODE": 9.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 3.0,
                 "ABSNUM": 2.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
@@ -768,19 +642,12 @@
             },
             "properties": {
                 "pa_label": "p13-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.53
-                },
-                "MSNODE": {
-                    "1": 15
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 11
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.53,
+                "MSNODE": 15.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 11.0,
                 "ABSNUM": 12.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 0.0,
@@ -810,19 +677,12 @@
             },
             "properties": {
                 "pa_label": "p13-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.8
-                },
-                "MSNODE": {
-                    "1": 20
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.8,
+                "MSNODE": 20.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 38.0,
                 "SQRNUM": 48.0,
                 "FLRNUM": 7.0,
@@ -852,19 +712,12 @@
             },
             "properties": {
                 "pa_label": "p13-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 1.0
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 1.0,
+                "MSNODE": 22.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 31.0,
                 "SQRNUM": 24.0,
                 "FLRNUM": 0.0,
@@ -894,19 +747,12 @@
             },
             "properties": {
                 "pa_label": "p13-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 0.96
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 19
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 0.96,
+                "MSNODE": 24.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 19.0,
                 "ABSNUM": 64.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
@@ -936,19 +782,12 @@
             },
             "properties": {
                 "pa_label": "p13-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 0.96
-                },
-                "MSNODE": {
-                    "1": 28
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 22
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 0.96,
+                "MSNODE": 28.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 22.0,
                 "ABSNUM": 51.0,
                 "SQRNUM": 11.0,
                 "FLRNUM": 0.0,
@@ -978,19 +817,12 @@
             },
             "properties": {
                 "pa_label": "p13-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.28
-                },
-                "MSNODE": {
-                    "1": 31
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 24
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.28,
+                "MSNODE": 31.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 24.0,
                 "ABSNUM": 82.0,
                 "SQRNUM": 23.0,
                 "FLRNUM": 0.0,
@@ -1020,19 +852,12 @@
             },
             "properties": {
                 "pa_label": "p14-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.13
-                },
-                "MSNODE": {
-                    "1": 5
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.13,
+                "MSNODE": 5.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -1062,19 +887,12 @@
             },
             "properties": {
                 "pa_label": "p14-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.22
-                },
-                "MSNODE": {
-                    "1": 9
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 3
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.22,
+                "MSNODE": 9.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 3.0,
                 "ABSNUM": 3.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -1104,19 +922,12 @@
             },
             "properties": {
                 "pa_label": "p14-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.42
-                },
-                "MSNODE": {
-                    "1": 12
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 8
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.42,
+                "MSNODE": 12.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 8.0,
                 "ABSNUM": 7.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
@@ -1146,19 +957,12 @@
             },
             "properties": {
                 "pa_label": "p14-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.92
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 18
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.92,
+                "MSNODE": 22.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 18.0,
                 "ABSNUM": 38.0,
                 "SQRNUM": 39.0,
                 "FLRNUM": 1.0,
@@ -1188,19 +992,12 @@
             },
             "properties": {
                 "pa_label": "p14-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.91
-                },
-                "MSNODE": {
-                    "1": 19
-                },
-                "PFNODE": {
-                    "1": 3
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.91,
+                "MSNODE": 19.0,
+                "PFNODE": 3.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 33.0,
                 "SQRNUM": 31.0,
                 "FLRNUM": 1.0,
@@ -1230,19 +1027,12 @@
             },
             "properties": {
                 "pa_label": "p14-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 0.94
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 19
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 0.94,
+                "MSNODE": 24.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 19.0,
                 "ABSNUM": 51.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 0.0,
@@ -1272,19 +1062,12 @@
             },
             "properties": {
                 "pa_label": "p14-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 0.92
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 7
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 0.92,
+                "MSNODE": 24.0,
+                "PFNODE": 7.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 37.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
@@ -1314,19 +1097,12 @@
             },
             "properties": {
                 "pa_label": "p14-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.08
-                },
-                "MSNODE": {
-                    "1": 21
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 15
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.08,
+                "MSNODE": 21.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 15.0,
                 "ABSNUM": 45.0,
                 "SQRNUM": 4.0,
                 "FLRNUM": 0.0,
@@ -1356,19 +1132,12 @@
             },
             "properties": {
                 "pa_label": "p21-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.12
-                },
-                "MSNODE": {
-                    "1": 4
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.12,
+                "MSNODE": 4.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -1398,19 +1167,12 @@
             },
             "properties": {
                 "pa_label": "p21-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.32
-                },
-                "MSNODE": {
-                    "1": 12
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 6
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.32,
+                "MSNODE": 12.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 6.0,
                 "ABSNUM": 4.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
@@ -1440,19 +1202,12 @@
             },
             "properties": {
                 "pa_label": "p21-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.62
-                },
-                "MSNODE": {
-                    "1": 16
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 10
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.62,
+                "MSNODE": 16.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 10.0,
                 "ABSNUM": 12.0,
                 "SQRNUM": 17.0,
                 "FLRNUM": 0.0,
@@ -1482,19 +1237,12 @@
             },
             "properties": {
                 "pa_label": "p21-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.94
-                },
-                "MSNODE": {
-                    "1": 20
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 15
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.94,
+                "MSNODE": 20.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 15.0,
                 "ABSNUM": 15.0,
                 "SQRNUM": 39.0,
                 "FLRNUM": 1.0,
@@ -1524,19 +1272,12 @@
             },
             "properties": {
                 "pa_label": "p21-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.93
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.93,
+                "MSNODE": 22.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 38.0,
                 "SQRNUM": 32.0,
                 "FLRNUM": 3.0,
@@ -1566,19 +1307,12 @@
             },
             "properties": {
                 "pa_label": "p21-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 1.07
-                },
-                "MSNODE": {
-                    "1": 17
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 12
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 1.07,
+                "MSNODE": 17.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 12.0,
                 "ABSNUM": 66.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 0.0,
@@ -1608,19 +1342,12 @@
             },
             "properties": {
                 "pa_label": "p21-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.06
-                },
-                "MSNODE": {
-                    "1": 26
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 20
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.06,
+                "MSNODE": 26.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 20.0,
                 "ABSNUM": 47.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -1650,19 +1377,12 @@
             },
             "properties": {
                 "pa_label": "p21-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.23
-                },
-                "MSNODE": {
-                    "1": 32
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 27
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.23,
+                "MSNODE": 32.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 27.0,
                 "ABSNUM": 101.0,
                 "SQRNUM": 26.0,
                 "FLRNUM": 0.0,
@@ -1692,19 +1412,12 @@
             },
             "properties": {
                 "pa_label": "p22-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.15
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.15,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -1734,19 +1447,12 @@
             },
             "properties": {
                 "pa_label": "p22-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.34
-                },
-                "MSNODE": {
-                    "1": 11
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 7
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.34,
+                "MSNODE": 11.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 7.0,
                 "ABSNUM": 1.0,
                 "SQRNUM": 10.0,
                 "FLRNUM": 0.0,
@@ -1776,19 +1482,12 @@
             },
             "properties": {
                 "pa_label": "p22-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.64
-                },
-                "MSNODE": {
-                    "1": 15
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 10
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.64,
+                "MSNODE": 15.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 10.0,
                 "ABSNUM": 10.0,
                 "SQRNUM": 19.0,
                 "FLRNUM": 1.0,
@@ -1818,19 +1517,12 @@
             },
             "properties": {
                 "pa_label": "p22-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 1.0
-                },
-                "MSNODE": {
-                    "1": 20
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 1.0,
+                "MSNODE": 20.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 19.0,
                 "SQRNUM": 35.0,
                 "FLRNUM": 2.0,
@@ -1860,19 +1552,12 @@
             },
             "properties": {
                 "pa_label": "p22-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.99
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.99,
+                "MSNODE": 22.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 33.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 1.0,
@@ -1902,19 +1587,12 @@
             },
             "properties": {
                 "pa_label": "p22-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 1.04
-                },
-                "MSNODE": {
-                    "1": 27
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 22
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 1.04,
+                "MSNODE": 27.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 22.0,
                 "ABSNUM": 75.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
@@ -1944,19 +1622,12 @@
             },
             "properties": {
                 "pa_label": "p22-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.21
-                },
-                "MSNODE": {
-                    "1": 28
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 22
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.21,
+                "MSNODE": 28.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 22.0,
                 "ABSNUM": 59.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
@@ -1986,19 +1657,12 @@
             },
             "properties": {
                 "pa_label": "p22-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.4
-                },
-                "MSNODE": {
-                    "1": 26
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 22
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.4,
+                "MSNODE": 26.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 22.0,
                 "ABSNUM": 90.0,
                 "SQRNUM": 28.0,
                 "FLRNUM": 0.0,
@@ -2028,19 +1692,12 @@
             },
             "properties": {
                 "pa_label": "p23-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.1
-                },
-                "MSNODE": {
-                    "1": 4
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.1,
+                "MSNODE": 4.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -2070,19 +1727,12 @@
             },
             "properties": {
                 "pa_label": "p23-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.17
-                },
-                "MSNODE": {
-                    "1": 8
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 3
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.17,
+                "MSNODE": 8.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 3.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
@@ -2112,19 +1762,12 @@
             },
             "properties": {
                 "pa_label": "p23-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.53
-                },
-                "MSNODE": {
-                    "1": 15
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 11
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.53,
+                "MSNODE": 15.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 11.0,
                 "ABSNUM": 4.0,
                 "SQRNUM": 24.0,
                 "FLRNUM": 1.0,
@@ -2154,19 +1797,12 @@
             },
             "properties": {
                 "pa_label": "p23-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.68
-                },
-                "MSNODE": {
-                    "1": 19
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 14
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.68,
+                "MSNODE": 19.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 14.0,
                 "ABSNUM": 8.0,
                 "SQRNUM": 44.0,
                 "FLRNUM": 1.0,
@@ -2196,19 +1832,12 @@
             },
             "properties": {
                 "pa_label": "p23-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.93
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.93,
+                "MSNODE": 22.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 42.0,
                 "SQRNUM": 28.0,
                 "FLRNUM": 2.0,
@@ -2238,19 +1867,12 @@
             },
             "properties": {
                 "pa_label": "p23-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 0.96
-                },
-                "MSNODE": {
-                    "1": 25
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 19
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 0.96,
+                "MSNODE": 25.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 19.0,
                 "ABSNUM": 50.0,
                 "SQRNUM": 4.0,
                 "FLRNUM": 0.0,
@@ -2280,19 +1902,12 @@
             },
             "properties": {
                 "pa_label": "p23-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 0.99
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 7
-                },
-                "FRBNUM": {
-                    "1": 15
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 0.99,
+                "MSNODE": 22.0,
+                "PFNODE": 7.0,
+                "FRBNUM": 15.0,
                 "ABSNUM": 74.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -2322,19 +1937,12 @@
             },
             "properties": {
                 "pa_label": "p23-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.08
-                },
-                "MSNODE": {
-                    "1": 32
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 27
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.08,
+                "MSNODE": 32.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 27.0,
                 "ABSNUM": 63.0,
                 "SQRNUM": 53.0,
                 "FLRNUM": 3.0,
@@ -2364,19 +1972,12 @@
             },
             "properties": {
                 "pa_label": "p24-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.12
-                },
-                "MSNODE": {
-                    "1": 5
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.12,
+                "MSNODE": 5.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -2406,19 +2007,12 @@
             },
             "properties": {
                 "pa_label": "p24-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.3
-                },
-                "MSNODE": {
-                    "1": 11
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 5
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.3,
+                "MSNODE": 11.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 5.0,
                 "ABSNUM": 4.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
@@ -2448,19 +2042,12 @@
             },
             "properties": {
                 "pa_label": "p24-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.59
-                },
-                "MSNODE": {
-                    "1": 16
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 11
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.59,
+                "MSNODE": 16.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 11.0,
                 "ABSNUM": 13.0,
                 "SQRNUM": 13.0,
                 "FLRNUM": 0.0,
@@ -2490,19 +2077,12 @@
             },
             "properties": {
                 "pa_label": "p24-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.82
-                },
-                "MSNODE": {
-                    "1": 20
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 14
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.82,
+                "MSNODE": 20.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 14.0,
                 "ABSNUM": 25.0,
                 "SQRNUM": 33.0,
                 "FLRNUM": 1.0,
@@ -2532,19 +2112,12 @@
             },
             "properties": {
                 "pa_label": "p24-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.96
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 18
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.96,
+                "MSNODE": 22.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 18.0,
                 "ABSNUM": 34.0,
                 "SQRNUM": 23.0,
                 "FLRNUM": 0.0,
@@ -2574,19 +2147,12 @@
             },
             "properties": {
                 "pa_label": "p24-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 1.07
-                },
-                "MSNODE": {
-                    "1": 25
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 19
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 1.07,
+                "MSNODE": 25.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 19.0,
                 "ABSNUM": 57.0,
                 "SQRNUM": 10.0,
                 "FLRNUM": 0.0,
@@ -2616,19 +2182,12 @@
             },
             "properties": {
                 "pa_label": "p24-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 0.85
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 18
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 0.85,
+                "MSNODE": 24.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 18.0,
                 "ABSNUM": 36.0,
                 "SQRNUM": 4.0,
                 "FLRNUM": 0.0,
@@ -2658,19 +2217,12 @@
             },
             "properties": {
                 "pa_label": "p24-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.1
-                },
-                "MSNODE": {
-                    "1": 31
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 24
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.1,
+                "MSNODE": 31.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 24.0,
                 "ABSNUM": 53.0,
                 "SQRNUM": 36.0,
                 "FLRNUM": 2.0,
@@ -2700,19 +2252,12 @@
             },
             "properties": {
                 "pa_label": "p31-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.17
-                },
-                "MSNODE": {
-                    "1": 5
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.17,
+                "MSNODE": 5.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -2742,19 +2287,12 @@
             },
             "properties": {
                 "pa_label": "p31-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.26
-                },
-                "MSNODE": {
-                    "1": 7
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 2
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.26,
+                "MSNODE": 7.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 2.0,
                 "ABSNUM": 1.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
@@ -2784,19 +2322,12 @@
             },
             "properties": {
                 "pa_label": "p31-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.52
-                },
-                "MSNODE": {
-                    "1": 14
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 8
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.52,
+                "MSNODE": 14.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 8.0,
                 "ABSNUM": 8.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 0.0,
@@ -2826,19 +2357,12 @@
             },
             "properties": {
                 "pa_label": "p31-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.75
-                },
-                "MSNODE": {
-                    "1": 19
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 13
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.75,
+                "MSNODE": 19.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 13.0,
                 "ABSNUM": 14.0,
                 "SQRNUM": 40.0,
                 "FLRNUM": 0.0,
@@ -2868,19 +2392,12 @@
             },
             "properties": {
                 "pa_label": "p31-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 1.02
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 1.02,
+                "MSNODE": 22.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 46.0,
                 "SQRNUM": 15.0,
                 "FLRNUM": 1.0,
@@ -2910,19 +2427,12 @@
             },
             "properties": {
                 "pa_label": "p31-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 1.0
-                },
-                "MSNODE": {
-                    "1": 23
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 18
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 1.0,
+                "MSNODE": 23.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 18.0,
                 "ABSNUM": 35.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 1.0,
@@ -2952,19 +2462,12 @@
             },
             "properties": {
                 "pa_label": "p31-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.1
-                },
-                "MSNODE": {
-                    "1": 27
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 21
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.1,
+                "MSNODE": 27.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 21.0,
                 "ABSNUM": 45.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 1.0,
@@ -2994,19 +2497,12 @@
             },
             "properties": {
                 "pa_label": "p31-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.16
-                },
-                "MSNODE": {
-                    "1": 20
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 14
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.16,
+                "MSNODE": 20.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 14.0,
                 "ABSNUM": 78.0,
                 "SQRNUM": 6.0,
                 "FLRNUM": 0.0,
@@ -3036,19 +2532,12 @@
             },
             "properties": {
                 "pa_label": "p32-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.15
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.15,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -3078,19 +2567,12 @@
             },
             "properties": {
                 "pa_label": "p32-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.3
-                },
-                "MSNODE": {
-                    "1": 11
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 6
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.3,
+                "MSNODE": 11.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 6.0,
                 "ABSNUM": 3.0,
                 "SQRNUM": 6.0,
                 "FLRNUM": 0.0,
@@ -3120,19 +2602,12 @@
             },
             "properties": {
                 "pa_label": "p32-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.63
-                },
-                "MSNODE": {
-                    "1": 16
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 11
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.63,
+                "MSNODE": 16.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 11.0,
                 "ABSNUM": 8.0,
                 "SQRNUM": 24.0,
                 "FLRNUM": 0.0,
@@ -3162,19 +2637,12 @@
             },
             "properties": {
                 "pa_label": "p32-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.98
-                },
-                "MSNODE": {
-                    "1": 20
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.98,
+                "MSNODE": 20.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 11.0,
                 "SQRNUM": 45.0,
                 "FLRNUM": 0.0,
@@ -3204,19 +2672,12 @@
             },
             "properties": {
                 "pa_label": "p32-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 1.16
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 19
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 1.16,
+                "MSNODE": 24.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 19.0,
                 "ABSNUM": 27.0,
                 "SQRNUM": 33.0,
                 "FLRNUM": 0.0,
@@ -3246,19 +2707,12 @@
             },
             "properties": {
                 "pa_label": "p32-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 1.21
-                },
-                "MSNODE": {
-                    "1": 25
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 19
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 1.21,
+                "MSNODE": 25.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 19.0,
                 "ABSNUM": 42.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 1.0,
@@ -3288,19 +2742,12 @@
             },
             "properties": {
                 "pa_label": "p32-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.18
-                },
-                "MSNODE": {
-                    "1": 25
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 21
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.18,
+                "MSNODE": 25.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 21.0,
                 "ABSNUM": 68.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -3330,19 +2777,12 @@
             },
             "properties": {
                 "pa_label": "p32-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.43
-                },
-                "MSNODE": {
-                    "1": 33
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 27
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.43,
+                "MSNODE": 33.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 27.0,
                 "ABSNUM": 98.0,
                 "SQRNUM": 47.0,
                 "FLRNUM": 0.0,
@@ -3372,19 +2812,12 @@
             },
             "properties": {
                 "pa_label": "p33-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.17
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.17,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -3414,19 +2847,12 @@
             },
             "properties": {
                 "pa_label": "p33-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.32
-                },
-                "MSNODE": {
-                    "1": 11
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 7
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.32,
+                "MSNODE": 11.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 7.0,
                 "ABSNUM": 2.0,
                 "SQRNUM": 9.0,
                 "FLRNUM": 0.0,
@@ -3456,19 +2882,12 @@
             },
             "properties": {
                 "pa_label": "p33-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.63
-                },
-                "MSNODE": {
-                    "1": 15
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 11
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.63,
+                "MSNODE": 15.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 11.0,
                 "ABSNUM": 13.0,
                 "SQRNUM": 20.0,
                 "FLRNUM": 0.0,
@@ -3498,19 +2917,12 @@
             },
             "properties": {
                 "pa_label": "p33-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.89
-                },
-                "MSNODE": {
-                    "1": 20
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 15
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.89,
+                "MSNODE": 20.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 15.0,
                 "ABSNUM": 17.0,
                 "SQRNUM": 26.0,
                 "FLRNUM": 3.0,
@@ -3540,19 +2952,12 @@
             },
             "properties": {
                 "pa_label": "p33-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.98
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 18
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.98,
+                "MSNODE": 22.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 18.0,
                 "ABSNUM": 47.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 2.0,
@@ -3582,19 +2987,12 @@
             },
             "properties": {
                 "pa_label": "p33-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 0.89
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 20
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 0.89,
+                "MSNODE": 24.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 20.0,
                 "ABSNUM": 55.0,
                 "SQRNUM": 7.0,
                 "FLRNUM": 0.0,
@@ -3624,19 +3022,12 @@
             },
             "properties": {
                 "pa_label": "p33-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.21
-                },
-                "MSNODE": {
-                    "1": 31
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 25
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.21,
+                "MSNODE": 31.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 25.0,
                 "ABSNUM": 61.0,
                 "SQRNUM": 44.0,
                 "FLRNUM": 1.0,
@@ -3666,19 +3057,12 @@
             },
             "properties": {
                 "pa_label": "p33-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.42
-                },
-                "MSNODE": {
-                    "1": 34
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 30
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.42,
+                "MSNODE": 34.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 30.0,
                 "ABSNUM": 77.0,
                 "SQRNUM": 17.0,
                 "FLRNUM": 0.0,
@@ -3708,19 +3092,12 @@
             },
             "properties": {
                 "pa_label": "p34-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.13
-                },
-                "MSNODE": {
-                    "1": 5
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.13,
+                "MSNODE": 5.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -3750,19 +3127,12 @@
             },
             "properties": {
                 "pa_label": "p34-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.25
-                },
-                "MSNODE": {
-                    "1": 10
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 4
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.25,
+                "MSNODE": 10.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 4.0,
                 "ABSNUM": 1.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
@@ -3792,19 +3162,12 @@
             },
             "properties": {
                 "pa_label": "p34-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.65
-                },
-                "MSNODE": {
-                    "1": 17
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 11
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.65,
+                "MSNODE": 17.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 11.0,
                 "ABSNUM": 16.0,
                 "SQRNUM": 21.0,
                 "FLRNUM": 1.0,
@@ -3834,19 +3197,12 @@
             },
             "properties": {
                 "pa_label": "p34-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.86
-                },
-                "MSNODE": {
-                    "1": 21
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.86,
+                "MSNODE": 21.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 14.0,
                 "SQRNUM": 39.0,
                 "FLRNUM": 1.0,
@@ -3876,19 +3232,12 @@
             },
             "properties": {
                 "pa_label": "p34-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.98
-                },
-                "MSNODE": {
-                    "1": 23
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 18
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.98,
+                "MSNODE": 23.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 18.0,
                 "ABSNUM": 35.0,
                 "SQRNUM": 23.0,
                 "FLRNUM": 0.0,
@@ -3918,19 +3267,12 @@
             },
             "properties": {
                 "pa_label": "p34-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 0.92
-                },
-                "MSNODE": {
-                    "1": 26
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 20
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 0.92,
+                "MSNODE": 26.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 20.0,
                 "ABSNUM": 59.0,
                 "SQRNUM": 8.0,
                 "FLRNUM": 0.0,
@@ -3960,19 +3302,12 @@
             },
             "properties": {
                 "pa_label": "p34-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.02
-                },
-                "MSNODE": {
-                    "1": 28
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 23
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.02,
+                "MSNODE": 28.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 23.0,
                 "ABSNUM": 48.0,
                 "SQRNUM": 11.0,
                 "FLRNUM": 0.0,
@@ -4002,19 +3337,12 @@
             },
             "properties": {
                 "pa_label": "p34-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.08
-                },
-                "MSNODE": {
-                    "1": 29
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 24
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.08,
+                "MSNODE": 29.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 24.0,
                 "ABSNUM": 30.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 0.0,
@@ -4044,19 +3372,12 @@
             },
             "properties": {
                 "pa_label": "p41-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.17
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.17,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -4086,19 +3407,12 @@
             },
             "properties": {
                 "pa_label": "p41-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.24
-                },
-                "MSNODE": {
-                    "1": 10
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 4
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.24,
+                "MSNODE": 10.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 4.0,
                 "ABSNUM": 1.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
@@ -4128,19 +3442,12 @@
             },
             "properties": {
                 "pa_label": "p41-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.55
-                },
-                "MSNODE": {
-                    "1": 16
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 11
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.55,
+                "MSNODE": 16.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 11.0,
                 "ABSNUM": 13.0,
                 "SQRNUM": 15.0,
                 "FLRNUM": 0.0,
@@ -4170,19 +3477,12 @@
             },
             "properties": {
                 "pa_label": "p41-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.8
-                },
-                "MSNODE": {
-                    "1": 20
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 15
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.8,
+                "MSNODE": 20.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 15.0,
                 "ABSNUM": 26.0,
                 "SQRNUM": 33.0,
                 "FLRNUM": 1.0,
@@ -4212,19 +3512,12 @@
             },
             "properties": {
                 "pa_label": "p41-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.91
-                },
-                "MSNODE": {
-                    "1": 21
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.91,
+                "MSNODE": 21.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 48.0,
                 "SQRNUM": 13.0,
                 "FLRNUM": 2.0,
@@ -4254,19 +3547,12 @@
             },
             "properties": {
                 "pa_label": "p41-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 0.91
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 18
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 0.91,
+                "MSNODE": 22.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 18.0,
                 "ABSNUM": 43.0,
                 "SQRNUM": 8.0,
                 "FLRNUM": 0.0,
@@ -4296,19 +3582,12 @@
             },
             "properties": {
                 "pa_label": "p41-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 0.92
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 18
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 0.92,
+                "MSNODE": 24.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 18.0,
                 "ABSNUM": 40.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 0.0,
@@ -4338,19 +3617,12 @@
             },
             "properties": {
                 "pa_label": "p41-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.3
-                },
-                "MSNODE": {
-                    "1": 27
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 23
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.3,
+                "MSNODE": 27.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 23.0,
                 "ABSNUM": 85.0,
                 "SQRNUM": 32.0,
                 "FLRNUM": 0.0,
@@ -4380,19 +3652,12 @@
             },
             "properties": {
                 "pa_label": "p42-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.14
-                },
-                "MSNODE": {
-                    "1": 5
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.14,
+                "MSNODE": 5.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -4422,19 +3687,12 @@
             },
             "properties": {
                 "pa_label": "p42-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.29
-                },
-                "MSNODE": {
-                    "1": 8
-                },
-                "PFNODE": {
-                    "1": 7
-                },
-                "FRBNUM": {
-                    "1": 1
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.29,
+                "MSNODE": 8.0,
+                "PFNODE": 7.0,
+                "FRBNUM": 1.0,
                 "ABSNUM": 1.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -4464,19 +3722,12 @@
             },
             "properties": {
                 "pa_label": "p42-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.51
-                },
-                "MSNODE": {
-                    "1": 16
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 10
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.51,
+                "MSNODE": 16.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 10.0,
                 "ABSNUM": 16.0,
                 "SQRNUM": 21.0,
                 "FLRNUM": 0.0,
@@ -4506,19 +3757,12 @@
             },
             "properties": {
                 "pa_label": "p42-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.8
-                },
-                "MSNODE": {
-                    "1": 19
-                },
-                "PFNODE": {
-                    "1": 7
-                },
-                "FRBNUM": {
-                    "1": 12
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.8,
+                "MSNODE": 19.0,
+                "PFNODE": 7.0,
+                "FRBNUM": 12.0,
                 "ABSNUM": 13.0,
                 "SQRNUM": 26.0,
                 "FLRNUM": 0.0,
@@ -4548,19 +3792,12 @@
             },
             "properties": {
                 "pa_label": "p42-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 1.03
-                },
-                "MSNODE": {
-                    "1": 21
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 15
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 1.03,
+                "MSNODE": 21.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 15.0,
                 "ABSNUM": 21.0,
                 "SQRNUM": 52.0,
                 "FLRNUM": 8.0,
@@ -4590,19 +3827,12 @@
             },
             "properties": {
                 "pa_label": "p42-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 1.04
-                },
-                "MSNODE": {
-                    "1": 23
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 1.04,
+                "MSNODE": 23.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 45.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
@@ -4632,19 +3862,12 @@
             },
             "properties": {
                 "pa_label": "p42-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.06
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 18
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.06,
+                "MSNODE": 24.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 18.0,
                 "ABSNUM": 54.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -4674,19 +3897,12 @@
             },
             "properties": {
                 "pa_label": "p42-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.27
-                },
-                "MSNODE": {
-                    "1": 29
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 24
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.27,
+                "MSNODE": 29.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 24.0,
                 "ABSNUM": 63.0,
                 "SQRNUM": 27.0,
                 "FLRNUM": 0.0,
@@ -4716,19 +3932,12 @@
             },
             "properties": {
                 "pa_label": "p43-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.18
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.18,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -4758,19 +3967,12 @@
             },
             "properties": {
                 "pa_label": "p43-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.3
-                },
-                "MSNODE": {
-                    "1": 10
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 5
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.3,
+                "MSNODE": 10.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 5.0,
                 "ABSNUM": 2.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 0.0,
@@ -4800,19 +4002,12 @@
             },
             "properties": {
                 "pa_label": "p43-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.68
-                },
-                "MSNODE": {
-                    "1": 16
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 11
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.68,
+                "MSNODE": 16.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 11.0,
                 "ABSNUM": 22.0,
                 "SQRNUM": 29.0,
                 "FLRNUM": 0.0,
@@ -4842,19 +4037,12 @@
             },
             "properties": {
                 "pa_label": "p43-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.91
-                },
-                "MSNODE": {
-                    "1": 21
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.91,
+                "MSNODE": 21.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 18.0,
                 "SQRNUM": 51.0,
                 "FLRNUM": 3.0,
@@ -4884,19 +4072,12 @@
             },
             "properties": {
                 "pa_label": "p43-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 1.0
-                },
-                "MSNODE": {
-                    "1": 23
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 18
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 1.0,
+                "MSNODE": 23.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 18.0,
                 "ABSNUM": 35.0,
                 "SQRNUM": 15.0,
                 "FLRNUM": 1.0,
@@ -4926,19 +4107,12 @@
             },
             "properties": {
                 "pa_label": "p43-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 1.14
-                },
-                "MSNODE": {
-                    "1": 25
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 20
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 1.14,
+                "MSNODE": 25.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 20.0,
                 "ABSNUM": 55.0,
                 "SQRNUM": 10.0,
                 "FLRNUM": 0.0,
@@ -4968,19 +4142,12 @@
             },
             "properties": {
                 "pa_label": "p43-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.36
-                },
-                "MSNODE": {
-                    "1": 28
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 24
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.36,
+                "MSNODE": 28.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 24.0,
                 "ABSNUM": 82.0,
                 "SQRNUM": 8.0,
                 "FLRNUM": 0.0,
@@ -5010,19 +4177,12 @@
             },
             "properties": {
                 "pa_label": "p43-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.12
-                },
-                "MSNODE": {
-                    "1": 31
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 26
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.12,
+                "MSNODE": 31.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 26.0,
                 "ABSNUM": 68.0,
                 "SQRNUM": 35.0,
                 "FLRNUM": 0.0,
@@ -5052,19 +4212,12 @@
             },
             "properties": {
                 "pa_label": "p44-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.15
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.15,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -5094,19 +4247,12 @@
             },
             "properties": {
                 "pa_label": "p44-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.27
-                },
-                "MSNODE": {
-                    "1": 11
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 5
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.27,
+                "MSNODE": 11.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 5.0,
                 "ABSNUM": 4.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 0.0,
@@ -5136,19 +4282,12 @@
             },
             "properties": {
                 "pa_label": "p44-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.55
-                },
-                "MSNODE": {
-                    "1": 17
-                },
-                "PFNODE": {
-                    "1": 7
-                },
-                "FRBNUM": {
-                    "1": 10
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.55,
+                "MSNODE": 17.0,
+                "PFNODE": 7.0,
+                "FRBNUM": 10.0,
                 "ABSNUM": 21.0,
                 "SQRNUM": 11.0,
                 "FLRNUM": 0.0,
@@ -5178,19 +4317,12 @@
             },
             "properties": {
                 "pa_label": "p44-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.8
-                },
-                "MSNODE": {
-                    "1": 19
-                },
-                "PFNODE": {
-                    "1": 9
-                },
-                "FRBNUM": {
-                    "1": 10
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.8,
+                "MSNODE": 19.0,
+                "PFNODE": 9.0,
+                "FRBNUM": 10.0,
                 "ABSNUM": 12.0,
                 "SQRNUM": 38.0,
                 "FLRNUM": 0.0,
@@ -5220,19 +4352,12 @@
             },
             "properties": {
                 "pa_label": "p44-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.97
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.97,
+                "MSNODE": 22.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 40.0,
                 "SQRNUM": 18.0,
                 "FLRNUM": 2.0,
@@ -5262,19 +4387,12 @@
             },
             "properties": {
                 "pa_label": "p44-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 0.82
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 0.82,
+                "MSNODE": 22.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 42.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
@@ -5304,19 +4422,12 @@
             },
             "properties": {
                 "pa_label": "p44-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 0.85
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 20
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 0.85,
+                "MSNODE": 24.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 20.0,
                 "ABSNUM": 43.0,
                 "SQRNUM": 13.0,
                 "FLRNUM": 0.0,
@@ -5346,19 +4457,12 @@
             },
             "properties": {
                 "pa_label": "p44-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.12
-                },
-                "MSNODE": {
-                    "1": 28
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 23
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.12,
+                "MSNODE": 28.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 23.0,
                 "ABSNUM": 131.0,
                 "SQRNUM": 6.0,
                 "FLRNUM": 0.0,
@@ -5388,19 +4492,12 @@
             },
             "properties": {
                 "pa_label": "p51-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.14
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.14,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -5430,19 +4527,12 @@
             },
             "properties": {
                 "pa_label": "p51-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.25
-                },
-                "MSNODE": {
-                    "1": 8
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 2
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.25,
+                "MSNODE": 8.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 2.0,
                 "ABSNUM": 2.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -5472,19 +4562,12 @@
             },
             "properties": {
                 "pa_label": "p51-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.57
-                },
-                "MSNODE": {
-                    "1": 16
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 11
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.57,
+                "MSNODE": 16.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 11.0,
                 "ABSNUM": 8.0,
                 "SQRNUM": 12.0,
                 "FLRNUM": 0.0,
@@ -5514,19 +4597,12 @@
             },
             "properties": {
                 "pa_label": "p51-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.91
-                },
-                "MSNODE": {
-                    "1": 21
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.91,
+                "MSNODE": 21.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 22.0,
                 "SQRNUM": 66.0,
                 "FLRNUM": 0.0,
@@ -5556,19 +4632,12 @@
             },
             "properties": {
                 "pa_label": "p51-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 1.07
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 18
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 1.07,
+                "MSNODE": 24.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 18.0,
                 "ABSNUM": 28.0,
                 "SQRNUM": 38.0,
                 "FLRNUM": 1.0,
@@ -5598,19 +4667,12 @@
             },
             "properties": {
                 "pa_label": "p51-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 1.17
-                },
-                "MSNODE": {
-                    "1": 27
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 22
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 1.17,
+                "MSNODE": 27.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 22.0,
                 "ABSNUM": 66.0,
                 "SQRNUM": 41.0,
                 "FLRNUM": 0.0,
@@ -5640,19 +4702,12 @@
             },
             "properties": {
                 "pa_label": "p51-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.06
-                },
-                "MSNODE": {
-                    "1": 25
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 20
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.06,
+                "MSNODE": 25.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 20.0,
                 "ABSNUM": 55.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -5682,19 +4737,12 @@
             },
             "properties": {
                 "pa_label": "p51-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.45
-                },
-                "MSNODE": {
-                    "1": 36
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 30
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.45,
+                "MSNODE": 36.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 30.0,
                 "ABSNUM": 94.0,
                 "SQRNUM": 69.0,
                 "FLRNUM": 1.0,
@@ -5724,19 +4772,12 @@
             },
             "properties": {
                 "pa_label": "p52-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.15
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.15,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -5766,19 +4807,12 @@
             },
             "properties": {
                 "pa_label": "p52-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.28
-                },
-                "MSNODE": {
-                    "1": 8
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 3
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.28,
+                "MSNODE": 8.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 3.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
@@ -5808,19 +4842,12 @@
             },
             "properties": {
                 "pa_label": "p52-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.56
-                },
-                "MSNODE": {
-                    "1": 16
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 11
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.56,
+                "MSNODE": 16.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 11.0,
                 "ABSNUM": 5.0,
                 "SQRNUM": 23.0,
                 "FLRNUM": 0.0,
@@ -5850,19 +4877,12 @@
             },
             "properties": {
                 "pa_label": "p52-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 1.01
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 1.01,
+                "MSNODE": 22.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 16.0,
                 "SQRNUM": 58.0,
                 "FLRNUM": 0.0,
@@ -5892,19 +4912,12 @@
             },
             "properties": {
                 "pa_label": "p52-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 1.12
-                },
-                "MSNODE": {
-                    "1": 23
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 18
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 1.12,
+                "MSNODE": 23.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 18.0,
                 "ABSNUM": 29.0,
                 "SQRNUM": 31.0,
                 "FLRNUM": 1.0,
@@ -5934,19 +4947,12 @@
             },
             "properties": {
                 "pa_label": "p52-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 1.09
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 19
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 1.09,
+                "MSNODE": 24.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 19.0,
                 "ABSNUM": 59.0,
                 "SQRNUM": 9.0,
                 "FLRNUM": 1.0,
@@ -5976,19 +4982,12 @@
             },
             "properties": {
                 "pa_label": "p52-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.1
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 8
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.1,
+                "MSNODE": 24.0,
+                "PFNODE": 8.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 74.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
@@ -6018,19 +5017,12 @@
             },
             "properties": {
                 "pa_label": "p52-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.31
-                },
-                "MSNODE": {
-                    "1": 25
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 22
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.31,
+                "MSNODE": 25.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 22.0,
                 "ABSNUM": 126.0,
                 "SQRNUM": 58.0,
                 "FLRNUM": 0.0,
@@ -6060,19 +5052,12 @@
             },
             "properties": {
                 "pa_label": "p53-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.14
-                },
-                "MSNODE": {
-                    "1": 5
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.14,
+                "MSNODE": 5.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -6102,19 +5087,12 @@
             },
             "properties": {
                 "pa_label": "p53-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.26
-                },
-                "MSNODE": {
-                    "1": 9
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 6
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.26,
+                "MSNODE": 9.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 6.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 6.0,
                 "FLRNUM": 0.0,
@@ -6144,19 +5122,12 @@
             },
             "properties": {
                 "pa_label": "p53-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.48
-                },
-                "MSNODE": {
-                    "1": 15
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 9
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.48,
+                "MSNODE": 15.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 9.0,
                 "ABSNUM": 6.0,
                 "SQRNUM": 21.0,
                 "FLRNUM": 0.0,
@@ -6186,19 +5157,12 @@
             },
             "properties": {
                 "pa_label": "p53-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.98
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.98,
+                "MSNODE": 22.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 29.0,
                 "SQRNUM": 53.0,
                 "FLRNUM": 0.0,
@@ -6228,19 +5192,12 @@
             },
             "properties": {
                 "pa_label": "p53-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 1.07
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 9
-                },
-                "FRBNUM": {
-                    "1": 13
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 1.07,
+                "MSNODE": 22.0,
+                "PFNODE": 9.0,
+                "FRBNUM": 13.0,
                 "ABSNUM": 17.0,
                 "SQRNUM": 38.0,
                 "FLRNUM": 1.0,
@@ -6270,19 +5227,12 @@
             },
             "properties": {
                 "pa_label": "p53-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 1.17
-                },
-                "MSNODE": {
-                    "1": 25
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 21
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 1.17,
+                "MSNODE": 25.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 21.0,
                 "ABSNUM": 98.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -6312,19 +5262,12 @@
             },
             "properties": {
                 "pa_label": "p53-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.05
-                },
-                "MSNODE": {
-                    "1": 27
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 22
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.05,
+                "MSNODE": 27.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 22.0,
                 "ABSNUM": 65.0,
                 "SQRNUM": 9.0,
                 "FLRNUM": 1.0,
@@ -6354,19 +5297,12 @@
             },
             "properties": {
                 "pa_label": "p53-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.3
-                },
-                "MSNODE": {
-                    "1": 29
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 24
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.3,
+                "MSNODE": 29.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 24.0,
                 "ABSNUM": 43.0,
                 "SQRNUM": 29.0,
                 "FLRNUM": 0.0,
@@ -6396,19 +5332,12 @@
             },
             "properties": {
                 "pa_label": "p54-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.11
-                },
-                "MSNODE": {
-                    "1": 4
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.11,
+                "MSNODE": 4.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -6438,19 +5367,12 @@
             },
             "properties": {
                 "pa_label": "p54-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.28
-                },
-                "MSNODE": {
-                    "1": 11
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 3
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.28,
+                "MSNODE": 11.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 3.0,
                 "ABSNUM": 3.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 0.0,
@@ -6480,19 +5402,12 @@
             },
             "properties": {
                 "pa_label": "p54-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.46
-                },
-                "MSNODE": {
-                    "1": 14
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 10
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.46,
+                "MSNODE": 14.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 10.0,
                 "ABSNUM": 6.0,
                 "SQRNUM": 14.0,
                 "FLRNUM": 0.0,
@@ -6522,19 +5437,12 @@
             },
             "properties": {
                 "pa_label": "p54-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.75
-                },
-                "MSNODE": {
-                    "1": 20
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.75,
+                "MSNODE": 20.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 20.0,
                 "SQRNUM": 19.0,
                 "FLRNUM": 1.0,
@@ -6564,19 +5472,12 @@
             },
             "properties": {
                 "pa_label": "p54-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.88
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.88,
+                "MSNODE": 22.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 53.0,
                 "SQRNUM": 19.0,
                 "FLRNUM": 5.0,
@@ -6606,19 +5507,12 @@
             },
             "properties": {
                 "pa_label": "p54-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 0.72
-                },
-                "MSNODE": {
-                    "1": 21
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 0.72,
+                "MSNODE": 21.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 51.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
@@ -6648,19 +5542,12 @@
             },
             "properties": {
                 "pa_label": "p54-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 0.98
-                },
-                "MSNODE": {
-                    "1": 28
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 22
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 0.98,
+                "MSNODE": 28.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 22.0,
                 "ABSNUM": 75.0,
                 "SQRNUM": 10.0,
                 "FLRNUM": 0.0,
@@ -6690,19 +5577,12 @@
             },
             "properties": {
                 "pa_label": "p54-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.22
-                },
-                "MSNODE": {
-                    "1": 30
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 26
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.22,
+                "MSNODE": 30.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 26.0,
                 "ABSNUM": 51.0,
                 "SQRNUM": 40.0,
                 "FLRNUM": 1.0,
@@ -6732,19 +5612,12 @@
             },
             "properties": {
                 "pa_label": "p61-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.16
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.16,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -6774,19 +5647,12 @@
             },
             "properties": {
                 "pa_label": "p61-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.37
-                },
-                "MSNODE": {
-                    "1": 11
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 7
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.37,
+                "MSNODE": 11.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 7.0,
                 "ABSNUM": 4.0,
                 "SQRNUM": 7.0,
                 "FLRNUM": 0.0,
@@ -6816,19 +5682,12 @@
             },
             "properties": {
                 "pa_label": "p61-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.57
-                },
-                "MSNODE": {
-                    "1": 16
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 10
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.57,
+                "MSNODE": 16.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 10.0,
                 "ABSNUM": 16.0,
                 "SQRNUM": 23.0,
                 "FLRNUM": 0.0,
@@ -6858,19 +5717,12 @@
             },
             "properties": {
                 "pa_label": "p61-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.83
-                },
-                "MSNODE": {
-                    "1": 19
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 14
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.83,
+                "MSNODE": 19.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 14.0,
                 "ABSNUM": 13.0,
                 "SQRNUM": 19.0,
                 "FLRNUM": 0.0,
@@ -6900,19 +5752,12 @@
             },
             "properties": {
                 "pa_label": "p61-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 1.04
-                },
-                "MSNODE": {
-                    "1": 23
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 1.04,
+                "MSNODE": 23.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 51.0,
                 "SQRNUM": 16.0,
                 "FLRNUM": 1.0,
@@ -6942,19 +5787,12 @@
             },
             "properties": {
                 "pa_label": "p61-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 1.1
-                },
-                "MSNODE": {
-                    "1": 23
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 1.1,
+                "MSNODE": 23.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 52.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 0.0,
@@ -6984,19 +5822,12 @@
             },
             "properties": {
                 "pa_label": "p61-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.1
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 19
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.1,
+                "MSNODE": 24.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 19.0,
                 "ABSNUM": 56.0,
                 "SQRNUM": 2.0,
                 "FLRNUM": 0.0,
@@ -7026,19 +5857,12 @@
             },
             "properties": {
                 "pa_label": "p61-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.38
-                },
-                "MSNODE": {
-                    "1": 27
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 22
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.38,
+                "MSNODE": 27.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 22.0,
                 "ABSNUM": 90.0,
                 "SQRNUM": 35.0,
                 "FLRNUM": 0.0,
@@ -7068,19 +5892,12 @@
             },
             "properties": {
                 "pa_label": "p62-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.16
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.16,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -7110,19 +5927,12 @@
             },
             "properties": {
                 "pa_label": "p62-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.28
-                },
-                "MSNODE": {
-                    "1": 11
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 5
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.28,
+                "MSNODE": 11.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 5.0,
                 "ABSNUM": 1.0,
                 "SQRNUM": 5.0,
                 "FLRNUM": 0.0,
@@ -7152,19 +5962,12 @@
             },
             "properties": {
                 "pa_label": "p62-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.64
-                },
-                "MSNODE": {
-                    "1": 14
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 9
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.64,
+                "MSNODE": 14.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 9.0,
                 "ABSNUM": 7.0,
                 "SQRNUM": 31.0,
                 "FLRNUM": 0.0,
@@ -7194,19 +5997,12 @@
             },
             "properties": {
                 "pa_label": "p62-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.77
-                },
-                "MSNODE": {
-                    "1": 19
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 14
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.77,
+                "MSNODE": 19.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 14.0,
                 "ABSNUM": 9.0,
                 "SQRNUM": 37.0,
                 "FLRNUM": 0.0,
@@ -7236,19 +6032,12 @@
             },
             "properties": {
                 "pa_label": "p62-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.88
-                },
-                "MSNODE": {
-                    "1": 20
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 15
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.88,
+                "MSNODE": 20.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 15.0,
                 "ABSNUM": 33.0,
                 "SQRNUM": 11.0,
                 "FLRNUM": 1.0,
@@ -7278,19 +6067,12 @@
             },
             "properties": {
                 "pa_label": "p62-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 0.94
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 0.94,
+                "MSNODE": 22.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 55.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 2.0,
@@ -7320,19 +6102,12 @@
             },
             "properties": {
                 "pa_label": "p62-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 1.04
-                },
-                "MSNODE": {
-                    "1": 27
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 21
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 1.04,
+                "MSNODE": 27.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 21.0,
                 "ABSNUM": 56.0,
                 "SQRNUM": 11.0,
                 "FLRNUM": 0.0,
@@ -7362,19 +6137,12 @@
             },
             "properties": {
                 "pa_label": "p62-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.36
-                },
-                "MSNODE": {
-                    "1": 28
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 22
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.36,
+                "MSNODE": 28.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 22.0,
                 "ABSNUM": 70.0,
                 "SQRNUM": 49.0,
                 "FLRNUM": 0.0,
@@ -7404,19 +6172,12 @@
             },
             "properties": {
                 "pa_label": "p63-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.14
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.14,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -7446,19 +6207,12 @@
             },
             "properties": {
                 "pa_label": "p63-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.33
-                },
-                "MSNODE": {
-                    "1": 13
-                },
-                "PFNODE": {
-                    "1": 10
-                },
-                "FRBNUM": {
-                    "1": 3
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.33,
+                "MSNODE": 13.0,
+                "PFNODE": 10.0,
+                "FRBNUM": 3.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
@@ -7488,19 +6242,12 @@
             },
             "properties": {
                 "pa_label": "p63-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.53
-                },
-                "MSNODE": {
-                    "1": 15
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 11
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.53,
+                "MSNODE": 15.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 11.0,
                 "ABSNUM": 10.0,
                 "SQRNUM": 19.0,
                 "FLRNUM": 0.0,
@@ -7530,19 +6277,12 @@
             },
             "properties": {
                 "pa_label": "p63-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.84
-                },
-                "MSNODE": {
-                    "1": 20
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 15
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.84,
+                "MSNODE": 20.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 15.0,
                 "ABSNUM": 16.0,
                 "SQRNUM": 35.0,
                 "FLRNUM": 0.0,
@@ -7572,19 +6312,12 @@
             },
             "properties": {
                 "pa_label": "p63-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.93
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.93,
+                "MSNODE": 22.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 17.0,
                 "SQRNUM": 19.0,
                 "FLRNUM": 1.0,
@@ -7614,19 +6347,12 @@
             },
             "properties": {
                 "pa_label": "p63-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 0.83
-                },
-                "MSNODE": {
-                    "1": 24
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 19
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 0.83,
+                "MSNODE": 24.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 19.0,
                 "ABSNUM": 33.0,
                 "SQRNUM": 6.0,
                 "FLRNUM": 0.0,
@@ -7656,19 +6382,12 @@
             },
             "properties": {
                 "pa_label": "p63-S7",
-                "PSDATE": "08/20/2019",
-                "PHTD": {
-                    "1": 0.85
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 17
-                },
+                "PSDATE": "2019-08-20",
+                "PLTCNT": 1,
+                "PHTD": 0.85,
+                "MSNODE": 22.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 17.0,
                 "ABSNUM": 32.0,
                 "SQRNUM": 1.0,
                 "FLRNUM": 0.0,
@@ -7698,19 +6417,12 @@
             },
             "properties": {
                 "pa_label": "p63-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 1.21
-                },
-                "MSNODE": {
-                    "1": 27
-                },
-                "PFNODE": {
-                    "1": 4
-                },
-                "FRBNUM": {
-                    "1": 23
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 1.21,
+                "MSNODE": 27.0,
+                "PFNODE": 4.0,
+                "FRBNUM": 23.0,
                 "ABSNUM": 81.0,
                 "SQRNUM": 8.0,
                 "FLRNUM": 0.0,
@@ -7740,19 +6452,12 @@
             },
             "properties": {
                 "pa_label": "p64-S1",
-                "PSDATE": "05/29/2019",
-                "PHTD": {
-                    "1": 0.16
-                },
-                "MSNODE": {
-                    "1": 6
-                },
-                "PFNODE": {
-                    "1": 0
-                },
-                "FRBNUM": {
-                    "1": 0
-                },
+                "PSDATE": "2019-05-29",
+                "PLTCNT": 1,
+                "PHTD": 0.16,
+                "MSNODE": 6.0,
+                "PFNODE": 0.0,
+                "FRBNUM": 0.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,
@@ -7782,19 +6487,12 @@
             },
             "properties": {
                 "pa_label": "p64-S2",
-                "PSDATE": "06/11/2019",
-                "PHTD": {
-                    "1": 0.31
-                },
-                "MSNODE": {
-                    "1": 10
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 4
-                },
+                "PSDATE": "2019-06-11",
+                "PLTCNT": 1,
+                "PHTD": 0.31,
+                "MSNODE": 10.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 4.0,
                 "ABSNUM": 0.0,
                 "SQRNUM": 6.0,
                 "FLRNUM": 0.0,
@@ -7824,19 +6522,12 @@
             },
             "properties": {
                 "pa_label": "p64-S3",
-                "PSDATE": "06/25/2019",
-                "PHTD": {
-                    "1": 0.47
-                },
-                "MSNODE": {
-                    "1": 16
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 11
-                },
+                "PSDATE": "2019-06-25",
+                "PLTCNT": 1,
+                "PHTD": 0.47,
+                "MSNODE": 16.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 11.0,
                 "ABSNUM": 5.0,
                 "SQRNUM": 19.0,
                 "FLRNUM": 0.0,
@@ -7866,19 +6557,12 @@
             },
             "properties": {
                 "pa_label": "p64-S4",
-                "PSDATE": "07/09/2019",
-                "PHTD": {
-                    "1": 0.71
-                },
-                "MSNODE": {
-                    "1": 20
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 14
-                },
+                "PSDATE": "2019-07-09",
+                "PLTCNT": 1,
+                "PHTD": 0.71,
+                "MSNODE": 20.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 14.0,
                 "ABSNUM": 19.0,
                 "SQRNUM": 47.0,
                 "FLRNUM": 1.0,
@@ -7908,19 +6592,12 @@
             },
             "properties": {
                 "pa_label": "p64-S5",
-                "PSDATE": "07/23/2019",
-                "PHTD": {
-                    "1": 0.77
-                },
-                "MSNODE": {
-                    "1": 20
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 15
-                },
+                "PSDATE": "2019-07-23",
+                "PLTCNT": 1,
+                "PHTD": 0.77,
+                "MSNODE": 20.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 15.0,
                 "ABSNUM": 40.0,
                 "SQRNUM": 8.0,
                 "FLRNUM": 2.0,
@@ -7950,19 +6627,12 @@
             },
             "properties": {
                 "pa_label": "p64-S6",
-                "PSDATE": "08/06/2019",
-                "PHTD": {
-                    "1": 0.82
-                },
-                "MSNODE": {
-                    "1": 22
-                },
-                "PFNODE": {
-                    "1": 6
-                },
-                "FRBNUM": {
-                    "1": 16
-                },
+                "PSDATE": "2019-08-06",
+                "PLTCNT": 1,
+                "PHTD": 0.82,
+                "MSNODE": 22.0,
+                "PFNODE": 6.0,
+                "FRBNUM": 16.0,
                 "ABSNUM": 39.0,
                 "SQRNUM": 3.0,
                 "FLRNUM": 0.0,
@@ -7992,19 +6662,12 @@
             },
             "properties": {
                 "pa_label": "p64-S7",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 0.83
-                },
-                "MSNODE": {
-                    "1": 25
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 20
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 0.83,
+                "MSNODE": 25.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 20.0,
                 "ABSNUM": 45.0,
                 "SQRNUM": 20.0,
                 "FLRNUM": 0.0,
@@ -8034,19 +6697,12 @@
             },
             "properties": {
                 "pa_label": "p64-S8",
-                "PSDATE": "09/17/2019",
-                "PHTD": {
-                    "1": 0.98
-                },
-                "MSNODE": {
-                    "1": 28
-                },
-                "PFNODE": {
-                    "1": 5
-                },
-                "FRBNUM": {
-                    "1": 23
-                },
+                "PSDATE": "2019-09-17",
+                "PLTCNT": 1,
+                "PHTD": 0.98,
+                "MSNODE": 28.0,
+                "PFNODE": 5.0,
+                "FRBNUM": 23.0,
                 "ABSNUM": 107.0,
                 "SQRNUM": 0.0,
                 "FLRNUM": 0.0,

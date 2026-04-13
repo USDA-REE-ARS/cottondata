@@ -12,21 +12,71 @@
             },
             "properties": {
                 "sc_label": "p14",
-                "SOIL_DATE": "05/08/2019",
-                "SNO3": {
-                    "20": 9.8,
-                    "60": 2.7,
-                    "100": 0.4,
-                    "140": 0.9,
-                    "180": 0.1
-                },
-                "SNH4": {
-                    "20": 1.8,
-                    "60": 0.1,
-                    "100": 0.2,
-                    "140": 0.0,
-                    "180": 0.0
-                }
+                "SOIL_DATE": "2019-05-08",
+                "SNO3": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 9.8
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 2.7
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.4
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.9
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.1
+                    }
+                ],
+                "SNH4": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.8
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.1
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.2
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.0
+                    }
+                ]
             },
             "_id": "681932b98ac547dff49dfd51",
             "scid": "681932b98ac547dff49dfd51"
@@ -42,21 +92,71 @@
             },
             "properties": {
                 "sc_label": "p21",
-                "SOIL_DATE": "05/08/2019",
-                "SNO3": {
-                    "20": 9.3,
-                    "60": 4.3,
-                    "100": 3.8,
-                    "140": 3.5,
-                    "180": 3.2
-                },
-                "SNH4": {
-                    "20": 1.6,
-                    "60": 0.3,
-                    "100": 0.0,
-                    "140": 0.0,
-                    "180": 0.0
-                }
+                "SOIL_DATE": "2019-05-08",
+                "SNO3": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 9.3
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 4.3
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 3.8
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 3.5
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 3.2
+                    }
+                ],
+                "SNH4": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.6
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.3
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.0
+                    }
+                ]
             },
             "_id": "681932b98ac547dff49dfd52",
             "scid": "681932b98ac547dff49dfd52"
@@ -72,21 +172,71 @@
             },
             "properties": {
                 "sc_label": "p33",
-                "SOIL_DATE": "05/08/2019",
-                "SNO3": {
-                    "20": 8.6,
-                    "60": 2.3,
-                    "100": 0.8,
-                    "140": 0.8,
-                    "180": 0.7
-                },
-                "SNH4": {
-                    "20": 1.4,
-                    "60": 0.0,
-                    "100": 0.0,
-                    "140": 0.0,
-                    "180": 0.0
-                }
+                "SOIL_DATE": "2019-05-08",
+                "SNO3": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 8.6
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 2.3
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.8
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.8
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.7
+                    }
+                ],
+                "SNH4": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.4
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.0
+                    }
+                ]
             },
             "_id": "681932b98ac547dff49dfd53",
             "scid": "681932b98ac547dff49dfd53"
@@ -102,21 +252,71 @@
             },
             "properties": {
                 "sc_label": "p43",
-                "SOIL_DATE": "05/08/2019",
-                "SNO3": {
-                    "20": 8.3,
-                    "60": 1.8,
-                    "100": 0.4,
-                    "140": 1.7,
-                    "180": 3.8
-                },
-                "SNH4": {
-                    "20": 1.0,
-                    "60": 0.0,
-                    "100": 0.6,
-                    "140": 0.0,
-                    "180": 0.0
-                }
+                "SOIL_DATE": "2019-05-08",
+                "SNO3": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 8.3
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 1.8
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.4
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 1.7
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 3.8
+                    }
+                ],
+                "SNH4": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.0
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.6
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.0
+                    }
+                ]
             },
             "_id": "681932b98ac547dff49dfd54",
             "scid": "681932b98ac547dff49dfd54"
@@ -132,21 +332,71 @@
             },
             "properties": {
                 "sc_label": "p52",
-                "SOIL_DATE": "05/08/2019",
-                "SNO3": {
-                    "20": 8.0,
-                    "60": 1.3,
-                    "100": 0.4,
-                    "140": 1.4,
-                    "180": 2.9
-                },
-                "SNH4": {
-                    "20": 1.2,
-                    "60": 0.0,
-                    "100": 0.0,
-                    "140": 0.0,
-                    "180": 0.0
-                }
+                "SOIL_DATE": "2019-05-08",
+                "SNO3": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 8.0
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 1.3
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.4
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 1.4
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 2.9
+                    }
+                ],
+                "SNH4": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.2
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.0
+                    }
+                ]
             },
             "_id": "681932b98ac547dff49dfd55",
             "scid": "681932b98ac547dff49dfd55"
@@ -162,21 +412,71 @@
             },
             "properties": {
                 "sc_label": "p64",
-                "SOIL_DATE": "05/08/2019",
-                "SNO3": {
-                    "20": 5.5,
-                    "60": 1.2,
-                    "100": 0.6,
-                    "140": 4.2,
-                    "180": 6.5
-                },
-                "SNH4": {
-                    "20": 0.6,
-                    "60": 0.0,
-                    "100": 0.0,
-                    "140": 0.0,
-                    "180": 0.0
-                }
+                "SOIL_DATE": "2019-05-08",
+                "SNO3": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 5.5
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 1.2
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.6
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 4.2
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 6.5
+                    }
+                ],
+                "SNH4": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 0.6
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.0
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.0
+                    }
+                ]
             },
             "_id": "681932b98ac547dff49dfd56",
             "scid": "681932b98ac547dff49dfd56"

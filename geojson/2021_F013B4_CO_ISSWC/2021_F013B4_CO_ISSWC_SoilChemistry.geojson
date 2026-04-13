@@ -12,119 +12,519 @@
             },
             "properties": {
                 "sc_label": "p01-2",
-                "SOIL_DATE": "04/21/2021",
-                "SLPHW": {
-                    "20": 8.3,
-                    "60": 8.5,
-                    "100": 8.3,
-                    "140": 8.3,
-                    "180": 8.3
-                },
-                "SLPHB": {
-                    "20": 7.2,
-                    "60": 7.2,
-                    "100": 7.2,
-                    "140": 7.2,
-                    "180": 7.2
-                },
-                "SLEC": {
-                    "20": 0.82,
-                    "60": 0.65,
-                    "100": 0.99,
-                    "140": 0.9,
-                    "180": 0.76
-                },
-                "SLOM": {
-                    "20": 1.2,
-                    "60": 1.1,
-                    "100": 1.0,
-                    "140": 1.0,
-                    "180": 0.7
-                },
-                "SNO3": {
-                    "20": 1.7,
-                    "60": 5.2,
-                    "100": 11.0,
-                    "140": 4.8,
-                    "180": 5.2
-                },
-                "SLPX": {
-                    "20": 3.7,
-                    "60": 6.0,
-                    "100": 10.7,
-                    "140": 6.2,
-                    "180": 6.0
-                },
-                "SLKE": {
-                    "20": 338,
-                    "60": 262,
-                    "100": 269,
-                    "140": 249,
-                    "180": 138
-                },
-                "SLSU": {
-                    "20": 79.0,
-                    "60": 85.3,
-                    "100": 130.8,
-                    "140": 91.0,
-                    "180": 82.9
-                },
-                "SLZN": {
-                    "20": 2.16,
-                    "60": 2.64,
-                    "100": 3.08,
-                    "140": 2.54,
-                    "180": 2.37
-                },
-                "SLFE": {
-                    "20": 7.1,
-                    "60": 6.8,
-                    "100": 6.8,
-                    "140": 6.0,
-                    "180": 4.7
-                },
-                "SLMN": {
-                    "20": 10.7,
-                    "60": 9.1,
-                    "100": 9.1,
-                    "140": 7.8,
-                    "180": 2.9
-                },
-                "SLCU": {
-                    "20": 2.92,
-                    "60": 2.32,
-                    "100": 2.09,
-                    "140": 1.81,
-                    "180": 0.71
-                },
-                "SLCA": {
-                    "20": 3188,
-                    "60": 4164,
-                    "100": 4435,
-                    "140": 4205,
-                    "180": 4000
-                },
-                "SLMG": {
-                    "20": 269,
-                    "60": 271,
-                    "100": 287,
-                    "140": 296,
-                    "180": 269
-                },
-                "SLNA": {
-                    "20": 646,
-                    "60": 625,
-                    "100": 734,
-                    "140": 580,
-                    "180": 418
-                },
-                "SLCEC": {
-                    "20": 21.9,
-                    "60": 26.5,
-                    "100": 28.4,
-                    "140": 26.7,
-                    "180": 24.4
-                }
+                "SOIL_DATE": "2021-04-21",
+                "SLPHW": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 8.3
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 8.5
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 8.3
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 8.3
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 8.3
+                    }
+                ],
+                "SLPHB": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 7.2
+                    }
+                ],
+                "SLEC": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 0.82
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.65
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.99
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.9
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.76
+                    }
+                ],
+                "SLOM": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.2
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 1.1
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 1.0
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 1.0
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.7
+                    }
+                ],
+                "SNO3": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.7
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 5.2
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 11.0
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 4.8
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 5.2
+                    }
+                ],
+                "SLPX": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 3.7
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 6.0
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 10.7
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 6.2
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 6.0
+                    }
+                ],
+                "SLKE": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 338
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 262
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 269
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 249
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 138
+                    }
+                ],
+                "SLSU": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 79.0
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 85.3
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 130.8
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 91.0
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 82.9
+                    }
+                ],
+                "SLZN": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 2.16
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 2.64
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 3.08
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 2.54
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 2.37
+                    }
+                ],
+                "SLFE": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 7.1
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 6.8
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 6.8
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 6.0
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 4.7
+                    }
+                ],
+                "SLMN": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 10.7
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 9.1
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 9.1
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 7.8
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 2.9
+                    }
+                ],
+                "SLCU": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 2.92
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 2.32
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 2.09
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 1.81
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.71
+                    }
+                ],
+                "SLCA": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 3188
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 4164
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 4435
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 4205
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 4000
+                    }
+                ],
+                "SLMG": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 269
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 271
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 287
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 296
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 269
+                    }
+                ],
+                "SLNA": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 646
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 625
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 734
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 580
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 418
+                    }
+                ],
+                "SLCEC": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 21.9
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 26.5
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 28.4
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 26.7
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 24.4
+                    }
+                ]
             },
             "_id": "67f413788ac5471a9830fb97",
             "scid": "67f413788ac5471a9830fb97"
@@ -140,119 +540,519 @@
             },
             "properties": {
                 "sc_label": "p03-3",
-                "SOIL_DATE": "04/21/2021",
-                "SLPHW": {
-                    "20": 8.3,
-                    "60": 8.6,
-                    "100": 8.4,
-                    "140": 8.4,
-                    "180": 8.5
-                },
-                "SLPHB": {
-                    "20": 7.2,
-                    "60": 7.2,
-                    "100": 7.2,
-                    "140": 7.2,
-                    "180": 7.2
-                },
-                "SLEC": {
-                    "20": 0.65,
-                    "60": 0.76,
-                    "100": 1.3,
-                    "140": 1.01,
-                    "180": 0.57
-                },
-                "SLOM": {
-                    "20": 1.2,
-                    "60": 0.7,
-                    "100": 0.7,
-                    "140": 0.6,
-                    "180": 0.5
-                },
-                "SNO3": {
-                    "20": 1.1,
-                    "60": 2.2,
-                    "100": 3.5,
-                    "140": 1.7,
-                    "180": 0.9
-                },
-                "SLPX": {
-                    "20": 4.0,
-                    "60": 4.1,
-                    "100": 3.8,
-                    "140": 4.9,
-                    "180": 4.1
-                },
-                "SLKE": {
-                    "20": 348,
-                    "60": 193,
-                    "100": 150,
-                    "140": 106,
-                    "180": 96
-                },
-                "SLSU": {
-                    "20": 117.2,
-                    "60": 81.3,
-                    "100": 207.2,
-                    "140": 92.9,
-                    "180": 48.9
-                },
-                "SLZN": {
-                    "20": 1.58,
-                    "60": 0.9,
-                    "100": 0.58,
-                    "140": 0.43,
-                    "180": 0.83
-                },
-                "SLFE": {
-                    "20": 7.5,
-                    "60": 6.7,
-                    "100": 4.5,
-                    "140": 3.5,
-                    "180": 4.1
-                },
-                "SLMN": {
-                    "20": 9.0,
-                    "60": 5.5,
-                    "100": 2.7,
-                    "140": 2.2,
-                    "180": 2.1
-                },
-                "SLCU": {
-                    "20": 3.15,
-                    "60": 1.99,
-                    "100": 0.89,
-                    "140": 0.52,
-                    "180": 0.5
-                },
-                "SLCA": {
-                    "20": 3427,
-                    "60": 3852,
-                    "100": 4532,
-                    "140": 4221,
-                    "180": 3705
-                },
-                "SLMG": {
-                    "20": 309,
-                    "60": 310,
-                    "100": 351,
-                    "140": 263,
-                    "180": 225
-                },
-                "SLNA": {
-                    "20": 648,
-                    "60": 779,
-                    "100": 947,
-                    "140": 540,
-                    "180": 326
-                },
-                "SLCEC": {
-                    "20": 23.4,
-                    "60": 25.7,
-                    "100": 30.1,
-                    "140": 25.9,
-                    "180": 22.1
-                }
+                "SOIL_DATE": "2021-04-21",
+                "SLPHW": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 8.3
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 8.6
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 8.4
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 8.4
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 8.5
+                    }
+                ],
+                "SLPHB": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 7.2
+                    }
+                ],
+                "SLEC": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 0.65
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.76
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 1.3
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 1.01
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.57
+                    }
+                ],
+                "SLOM": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.2
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.6
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.5
+                    }
+                ],
+                "SNO3": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.1
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 2.2
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 3.5
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 1.7
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.9
+                    }
+                ],
+                "SLPX": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 4.0
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 4.1
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 3.8
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 4.9
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 4.1
+                    }
+                ],
+                "SLKE": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 348
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 193
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 150
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 106
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 96
+                    }
+                ],
+                "SLSU": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 117.2
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 81.3
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 207.2
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 92.9
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 48.9
+                    }
+                ],
+                "SLZN": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.58
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.9
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.58
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.43
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.83
+                    }
+                ],
+                "SLFE": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 7.5
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 6.7
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 4.5
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 3.5
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 4.1
+                    }
+                ],
+                "SLMN": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 9.0
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 5.5
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 2.7
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 2.2
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 2.1
+                    }
+                ],
+                "SLCU": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 3.15
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 1.99
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.89
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.52
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.5
+                    }
+                ],
+                "SLCA": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 3427
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 3852
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 4532
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 4221
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 3705
+                    }
+                ],
+                "SLMG": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 309
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 310
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 351
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 263
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 225
+                    }
+                ],
+                "SLNA": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 648
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 779
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 947
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 540
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 326
+                    }
+                ],
+                "SLCEC": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 23.4
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 25.7
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 30.1
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 25.9
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 22.1
+                    }
+                ]
             },
             "_id": "67f413788ac5471a9830fb98",
             "scid": "67f413788ac5471a9830fb98"
@@ -268,119 +1068,519 @@
             },
             "properties": {
                 "sc_label": "p06-1",
-                "SOIL_DATE": "04/21/2021",
-                "SLPHW": {
-                    "20": 8.4,
-                    "60": 8.9,
-                    "100": 8.7,
-                    "140": 8.4,
-                    "180": 8.4
-                },
-                "SLPHB": {
-                    "20": 7.2,
-                    "60": 7.2,
-                    "100": 7.2,
-                    "140": 7.2,
-                    "180": 7.2
-                },
-                "SLEC": {
-                    "20": 0.49,
-                    "60": 0.54,
-                    "100": 0.63,
-                    "140": 0.81,
-                    "180": 0.9
-                },
-                "SLOM": {
-                    "20": 1.3,
-                    "60": 0.8,
-                    "100": 0.6,
-                    "140": 0.7,
-                    "180": 0.7
-                },
-                "SNO3": {
-                    "20": 0.7,
-                    "60": 1.0,
-                    "100": 1.8,
-                    "140": 5.2,
-                    "180": 2.1
-                },
-                "SLPX": {
-                    "20": 4.2,
-                    "60": 4.9,
-                    "100": 4.5,
-                    "140": 4.1,
-                    "180": 3.4
-                },
-                "SLKE": {
-                    "20": 349,
-                    "60": 219,
-                    "100": 169,
-                    "140": 143,
-                    "180": 133
-                },
-                "SLSU": {
-                    "20": 55.7,
-                    "60": 55.4,
-                    "100": 84.8,
-                    "140": 154.9,
-                    "180": 107.7
-                },
-                "SLZN": {
-                    "20": 1.81,
-                    "60": 0.71,
-                    "100": 0.34,
-                    "140": 0.25,
-                    "180": 0.37
-                },
-                "SLFE": {
-                    "20": 7.3,
-                    "60": 6.2,
-                    "100": 4.5,
-                    "140": 4.0,
-                    "180": 4.8
-                },
-                "SLMN": {
-                    "20": 9.6,
-                    "60": 7.3,
-                    "100": 3.5,
-                    "140": 1.9,
-                    "180": 3.3
-                },
-                "SLCU": {
-                    "20": 2.78,
-                    "60": 1.87,
-                    "100": 1.14,
-                    "140": 0.55,
-                    "180": 0.59
-                },
-                "SLCA": {
-                    "20": 2804,
-                    "60": 3701,
-                    "100": 3928,
-                    "140": 4302,
-                    "180": 4127
-                },
-                "SLMG": {
-                    "20": 272,
-                    "60": 251,
-                    "100": 243,
-                    "140": 288,
-                    "180": 259
-                },
-                "SLNA": {
-                    "20": 470,
-                    "60": 701,
-                    "100": 596,
-                    "140": 514,
-                    "180": 338
-                },
-                "SLCEC": {
-                    "20": 19.2,
-                    "60": 24.2,
-                    "100": 24.7,
-                    "140": 26.5,
-                    "180": 24.6
-                }
+                "SOIL_DATE": "2021-04-21",
+                "SLPHW": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 8.4
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 8.9
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 8.7
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 8.4
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 8.4
+                    }
+                ],
+                "SLPHB": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 7.2
+                    }
+                ],
+                "SLEC": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 0.49
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.54
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.63
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.81
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.9
+                    }
+                ],
+                "SLOM": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.3
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.8
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.6
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.7
+                    }
+                ],
+                "SNO3": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 1.0
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 1.8
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 5.2
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 2.1
+                    }
+                ],
+                "SLPX": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 4.2
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 4.9
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 4.5
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 4.1
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 3.4
+                    }
+                ],
+                "SLKE": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 349
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 219
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 169
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 143
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 133
+                    }
+                ],
+                "SLSU": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 55.7
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 55.4
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 84.8
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 154.9
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 107.7
+                    }
+                ],
+                "SLZN": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.81
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.71
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.34
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.25
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.37
+                    }
+                ],
+                "SLFE": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 7.3
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 6.2
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 4.5
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 4.0
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 4.8
+                    }
+                ],
+                "SLMN": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 9.6
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 7.3
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 3.5
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 1.9
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 3.3
+                    }
+                ],
+                "SLCU": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 2.78
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 1.87
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 1.14
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.55
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.59
+                    }
+                ],
+                "SLCA": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 2804
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 3701
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 3928
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 4302
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 4127
+                    }
+                ],
+                "SLMG": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 272
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 251
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 243
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 288
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 259
+                    }
+                ],
+                "SLNA": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 470
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 701
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 596
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 514
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 338
+                    }
+                ],
+                "SLCEC": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 19.2
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 24.2
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 24.7
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 26.5
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 24.6
+                    }
+                ]
             },
             "_id": "67f413788ac5471a9830fb99",
             "scid": "67f413788ac5471a9830fb99"
@@ -396,119 +1596,519 @@
             },
             "properties": {
                 "sc_label": "p08-3",
-                "SOIL_DATE": "04/21/2021",
-                "SLPHW": {
-                    "20": 8.5,
-                    "60": 8.6,
-                    "100": 8.4,
-                    "140": 8.3,
-                    "180": 8.3
-                },
-                "SLPHB": {
-                    "20": 7.2,
-                    "60": 7.2,
-                    "100": 7.2,
-                    "140": 7.2,
-                    "180": 7.2
-                },
-                "SLEC": {
-                    "20": 0.53,
-                    "60": 0.9,
-                    "100": 1.16,
-                    "140": 1.25,
-                    "180": 0.82
-                },
-                "SLOM": {
-                    "20": 1.1,
-                    "60": 0.7,
-                    "100": 0.7,
-                    "140": 0.7,
-                    "180": 0.6
-                },
-                "SNO3": {
-                    "20": 0.9,
-                    "60": 0.6,
-                    "100": 4.4,
-                    "140": 9.6,
-                    "180": 4.0
-                },
-                "SLPX": {
-                    "20": 3.8,
-                    "60": 5.3,
-                    "100": 4.2,
-                    "140": 4.0,
-                    "180": 3.4
-                },
-                "SLKE": {
-                    "20": 295,
-                    "60": 238,
-                    "100": 161,
-                    "140": 127,
-                    "180": 111
-                },
-                "SLSU": {
-                    "20": 33.7,
-                    "60": 112.9,
-                    "100": 177.1,
-                    "140": 108.1,
-                    "180": 70.3
-                },
-                "SLZN": {
-                    "20": 1.42,
-                    "60": 1.17,
-                    "100": 0.52,
-                    "140": 0.4,
-                    "180": 0.49
-                },
-                "SLFE": {
-                    "20": 7.5,
-                    "60": 9.2,
-                    "100": 6.6,
-                    "140": 6.5,
-                    "180": 7.6
-                },
-                "SLMN": {
-                    "20": 11.1,
-                    "60": 9.3,
-                    "100": 6.0,
-                    "140": 4.2,
-                    "180": 5.5
-                },
-                "SLCU": {
-                    "20": 3.16,
-                    "60": 2.06,
-                    "100": 1.16,
-                    "140": 0.77,
-                    "180": 0.81
-                },
-                "SLCA": {
-                    "20": 2958,
-                    "60": 4317,
-                    "100": 4303,
-                    "140": 4267,
-                    "180": 3832
-                },
-                "SLMG": {
-                    "20": 262,
-                    "60": 325,
-                    "100": 310,
-                    "140": 287,
-                    "180": 226
-                },
-                "SLNA": {
-                    "20": 408,
-                    "60": 835,
-                    "100": 631,
-                    "140": 446,
-                    "180": 274
-                },
-                "SLCEC": {
-                    "20": 19.5,
-                    "60": 28.5,
-                    "100": 27.3,
-                    "140": 26.0,
-                    "180": 22.5
-                }
+                "SOIL_DATE": "2021-04-21",
+                "SLPHW": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 8.5
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 8.6
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 8.4
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 8.3
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 8.3
+                    }
+                ],
+                "SLPHB": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 7.2
+                    }
+                ],
+                "SLEC": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 0.53
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.9
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 1.16
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 1.25
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.82
+                    }
+                ],
+                "SLOM": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.1
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.6
+                    }
+                ],
+                "SNO3": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 0.9
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.6
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 4.4
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 9.6
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 4.0
+                    }
+                ],
+                "SLPX": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 3.8
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 5.3
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 4.2
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 4.0
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 3.4
+                    }
+                ],
+                "SLKE": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 295
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 238
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 161
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 127
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 111
+                    }
+                ],
+                "SLSU": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 33.7
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 112.9
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 177.1
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 108.1
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 70.3
+                    }
+                ],
+                "SLZN": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.42
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 1.17
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.52
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.4
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.49
+                    }
+                ],
+                "SLFE": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 7.5
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 9.2
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 6.6
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 6.5
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 7.6
+                    }
+                ],
+                "SLMN": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 11.1
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 9.3
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 6.0
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 4.2
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 5.5
+                    }
+                ],
+                "SLCU": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 3.16
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 2.06
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 1.16
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.77
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.81
+                    }
+                ],
+                "SLCA": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 2958
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 4317
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 4303
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 4267
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 3832
+                    }
+                ],
+                "SLMG": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 262
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 325
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 310
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 287
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 226
+                    }
+                ],
+                "SLNA": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 408
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 835
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 631
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 446
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 274
+                    }
+                ],
+                "SLCEC": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 19.5
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 28.5
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 27.3
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 26.0
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 22.5
+                    }
+                ]
             },
             "_id": "67f413788ac5471a9830fb9a",
             "scid": "67f413788ac5471a9830fb9a"
@@ -524,119 +2124,519 @@
             },
             "properties": {
                 "sc_label": "p10-2",
-                "SOIL_DATE": "04/21/2021",
-                "SLPHW": {
-                    "20": 8.3,
-                    "60": 8.5,
-                    "100": 8.4,
-                    "140": 8.3,
-                    "180": 8.4
-                },
-                "SLPHB": {
-                    "20": 7.2,
-                    "60": 7.2,
-                    "100": 7.2,
-                    "140": 7.2,
-                    "180": 7.2
-                },
-                "SLEC": {
-                    "20": 1.0,
-                    "60": 1.33,
-                    "100": 1.25,
-                    "140": 1.08,
-                    "180": 0.94
-                },
-                "SLOM": {
-                    "20": 1.4,
-                    "60": 0.8,
-                    "100": 0.9,
-                    "140": 0.8,
-                    "180": 0.7
-                },
-                "SNO3": {
-                    "20": 0.7,
-                    "60": 0.6,
-                    "100": 3.1,
-                    "140": 2.7,
-                    "180": 1.4
-                },
-                "SLPX": {
-                    "20": 3.9,
-                    "60": 4.8,
-                    "100": 3.5,
-                    "140": 3.7,
-                    "180": 4.1
-                },
-                "SLKE": {
-                    "20": 322,
-                    "60": 206,
-                    "100": 164,
-                    "140": 178,
-                    "180": 129
-                },
-                "SLSU": {
-                    "20": 76.4,
-                    "60": 162.3,
-                    "100": 173.5,
-                    "140": 141.3,
-                    "180": 99.4
-                },
-                "SLZN": {
-                    "20": 1.8,
-                    "60": 0.7,
-                    "100": 0.57,
-                    "140": 0.63,
-                    "180": 0.8
-                },
-                "SLFE": {
-                    "20": 7.2,
-                    "60": 11.9,
-                    "100": 9.3,
-                    "140": 7.9,
-                    "180": 6.4
-                },
-                "SLMN": {
-                    "20": 11.0,
-                    "60": 8.9,
-                    "100": 6.3,
-                    "140": 5.1,
-                    "180": 4.5
-                },
-                "SLCU": {
-                    "20": 2.71,
-                    "60": 1.6,
-                    "100": 1.04,
-                    "140": 0.8,
-                    "180": 0.62
-                },
-                "SLCA": {
-                    "20": 2860,
-                    "60": 3559,
-                    "100": 4356,
-                    "140": 4406,
-                    "180": 3911
-                },
-                "SLMG": {
-                    "20": 275,
-                    "60": 299,
-                    "100": 305,
-                    "140": 379,
-                    "180": 321
-                },
-                "SLNA": {
-                    "20": 513,
-                    "60": 946,
-                    "100": 695,
-                    "140": 574,
-                    "180": 341
-                },
-                "SLCEC": {
-                    "20": 19.6,
-                    "60": 24.9,
-                    "100": 27.8,
-                    "140": 28.1,
-                    "180": 24.0
-                }
+                "SOIL_DATE": "2021-04-21",
+                "SLPHW": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 8.3
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 8.5
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 8.4
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 8.3
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 8.4
+                    }
+                ],
+                "SLPHB": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 7.2
+                    }
+                ],
+                "SLEC": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.0
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 1.33
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 1.25
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 1.08
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.94
+                    }
+                ],
+                "SLOM": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.4
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.8
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.9
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.8
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.7
+                    }
+                ],
+                "SNO3": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.6
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 3.1
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 2.7
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 1.4
+                    }
+                ],
+                "SLPX": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 3.9
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 4.8
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 3.5
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 3.7
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 4.1
+                    }
+                ],
+                "SLKE": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 322
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 206
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 164
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 178
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 129
+                    }
+                ],
+                "SLSU": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 76.4
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 162.3
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 173.5
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 141.3
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 99.4
+                    }
+                ],
+                "SLZN": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.8
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.57
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.63
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.8
+                    }
+                ],
+                "SLFE": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 11.9
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 9.3
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 7.9
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 6.4
+                    }
+                ],
+                "SLMN": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 11.0
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 8.9
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 6.3
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 5.1
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 4.5
+                    }
+                ],
+                "SLCU": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 2.71
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 1.6
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 1.04
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.8
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.62
+                    }
+                ],
+                "SLCA": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 2860
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 3559
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 4356
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 4406
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 3911
+                    }
+                ],
+                "SLMG": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 275
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 299
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 305
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 379
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 321
+                    }
+                ],
+                "SLNA": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 513
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 946
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 695
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 574
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 341
+                    }
+                ],
+                "SLCEC": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 19.6
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 24.9
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 27.8
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 28.1
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 24.0
+                    }
+                ]
             },
             "_id": "67f413788ac5471a9830fb9b",
             "scid": "67f413788ac5471a9830fb9b"
@@ -652,119 +2652,519 @@
             },
             "properties": {
                 "sc_label": "p11-4",
-                "SOIL_DATE": "04/21/2021",
-                "SLPHW": {
-                    "20": 8.4,
-                    "60": 8.4,
-                    "100": 8.4,
-                    "140": 8.3,
-                    "180": 8.3
-                },
-                "SLPHB": {
-                    "20": 7.2,
-                    "60": 7.2,
-                    "100": 7.2,
-                    "140": 7.2,
-                    "180": 7.2
-                },
-                "SLEC": {
-                    "20": 1.14,
-                    "60": 1.39,
-                    "100": 1.17,
-                    "140": 1.04,
-                    "180": 1.06
-                },
-                "SLOM": {
-                    "20": 1.0,
-                    "60": 0.7,
-                    "100": 0.7,
-                    "140": 0.6,
-                    "180": 0.8
-                },
-                "SNO3": {
-                    "20": 0.9,
-                    "60": 4.3,
-                    "100": 2.9,
-                    "140": 1.9,
-                    "180": 2.3
-                },
-                "SLPX": {
-                    "20": 4.0,
-                    "60": 5.4,
-                    "100": 3.4,
-                    "140": 3.2,
-                    "180": 3.4
-                },
-                "SLKE": {
-                    "20": 244,
-                    "60": 154,
-                    "100": 83,
-                    "140": 92,
-                    "180": 92
-                },
-                "SLSU": {
-                    "20": 122.3,
-                    "60": 142.3,
-                    "100": 115.9,
-                    "140": 101.3,
-                    "180": 104.6
-                },
-                "SLZN": {
-                    "20": 1.15,
-                    "60": 0.45,
-                    "100": 0.39,
-                    "140": 0.33,
-                    "180": 0.36
-                },
-                "SLFE": {
-                    "20": 5.8,
-                    "60": 4.8,
-                    "100": 6.1,
-                    "140": 4.6,
-                    "180": 4.8
-                },
-                "SLMN": {
-                    "20": 8.5,
-                    "60": 3.9,
-                    "100": 3.4,
-                    "140": 2.5,
-                    "180": 2.1
-                },
-                "SLCU": {
-                    "20": 2.55,
-                    "60": 1.11,
-                    "100": 0.56,
-                    "140": 0.45,
-                    "180": 0.33
-                },
-                "SLCA": {
-                    "20": 3122,
-                    "60": 4467,
-                    "100": 3857,
-                    "140": 3896,
-                    "180": 5319
-                },
-                "SLMG": {
-                    "20": 264,
-                    "60": 329,
-                    "100": 231,
-                    "140": 252,
-                    "180": 269
-                },
-                "SLNA": {
-                    "20": 658,
-                    "60": 1053,
-                    "100": 584,
-                    "140": 390,
-                    "180": 276
-                },
-                "SLCEC": {
-                    "20": 21.3,
-                    "60": 30.1,
-                    "100": 24.0,
-                    "140": 23.5,
-                    "180": 30.3
-                }
+                "SOIL_DATE": "2021-04-21",
+                "SLPHW": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 8.4
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 8.4
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 8.4
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 8.3
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 8.3
+                    }
+                ],
+                "SLPHB": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 7.2
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 7.2
+                    }
+                ],
+                "SLEC": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.14
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 1.39
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 1.17
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 1.04
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 1.06
+                    }
+                ],
+                "SLOM": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.0
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.7
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.6
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.8
+                    }
+                ],
+                "SNO3": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 0.9
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 4.3
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 2.9
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 1.9
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 2.3
+                    }
+                ],
+                "SLPX": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 4.0
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 5.4
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 3.4
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 3.2
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 3.4
+                    }
+                ],
+                "SLKE": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 244
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 154
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 83
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 92
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 92
+                    }
+                ],
+                "SLSU": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 122.3
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 142.3
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 115.9
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 101.3
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 104.6
+                    }
+                ],
+                "SLZN": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 1.15
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 0.45
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.39
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.33
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.36
+                    }
+                ],
+                "SLFE": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 5.8
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 4.8
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 6.1
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 4.6
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 4.8
+                    }
+                ],
+                "SLMN": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 8.5
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 3.9
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 3.4
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 2.5
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 2.1
+                    }
+                ],
+                "SLCU": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 2.55
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 1.11
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 0.56
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 0.45
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 0.33
+                    }
+                ],
+                "SLCA": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 3122
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 4467
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 3857
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 3896
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 5319
+                    }
+                ],
+                "SLMG": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 264
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 329
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 231
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 252
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 269
+                    }
+                ],
+                "SLNA": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 658
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 1053
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 584
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 390
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 276
+                    }
+                ],
+                "SLCEC": [
+                    {
+                        "depth": 20,
+                        "mindepth": 0,
+                        "maxdepth": 40,
+                        "value": 21.3
+                    },
+                    {
+                        "depth": 60,
+                        "mindepth": 40,
+                        "maxdepth": 80,
+                        "value": 30.1
+                    },
+                    {
+                        "depth": 100,
+                        "mindepth": 80,
+                        "maxdepth": 120,
+                        "value": 24.0
+                    },
+                    {
+                        "depth": 140,
+                        "mindepth": 120,
+                        "maxdepth": 160,
+                        "value": 23.5
+                    },
+                    {
+                        "depth": 180,
+                        "mindepth": 160,
+                        "maxdepth": 200,
+                        "value": 30.3
+                    }
+                ]
             },
             "_id": "67f413788ac5471a9830fb9c",
             "scid": "67f413788ac5471a9830fb9c"

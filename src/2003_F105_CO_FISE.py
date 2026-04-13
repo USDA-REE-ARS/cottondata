@@ -10,6 +10,8 @@ import plantanalysis
 import pandas as pd
 from osgeo import ogr
 import geojson
+from datetime import datetime
+import numpy as np
 
 fname = os.path.basename(__file__)
 fname = os.path.splitext(fname)[0]
@@ -111,6 +113,8 @@ yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
 fert = pd.read_excel(mfile,sheet_name='FertilizerDF')
+dfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
+develop = pd.read_excel(dfile,sheet_name='PlotDevelop')
 exfile = '../Data/'+fname+'/'+fname+'_Exotech.xlsx'
 exndvi = pd.read_excel(exfile,sheet_name='EXNDVI')
 irtfile = '../Data/'+fname+'/'+fname+'_MDIRT.xlsx'
@@ -139,94 +143,126 @@ for feature in layer:
     myplot.setproperty('PLTA',round(plt_area,6))
     #Management information
     myplot.setproperty('CUL_NAME', 'Deltapine 458 B/RR')
-    myplot.setproperty('PDATE', '04/08/2003')
+    myplot.setproperty('PDATE', '2003-04-08')
     myplot.setproperty('PLYR', 2003)
     myplot.setproperty('PLDAY', 98)
     myplot.setproperty('IROP', 'IR001')
-    idata = dict()
+    idata = list()
     for index, row in irrig.iterrows():
         key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
+        date = datetime.strptime(key,'%Y%j').strftime('%Y-%m-%d')
         IRVAL = row[plt_label]
         if not math.isnan(IRVAL):
-            idata.update({key:round(IRVAL,1)})
+            idata.append({'date':date,'value':round(IRVAL,1)})
     if idata:
         myplot.setproperty('IRVAL',idata)
-    fdata = dict()
+    fdata = list()
     for index, row in fert.iterrows():
         key = str(int(row['Year']))+'{:03d}'.format(int(row['DOY']))
+        date = datetime.strptime(key,'%Y%j').strftime('%Y-%m-%d')
         FEAMN = row[plt_label]
         if not math.isnan(FEAMN):
-            fdata.update({key:round(FEAMN,1)})
+            fdata.append({'date':date,'value':round(FEAMN,1)})
     if fdata:
         myplot.setproperty('FEAMN',fdata)
-    tdata = dict()
-    #cdata = dict()
-    tdata.update({'2003March':'Rip, disk, laser level, raise beds'})
-    myplot.setproperty('TI_NOTES',tdata)
+    #cdata = list()
     #myplot.setproperty('CH_NOTES',cdata)
+    tdata = list()
+    tdata.append({'date':'2003-03','value':'Rip, disk, laser level, raise beds'})
+    myplot.setproperty('TI_NOTES',tdata)
+    #Crop Development
+    row = develop.loc[develop['Plot'] == plt_label]
+    if not row.empty:
+        if not str(row.iloc[0]['EDATE']) in ['nan','NaT']:
+            myplot.setproperty('EDATE',row.iloc[0]['EDATE'].strftime('%Y-%m-%d'))
+        if not math.isnan(row.iloc[0]['PLYRE']):
+            myplot.setproperty('PLYRE',int(row.iloc[0]['PLYRE']))
+        if not math.isnan(row.iloc[0]['PLDOE']):
+            myplot.setproperty('PLDOE',int(round(row.iloc[0]['PLDOE'],0)))
     #Proximal (Exotech) NDVI
-    exndvidata = dict()
+    exndvidata = list()
     row = exndvi.loc[exndvi['Plot'] == plt_label]
     doycols = sorted([col for col in exndvi.columns if col[:3]=='DOY'])
     for doycol in doycols:
         key = '2003'+'{:03d}'.format(int(doycol[3:]))
+        date = datetime.strptime(key,'%Y%j').strftime('%Y-%m-%d')
         if not math.isnan(row.iloc[0][doycol]):
             NDVImean = float(row.iloc[0][doycol])
-            exndvidata.update({key:round(NDVImean,3)})
+            exndvidata.append({'date':date,'value':round(NDVImean,3)})
     if exndvidata:
         myplot.setproperty('EXNDVI',exndvidata)
     #Proximal mid-day infrared thermometer (IRT)
-    irtcompdata = dict()
+    irtcompdata = list()
     row = irtcomp.loc[irtcomp['Plot'] == plt_label]
     doycols = sorted([col for col in irtcomp.columns if col[:3]=='DOY'])
     for doycol in doycols:
         key = '2003'+'{:03d}'.format(int(doycol[3:]))
+        date = datetime.strptime(key,'%Y%j').strftime('%Y-%m-%d')
         if not math.isnan(row.iloc[0][doycol]):
             irtcomptemp = float(row.iloc[0][doycol])
-            irtcompdata.update({key:round(irtcomptemp,2)})
+            irtcompdata.append({'date':date,'value':round(irtcomptemp,2)})
     if irtcompdata:
         myplot.setproperty('IRTLST',irtcompdata)
-    irtcandata = dict()
+    irtcandata = list()
     row = irtcan.loc[irtcan['Plot'] == plt_label]
     doycols = sorted([col for col in irtcan.columns if col[:3]=='DOY'])
     for doycol in doycols:
         key = '2003'+'{:03d}'.format(int(doycol[3:]))
+        date = datetime.strptime(key,'%Y%j').strftime('%Y-%m-%d')
         if not math.isnan(row.iloc[0][doycol]):
             irtcantemp = float(row.iloc[0][doycol])
-            irtcandata.update({key:round(irtcantemp,2)})
+            irtcandata.append({'date':date,'value':round(irtcantemp,2)})
     if irtcandata:
         myplot.setproperty('IRTLSTCAN',irtcandata)
     #Soil analysis
     row = soil.loc[soil['Plot'] == plt_label]
-    em38h = dict()
+    em38h = list()
     if not math.isnan(row.iloc[0]['2002d092EM38H']):
-        em38h.update({'2002092':round(row.iloc[0]['2002d092EM38H'],2)})
+        em38h.append({'date':'2002-04-02','value':round(row.iloc[0]['2002d092EM38H'],2)})
     if em38h:
         myplot.setproperty('EM38H',em38h)
-    em38v = dict()
+    em38v = list()
     if not math.isnan(row.iloc[0]['2002d092EM38V']):
-        em38v.update({'2002092':round(row.iloc[0]['2002d092EM38V'],2)})
+        em38v.append({'date':'2002-04-02','value':round(row.iloc[0]['2002d092EM38V'],2)})
     if em38v:
         myplot.setproperty('EM38V',em38v)
-    slsnd = dict()
-    slslt = dict()
-    slcly = dict()
-    slwp1 = dict()
-    slwp2 = dict()
-    slfc1 = dict()
+    slsnd = list()
+    slslt = list()
+    slcly = list()
+    slwp1 = list()
+    slwp2 = list()
+    slfc1 = list()
     for depth in ['015','045','075','105','135','165']:
         if not math.isnan(row.iloc[0]['SLSND'+depth]):
-            slsnd.update({int(depth):round(row.iloc[0]['SLSND'+depth],2)})
+            slsnd.append({'depth':int(depth),
+                          'mindepth':int(depth)-15,
+                          'maxdepth':int(depth)+15,
+                          'value':round(row.iloc[0]['SLSND'+depth],2)})
         if not math.isnan(row.iloc[0]['SLSLT'+depth]):
-            slslt.update({int(depth):round(row.iloc[0]['SLSLT'+depth],2)})
+            slslt.append({'depth':int(depth),
+                          'mindepth':int(depth)-15,
+                          'maxdepth':int(depth)+15,
+                          'value':round(row.iloc[0]['SLSLT'+depth],2)})
         if not math.isnan(row.iloc[0]['SLCLY'+depth]):
-            slcly.update({int(depth):round(row.iloc[0]['SLCLY'+depth],2)})
+            slcly.append({'depth':int(depth),
+                          'mindepth':int(depth)-15,
+                          'maxdepth':int(depth)+15,
+                          'value':round(row.iloc[0]['SLCLY'+depth],2)})
         if not math.isnan(row.iloc[0]['SLWP1'+depth]):
-            slwp1.update({int(depth):round(row.iloc[0]['SLWP1'+depth],3)})
+            slwp1.append({'depth':int(depth),
+                          'mindepth':int(depth)-15,
+                          'maxdepth':int(depth)+15,
+                          'value':round(row.iloc[0]['SLWP1'+depth],3)})
         if not math.isnan(row.iloc[0]['SLWP2'+depth]):
-            slwp2.update({int(depth):round(row.iloc[0]['SLWP2'+depth],3)})
+            slwp2.append({'depth':int(depth),
+                          'mindepth':int(depth)-15,
+                          'maxdepth':int(depth)+15,
+                          'value':round(row.iloc[0]['SLWP2'+depth],3)})
         if not math.isnan(row.iloc[0]['SLFC1'+depth]):
-            slfc1.update({int(depth):round(row.iloc[0]['SLFC1'+depth],3)})
+            slfc1.append({'depth':int(depth),
+                          'mindepth':int(depth)-15,
+                          'maxdepth':int(depth)+15,
+                          'value':round(row.iloc[0]['SLFC1'+depth],3)})
     if slsnd: myplot.setproperty('SLSND_M',slsnd)
     if slslt: myplot.setproperty('SLSLT_M',slslt)
     if slcly: myplot.setproperty('SLCLY_M',slcly)
@@ -239,11 +275,11 @@ for feature in layer:
         if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
             myplot.setproperty('HARM'  ,row.iloc[0]['HARM'])
         if not str(row.iloc[0]['HADAT']) in ['nan','NaT']:
-            myplot.setproperty('HADAT' ,row.iloc[0]['HADAT'].strftime('%m/%d/%Y'))
+            myplot.setproperty('HADAT' ,row.iloc[0]['HADAT'].strftime('%Y-%m-%d'))
         if not math.isnan(row.iloc[0]['WBWAH']):
             myplot.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))
         if not str(row.iloc[0]['GNDAT']) in ['nan','NaT']:
-            myplot.setproperty('GNDAT' ,row.iloc[0]['GNDAT'].strftime('%m/%d/%Y'))
+            myplot.setproperty('GNDAT' ,row.iloc[0]['GNDAT'].strftime('%Y-%m-%d'))
         if not math.isnan(row.iloc[0]['FFRAC']):
             myplot.setproperty('FFRAC' ,round(row.iloc[0]['FFRAC' ],4))
         if not math.isnan(row.iloc[0]['SFRAC']):
@@ -292,11 +328,11 @@ for feature in layer:
         if not str(row.iloc[0]['HARM']) in ['nan','NaT']:
             myha.setproperty('HARM',row.iloc[0]['HARM'])
         if not str(row.iloc[0]['HADAT']) in ['nan','NaT']:
-            myha.setproperty('HADAT',row.iloc[0]['HADAT'].strftime('%m/%d/%Y'))
+            myha.setproperty('HADAT',row.iloc[0]['HADAT'].strftime('%Y-%m-%d'))
         if not math.isnan(row.iloc[0]['WBWAH']):
             myha.setproperty('WBWAH' ,round(row.iloc[0]['WBWAH' ],1))
         if not str(row.iloc[0]['GNDAT']) in ['nan','NaT']:
-            myha.setproperty('GNDAT',row.iloc[0]['GNDAT'].strftime('%m/%d/%Y'))
+            myha.setproperty('GNDAT',row.iloc[0]['GNDAT'].strftime('%Y-%m-%d'))
         if not math.isnan(row.iloc[0]['FFRAC']):
             myha.setproperty('FFRAC' ,round(row.iloc[0]['FFRAC' ],4))
         if not math.isnan(row.iloc[0]['SFRAC']):
@@ -311,35 +347,53 @@ for feature in layer:
             myha.setproperty('WSCWAH',round(row.iloc[0]['WSCWAH'],1))
     #Soil analysis
     row = soil.loc[soil['HID'] == ha_label]
-    em38h = dict()
+    em38h = list()
     if not math.isnan(row.iloc[0]['2002d092EM38H']):
-        em38h.update({'2002092':round(row.iloc[0]['2002d092EM38H'],2)})
+        em38h.append({'date':'2002-04-02','value':round(row.iloc[0]['2002d092EM38H'],2)})
     if em38h:
         myha.setproperty('EM38H',em38h)
-    em38v = dict()
+    em38v = list()
     if not math.isnan(row.iloc[0]['2002d092EM38V']):
-        em38v.update({'2002092':round(row.iloc[0]['2002d092EM38V'],2)})
+        em38v.append({'date':'2002-04-02','value':round(row.iloc[0]['2002d092EM38V'],2)})
     if em38v:
         myha.setproperty('EM38V',em38v)
-    slsnd = dict()
-    slslt = dict()
-    slcly = dict()
-    slwp1 = dict()
-    slwp2 = dict()
-    slfc1 = dict()
+    slsnd = list()
+    slslt = list()
+    slcly = list()
+    slwp1 = list()
+    slwp2 = list()
+    slfc1 = list()
     for depth in ['015','045','075','105','135','165']:
         if not math.isnan(row.iloc[0]['SLSND'+depth]):
-            slsnd.update({int(depth):round(row.iloc[0]['SLSND'+depth],2)})
+            slsnd.append({'depth':int(depth),
+                          'mindepth':int(depth)-15,
+                          'maxdepth':int(depth)+15,
+                          'value':round(row.iloc[0]['SLSND'+depth],2)})
         if not math.isnan(row.iloc[0]['SLSLT'+depth]):
-            slslt.update({int(depth):round(row.iloc[0]['SLSLT'+depth],2)})
+            slslt.append({'depth':int(depth),
+                          'mindepth':int(depth)-15,
+                          'maxdepth':int(depth)+15,
+                          'value':round(row.iloc[0]['SLSLT'+depth],2)})
         if not math.isnan(row.iloc[0]['SLCLY'+depth]):
-            slcly.update({int(depth):round(row.iloc[0]['SLCLY'+depth],2)})
+            slcly.append({'depth':int(depth),
+                          'mindepth':int(depth)-15,
+                          'maxdepth':int(depth)+15,
+                          'value':round(row.iloc[0]['SLCLY'+depth],2)})
         if not math.isnan(row.iloc[0]['SLWP1'+depth]):
-            slwp1.update({int(depth):round(row.iloc[0]['SLWP1'+depth],3)})
+            slwp1.append({'depth':int(depth),
+                          'mindepth':int(depth)-15,
+                          'maxdepth':int(depth)+15,
+                          'value':round(row.iloc[0]['SLWP1'+depth],3)})
         if not math.isnan(row.iloc[0]['SLWP2'+depth]):
-            slwp2.update({int(depth):round(row.iloc[0]['SLWP2'+depth],3)})
+            slwp2.append({'depth':int(depth),
+                          'mindepth':int(depth)-15,
+                          'maxdepth':int(depth)+15,
+                          'value':round(row.iloc[0]['SLWP2'+depth],3)})
         if not math.isnan(row.iloc[0]['SLFC1'+depth]):
-            slfc1.update({int(depth):round(row.iloc[0]['SLFC1'+depth],3)})
+            slfc1.append({'depth':int(depth),
+                          'mindepth':int(depth)-15,
+                          'maxdepth':int(depth)+15,
+                          'value':round(row.iloc[0]['SLFC1'+depth],3)})
     if slsnd: myha.setproperty('SLSND_M',slsnd)
     if slslt: myha.setproperty('SLSLT_M',slslt)
     if slcly: myha.setproperty('SLCLY_M',slcly)
@@ -368,7 +422,7 @@ swc = pd.read_excel(swcfile,sheet_name='Summary')
 tubes = list()
 for feature in layer:
     tid = feature.GetField('ObjectId')
-    tb_label = feature.GetField('Tube') #(e.g., 101)
+    tb_label = str(feature.GetField('Tube')) #(e.g., 101)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
@@ -379,16 +433,25 @@ for feature in layer:
     rows = swc.loc[swc['Tube'] == tb_label]
     rows = rows.sort_values(by='DOY')
     depcols = sorted([col for col in rows.columns if col[-2:]=='cm'])
-    swcdata = dict()
+    swcdata = list()
     for i, row in rows.iterrows():
-        swcitem = dict()
         for depcol in depcols:
             if not math.isnan(row.loc[depcol]):
                 depth = int(depcol[1:-2])
-                swcitem.update({depth:round(row.loc[depcol],3)})
-        key = '{:04d}{:03d}'.format(row.loc['Year'],row.loc['DOY'])
-        if swcitem:
-            swcdata.update({key:swcitem})
+                key = '{:04d}{:03d}'.format(row.loc['Year'],row.loc['DOY'])
+                date = datetime.strptime(key,'%Y%j').strftime('%Y-%m-%d')
+                if depth==15:
+                    sensor='TDR'
+                    adjust=15
+                else:
+                    sensor='NP'
+                    adjust=10
+                swcdata.append({'date':date,
+                                'type':sensor,
+                                'depth':depth,
+                                'mindepth':depth-adjust,
+                                'maxdepth':depth+adjust,
+                                'value':round(row.loc[depcol],3)})
     if swcdata:
         mytube.setproperty('SWLD',swcdata)
     found=False
@@ -426,46 +489,50 @@ for feature in layer:
         sys.exit()
     mycc = cropcanopy.CropCanopy(ccid=ccid,geometry=geometry,cc_label=cc_label)
     #Crop canopy data
-    htdata = dict()
+    htdata = list()
     rowh = cch.loc[cch['CCID'] == cc_label]
     doycols = sorted([col for col in cch.columns if col[:3]=='DOY'])
     for doycol in doycols:
         key = '2003'+'{:03d}'.format(int(doycol[3:]))
+        date = datetime.strptime(key,'%Y%j').strftime('%Y-%m-%d')
         if not math.isnan(rowh.iloc[0][doycol]):
             CHTD = float(rowh.iloc[0][doycol])/100. #m
-            htdata.update({key:round(CHTD,2)})
+            htdata.append({'date':date,'value':round(CHTD,2)})
     if htdata:
         mycc.setproperty('CHTD',htdata)
-    wddata = dict()
+    wddata = list()
     roww = ccw.loc[ccw['CCID'] == cc_label]
     doycols = sorted([col for col in ccw.columns if col[:3]=='DOY'])
     for doycol in doycols:
         key = '2003'+'{:03d}'.format(int(doycol[3:]))
+        date = datetime.strptime(key,'%Y%j').strftime('%Y-%m-%d')
         if not math.isnan(roww.iloc[0][doycol]):
             CWID = float(roww.iloc[0][doycol])/100. #m
-            wddata.update({key:round(CWID,2)})
+            wddata.append({'date':date,'value':round(CWID,2)})
     if wddata:
         mycc.setproperty('CWID',wddata)
-    spaddata = dict()
+    spaddata = list()
     rows = ccs.loc[ccs['CCID'] == cc_label]
     if not rows.empty:
         doycols = sorted([col for col in ccs.columns if col[:3]=='DOY'])
         for doycol in doycols:
             key = '2003'+'{:03d}'.format(int(doycol[3:]))
+            date = datetime.strptime(key,'%Y%j').strftime('%Y-%m-%d')
             if not math.isnan(rows.iloc[0][doycol]):
                 SPAD = float(rows.iloc[0][doycol])
-                spaddata.update({key:round(SPAD,1)})
+                spaddata.append({'date':date,'value':round(SPAD,1)})
         if spaddata:
             mycc.setproperty('SPAD',spaddata)
-    chladata = dict()
+    chladata = list()
     rows = ccca.loc[ccca['CCID'] == cc_label]
     if not rows.empty:
         doycols = sorted([col for col in ccca.columns if col[:3]=='DOY'])
         for doycol in doycols:
             key = '2003'+'{:03d}'.format(int(doycol[3:]))
+            date = datetime.strptime(key,'%Y%j').strftime('%Y-%m-%d')
             if not math.isnan(rows.iloc[0][doycol]):
                 CHLA = float(rows.iloc[0][doycol])
-                chladata.update({key:round(CHLA,1)})
+                chladata.append({'date':date,'value':round(CHLA,1)})
         if chladata:
             mycc.setproperty('CHLA',chladata)
     rowden = ccden.loc[ccden['CCID'] == cc_label]
@@ -476,7 +543,7 @@ for feature in layer:
     rowdev = ccdev.loc[ccdev['CCID'] == cc_label]
     if not rowdev.empty:
         if not str(rowdev.iloc[0]['EDATE']) in ['nan','NaT']:
-            mycc.setproperty('EDATE',rowdev.iloc[0]['EDATE'].strftime('%m/%d/%Y'))
+            mycc.setproperty('EDATE',rowdev.iloc[0]['EDATE'].strftime('%Y-%m-%d'))
         if not math.isnan(rowdev.iloc[0]['PLYRE']):
             mycc.setproperty('PLYRE',int(rowdev.iloc[0]['PLYRE']))
         if not math.isnan(rowdev.iloc[0]['PLDOE']):
@@ -513,17 +580,17 @@ for feature in layer:
     #Plant analysis data
     row = pa[pa['SID'] == pa_label]
     if not str(row.iloc[0]['PSDATE']) in ['nan','NaT']:
-        mypa.setproperty('PSDATE',row.iloc[0]['PSDATE'].strftime('%m/%d/%Y'))
+        mypa.setproperty('PSDATE',row.iloc[0]['PSDATE'].strftime('%Y-%m-%d'))
     items={'PHTD':3,'STDD':1,'MSNODE':0,'PFNODE':0,'VBNUM':0,'VBNODE':0}
     for item in items.keys():
-        padata = dict()
+        padata = list()
         for i in list(range(row.iloc[0]['NumPlts'])):
             if not math.isnan(row.iloc[0][item+str(i+1)]):
                 value = round(float(row.iloc[0][item+str(i+1)]),items[item])
                 if items[item] == 0: value=int(value)
-                padata.update({i+1:value})
+                padata.append(value)
         if padata:
-            mypa.setproperty(item,padata)
+            mypa.setproperty(item,round(np.mean(np.array(value)),max([items[item],2])))
     items={'SQRNUM':1,'FLRNUM':1,'GBNUM':1,'MBNUM':1,
            'LWPD':2,'SWPD':2,'CWPD':2,'LWAD':1,'SWAD':1,'MBWAD':1,
            'PWAD':1,'CWAD':1,'LAID_LAB':3}
@@ -593,7 +660,7 @@ features = list()
 for mytube in tubes:
     features.append(mytube.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/'+fname+'/'+fname+'_NeutronSWC.geojson','w') as f:
+with open('../geojson/'+fname+'/'+fname+'_SWC.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 
