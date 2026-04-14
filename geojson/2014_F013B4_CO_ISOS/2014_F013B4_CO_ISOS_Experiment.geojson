@@ -110,7 +110,20 @@
                 "FL_NAME": "Field 13, Bench 4, Spans 1-5 and 7",
                 "FL_LAT": 33.07914,
                 "FL_LONG": -111.97737,
-                "FLELE": 361
+                "FLELE": 361,
+                "pids": [
+                    "64381c2f8ac547ec9067a09b",
+                    "64381c2f8ac547ec9067a09c",
+                    "64381c2f8ac547ec9067a09d",
+                    "64381c2f8ac547ec9067a09e",
+                    "64381c2f8ac547ec9067a09f",
+                    "64381c2f8ac547ec9067a0a0",
+                    "64381c2f8ac547ec9067a0a1",
+                    "64381c2f8ac547ec9067a0a2",
+                    "64381c2f8ac547ec9067a0a3",
+                    "64381c2f8ac547ec9067a0a4",
+                    "64381c2f8ac547ec9067a0a5"
+                ]
             },
             "_id": "6434b5f08ac547a71ab9602f",
             "eid": "6434b5f08ac547a71ab9602f"

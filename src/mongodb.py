@@ -52,11 +52,11 @@ for collection in collections:
             f.close()
             for feature in gj.features:
                 target_id = feature['_id']
-                exists = mycollection.count_documents({'_id': target_id}, limit=1) > 0
-                if not exists:
-                    mycollection.insert_one(feature)
-                    count += 1
-    print('Added {:d} records to '.format(count) + collection + '.')
+                query = {'_id':target_id}
+                update = {"$set":feature}
+                mycollection.update_one(query,update,upsert=True)
+                count += 1
+    print('Updated {:d} records in '.format(count) + collection + '.')
 
 for sa in ['F013B4_SoilAnalysis_DJH.geojson',
            'F013B4_SoilAnalysis_KRT.geojson',
@@ -72,9 +72,9 @@ for sa in ['F013B4_SoilAnalysis_DJH.geojson',
         f.close()
         for feature in gj.features:
             target_id = feature['_id']
-            exists = mycollection.count_documents({'_id': target_id}, limit=1) > 0
-            if not exists:
-                mycollection.insert_one(feature)
-                count += 1
-print('Added {:d} records to '.format(count) + 'Soil Analysis.')
+            query = {'_id':target_id}
+            update = {"$set":feature}
+            mycollection.update_one(query,update,upsert=True)
+            count += 1
+print('Updated {:d} records in '.format(count) + 'Soil Analysis.')
 

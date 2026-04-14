@@ -57,3 +57,7 @@ class Experiment:
         for item in self.doc['properties']['trt_info']:
             if item['trt_label'] == trt_label:
                 item['pids'].append(pid)
+        if 'pids' in self.doc['properties'].keys():
+            self.doc['properties']['pids'].append(pid)
+        else:
+            self.doc['properties'].update({'pids':[pid]})
