@@ -1,2 +1,2 @@
 # cottondata
-Repository of USDA-ARS precision cotton irrigation data from Maricopa, Arizona, 1998-2023 
+Repository of USDA-ARS precision cotton irrigation data from Maricopa, Arizona, 2003-2023
