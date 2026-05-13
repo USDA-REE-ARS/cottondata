@@ -20,11 +20,11 @@ for myfile in sorted(files):
     gj = geojson.load(f)
     f.close()
     mysplit = os.path.basename(myfile).split('_')
-    if mysplit[1] == 'SoilAnalysis':
+    if mysplit[1] == 'SoilPhysicalAnalysis':
         year = 'NA'
         field = mysplit[0]
         exp = 'NA'
-        shptype = 'SoilAnalysis' + mysplit[-1].split('.')[0]
+        shptype = 'SoilPhysicalAnalysis' + mysplit[-1].split('.')[0]
     else:
         year = mysplit[0]
         field = mysplit[1]

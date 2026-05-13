@@ -4,11 +4,11 @@ import math
 import experiment
 import plot
 import zone
-import harvestarea
-import neutronswc
+import cropharvest
+import soilwatercontent
 import cropcanopy
 import plantanalysis
-import soilchemistry
+import soilchemicalanalysis
 import pandas as pd
 from osgeo import ogr
 import geojson
@@ -91,8 +91,8 @@ for key in trt_info.keys():
 ########################################################################
 
 ########################################################################
-#Plots
-shapefile = '../Data/'+fname+'/'+fname+'_Plots.shp'
+#Plot
+shapefile = '../Data/'+fname+'/'+fname+'_Plot.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
@@ -101,15 +101,15 @@ layer = shapes.GetLayer()
 #lyrdef = plotlyr.GetLayerDefn()
 #for i in list(range(lyrdef.GetFieldCount())):
 #    print(lyrdef.GetFieldDefn(i).GetName())
-yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yfile = '../Data/'+fname+'/'+fname+'_CropHarvest.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 dfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
 develop = pd.read_excel(dfile,sheet_name='PlotDevelop')
 rsfile = '../Data/'+fname+'/'+fname+'_RS.xlsx'
-ndvi = pd.read_excel(rsfile,sheet_name='PlotsNDVI')
-lst = pd.read_excel(rsfile,sheet_name='PlotsLST')
-safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
-soil = pd.read_excel(safile,sheet_name='SoilPlots')
+ndvi = pd.read_excel(rsfile,sheet_name='PlotNDVI')
+lst = pd.read_excel(rsfile,sheet_name='PlotLST')
+safile = '../Data/'+fname+'/'+fname+'_SoilPhysicalAnalysis.xlsx'
+soil = pd.read_excel(safile,sheet_name='SoilPlot')
 plots = list()
 for feature in layer:
     pid = feature.GetField('ObjectId')
@@ -204,7 +204,7 @@ for feature in layer:
             lstdata.append({'date':date,'value':round(LSTmean,1)})
     if lstdata:
         myplot.setproperty('RSLST',lstdata)
-    #Soil analysis
+    #Soil physical analysis
     row = soil.loc[soil['Plot'] == plt_label]
     em38h = list()
     if not math.isnan(row.iloc[0]['2009d079EM38H']):
@@ -285,20 +285,20 @@ for feature in layer:
 ########################################################################
 
 ########################################################################
-#Zones
-shapefile = '../Data/'+fname+'/'+fname+'_Zones2.shp'
+#Zone
+shapefile = '../Data/'+fname+'/'+fname+'_Zone.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yfile = '../Data/'+fname+'/'+fname+'_CropHarvest.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Zone Scale',skiprows=5)
 mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
 irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
 rsfile = '../Data/'+fname+'/'+fname+'_RS.xlsx'
-ndvi = pd.read_excel(rsfile,sheet_name='Zones2NDVI')
-lst = pd.read_excel(rsfile,sheet_name='Zones2LST')
-safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
-soil = pd.read_excel(safile,sheet_name='SoilZones2')
+ndvi = pd.read_excel(rsfile,sheet_name='ZoneNDVI')
+lst = pd.read_excel(rsfile,sheet_name='ZoneLST')
+safile = '../Data/'+fname+'/'+fname+'_SoilPhysicalAnalysis.xlsx'
+soil = pd.read_excel(safile,sheet_name='SoilZone')
 zones = list()
 for feature in layer:
     zid = feature.GetField('ObjectId')
@@ -353,7 +353,7 @@ for feature in layer:
             lstdata.append({'date':date,'value':round(LSTmean,1)})
     if lstdata:
         myzone.setproperty('RSLST',lstdata)
-    #Soil analysis
+    #Soil physical analysis
     row = soil.loc[soil['ZoneID'] == zon_label]
     em38h = list()
     if not math.isnan(row.iloc[0]['2009d079EM38H']):
@@ -442,17 +442,17 @@ for feature in layer:
 ########################################################################
 
 ########################################################################
-#Harvest Areas
-shapefile = '../Data/'+fname+'/'+fname+'_HarvestAreas.shp'
+#Crop Harvest
+shapefile = '../Data/'+fname+'/'+fname+'_CropHarvest.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-yfile = '../Data/'+fname+'/'+fname+'_Yield_Quality.xlsx'
+yfile = '../Data/'+fname+'/'+fname+'_CropHarvest.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Raw Scale',skiprows=32)
 rsfile = '../Data/'+fname+'/'+fname+'_RS.xlsx'
 ndvi = pd.read_excel(rsfile,sheet_name='HANDVI')
 lst = pd.read_excel(rsfile,sheet_name='HALST')
-safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+safile = '../Data/'+fname+'/'+fname+'_SoilPhysicalAnalysis.xlsx'
 soil = pd.read_excel(safile,sheet_name='SoilHA')
 hareas = list()
 for feature in layer:
@@ -469,7 +469,7 @@ for feature in layer:
         print('Unexpected spatial reference in harvest area shapefile.')
         sys.exit()
     ha_area = geometry.GetArea()
-    myha = harvestarea.HarvestArea(haid=haid,geometry=geometry,ha_label=ha_label)
+    myha = cropharvest.CropHarvest(haid=haid,geometry=geometry,ha_label=ha_label)
     myha.setproperty('HAREA',round(ha_area,6))
     #Yield and fiber quality data
     row = yld.loc[yld['HID'] == ha_label]
@@ -516,7 +516,7 @@ for feature in layer:
             lstdata.append({'date':date,'value':round(LSTmean,1)})
     if lstdata:
         myha.setproperty('RSLST',lstdata)
-    #Soil analysis
+    #Soil physical analysis
     row = soil.loc[soil['HID'] == ha_label]
     em38h = list()
     if not math.isnan(row.iloc[0]['2009d079EM38H']):
@@ -583,12 +583,12 @@ for feature in layer:
 ########################################################################
 
 ########################################################################
-#Neutron Soil Water Content
-shapefile = '../Data/'+fname+'/'+fname+'_NeutronSWC.shp'
+#Soil Water Content
+shapefile = '../Data/'+fname+'/'+fname+'_SoilWaterContent.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-swcfile = '../Data/'+fname+'/'+fname+'_NeutronSWC.xlsx'
+swcfile = '../Data/'+fname+'/'+fname+'_SoilWaterContent.xlsx'
 swc = pd.read_excel(swcfile,sheet_name='Summary')
 tubes = list()
 for feature in layer:
@@ -599,7 +599,7 @@ for feature in layer:
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in neutronSWC shapefile.')
         sys.exit()
-    mytube = neutronswc.NeutronSWC(tid=tid,geometry=geometry,tb_label=tb_label)
+    mytube = soilwatercontent.SoilWaterContent(tid=tid,geometry=geometry,tb_label=tb_label)
     #Neutron soil water content data
     rows = swc.loc[swc['Tube'] == tb_label]
     rows = rows.sort_values(by='DOY')
@@ -776,12 +776,12 @@ for feature in layer:
 ########################################################################
 
 ########################################################################
-#Soil Chemistry
-shapefile = '../Data/'+fname+'/'+fname+'_SoilChemistry.shp'
+#Soil Chemical Analysis
+shapefile = '../Data/'+fname+'/'+fname+'_SoilChemicalAnalysis.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-scfile = '../Data/'+fname+'/'+fname+'_SoilChemistry.xlsx'
+scfile = '../Data/'+fname+'/'+fname+'_SoilChemicalAnalysis.xlsx'
 sc = pd.read_excel(scfile,sheet_name='SoilChemDF')
 scs = list()
 for feature in layer:
@@ -792,7 +792,7 @@ for feature in layer:
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in soil chemistry shapefile.')
         sys.exit()
-    mysc = soilchemistry.SoilChemistry(scid=scid,geometry=geometry,sc_label=sc_label)
+    mysc = soilchemicalanalysis.SoilChemicalAnalysis(scid=scid,geometry=geometry,sc_label=sc_label)
     #Soil chemistry data
     rows = sc[sc['Sample'] == sc_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
@@ -818,17 +818,17 @@ for feature in layer:
             found = True
             break
     if not found:
-        raise Exception('Did not find plot for soil chemistry %s' % sc_label)
+        raise Exception('Did not find plot for soil chemical analysis %s' % sc_label)
     scs.append(mysc)
 ########################################################################
 
 ########################################################################
-#Soil Analysis
-shapefile = '../Data/Soil/F033_SoilAnalysis_DJH.shp'
+#Soil Physical Analysis
+shapefile = '../Data/Soil/F033_SoilPhysicalAnalysis_DJH.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-safile = '../Data/'+fname+'/'+fname+'_SoilAnalysis.xlsx'
+safile = '../Data/'+fname+'/'+fname+'_SoilPhysicalAnalysis.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDJH')
 for feature in layer:
     said = feature.GetField('ObjectId')
@@ -842,11 +842,17 @@ for feature in layer:
                 found = True
                 break
         if not found:
-            raise Exception('Did not find plot for soil analysis %s' % sa_label)
+            raise Exception('Did not find plot for soil physical analysis %s' % sa_label)
 ########################################################################
 
 ########################################################################
 #Write geojson files
+directory = '../geojson/'+fname
+for filename in os.listdir(directory):
+    if filename.endswith('.geojson'):
+        file_path = os.path.join(directory,filename)
+        os.remove(file_path)
+
 fc = geojson.FeatureCollection([myexp.doc])
 with open('../geojson/'+fname+'/'+fname+'_Experiment.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
@@ -856,7 +862,7 @@ features = list()
 for myplot in plots:
     features.append(myplot.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/'+fname+'/'+fname+'_Plots.geojson','w') as f:
+with open('../geojson/'+fname+'/'+fname+'_Plot.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 
@@ -864,7 +870,7 @@ features = list()
 for myzone in zones:
     features.append(myzone.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/'+fname+'/'+fname+'_Zones.geojson','w') as f:
+with open('../geojson/'+fname+'/'+fname+'_Zone.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 
@@ -872,7 +878,7 @@ features = list()
 for myha in hareas:
     features.append(myha.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/'+fname+'/'+fname+'_HarvestAreas.geojson','w') as f:
+with open('../geojson/'+fname+'/'+fname+'_CropHarvest.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 
@@ -880,7 +886,7 @@ features = list()
 for mytube in tubes:
     features.append(mytube.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/'+fname+'/'+fname+'_SWC.geojson','w') as f:
+with open('../geojson/'+fname+'/'+fname+'_SoilWaterContent.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 
@@ -904,7 +910,7 @@ features = list()
 for mysc in scs:
     features.append(mysc.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/'+fname+'/'+fname+'_SoilChemistry.geojson','w') as f:
+with open('../geojson/'+fname+'/'+fname+'_SoilChemicalAnalysis.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################

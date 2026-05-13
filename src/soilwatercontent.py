@@ -3,8 +3,8 @@ import json
 import geojson
 from osgeo import osr
 
-class SoilChemistry:
-    def __init__(self,scid=None,geometry=None,sc_label=None):
+class SoilWaterContent:
+    def __init__(self,tid=None,geometry=None,tb_label=None):
 
         #Establish feature geometry in lon/lat (geojson standard)
         if geometry is not None:
@@ -21,24 +21,24 @@ class SoilChemistry:
         else:
             self.doc = geojson.Feature()
 
-        #Establish soil analysis core id
-        self.scid = scid
-        if self.scid is None:
-            self.scid = str(bson.objectid.ObjectId())
-        if not bson.objectid.ObjectId.is_valid(scid):
-            raise ValueError('Invalid ObjectId in SoilChemistry')
-        self.doc.update({'_id':self.scid})
-        self.doc.update({'scid':self.scid})
+        #Establish neutron tube id
+        self.tid = tid
+        if self.tid is None:
+            self.tid = str(bson.objectid.ObjectId())
+        if not bson.objectid.ObjectId.is_valid(tid):
+            raise ValueError('Invalid ObjectId in SoilWaterContent')
+        self.doc.update({'_id':self.tid})
+        self.doc.update({'tid':self.tid})
 
         #Set feature properties
-        if sc_label is not None:
-            self.doc['properties'].update({'sc_label':sc_label})
+        if tb_label is not None:
+            self.doc['properties'].update({'tb_label':tb_label})
 
     def __str__(self):
         return str(json.dumps(self.doc,indent=4))
 
     def getid(self):
-        return self.scid
+        return self.tid
 
     def setproperty(self,key,value):
         self.doc['properties'].update({key:value})

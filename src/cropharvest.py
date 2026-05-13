@@ -3,7 +3,7 @@ import json
 import geojson
 from osgeo import osr
 
-class HarvestArea:
+class CropHarvest:
     def __init__(self,haid=None,geometry=None,ha_label=None):
 
         #Establish feature geometry in lon/lat (geojson standard)
@@ -30,7 +30,7 @@ class HarvestArea:
         if self.haid is None:
             self.haid = str(bson.objectid.ObjectId())
         if not bson.objectid.ObjectId.is_valid(haid):
-            raise ValueError('Invalid ObjectId in HarvestArea')
+            raise ValueError('Invalid ObjectId in CropHarvest')
         self.doc.update({'_id':self.haid})
         self.doc.update({'haid':self.haid})
 

@@ -1,18 +1,24 @@
 import os
 import sys
 import math
-import soilanalysis
+import soilphysicalanalysis
 import pandas as pd
 from osgeo import ogr
 import geojson
 
+directory = '../geojson/Soil'
+for filename in os.listdir(directory):
+    if filename.endswith('.geojson'):
+        file_path = os.path.join(directory,filename)
+        os.remove(file_path)
+
 ########################################################################
-#F013B4_SoilAnalysis_DJH
-shapefile = '../Data/Soil/F013B4_SoilAnalysis_DJH.shp'
+#F013B4_SoilPhysicalAnalysis_DJH
+shapefile = '../Data/Soil/F013B4_SoilPhysicalAnalysis_DJH.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-safile = '../Data/Soil/F013B4_SoilAnalysis_DJH.xlsx'
+safile = '../Data/Soil/F013B4_SoilPhysicalAnalysis_DJH.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDF')
 sas = list()
 for feature in layer:
@@ -23,8 +29,8 @@ for feature in layer:
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in plot shapefile.')
         sys.exit()
-    mysa = soilanalysis.SoilAnalysis(said=said,geometry=geometry,sa_label=sa_label)
-    #Soil analysis data
+    mysa = soilphysicalanalysis.SoilPhysicalAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    #Soil physical analysis data
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
         mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m'))
@@ -53,18 +59,18 @@ features = list()
 for mysa in sas:
     features.append(mysa.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/Soil/F013B4_SoilAnalysis_DJH.geojson','w') as f:
+with open('../geojson/Soil/F013B4_SoilPhysicalAnalysis_DJH.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################
 
 ########################################################################
-#F013B4_SoilAnalysis_KRT
-shapefile = '../Data/Soil/F013B4_SoilAnalysis_KRT.shp'
+#F013B4_SoilPhysicalAnalysis_KRT
+shapefile = '../Data/Soil/F013B4_SoilPhysicalAnalysis_KRT.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-safile = '../Data/Soil/F013B4_SoilAnalysis_KRT.xlsx'
+safile = '../Data/Soil/F013B4_SoilPhysicalAnalysis_KRT.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDF')
 sas = list()
 for feature in layer:
@@ -75,8 +81,8 @@ for feature in layer:
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in plot shapefile.')
         sys.exit()
-    mysa = soilanalysis.SoilAnalysis(said=said,geometry=geometry,sa_label=sa_label)
-    #Soil analysis data
+    mysa = soilphysicalanalysis.SoilPhysicalAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    #Soil physicalanalysis data
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
         mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m'))
@@ -100,18 +106,18 @@ features = list()
 for mysa in sas:
     features.append(mysa.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/Soil/F013B4_SoilAnalysis_KRT.geojson','w') as f:
+with open('../geojson/Soil/F013B4_SoilPhysicalAnalysis_KRT.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################
 
 ########################################################################
-#F033_SoilAnalysis_DJH
-shapefile = '../Data/Soil/F033_SoilAnalysis_DJH.shp'
+#F033_SoilPhysicalAnalysis_DJH
+shapefile = '../Data/Soil/F033_SoilPhysicalAnalysis_DJH.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-safile = '../Data/Soil/F033_SoilAnalysis_DJH.xlsx'
+safile = '../Data/Soil/F033_SoilPhysicalAnalysis_DJH.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDF')
 sas = list()
 for feature in layer:
@@ -122,8 +128,8 @@ for feature in layer:
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in plot shapefile.')
         sys.exit()
-    mysa = soilanalysis.SoilAnalysis(said=said,geometry=geometry,sa_label=sa_label)
-    #Soil analysis data
+    mysa = soilphysicalanalysis.SoilPhysicalAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    #Soil physicalanalysis data
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
         mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m'))
@@ -153,18 +159,18 @@ features = list()
 for mysa in sas:
     features.append(mysa.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/Soil/F033_SoilAnalysis_DJH.geojson','w') as f:
+with open('../geojson/Soil/F033_SoilPhysicalAnalysis_DJH.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################
 
 ########################################################################
-#F111_SoilAnalysis_DJH
-shapefile = '../Data/Soil/F111_SoilAnalysis_DJH.shp'
+#F111_SoilPhysicalAnalysis_DJH
+shapefile = '../Data/Soil/F111_SoilPhysicalAnalysis_DJH.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-safile = '../Data/Soil/F111_SoilAnalysis_DJH.xlsx'
+safile = '../Data/Soil/F111_SoilPhysicalAnalysis_DJH.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDF')
 sas = list()
 for feature in layer:
@@ -175,8 +181,8 @@ for feature in layer:
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in plot shapefile.')
         sys.exit()
-    mysa = soilanalysis.SoilAnalysis(said=said,geometry=geometry,sa_label=sa_label)
-    #Soil analysis data
+    mysa = soilphysicalanalysis.SoilPhysicalAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    #Soil physical analysis data
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
         mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m'))
@@ -206,18 +212,18 @@ features = list()
 for mysa in sas:
     features.append(mysa.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/Soil/F111_SoilAnalysis_DJH.geojson','w') as f:
+with open('../geojson/Soil/F111_SoilPhysicalAnalysis_DJH.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################
 
 ########################################################################
-#F105_SoilAnalysis_DJH
-shapefile = '../Data/Soil/F105_SoilAnalysis_DJH.shp'
+#F105_SoilPhysicalAnalysis_DJH
+shapefile = '../Data/Soil/F105_SoilPhysicalAnalysis_DJH.shp'
 driver = ogr.GetDriverByName('ESRI Shapefile')
 shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
-safile = '../Data/Soil/F105_SoilAnalysis_DJH.xlsx'
+safile = '../Data/Soil/F105_SoilPhysicalAnalysis_DJH.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDF')
 sas = list()
 for feature in layer:
@@ -228,8 +234,8 @@ for feature in layer:
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in plot shapefile.')
         sys.exit()
-    mysa = soilanalysis.SoilAnalysis(said=said,geometry=geometry,sa_label=sa_label)
-    #Soil analysis data
+    mysa = soilphysicalanalysis.SoilPhysicalAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    #Soil physical analysis data
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
         mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y'))
@@ -259,7 +265,7 @@ features = list()
 for mysa in sas:
     features.append(mysa.doc)
 fc = geojson.FeatureCollection(features)
-with open('../geojson/Soil/F105_SoilAnalysis_DJH.geojson','w') as f:
+with open('../geojson/Soil/F105_SoilPhysicalAnalysis_DJH.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
 f.close()
 ########################################################################

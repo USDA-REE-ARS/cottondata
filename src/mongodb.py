@@ -32,13 +32,13 @@ exps = ['2002_F105_CO_FISE',
         '2023_F013B4_CO_TILL']
 
 collections = ['Experiment',
-               'Plots',
-               'HarvestAreas',
-               'SWC',
+               'Plot',
+               'CropHarvest',
+               'SoilWaterContent',
                'CropCanopy',
                'PlantAnalysis',
-               'Zones',
-               'SoilChemistry']
+               'Zone',
+               'SoilChemicalAnalysis']
 
 for collection in collections:
     mycollection = db[collection]
@@ -58,12 +58,12 @@ for collection in collections:
                 count += 1
     print('Updated {:d} records in '.format(count) + collection + '.')
 
-for sa in ['F013B4_SoilAnalysis_DJH.geojson',
-           'F013B4_SoilAnalysis_KRT.geojson',
-           'F033_SoilAnalysis_DJH.geojson',
-           'F105_SoilAnalysis_DJH.geojson',
-           'F111_SoilAnalysis_DJH.geojson']:
-    mycollection = db['SoilAnalysis']
+for sa in ['F013B4_SoilPhysicalAnalysis_DJH.geojson',
+           'F013B4_SoilPhysicalAnalysis_KRT.geojson',
+           'F033_SoilPhysicalAnalysis_DJH.geojson',
+           'F105_SoilPhysicalAnalysis_DJH.geojson',
+           'F111_SoilPhysicalAnalysis_DJH.geojson']:
+    mycollection = db['SoilPhysicalAnalysis']
     myfile = '../geojson/Soil/'+sa
     if os.path.exists(myfile):
         print(myfile)
@@ -76,5 +76,5 @@ for sa in ['F013B4_SoilAnalysis_DJH.geojson',
             update = {"$set":feature}
             mycollection.update_one(query,update,upsert=True)
             count += 1
-print('Updated {:d} records in '.format(count) + 'Soil Analysis.')
+print('Updated {:d} records in '.format(count) + 'SoilPhysicalAnalysis.')
 
