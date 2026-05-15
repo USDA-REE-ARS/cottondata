@@ -395,6 +395,7 @@ for feature in layer:
     myzone = zone.Zone(zid=zid,geometry=geometry,zon_label=zon_label)
     myzone.setproperty('ZON_AREA',round(zon_area,6))
     #Management information
+    myzone.setproperty('IROP', 'IR004')
     idata = list()
     for index, row in irrig.iterrows():
         key = str(int(row['Year']))+str(int(row['DOY']))

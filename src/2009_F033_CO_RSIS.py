@@ -104,6 +104,8 @@ yfile = '../Data/'+fname+'/'+fname+'_CropHarvest.xlsx'
 yld = pd.read_excel(yfile,sheet_name='Plot Scale',skiprows=5)
 dfile = '../Data/'+fname+'/'+fname+'_CropCanopy.xlsx'
 develop = pd.read_excel(dfile,sheet_name='PlotDevelop')
+mfile = '../Data/'+fname+'/'+fname+'_Management.xlsx'
+irrig = pd.read_excel(mfile,sheet_name='IrrigationDF')
 rsfile = '../Data/'+fname+'/'+fname+'_RS.xlsx'
 ndvi = pd.read_excel(rsfile,sheet_name='PlotNDVI')
 lst = pd.read_excel(rsfile,sheet_name='PlotLST')
@@ -133,6 +135,20 @@ for feature in layer:
     myplot.setproperty('PDATE', '2009-04-22')
     myplot.setproperty('PLYR', 2009)
     myplot.setproperty('PLDAY', 112)
+    myplot.setproperty('IROP', 'IR001')
+    idata = list()
+    idata.append({'date':'2009-03-12','value':300.0}) #Prewater
+    idata.append({'date':'2009-04-06','value':100.0}) #Prewater
+    row = irrig[irrig['PlotID'] == plt_label]
+    for i in range(1,10):
+        IrrDOY = row.iloc[0]['IrrDOY'+str(i)]
+        IRVAL = float(row.iloc[:]['IrrRate'+str(i)].mean())
+        key = '2009'+'{:03d}'.format(int(IrrDOY))
+        date = datetime.strptime(key,'%Y%j').strftime('%Y-%m-%d')
+        if round(IRVAL,1) > 0.0:
+            idata.append({'date':date,'value':round(IRVAL,1)})
+    if idata:
+        myplot.setproperty('IRVAL',idata)
     fdata = list()
     fdata.append({'date':'2009-06-01','value':56.0})
     myplot.setproperty('FEAMN',fdata)
