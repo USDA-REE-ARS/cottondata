@@ -11,7 +11,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N1",
+                "sca_label": "N1",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -79,7 +79,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc4d",
-            "scid": "682e28528ac5476a01c2fc4d"
+            "scaid": "682e28528ac5476a01c2fc4d"
         },
         {
             "type": "Feature",
@@ -91,7 +91,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N2",
+                "sca_label": "N2",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -159,7 +159,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc4e",
-            "scid": "682e28528ac5476a01c2fc4e"
+            "scaid": "682e28528ac5476a01c2fc4e"
         },
         {
             "type": "Feature",
@@ -171,7 +171,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N3",
+                "sca_label": "N3",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -239,7 +239,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc4f",
-            "scid": "682e28528ac5476a01c2fc4f"
+            "scaid": "682e28528ac5476a01c2fc4f"
         },
         {
             "type": "Feature",
@@ -251,7 +251,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N4",
+                "sca_label": "N4",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -319,7 +319,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc50",
-            "scid": "682e28528ac5476a01c2fc50"
+            "scaid": "682e28528ac5476a01c2fc50"
         },
         {
             "type": "Feature",
@@ -331,7 +331,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N5",
+                "sca_label": "N5",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -399,7 +399,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc51",
-            "scid": "682e28528ac5476a01c2fc51"
+            "scaid": "682e28528ac5476a01c2fc51"
         },
         {
             "type": "Feature",
@@ -411,7 +411,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N6",
+                "sca_label": "N6",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -479,7 +479,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc52",
-            "scid": "682e28528ac5476a01c2fc52"
+            "scaid": "682e28528ac5476a01c2fc52"
         },
         {
             "type": "Feature",
@@ -491,7 +491,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N7",
+                "sca_label": "N7",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -559,7 +559,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc53",
-            "scid": "682e28528ac5476a01c2fc53"
+            "scaid": "682e28528ac5476a01c2fc53"
         },
         {
             "type": "Feature",
@@ -571,7 +571,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N8",
+                "sca_label": "N8",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -639,7 +639,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc54",
-            "scid": "682e28528ac5476a01c2fc54"
+            "scaid": "682e28528ac5476a01c2fc54"
         },
         {
             "type": "Feature",
@@ -651,7 +651,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N9",
+                "sca_label": "N9",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -719,7 +719,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc55",
-            "scid": "682e28528ac5476a01c2fc55"
+            "scaid": "682e28528ac5476a01c2fc55"
         },
         {
             "type": "Feature",
@@ -731,7 +731,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N10",
+                "sca_label": "N10",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -799,7 +799,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc56",
-            "scid": "682e28528ac5476a01c2fc56"
+            "scaid": "682e28528ac5476a01c2fc56"
         },
         {
             "type": "Feature",
@@ -811,7 +811,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N11",
+                "sca_label": "N11",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -879,7 +879,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc57",
-            "scid": "682e28528ac5476a01c2fc57"
+            "scaid": "682e28528ac5476a01c2fc57"
         },
         {
             "type": "Feature",
@@ -891,7 +891,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N12",
+                "sca_label": "N12",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -959,7 +959,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc58",
-            "scid": "682e28528ac5476a01c2fc58"
+            "scaid": "682e28528ac5476a01c2fc58"
         },
         {
             "type": "Feature",
@@ -971,7 +971,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N13",
+                "sca_label": "N13",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -1015,7 +1015,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc59",
-            "scid": "682e28528ac5476a01c2fc59"
+            "scaid": "682e28528ac5476a01c2fc59"
         },
         {
             "type": "Feature",
@@ -1027,7 +1027,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N14",
+                "sca_label": "N14",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -1095,7 +1095,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc5a",
-            "scid": "682e28528ac5476a01c2fc5a"
+            "scaid": "682e28528ac5476a01c2fc5a"
         },
         {
             "type": "Feature",
@@ -1107,7 +1107,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N15",
+                "sca_label": "N15",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -1175,7 +1175,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc5b",
-            "scid": "682e28528ac5476a01c2fc5b"
+            "scaid": "682e28528ac5476a01c2fc5b"
         },
         {
             "type": "Feature",
@@ -1187,7 +1187,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N16",
+                "sca_label": "N16",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -1255,7 +1255,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc5c",
-            "scid": "682e28528ac5476a01c2fc5c"
+            "scaid": "682e28528ac5476a01c2fc5c"
         },
         {
             "type": "Feature",
@@ -1267,7 +1267,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N17",
+                "sca_label": "N17",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -1323,7 +1323,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc5d",
-            "scid": "682e28528ac5476a01c2fc5d"
+            "scaid": "682e28528ac5476a01c2fc5d"
         },
         {
             "type": "Feature",
@@ -1335,7 +1335,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N18",
+                "sca_label": "N18",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -1403,7 +1403,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc5e",
-            "scid": "682e28528ac5476a01c2fc5e"
+            "scaid": "682e28528ac5476a01c2fc5e"
         },
         {
             "type": "Feature",
@@ -1415,7 +1415,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N19",
+                "sca_label": "N19",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -1483,7 +1483,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc5f",
-            "scid": "682e28528ac5476a01c2fc5f"
+            "scaid": "682e28528ac5476a01c2fc5f"
         },
         {
             "type": "Feature",
@@ -1495,7 +1495,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N20",
+                "sca_label": "N20",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -1563,7 +1563,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc60",
-            "scid": "682e28528ac5476a01c2fc60"
+            "scaid": "682e28528ac5476a01c2fc60"
         },
         {
             "type": "Feature",
@@ -1575,7 +1575,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N21",
+                "sca_label": "N21",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -1643,7 +1643,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc61",
-            "scid": "682e28528ac5476a01c2fc61"
+            "scaid": "682e28528ac5476a01c2fc61"
         },
         {
             "type": "Feature",
@@ -1655,7 +1655,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N22",
+                "sca_label": "N22",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -1723,7 +1723,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc62",
-            "scid": "682e28528ac5476a01c2fc62"
+            "scaid": "682e28528ac5476a01c2fc62"
         },
         {
             "type": "Feature",
@@ -1735,7 +1735,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N23",
+                "sca_label": "N23",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -1779,7 +1779,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc63",
-            "scid": "682e28528ac5476a01c2fc63"
+            "scaid": "682e28528ac5476a01c2fc63"
         },
         {
             "type": "Feature",
@@ -1791,7 +1791,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N24",
+                "sca_label": "N24",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -1847,7 +1847,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc64",
-            "scid": "682e28528ac5476a01c2fc64"
+            "scaid": "682e28528ac5476a01c2fc64"
         },
         {
             "type": "Feature",
@@ -1859,7 +1859,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N25",
+                "sca_label": "N25",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -1927,7 +1927,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc65",
-            "scid": "682e28528ac5476a01c2fc65"
+            "scaid": "682e28528ac5476a01c2fc65"
         },
         {
             "type": "Feature",
@@ -1939,7 +1939,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N26",
+                "sca_label": "N26",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -2007,7 +2007,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc66",
-            "scid": "682e28528ac5476a01c2fc66"
+            "scaid": "682e28528ac5476a01c2fc66"
         },
         {
             "type": "Feature",
@@ -2019,7 +2019,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N27",
+                "sca_label": "N27",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -2087,7 +2087,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc67",
-            "scid": "682e28528ac5476a01c2fc67"
+            "scaid": "682e28528ac5476a01c2fc67"
         },
         {
             "type": "Feature",
@@ -2099,7 +2099,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N28",
+                "sca_label": "N28",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -2155,7 +2155,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc68",
-            "scid": "682e28528ac5476a01c2fc68"
+            "scaid": "682e28528ac5476a01c2fc68"
         },
         {
             "type": "Feature",
@@ -2167,7 +2167,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N29",
+                "sca_label": "N29",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -2235,7 +2235,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc69",
-            "scid": "682e28528ac5476a01c2fc69"
+            "scaid": "682e28528ac5476a01c2fc69"
         },
         {
             "type": "Feature",
@@ -2247,7 +2247,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N30",
+                "sca_label": "N30",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -2315,7 +2315,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc6a",
-            "scid": "682e28528ac5476a01c2fc6a"
+            "scaid": "682e28528ac5476a01c2fc6a"
         },
         {
             "type": "Feature",
@@ -2327,7 +2327,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N31",
+                "sca_label": "N31",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -2395,7 +2395,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc6b",
-            "scid": "682e28528ac5476a01c2fc6b"
+            "scaid": "682e28528ac5476a01c2fc6b"
         },
         {
             "type": "Feature",
@@ -2407,7 +2407,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N32",
+                "sca_label": "N32",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -2475,7 +2475,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc6c",
-            "scid": "682e28528ac5476a01c2fc6c"
+            "scaid": "682e28528ac5476a01c2fc6c"
         },
         {
             "type": "Feature",
@@ -2487,7 +2487,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N33",
+                "sca_label": "N33",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -2555,7 +2555,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc6d",
-            "scid": "682e28528ac5476a01c2fc6d"
+            "scaid": "682e28528ac5476a01c2fc6d"
         },
         {
             "type": "Feature",
@@ -2567,7 +2567,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N34",
+                "sca_label": "N34",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -2635,7 +2635,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc6e",
-            "scid": "682e28528ac5476a01c2fc6e"
+            "scaid": "682e28528ac5476a01c2fc6e"
         },
         {
             "type": "Feature",
@@ -2647,7 +2647,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N35",
+                "sca_label": "N35",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -2715,7 +2715,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc6f",
-            "scid": "682e28528ac5476a01c2fc6f"
+            "scaid": "682e28528ac5476a01c2fc6f"
         },
         {
             "type": "Feature",
@@ -2727,7 +2727,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N36",
+                "sca_label": "N36",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -2795,7 +2795,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc70",
-            "scid": "682e28528ac5476a01c2fc70"
+            "scaid": "682e28528ac5476a01c2fc70"
         },
         {
             "type": "Feature",
@@ -2807,7 +2807,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N37",
+                "sca_label": "N37",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -2875,7 +2875,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc71",
-            "scid": "682e28528ac5476a01c2fc71"
+            "scaid": "682e28528ac5476a01c2fc71"
         },
         {
             "type": "Feature",
@@ -2887,7 +2887,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N38",
+                "sca_label": "N38",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -2955,7 +2955,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc72",
-            "scid": "682e28528ac5476a01c2fc72"
+            "scaid": "682e28528ac5476a01c2fc72"
         },
         {
             "type": "Feature",
@@ -2967,7 +2967,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N39",
+                "sca_label": "N39",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -3035,7 +3035,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc73",
-            "scid": "682e28528ac5476a01c2fc73"
+            "scaid": "682e28528ac5476a01c2fc73"
         },
         {
             "type": "Feature",
@@ -3047,7 +3047,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "N40",
+                "sca_label": "N40",
                 "SOIL_DATE": "2017-03-16",
                 "SNO3": [
                     {
@@ -3115,7 +3115,7 @@
                 ]
             },
             "_id": "682e28528ac5476a01c2fc74",
-            "scid": "682e28528ac5476a01c2fc74"
+            "scaid": "682e28528ac5476a01c2fc74"
         }
     ]
 }

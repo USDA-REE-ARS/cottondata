@@ -30,7 +30,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 135.0,
-                "LAID_LAB": 0.1
+                "LAID_LAB": 0.1,
+                "pid": "64246dc78ac5470a33c9fe15"
             },
             "_id": "67f6c7638ac5478ec56ca0f3",
             "paid": "67f6c7638ac5478ec56ca0f3"
@@ -65,7 +66,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1.0,
                 "CWAD": 480.0,
-                "LAID_LAB": 0.433
+                "LAID_LAB": 0.433,
+                "pid": "64246dc78ac5470a33c9fe15"
             },
             "_id": "67f6c7638ac5478ec56ca0f4",
             "paid": "67f6c7638ac5478ec56ca0f4"
@@ -100,7 +102,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 75.0,
                 "CWAD": 1871.0,
-                "LAID_LAB": 1.207
+                "LAID_LAB": 1.207,
+                "pid": "64246dc78ac5470a33c9fe15"
             },
             "_id": "67f6c7638ac5478ec56ca0f5",
             "paid": "67f6c7638ac5478ec56ca0f5"
@@ -135,7 +138,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 548.0,
                 "CWAD": 4062.0,
-                "LAID_LAB": 2.349
+                "LAID_LAB": 2.349,
+                "pid": "64246dc78ac5470a33c9fe15"
             },
             "_id": "67f6c7638ac5478ec56ca0f6",
             "paid": "67f6c7638ac5478ec56ca0f6"
@@ -170,7 +174,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 3959.0,
                 "CWAD": 10975.0,
-                "LAID_LAB": 4.169
+                "LAID_LAB": 4.169,
+                "pid": "64246dc78ac5470a33c9fe15"
             },
             "_id": "67f6c7638ac5478ec56ca0f7",
             "paid": "67f6c7638ac5478ec56ca0f7"
@@ -205,7 +210,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2426.0,
                 "CWAD": 7309.0,
-                "LAID_LAB": 2.604
+                "LAID_LAB": 2.604,
+                "pid": "64246dc78ac5470a33c9fe15"
             },
             "_id": "67f6c7638ac5478ec56ca0f8",
             "paid": "67f6c7638ac5478ec56ca0f8"
@@ -240,7 +246,8 @@
                 "MBWAD": 1859.0,
                 "PWAD": 4182.0,
                 "CWAD": 9418.0,
-                "LAID_LAB": 5.394
+                "LAID_LAB": 5.394,
+                "pid": "64246dc78ac5470a33c9fe15"
             },
             "_id": "67f6c7638ac5478ec56ca0f9",
             "paid": "67f6c7638ac5478ec56ca0f9"
@@ -275,7 +282,8 @@
                 "MBWAD": 5318.0,
                 "PWAD": 5770.0,
                 "CWAD": 15402.0,
-                "LAID_LAB": 6.061
+                "LAID_LAB": 6.061,
+                "pid": "64246dc78ac5470a33c9fe15"
             },
             "_id": "67f6c7638ac5478ec56ca0fa",
             "paid": "67f6c7638ac5478ec56ca0fa"
@@ -309,7 +317,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 135.0,
-                "LAID_LAB": 0.098
+                "LAID_LAB": 0.098,
+                "pid": "64246dc78ac5470a33c9fe16"
             },
             "_id": "67f6c7638ac5478ec56ca0fb",
             "paid": "67f6c7638ac5478ec56ca0fb"
@@ -344,7 +353,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 7.0,
                 "CWAD": 596.0,
-                "LAID_LAB": 0.513
+                "LAID_LAB": 0.513,
+                "pid": "64246dc78ac5470a33c9fe16"
             },
             "_id": "67f6c7638ac5478ec56ca0fc",
             "paid": "67f6c7638ac5478ec56ca0fc"
@@ -379,7 +389,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 69.0,
                 "CWAD": 2438.0,
-                "LAID_LAB": 1.495
+                "LAID_LAB": 1.495,
+                "pid": "64246dc78ac5470a33c9fe16"
             },
             "_id": "67f6c7638ac5478ec56ca0fd",
             "paid": "67f6c7638ac5478ec56ca0fd"
@@ -414,7 +425,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1656.0,
                 "CWAD": 5934.0,
-                "LAID_LAB": 2.657
+                "LAID_LAB": 2.657,
+                "pid": "64246dc78ac5470a33c9fe16"
             },
             "_id": "67f6c7638ac5478ec56ca0fe",
             "paid": "67f6c7638ac5478ec56ca0fe"
@@ -449,7 +461,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1197.0,
                 "CWAD": 4735.0,
-                "LAID_LAB": 2.032
+                "LAID_LAB": 2.032,
+                "pid": "64246dc78ac5470a33c9fe16"
             },
             "_id": "67f6c7638ac5478ec56ca0ff",
             "paid": "67f6c7638ac5478ec56ca0ff"
@@ -484,7 +497,8 @@
                 "MBWAD": 868.0,
                 "PWAD": 2135.0,
                 "CWAD": 5289.0,
-                "LAID_LAB": 1.426
+                "LAID_LAB": 1.426,
+                "pid": "64246dc78ac5470a33c9fe16"
             },
             "_id": "67f6c7638ac5478ec56ca100",
             "paid": "67f6c7638ac5478ec56ca100"
@@ -519,7 +533,8 @@
                 "MBWAD": 2034.0,
                 "PWAD": 2141.0,
                 "CWAD": 6113.0,
-                "LAID_LAB": 1.798
+                "LAID_LAB": 1.798,
+                "pid": "64246dc78ac5470a33c9fe16"
             },
             "_id": "67f6c7638ac5478ec56ca101",
             "paid": "67f6c7638ac5478ec56ca101"
@@ -554,7 +569,8 @@
                 "MBWAD": 3824.0,
                 "PWAD": 5118.0,
                 "CWAD": 13604.0,
-                "LAID_LAB": 4.214
+                "LAID_LAB": 4.214,
+                "pid": "64246dc78ac5470a33c9fe16"
             },
             "_id": "67f6c7638ac5478ec56ca102",
             "paid": "67f6c7638ac5478ec56ca102"
@@ -588,7 +604,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 62.0,
-                "LAID_LAB": 0.053
+                "LAID_LAB": 0.053,
+                "pid": "64246dc78ac5470a33c9fe17"
             },
             "_id": "67f6c7638ac5478ec56ca103",
             "paid": "67f6c7638ac5478ec56ca103"
@@ -623,7 +640,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 16.0,
                 "CWAD": 475.0,
-                "LAID_LAB": 0.398
+                "LAID_LAB": 0.398,
+                "pid": "64246dc78ac5470a33c9fe17"
             },
             "_id": "67f6c7638ac5478ec56ca104",
             "paid": "67f6c7638ac5478ec56ca104"
@@ -658,7 +676,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 21.0,
                 "CWAD": 1747.0,
-                "LAID_LAB": 1.15
+                "LAID_LAB": 1.15,
+                "pid": "64246dc78ac5470a33c9fe17"
             },
             "_id": "67f6c7638ac5478ec56ca105",
             "paid": "67f6c7638ac5478ec56ca105"
@@ -693,7 +712,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 523.0,
                 "CWAD": 5157.0,
-                "LAID_LAB": 2.474
+                "LAID_LAB": 2.474,
+                "pid": "64246dc78ac5470a33c9fe17"
             },
             "_id": "67f6c7638ac5478ec56ca106",
             "paid": "67f6c7638ac5478ec56ca106"
@@ -728,7 +748,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1458.0,
                 "CWAD": 4238.0,
-                "LAID_LAB": 1.59
+                "LAID_LAB": 1.59,
+                "pid": "64246dc78ac5470a33c9fe17"
             },
             "_id": "67f6c7638ac5478ec56ca107",
             "paid": "67f6c7638ac5478ec56ca107"
@@ -763,7 +784,8 @@
                 "MBWAD": 1650.0,
                 "PWAD": 4024.0,
                 "CWAD": 10479.0,
-                "LAID_LAB": 2.986
+                "LAID_LAB": 2.986,
+                "pid": "64246dc78ac5470a33c9fe17"
             },
             "_id": "67f6c7638ac5478ec56ca108",
             "paid": "67f6c7638ac5478ec56ca108"
@@ -798,7 +820,8 @@
                 "MBWAD": 3254.0,
                 "PWAD": 3997.0,
                 "CWAD": 11982.0,
-                "LAID_LAB": 3.547
+                "LAID_LAB": 3.547,
+                "pid": "64246dc78ac5470a33c9fe17"
             },
             "_id": "67f6c7638ac5478ec56ca109",
             "paid": "67f6c7638ac5478ec56ca109"
@@ -833,7 +856,8 @@
                 "MBWAD": 2606.0,
                 "PWAD": 2963.0,
                 "CWAD": 8810.0,
-                "LAID_LAB": 3.47
+                "LAID_LAB": 3.47,
+                "pid": "64246dc78ac5470a33c9fe17"
             },
             "_id": "67f6c7638ac5478ec56ca10a",
             "paid": "67f6c7638ac5478ec56ca10a"
@@ -867,7 +891,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 102.0,
-                "LAID_LAB": 0.088
+                "LAID_LAB": 0.088,
+                "pid": "64246dc78ac5470a33c9fe18"
             },
             "_id": "67f6c7638ac5478ec56ca10b",
             "paid": "67f6c7638ac5478ec56ca10b"
@@ -902,7 +927,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1.0,
                 "CWAD": 443.0,
-                "LAID_LAB": 0.435
+                "LAID_LAB": 0.435,
+                "pid": "64246dc78ac5470a33c9fe18"
             },
             "_id": "67f6c7638ac5478ec56ca10c",
             "paid": "67f6c7638ac5478ec56ca10c"
@@ -937,7 +963,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 53.0,
                 "CWAD": 2208.0,
-                "LAID_LAB": 1.574
+                "LAID_LAB": 1.574,
+                "pid": "64246dc78ac5470a33c9fe18"
             },
             "_id": "67f6c7638ac5478ec56ca10d",
             "paid": "67f6c7638ac5478ec56ca10d"
@@ -972,7 +999,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1264.0,
                 "CWAD": 5792.0,
-                "LAID_LAB": 2.766
+                "LAID_LAB": 2.766,
+                "pid": "64246dc78ac5470a33c9fe18"
             },
             "_id": "67f6c7638ac5478ec56ca10e",
             "paid": "67f6c7638ac5478ec56ca10e"
@@ -1007,7 +1035,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2101.0,
                 "CWAD": 6524.0,
-                "LAID_LAB": 2.841
+                "LAID_LAB": 2.841,
+                "pid": "64246dc78ac5470a33c9fe18"
             },
             "_id": "67f6c7638ac5478ec56ca10f",
             "paid": "67f6c7638ac5478ec56ca10f"
@@ -1042,7 +1071,8 @@
                 "MBWAD": 1690.0,
                 "PWAD": 4120.0,
                 "CWAD": 10307.0,
-                "LAID_LAB": 3.606
+                "LAID_LAB": 3.606,
+                "pid": "64246dc78ac5470a33c9fe18"
             },
             "_id": "67f6c7638ac5478ec56ca110",
             "paid": "67f6c7638ac5478ec56ca110"
@@ -1077,7 +1107,8 @@
                 "MBWAD": 4389.0,
                 "PWAD": 4677.0,
                 "CWAD": 11872.0,
-                "LAID_LAB": 4.202
+                "LAID_LAB": 4.202,
+                "pid": "64246dc78ac5470a33c9fe18"
             },
             "_id": "67f6c7638ac5478ec56ca111",
             "paid": "67f6c7638ac5478ec56ca111"
@@ -1112,7 +1143,8 @@
                 "MBWAD": 4215.0,
                 "PWAD": 4995.0,
                 "CWAD": 13254.0,
-                "LAID_LAB": 4.372
+                "LAID_LAB": 4.372,
+                "pid": "64246dc78ac5470a33c9fe18"
             },
             "_id": "67f6c7638ac5478ec56ca112",
             "paid": "67f6c7638ac5478ec56ca112"
@@ -1146,7 +1178,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 90.0,
-                "LAID_LAB": 0.07
+                "LAID_LAB": 0.07,
+                "pid": "64246dc78ac5470a33c9fe19"
             },
             "_id": "67f6c7638ac5478ec56ca113",
             "paid": "67f6c7638ac5478ec56ca113"
@@ -1181,7 +1214,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 9.0,
                 "CWAD": 568.0,
-                "LAID_LAB": 0.45
+                "LAID_LAB": 0.45,
+                "pid": "64246dc78ac5470a33c9fe19"
             },
             "_id": "67f6c7638ac5478ec56ca114",
             "paid": "67f6c7638ac5478ec56ca114"
@@ -1216,7 +1250,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 86.0,
                 "CWAD": 2296.0,
-                "LAID_LAB": 1.325
+                "LAID_LAB": 1.325,
+                "pid": "64246dc78ac5470a33c9fe19"
             },
             "_id": "67f6c7638ac5478ec56ca115",
             "paid": "67f6c7638ac5478ec56ca115"
@@ -1251,7 +1286,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1067.0,
                 "CWAD": 3745.0,
-                "LAID_LAB": 1.415
+                "LAID_LAB": 1.415,
+                "pid": "64246dc78ac5470a33c9fe19"
             },
             "_id": "67f6c7638ac5478ec56ca116",
             "paid": "67f6c7638ac5478ec56ca116"
@@ -1286,7 +1322,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1112.0,
                 "CWAD": 3979.0,
-                "LAID_LAB": 1.634
+                "LAID_LAB": 1.634,
+                "pid": "64246dc78ac5470a33c9fe19"
             },
             "_id": "67f6c7638ac5478ec56ca117",
             "paid": "67f6c7638ac5478ec56ca117"
@@ -1321,7 +1358,8 @@
                 "MBWAD": 1348.0,
                 "PWAD": 3800.0,
                 "CWAD": 7505.0,
-                "LAID_LAB": 1.881
+                "LAID_LAB": 1.881,
+                "pid": "64246dc78ac5470a33c9fe19"
             },
             "_id": "67f6c7638ac5478ec56ca118",
             "paid": "67f6c7638ac5478ec56ca118"
@@ -1356,7 +1394,8 @@
                 "MBWAD": 1970.0,
                 "PWAD": 3858.0,
                 "CWAD": 9614.0,
-                "LAID_LAB": 3.199
+                "LAID_LAB": 3.199,
+                "pid": "64246dc78ac5470a33c9fe19"
             },
             "_id": "67f6c7638ac5478ec56ca119",
             "paid": "67f6c7638ac5478ec56ca119"
@@ -1391,7 +1430,8 @@
                 "MBWAD": 3211.0,
                 "PWAD": 3354.0,
                 "CWAD": 8367.0,
-                "LAID_LAB": 2.914
+                "LAID_LAB": 2.914,
+                "pid": "64246dc78ac5470a33c9fe19"
             },
             "_id": "67f6c7638ac5478ec56ca11a",
             "paid": "67f6c7638ac5478ec56ca11a"
@@ -1425,7 +1465,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 86.0,
-                "LAID_LAB": 0.073
+                "LAID_LAB": 0.073,
+                "pid": "64246dc78ac5470a33c9fe1a"
             },
             "_id": "67f6c7638ac5478ec56ca11b",
             "paid": "67f6c7638ac5478ec56ca11b"
@@ -1460,7 +1501,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 4.0,
                 "CWAD": 441.0,
-                "LAID_LAB": 0.416
+                "LAID_LAB": 0.416,
+                "pid": "64246dc78ac5470a33c9fe1a"
             },
             "_id": "67f6c7638ac5478ec56ca11c",
             "paid": "67f6c7638ac5478ec56ca11c"
@@ -1495,7 +1537,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 79.0,
                 "CWAD": 1905.0,
-                "LAID_LAB": 1.117
+                "LAID_LAB": 1.117,
+                "pid": "64246dc78ac5470a33c9fe1a"
             },
             "_id": "67f6c7638ac5478ec56ca11d",
             "paid": "67f6c7638ac5478ec56ca11d"
@@ -1530,7 +1573,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 238.0,
                 "CWAD": 3514.0,
-                "LAID_LAB": 2.301
+                "LAID_LAB": 2.301,
+                "pid": "64246dc78ac5470a33c9fe1a"
             },
             "_id": "67f6c7638ac5478ec56ca11e",
             "paid": "67f6c7638ac5478ec56ca11e"
@@ -1565,7 +1609,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2761.0,
                 "CWAD": 9425.0,
-                "LAID_LAB": 4.242
+                "LAID_LAB": 4.242,
+                "pid": "64246dc78ac5470a33c9fe1a"
             },
             "_id": "67f6c7638ac5478ec56ca11f",
             "paid": "67f6c7638ac5478ec56ca11f"
@@ -1600,7 +1645,8 @@
                 "MBWAD": 528.0,
                 "PWAD": 4276.0,
                 "CWAD": 9753.0,
-                "LAID_LAB": 3.413
+                "LAID_LAB": 3.413,
+                "pid": "64246dc78ac5470a33c9fe1a"
             },
             "_id": "67f6c7638ac5478ec56ca120",
             "paid": "67f6c7638ac5478ec56ca120"
@@ -1635,7 +1681,8 @@
                 "MBWAD": 2786.0,
                 "PWAD": 6050.0,
                 "CWAD": 12615.0,
-                "LAID_LAB": 3.917
+                "LAID_LAB": 3.917,
+                "pid": "64246dc78ac5470a33c9fe1a"
             },
             "_id": "67f6c7638ac5478ec56ca121",
             "paid": "67f6c7638ac5478ec56ca121"
@@ -1670,7 +1717,8 @@
                 "MBWAD": 5496.0,
                 "PWAD": 6286.0,
                 "CWAD": 14687.0,
-                "LAID_LAB": 5.195
+                "LAID_LAB": 5.195,
+                "pid": "64246dc78ac5470a33c9fe1a"
             },
             "_id": "67f6c7638ac5478ec56ca122",
             "paid": "67f6c7638ac5478ec56ca122"
@@ -1704,7 +1752,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 119.0,
-                "LAID_LAB": 0.104
+                "LAID_LAB": 0.104,
+                "pid": "64246dc78ac5470a33c9fe1b"
             },
             "_id": "67f6c7638ac5478ec56ca123",
             "paid": "67f6c7638ac5478ec56ca123"
@@ -1739,7 +1788,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 12.0,
                 "CWAD": 444.0,
-                "LAID_LAB": 0.376
+                "LAID_LAB": 0.376,
+                "pid": "64246dc78ac5470a33c9fe1b"
             },
             "_id": "67f6c7638ac5478ec56ca124",
             "paid": "67f6c7638ac5478ec56ca124"
@@ -1774,7 +1824,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 139.0,
                 "CWAD": 2449.0,
-                "LAID_LAB": 1.463
+                "LAID_LAB": 1.463,
+                "pid": "64246dc78ac5470a33c9fe1b"
             },
             "_id": "67f6c7638ac5478ec56ca125",
             "paid": "67f6c7638ac5478ec56ca125"
@@ -1809,7 +1860,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 833.0,
                 "CWAD": 3724.0,
-                "LAID_LAB": 1.871
+                "LAID_LAB": 1.871,
+                "pid": "64246dc78ac5470a33c9fe1b"
             },
             "_id": "67f6c7638ac5478ec56ca126",
             "paid": "67f6c7638ac5478ec56ca126"
@@ -1844,7 +1896,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2410.0,
                 "CWAD": 6771.0,
-                "LAID_LAB": 2.365
+                "LAID_LAB": 2.365,
+                "pid": "64246dc78ac5470a33c9fe1b"
             },
             "_id": "67f6c7638ac5478ec56ca127",
             "paid": "67f6c7638ac5478ec56ca127"
@@ -1879,7 +1932,8 @@
                 "MBWAD": 988.0,
                 "PWAD": 2995.0,
                 "CWAD": 6896.0,
-                "LAID_LAB": 2.079
+                "LAID_LAB": 2.079,
+                "pid": "64246dc78ac5470a33c9fe1b"
             },
             "_id": "67f6c7638ac5478ec56ca128",
             "paid": "67f6c7638ac5478ec56ca128"
@@ -1914,7 +1968,8 @@
                 "MBWAD": 2959.0,
                 "PWAD": 3234.0,
                 "CWAD": 8292.0,
-                "LAID_LAB": 2.421
+                "LAID_LAB": 2.421,
+                "pid": "64246dc78ac5470a33c9fe1b"
             },
             "_id": "67f6c7638ac5478ec56ca129",
             "paid": "67f6c7638ac5478ec56ca129"
@@ -1949,7 +2004,8 @@
                 "MBWAD": 3414.0,
                 "PWAD": 4221.0,
                 "CWAD": 10863.0,
-                "LAID_LAB": 3.008
+                "LAID_LAB": 3.008,
+                "pid": "64246dc78ac5470a33c9fe1b"
             },
             "_id": "67f6c7638ac5478ec56ca12a",
             "paid": "67f6c7638ac5478ec56ca12a"
@@ -1983,7 +2039,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 87.0,
-                "LAID_LAB": 0.075
+                "LAID_LAB": 0.075,
+                "pid": "64246dc78ac5470a33c9fe1c"
             },
             "_id": "67f6c7638ac5478ec56ca12b",
             "paid": "67f6c7638ac5478ec56ca12b"
@@ -2018,7 +2075,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 13.0,
                 "CWAD": 551.0,
-                "LAID_LAB": 0.507
+                "LAID_LAB": 0.507,
+                "pid": "64246dc78ac5470a33c9fe1c"
             },
             "_id": "67f6c7638ac5478ec56ca12c",
             "paid": "67f6c7638ac5478ec56ca12c"
@@ -2053,7 +2111,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 16.0,
                 "CWAD": 1155.0,
-                "LAID_LAB": 0.893
+                "LAID_LAB": 0.893,
+                "pid": "64246dc78ac5470a33c9fe1c"
             },
             "_id": "67f6c7638ac5478ec56ca12d",
             "paid": "67f6c7638ac5478ec56ca12d"
@@ -2088,7 +2147,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 488.0,
                 "CWAD": 5842.0,
-                "LAID_LAB": 3.677
+                "LAID_LAB": 3.677,
+                "pid": "64246dc78ac5470a33c9fe1c"
             },
             "_id": "67f6c7638ac5478ec56ca12e",
             "paid": "67f6c7638ac5478ec56ca12e"
@@ -2123,7 +2183,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1818.0,
                 "CWAD": 5973.0,
-                "LAID_LAB": 2.849
+                "LAID_LAB": 2.849,
+                "pid": "64246dc78ac5470a33c9fe1c"
             },
             "_id": "67f6c7638ac5478ec56ca12f",
             "paid": "67f6c7638ac5478ec56ca12f"
@@ -2158,7 +2219,8 @@
                 "MBWAD": 553.0,
                 "PWAD": 5473.0,
                 "CWAD": 13966.0,
-                "LAID_LAB": 5.815
+                "LAID_LAB": 5.815,
+                "pid": "64246dc78ac5470a33c9fe1c"
             },
             "_id": "67f6c7638ac5478ec56ca130",
             "paid": "67f6c7638ac5478ec56ca130"
@@ -2193,7 +2255,8 @@
                 "MBWAD": 2349.0,
                 "PWAD": 3740.0,
                 "CWAD": 8873.0,
-                "LAID_LAB": 3.213
+                "LAID_LAB": 3.213,
+                "pid": "64246dc78ac5470a33c9fe1c"
             },
             "_id": "67f6c7638ac5478ec56ca131",
             "paid": "67f6c7638ac5478ec56ca131"
@@ -2228,7 +2291,8 @@
                 "MBWAD": 5183.0,
                 "PWAD": 6345.0,
                 "CWAD": 17858.0,
-                "LAID_LAB": 6.848
+                "LAID_LAB": 6.848,
+                "pid": "64246dc78ac5470a33c9fe1c"
             },
             "_id": "67f6c7638ac5478ec56ca132",
             "paid": "67f6c7638ac5478ec56ca132"
@@ -2262,7 +2326,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 77.0,
-                "LAID_LAB": 0.067
+                "LAID_LAB": 0.067,
+                "pid": "64246dc78ac5470a33c9fe1d"
             },
             "_id": "67f6c7638ac5478ec56ca133",
             "paid": "67f6c7638ac5478ec56ca133"
@@ -2297,7 +2362,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1.0,
                 "CWAD": 321.0,
-                "LAID_LAB": 0.296
+                "LAID_LAB": 0.296,
+                "pid": "64246dc78ac5470a33c9fe1d"
             },
             "_id": "67f6c7638ac5478ec56ca134",
             "paid": "67f6c7638ac5478ec56ca134"
@@ -2332,7 +2398,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 65.0,
                 "CWAD": 1859.0,
-                "LAID_LAB": 1.207
+                "LAID_LAB": 1.207,
+                "pid": "64246dc78ac5470a33c9fe1d"
             },
             "_id": "67f6c7638ac5478ec56ca135",
             "paid": "67f6c7638ac5478ec56ca135"
@@ -2366,7 +2433,8 @@
                 "SWAD": 2286.0,
                 "MBWAD": 0.0,
                 "PWAD": 1524.0,
-                "CWAD": 5918.0
+                "CWAD": 5918.0,
+                "pid": "64246dc78ac5470a33c9fe1d"
             },
             "_id": "67f6c7638ac5478ec56ca136",
             "paid": "67f6c7638ac5478ec56ca136"
@@ -2401,7 +2469,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 726.0,
                 "CWAD": 4110.0,
-                "LAID_LAB": 2.395
+                "LAID_LAB": 2.395,
+                "pid": "64246dc78ac5470a33c9fe1d"
             },
             "_id": "67f6c7638ac5478ec56ca137",
             "paid": "67f6c7638ac5478ec56ca137"
@@ -2436,7 +2505,8 @@
                 "MBWAD": 439.0,
                 "PWAD": 3543.0,
                 "CWAD": 8705.0,
-                "LAID_LAB": 3.088
+                "LAID_LAB": 3.088,
+                "pid": "64246dc78ac5470a33c9fe1d"
             },
             "_id": "67f6c7638ac5478ec56ca138",
             "paid": "67f6c7638ac5478ec56ca138"
@@ -2471,7 +2541,8 @@
                 "MBWAD": 1625.0,
                 "PWAD": 2452.0,
                 "CWAD": 7370.0,
-                "LAID_LAB": 2.809
+                "LAID_LAB": 2.809,
+                "pid": "64246dc78ac5470a33c9fe1d"
             },
             "_id": "67f6c7638ac5478ec56ca139",
             "paid": "67f6c7638ac5478ec56ca139"
@@ -2506,7 +2577,8 @@
                 "MBWAD": 2835.0,
                 "PWAD": 3256.0,
                 "CWAD": 9990.0,
-                "LAID_LAB": 3.683
+                "LAID_LAB": 3.683,
+                "pid": "64246dc78ac5470a33c9fe1d"
             },
             "_id": "67f6c7638ac5478ec56ca13a",
             "paid": "67f6c7638ac5478ec56ca13a"
@@ -2540,7 +2612,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 61.0,
-                "LAID_LAB": 0.054
+                "LAID_LAB": 0.054,
+                "pid": "64246dc78ac5470a33c9fe1e"
             },
             "_id": "67f6c7638ac5478ec56ca13b",
             "paid": "67f6c7638ac5478ec56ca13b"
@@ -2575,7 +2648,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 3.0,
                 "CWAD": 565.0,
-                "LAID_LAB": 0.497
+                "LAID_LAB": 0.497,
+                "pid": "64246dc78ac5470a33c9fe1e"
             },
             "_id": "67f6c7638ac5478ec56ca13c",
             "paid": "67f6c7638ac5478ec56ca13c"
@@ -2610,7 +2684,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 90.0,
                 "CWAD": 1982.0,
-                "LAID_LAB": 1.253
+                "LAID_LAB": 1.253,
+                "pid": "64246dc78ac5470a33c9fe1e"
             },
             "_id": "67f6c7638ac5478ec56ca13d",
             "paid": "67f6c7638ac5478ec56ca13d"
@@ -2645,7 +2720,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 629.0,
                 "CWAD": 4910.0,
-                "LAID_LAB": 2.678
+                "LAID_LAB": 2.678,
+                "pid": "64246dc78ac5470a33c9fe1e"
             },
             "_id": "67f6c7638ac5478ec56ca13e",
             "paid": "67f6c7638ac5478ec56ca13e"
@@ -2680,7 +2756,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2543.0,
                 "CWAD": 6985.0,
-                "LAID_LAB": 2.861
+                "LAID_LAB": 2.861,
+                "pid": "64246dc78ac5470a33c9fe1e"
             },
             "_id": "67f6c7638ac5478ec56ca13f",
             "paid": "67f6c7638ac5478ec56ca13f"
@@ -2715,7 +2792,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2790.0,
                 "CWAD": 6404.0,
-                "LAID_LAB": 2.265
+                "LAID_LAB": 2.265,
+                "pid": "64246dc78ac5470a33c9fe1e"
             },
             "_id": "67f6c7638ac5478ec56ca140",
             "paid": "67f6c7638ac5478ec56ca140"
@@ -2750,7 +2828,8 @@
                 "MBWAD": 933.0,
                 "PWAD": 1916.0,
                 "CWAD": 6176.0,
-                "LAID_LAB": 2.718
+                "LAID_LAB": 2.718,
+                "pid": "64246dc78ac5470a33c9fe1e"
             },
             "_id": "67f6c7638ac5478ec56ca141",
             "paid": "67f6c7638ac5478ec56ca141"
@@ -2785,7 +2864,8 @@
                 "MBWAD": 5183.0,
                 "PWAD": 5884.0,
                 "CWAD": 12417.0,
-                "LAID_LAB": 3.901
+                "LAID_LAB": 3.901,
+                "pid": "64246dc78ac5470a33c9fe1e"
             },
             "_id": "67f6c7638ac5478ec56ca142",
             "paid": "67f6c7638ac5478ec56ca142"
@@ -2819,7 +2899,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 65.0,
-                "LAID_LAB": 0.061
+                "LAID_LAB": 0.061,
+                "pid": "64246dc78ac5470a33c9fe1f"
             },
             "_id": "67f6c7638ac5478ec56ca143",
             "paid": "67f6c7638ac5478ec56ca143"
@@ -2854,7 +2935,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 9.0,
                 "CWAD": 612.0,
-                "LAID_LAB": 0.52
+                "LAID_LAB": 0.52,
+                "pid": "64246dc78ac5470a33c9fe1f"
             },
             "_id": "67f6c7638ac5478ec56ca144",
             "paid": "67f6c7638ac5478ec56ca144"
@@ -2889,7 +2971,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 132.0,
                 "CWAD": 1743.0,
-                "LAID_LAB": 1.036
+                "LAID_LAB": 1.036,
+                "pid": "64246dc78ac5470a33c9fe1f"
             },
             "_id": "67f6c7638ac5478ec56ca145",
             "paid": "67f6c7638ac5478ec56ca145"
@@ -2924,7 +3007,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1387.0,
                 "CWAD": 4896.0,
-                "LAID_LAB": 2.088
+                "LAID_LAB": 2.088,
+                "pid": "64246dc78ac5470a33c9fe1f"
             },
             "_id": "67f6c7638ac5478ec56ca146",
             "paid": "67f6c7638ac5478ec56ca146"
@@ -2959,7 +3043,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2728.0,
                 "CWAD": 8974.0,
-                "LAID_LAB": 3.828
+                "LAID_LAB": 3.828,
+                "pid": "64246dc78ac5470a33c9fe1f"
             },
             "_id": "67f6c7638ac5478ec56ca147",
             "paid": "67f6c7638ac5478ec56ca147"
@@ -2994,7 +3079,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2412.0,
                 "CWAD": 5497.0,
-                "LAID_LAB": 1.925
+                "LAID_LAB": 1.925,
+                "pid": "64246dc78ac5470a33c9fe1f"
             },
             "_id": "67f6c7638ac5478ec56ca148",
             "paid": "67f6c7638ac5478ec56ca148"
@@ -3029,7 +3115,8 @@
                 "MBWAD": 2081.0,
                 "PWAD": 5295.0,
                 "CWAD": 13045.0,
-                "LAID_LAB": 4.994
+                "LAID_LAB": 4.994,
+                "pid": "64246dc78ac5470a33c9fe1f"
             },
             "_id": "67f6c7638ac5478ec56ca149",
             "paid": "67f6c7638ac5478ec56ca149"
@@ -3064,7 +3151,8 @@
                 "MBWAD": 3207.0,
                 "PWAD": 3833.0,
                 "CWAD": 10673.0,
-                "LAID_LAB": 4.279
+                "LAID_LAB": 4.279,
+                "pid": "64246dc78ac5470a33c9fe1f"
             },
             "_id": "67f6c7638ac5478ec56ca14a",
             "paid": "67f6c7638ac5478ec56ca14a"
@@ -3098,7 +3186,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 66.0,
-                "LAID_LAB": 0.058
+                "LAID_LAB": 0.058,
+                "pid": "64246dc78ac5470a33c9fe20"
             },
             "_id": "67f6c7638ac5478ec56ca14b",
             "paid": "67f6c7638ac5478ec56ca14b"
@@ -3133,7 +3222,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 8.0,
                 "CWAD": 451.0,
-                "LAID_LAB": 0.39
+                "LAID_LAB": 0.39,
+                "pid": "64246dc78ac5470a33c9fe20"
             },
             "_id": "67f6c7638ac5478ec56ca14c",
             "paid": "67f6c7638ac5478ec56ca14c"
@@ -3168,7 +3258,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 103.0,
                 "CWAD": 1954.0,
-                "LAID_LAB": 1.263
+                "LAID_LAB": 1.263,
+                "pid": "64246dc78ac5470a33c9fe20"
             },
             "_id": "67f6c7638ac5478ec56ca14d",
             "paid": "67f6c7638ac5478ec56ca14d"
@@ -3203,7 +3294,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 662.0,
                 "CWAD": 4573.0,
-                "LAID_LAB": 2.781
+                "LAID_LAB": 2.781,
+                "pid": "64246dc78ac5470a33c9fe20"
             },
             "_id": "67f6c7638ac5478ec56ca14e",
             "paid": "67f6c7638ac5478ec56ca14e"
@@ -3238,7 +3330,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 3476.0,
                 "CWAD": 10303.0,
-                "LAID_LAB": 4.38
+                "LAID_LAB": 4.38,
+                "pid": "64246dc78ac5470a33c9fe20"
             },
             "_id": "67f6c7638ac5478ec56ca14f",
             "paid": "67f6c7638ac5478ec56ca14f"
@@ -3273,7 +3366,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2031.0,
                 "CWAD": 5886.0,
-                "LAID_LAB": 2.606
+                "LAID_LAB": 2.606,
+                "pid": "64246dc78ac5470a33c9fe20"
             },
             "_id": "67f6c7638ac5478ec56ca150",
             "paid": "67f6c7638ac5478ec56ca150"
@@ -3308,7 +3402,8 @@
                 "MBWAD": 1308.0,
                 "PWAD": 1797.0,
                 "CWAD": 5562.0,
-                "LAID_LAB": 2.222
+                "LAID_LAB": 2.222,
+                "pid": "64246dc78ac5470a33c9fe20"
             },
             "_id": "67f6c7638ac5478ec56ca151",
             "paid": "67f6c7638ac5478ec56ca151"
@@ -3343,7 +3438,8 @@
                 "MBWAD": 2729.0,
                 "PWAD": 4661.0,
                 "CWAD": 14666.0,
-                "LAID_LAB": 5.78
+                "LAID_LAB": 5.78,
+                "pid": "64246dc78ac5470a33c9fe20"
             },
             "_id": "67f6c7638ac5478ec56ca152",
             "paid": "67f6c7638ac5478ec56ca152"
@@ -3377,7 +3473,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 89.0,
-                "LAID_LAB": 0.076
+                "LAID_LAB": 0.076,
+                "pid": "64246dc78ac5470a33c9fe21"
             },
             "_id": "67f6c7638ac5478ec56ca153",
             "paid": "67f6c7638ac5478ec56ca153"
@@ -3412,7 +3509,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 10.0,
                 "CWAD": 509.0,
-                "LAID_LAB": 0.41
+                "LAID_LAB": 0.41,
+                "pid": "64246dc78ac5470a33c9fe21"
             },
             "_id": "67f6c7638ac5478ec56ca154",
             "paid": "67f6c7638ac5478ec56ca154"
@@ -3447,7 +3545,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 81.0,
                 "CWAD": 2320.0,
-                "LAID_LAB": 1.557
+                "LAID_LAB": 1.557,
+                "pid": "64246dc78ac5470a33c9fe21"
             },
             "_id": "67f6c7638ac5478ec56ca155",
             "paid": "67f6c7638ac5478ec56ca155"
@@ -3482,7 +3581,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1298.0,
                 "CWAD": 5971.0,
-                "LAID_LAB": 2.77
+                "LAID_LAB": 2.77,
+                "pid": "64246dc78ac5470a33c9fe21"
             },
             "_id": "67f6c7638ac5478ec56ca156",
             "paid": "67f6c7638ac5478ec56ca156"
@@ -3517,7 +3617,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1785.0,
                 "CWAD": 6290.0,
-                "LAID_LAB": 2.39
+                "LAID_LAB": 2.39,
+                "pid": "64246dc78ac5470a33c9fe21"
             },
             "_id": "67f6c7638ac5478ec56ca157",
             "paid": "67f6c7638ac5478ec56ca157"
@@ -3552,7 +3653,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2946.0,
                 "CWAD": 7228.0,
-                "LAID_LAB": 2.242
+                "LAID_LAB": 2.242,
+                "pid": "64246dc78ac5470a33c9fe21"
             },
             "_id": "67f6c7638ac5478ec56ca158",
             "paid": "67f6c7638ac5478ec56ca158"
@@ -3587,7 +3689,8 @@
                 "MBWAD": 2842.0,
                 "PWAD": 4842.0,
                 "CWAD": 11673.0,
-                "LAID_LAB": 3.982
+                "LAID_LAB": 3.982,
+                "pid": "64246dc78ac5470a33c9fe21"
             },
             "_id": "67f6c7638ac5478ec56ca159",
             "paid": "67f6c7638ac5478ec56ca159"
@@ -3622,7 +3725,8 @@
                 "MBWAD": 4573.0,
                 "PWAD": 5327.0,
                 "CWAD": 14981.0,
-                "LAID_LAB": 6.455
+                "LAID_LAB": 6.455,
+                "pid": "64246dc78ac5470a33c9fe21"
             },
             "_id": "67f6c7638ac5478ec56ca15a",
             "paid": "67f6c7638ac5478ec56ca15a"
@@ -3656,7 +3760,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 126.0,
-                "LAID_LAB": 0.102
+                "LAID_LAB": 0.102,
+                "pid": "64246dc78ac5470a33c9fe22"
             },
             "_id": "67f6c7638ac5478ec56ca15b",
             "paid": "67f6c7638ac5478ec56ca15b"
@@ -3691,7 +3796,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 11.0,
                 "CWAD": 502.0,
-                "LAID_LAB": 0.41
+                "LAID_LAB": 0.41,
+                "pid": "64246dc78ac5470a33c9fe22"
             },
             "_id": "67f6c7638ac5478ec56ca15c",
             "paid": "67f6c7638ac5478ec56ca15c"
@@ -3726,7 +3832,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 129.0,
                 "CWAD": 2020.0,
-                "LAID_LAB": 1.096
+                "LAID_LAB": 1.096,
+                "pid": "64246dc78ac5470a33c9fe22"
             },
             "_id": "67f6c7638ac5478ec56ca15d",
             "paid": "67f6c7638ac5478ec56ca15d"
@@ -3761,7 +3868,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 849.0,
                 "CWAD": 5160.0,
-                "LAID_LAB": 2.81
+                "LAID_LAB": 2.81,
+                "pid": "64246dc78ac5470a33c9fe22"
             },
             "_id": "67f6c7638ac5478ec56ca15e",
             "paid": "67f6c7638ac5478ec56ca15e"
@@ -3796,7 +3904,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 3422.0,
                 "CWAD": 9874.0,
-                "LAID_LAB": 4.107
+                "LAID_LAB": 4.107,
+                "pid": "64246dc78ac5470a33c9fe22"
             },
             "_id": "67f6c7638ac5478ec56ca15f",
             "paid": "67f6c7638ac5478ec56ca15f"
@@ -3831,7 +3940,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 3395.0,
                 "CWAD": 8121.0,
-                "LAID_LAB": 2.981
+                "LAID_LAB": 2.981,
+                "pid": "64246dc78ac5470a33c9fe22"
             },
             "_id": "67f6c7638ac5478ec56ca160",
             "paid": "67f6c7638ac5478ec56ca160"
@@ -3866,7 +3976,8 @@
                 "MBWAD": 3911.0,
                 "PWAD": 6493.0,
                 "CWAD": 12650.0,
-                "LAID_LAB": 4.149
+                "LAID_LAB": 4.149,
+                "pid": "64246dc78ac5470a33c9fe22"
             },
             "_id": "67f6c7638ac5478ec56ca161",
             "paid": "67f6c7638ac5478ec56ca161"
@@ -3901,7 +4012,8 @@
                 "MBWAD": 9009.0,
                 "PWAD": 10674.0,
                 "CWAD": 23086.0,
-                "LAID_LAB": 7.262
+                "LAID_LAB": 7.262,
+                "pid": "64246dc78ac5470a33c9fe22"
             },
             "_id": "67f6c7638ac5478ec56ca162",
             "paid": "67f6c7638ac5478ec56ca162"
@@ -3935,7 +4047,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 86.0,
-                "LAID_LAB": 0.068
+                "LAID_LAB": 0.068,
+                "pid": "64246dc78ac5470a33c9fe23"
             },
             "_id": "67f6c7638ac5478ec56ca163",
             "paid": "67f6c7638ac5478ec56ca163"
@@ -3970,7 +4083,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 5.0,
                 "CWAD": 601.0,
-                "LAID_LAB": 0.489
+                "LAID_LAB": 0.489,
+                "pid": "64246dc78ac5470a33c9fe23"
             },
             "_id": "67f6c7638ac5478ec56ca164",
             "paid": "67f6c7638ac5478ec56ca164"
@@ -4005,7 +4119,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 63.0,
                 "CWAD": 1307.0,
-                "LAID_LAB": 0.806
+                "LAID_LAB": 0.806,
+                "pid": "64246dc78ac5470a33c9fe23"
             },
             "_id": "67f6c7638ac5478ec56ca165",
             "paid": "67f6c7638ac5478ec56ca165"
@@ -4040,7 +4155,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 514.0,
                 "CWAD": 3116.0,
-                "LAID_LAB": 1.475
+                "LAID_LAB": 1.475,
+                "pid": "64246dc78ac5470a33c9fe23"
             },
             "_id": "67f6c7638ac5478ec56ca166",
             "paid": "67f6c7638ac5478ec56ca166"
@@ -4075,7 +4191,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1496.0,
                 "CWAD": 6409.0,
-                "LAID_LAB": 2.918
+                "LAID_LAB": 2.918,
+                "pid": "64246dc78ac5470a33c9fe23"
             },
             "_id": "67f6c7638ac5478ec56ca167",
             "paid": "67f6c7638ac5478ec56ca167"
@@ -4110,7 +4227,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2088.0,
                 "CWAD": 6892.0,
-                "LAID_LAB": 3.297
+                "LAID_LAB": 3.297,
+                "pid": "64246dc78ac5470a33c9fe23"
             },
             "_id": "67f6c7638ac5478ec56ca168",
             "paid": "67f6c7638ac5478ec56ca168"
@@ -4145,7 +4263,8 @@
                 "MBWAD": 2478.0,
                 "PWAD": 3602.0,
                 "CWAD": 8428.0,
-                "LAID_LAB": 2.878
+                "LAID_LAB": 2.878,
+                "pid": "64246dc78ac5470a33c9fe23"
             },
             "_id": "67f6c7638ac5478ec56ca169",
             "paid": "67f6c7638ac5478ec56ca169"
@@ -4180,7 +4299,8 @@
                 "MBWAD": 2387.0,
                 "PWAD": 2940.0,
                 "CWAD": 9356.0,
-                "LAID_LAB": 4.04
+                "LAID_LAB": 4.04,
+                "pid": "64246dc78ac5470a33c9fe23"
             },
             "_id": "67f6c7638ac5478ec56ca16a",
             "paid": "67f6c7638ac5478ec56ca16a"
@@ -4214,7 +4334,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 58.0,
-                "LAID_LAB": 0.052
+                "LAID_LAB": 0.052,
+                "pid": "64246dc78ac5470a33c9fe24"
             },
             "_id": "67f6c7638ac5478ec56ca16b",
             "paid": "67f6c7638ac5478ec56ca16b"
@@ -4249,7 +4370,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 5.0,
                 "CWAD": 392.0,
-                "LAID_LAB": 0.351
+                "LAID_LAB": 0.351,
+                "pid": "64246dc78ac5470a33c9fe24"
             },
             "_id": "67f6c7638ac5478ec56ca16c",
             "paid": "67f6c7638ac5478ec56ca16c"
@@ -4284,7 +4406,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 97.0,
                 "CWAD": 1581.0,
-                "LAID_LAB": 0.978
+                "LAID_LAB": 0.978,
+                "pid": "64246dc78ac5470a33c9fe24"
             },
             "_id": "67f6c7638ac5478ec56ca16d",
             "paid": "67f6c7638ac5478ec56ca16d"
@@ -4319,7 +4442,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 952.0,
                 "CWAD": 4904.0,
-                "LAID_LAB": 2.464
+                "LAID_LAB": 2.464,
+                "pid": "64246dc78ac5470a33c9fe24"
             },
             "_id": "67f6c7638ac5478ec56ca16e",
             "paid": "67f6c7638ac5478ec56ca16e"
@@ -4354,7 +4478,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1638.0,
                 "CWAD": 3687.0,
-                "LAID_LAB": 1.134
+                "LAID_LAB": 1.134,
+                "pid": "64246dc78ac5470a33c9fe24"
             },
             "_id": "67f6c7638ac5478ec56ca16f",
             "paid": "67f6c7638ac5478ec56ca16f"
@@ -4389,7 +4514,8 @@
                 "MBWAD": 454.0,
                 "PWAD": 3670.0,
                 "CWAD": 8218.0,
-                "LAID_LAB": 2.866
+                "LAID_LAB": 2.866,
+                "pid": "64246dc78ac5470a33c9fe24"
             },
             "_id": "67f6c7638ac5478ec56ca170",
             "paid": "67f6c7638ac5478ec56ca170"
@@ -4424,7 +4550,8 @@
                 "MBWAD": 4783.0,
                 "PWAD": 5060.0,
                 "CWAD": 11825.0,
-                "LAID_LAB": 3.317
+                "LAID_LAB": 3.317,
+                "pid": "64246dc78ac5470a33c9fe24"
             },
             "_id": "67f6c7638ac5478ec56ca171",
             "paid": "67f6c7638ac5478ec56ca171"
@@ -4459,7 +4586,8 @@
                 "MBWAD": 2496.0,
                 "PWAD": 3171.0,
                 "CWAD": 8637.0,
-                "LAID_LAB": 2.731
+                "LAID_LAB": 2.731,
+                "pid": "64246dc78ac5470a33c9fe24"
             },
             "_id": "67f6c7638ac5478ec56ca172",
             "paid": "67f6c7638ac5478ec56ca172"
@@ -4493,7 +4621,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 77.0,
-                "LAID_LAB": 0.063
+                "LAID_LAB": 0.063,
+                "pid": "64246dc78ac5470a33c9fe25"
             },
             "_id": "67f6c7638ac5478ec56ca173",
             "paid": "67f6c7638ac5478ec56ca173"
@@ -4528,7 +4657,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 12.0,
                 "CWAD": 633.0,
-                "LAID_LAB": 0.557
+                "LAID_LAB": 0.557,
+                "pid": "64246dc78ac5470a33c9fe25"
             },
             "_id": "67f6c7638ac5478ec56ca174",
             "paid": "67f6c7638ac5478ec56ca174"
@@ -4563,7 +4693,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 79.0,
                 "CWAD": 2180.0,
-                "LAID_LAB": 1.275
+                "LAID_LAB": 1.275,
+                "pid": "64246dc78ac5470a33c9fe25"
             },
             "_id": "67f6c7638ac5478ec56ca175",
             "paid": "67f6c7638ac5478ec56ca175"
@@ -4598,7 +4729,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 381.0,
                 "CWAD": 2672.0,
-                "LAID_LAB": 1.563
+                "LAID_LAB": 1.563,
+                "pid": "64246dc78ac5470a33c9fe25"
             },
             "_id": "67f6c7638ac5478ec56ca176",
             "paid": "67f6c7638ac5478ec56ca176"
@@ -4633,7 +4765,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 952.0,
                 "CWAD": 2872.0,
-                "LAID_LAB": 1.363
+                "LAID_LAB": 1.363,
+                "pid": "64246dc78ac5470a33c9fe25"
             },
             "_id": "67f6c7638ac5478ec56ca177",
             "paid": "67f6c7638ac5478ec56ca177"
@@ -4668,7 +4801,8 @@
                 "MBWAD": 1246.0,
                 "PWAD": 5914.0,
                 "CWAD": 12545.0,
-                "LAID_LAB": 4.366
+                "LAID_LAB": 4.366,
+                "pid": "64246dc78ac5470a33c9fe25"
             },
             "_id": "67f6c7638ac5478ec56ca178",
             "paid": "67f6c7638ac5478ec56ca178"
@@ -4703,7 +4837,8 @@
                 "MBWAD": 4942.0,
                 "PWAD": 5546.0,
                 "CWAD": 12641.0,
-                "LAID_LAB": 4.571
+                "LAID_LAB": 4.571,
+                "pid": "64246dc78ac5470a33c9fe25"
             },
             "_id": "67f6c7638ac5478ec56ca179",
             "paid": "67f6c7638ac5478ec56ca179"
@@ -4738,7 +4873,8 @@
                 "MBWAD": 6940.0,
                 "PWAD": 9123.0,
                 "CWAD": 22843.0,
-                "LAID_LAB": 7.409
+                "LAID_LAB": 7.409,
+                "pid": "64246dc78ac5470a33c9fe25"
             },
             "_id": "67f6c7638ac5478ec56ca17a",
             "paid": "67f6c7638ac5478ec56ca17a"
@@ -4772,7 +4908,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 57.0,
-                "LAID_LAB": 0.053
+                "LAID_LAB": 0.053,
+                "pid": "64246dc78ac5470a33c9fe26"
             },
             "_id": "67f6c7638ac5478ec56ca17b",
             "paid": "67f6c7638ac5478ec56ca17b"
@@ -4807,7 +4944,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 6.0,
                 "CWAD": 435.0,
-                "LAID_LAB": 0.384
+                "LAID_LAB": 0.384,
+                "pid": "64246dc78ac5470a33c9fe26"
             },
             "_id": "67f6c7638ac5478ec56ca17c",
             "paid": "67f6c7638ac5478ec56ca17c"
@@ -4842,7 +4980,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 71.0,
                 "CWAD": 1483.0,
-                "LAID_LAB": 1.026
+                "LAID_LAB": 1.026,
+                "pid": "64246dc78ac5470a33c9fe26"
             },
             "_id": "67f6c7638ac5478ec56ca17d",
             "paid": "67f6c7638ac5478ec56ca17d"
@@ -4877,7 +5016,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 455.0,
                 "CWAD": 4847.0,
-                "LAID_LAB": 2.991
+                "LAID_LAB": 2.991,
+                "pid": "64246dc78ac5470a33c9fe26"
             },
             "_id": "67f6c7638ac5478ec56ca17e",
             "paid": "67f6c7638ac5478ec56ca17e"
@@ -4912,7 +5052,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2381.0,
                 "CWAD": 7148.0,
-                "LAID_LAB": 3.436
+                "LAID_LAB": 3.436,
+                "pid": "64246dc78ac5470a33c9fe26"
             },
             "_id": "67f6c7638ac5478ec56ca17f",
             "paid": "67f6c7638ac5478ec56ca17f"
@@ -4947,7 +5088,8 @@
                 "MBWAD": 550.0,
                 "PWAD": 6229.0,
                 "CWAD": 12362.0,
-                "LAID_LAB": 4.085
+                "LAID_LAB": 4.085,
+                "pid": "64246dc78ac5470a33c9fe26"
             },
             "_id": "67f6c7638ac5478ec56ca180",
             "paid": "67f6c7638ac5478ec56ca180"
@@ -4982,7 +5124,8 @@
                 "MBWAD": 1912.0,
                 "PWAD": 4455.0,
                 "CWAD": 9654.0,
-                "LAID_LAB": 3.649
+                "LAID_LAB": 3.649,
+                "pid": "64246dc78ac5470a33c9fe26"
             },
             "_id": "67f6c7638ac5478ec56ca181",
             "paid": "67f6c7638ac5478ec56ca181"
@@ -5017,7 +5160,8 @@
                 "MBWAD": 4526.0,
                 "PWAD": 6114.0,
                 "CWAD": 14459.0,
-                "LAID_LAB": 4.952
+                "LAID_LAB": 4.952,
+                "pid": "64246dc78ac5470a33c9fe26"
             },
             "_id": "67f6c7638ac5478ec56ca182",
             "paid": "67f6c7638ac5478ec56ca182"
@@ -5051,7 +5195,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 96.0,
-                "LAID_LAB": 0.076
+                "LAID_LAB": 0.076,
+                "pid": "64246dc78ac5470a33c9fe27"
             },
             "_id": "67f6c7638ac5478ec56ca183",
             "paid": "67f6c7638ac5478ec56ca183"
@@ -5086,7 +5231,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 4.0,
                 "CWAD": 363.0,
-                "LAID_LAB": 0.33
+                "LAID_LAB": 0.33,
+                "pid": "64246dc78ac5470a33c9fe27"
             },
             "_id": "67f6c7638ac5478ec56ca184",
             "paid": "67f6c7638ac5478ec56ca184"
@@ -5121,7 +5267,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 58.0,
                 "CWAD": 1476.0,
-                "LAID_LAB": 0.923
+                "LAID_LAB": 0.923,
+                "pid": "64246dc78ac5470a33c9fe27"
             },
             "_id": "67f6c7638ac5478ec56ca185",
             "paid": "67f6c7638ac5478ec56ca185"
@@ -5156,7 +5303,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 642.0,
                 "CWAD": 3746.0,
-                "LAID_LAB": 2.242
+                "LAID_LAB": 2.242,
+                "pid": "64246dc78ac5470a33c9fe27"
             },
             "_id": "67f6c7638ac5478ec56ca186",
             "paid": "67f6c7638ac5478ec56ca186"
@@ -5191,7 +5339,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1373.0,
                 "CWAD": 4543.0,
-                "LAID_LAB": 2.33
+                "LAID_LAB": 2.33,
+                "pid": "64246dc78ac5470a33c9fe27"
             },
             "_id": "67f6c7638ac5478ec56ca187",
             "paid": "67f6c7638ac5478ec56ca187"
@@ -5226,7 +5375,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1814.0,
                 "CWAD": 5822.0,
-                "LAID_LAB": 2.409
+                "LAID_LAB": 2.409,
+                "pid": "64246dc78ac5470a33c9fe27"
             },
             "_id": "67f6c7638ac5478ec56ca188",
             "paid": "67f6c7638ac5478ec56ca188"
@@ -5261,7 +5411,8 @@
                 "MBWAD": 3448.0,
                 "PWAD": 3618.0,
                 "CWAD": 8859.0,
-                "LAID_LAB": 2.597
+                "LAID_LAB": 2.597,
+                "pid": "64246dc78ac5470a33c9fe27"
             },
             "_id": "67f6c7638ac5478ec56ca189",
             "paid": "67f6c7638ac5478ec56ca189"
@@ -5296,7 +5447,8 @@
                 "MBWAD": 1426.0,
                 "PWAD": 1791.0,
                 "CWAD": 5576.0,
-                "LAID_LAB": 2.056
+                "LAID_LAB": 2.056,
+                "pid": "64246dc78ac5470a33c9fe27"
             },
             "_id": "67f6c7638ac5478ec56ca18a",
             "paid": "67f6c7638ac5478ec56ca18a"
@@ -5330,7 +5482,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 41.0,
-                "LAID_LAB": 0.038
+                "LAID_LAB": 0.038,
+                "pid": "64246dc78ac5470a33c9fe28"
             },
             "_id": "67f6c7638ac5478ec56ca18b",
             "paid": "67f6c7638ac5478ec56ca18b"
@@ -5365,7 +5518,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 3.0,
                 "CWAD": 297.0,
-                "LAID_LAB": 0.291
+                "LAID_LAB": 0.291,
+                "pid": "64246dc78ac5470a33c9fe28"
             },
             "_id": "67f6c7638ac5478ec56ca18c",
             "paid": "67f6c7638ac5478ec56ca18c"
@@ -5400,7 +5554,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 51.0,
                 "CWAD": 1149.0,
-                "LAID_LAB": 0.72
+                "LAID_LAB": 0.72,
+                "pid": "64246dc78ac5470a33c9fe28"
             },
             "_id": "67f6c7638ac5478ec56ca18d",
             "paid": "67f6c7638ac5478ec56ca18d"
@@ -5435,7 +5590,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 368.0,
                 "CWAD": 3108.0,
-                "LAID_LAB": 1.5
+                "LAID_LAB": 1.5,
+                "pid": "64246dc78ac5470a33c9fe28"
             },
             "_id": "67f6c7638ac5478ec56ca18e",
             "paid": "67f6c7638ac5478ec56ca18e"
@@ -5470,7 +5626,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2151.0,
                 "CWAD": 5364.0,
-                "LAID_LAB": 1.925
+                "LAID_LAB": 1.925,
+                "pid": "64246dc78ac5470a33c9fe28"
             },
             "_id": "67f6c7638ac5478ec56ca18f",
             "paid": "67f6c7638ac5478ec56ca18f"
@@ -5505,7 +5662,8 @@
                 "MBWAD": 1110.0,
                 "PWAD": 2554.0,
                 "CWAD": 5662.0,
-                "LAID_LAB": 1.718
+                "LAID_LAB": 1.718,
+                "pid": "64246dc78ac5470a33c9fe28"
             },
             "_id": "67f6c7638ac5478ec56ca190",
             "paid": "67f6c7638ac5478ec56ca190"
@@ -5540,7 +5698,8 @@
                 "MBWAD": 1410.0,
                 "PWAD": 1968.0,
                 "CWAD": 5651.0,
-                "LAID_LAB": 2.274
+                "LAID_LAB": 2.274,
+                "pid": "64246dc78ac5470a33c9fe28"
             },
             "_id": "67f6c7638ac5478ec56ca191",
             "paid": "67f6c7638ac5478ec56ca191"
@@ -5575,7 +5734,8 @@
                 "MBWAD": 1897.0,
                 "PWAD": 2495.0,
                 "CWAD": 6866.0,
-                "LAID_LAB": 2.284
+                "LAID_LAB": 2.284,
+                "pid": "64246dc78ac5470a33c9fe28"
             },
             "_id": "67f6c7638ac5478ec56ca192",
             "paid": "67f6c7638ac5478ec56ca192"
@@ -5609,7 +5769,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 72.0,
-                "LAID_LAB": 0.055
+                "LAID_LAB": 0.055,
+                "pid": "64246dc78ac5470a33c9fe29"
             },
             "_id": "67f6c7638ac5478ec56ca193",
             "paid": "67f6c7638ac5478ec56ca193"
@@ -5644,7 +5805,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 6.0,
                 "CWAD": 333.0,
-                "LAID_LAB": 0.298
+                "LAID_LAB": 0.298,
+                "pid": "64246dc78ac5470a33c9fe29"
             },
             "_id": "67f6c7638ac5478ec56ca194",
             "paid": "67f6c7638ac5478ec56ca194"
@@ -5679,7 +5841,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 24.0,
                 "CWAD": 1160.0,
-                "LAID_LAB": 0.8
+                "LAID_LAB": 0.8,
+                "pid": "64246dc78ac5470a33c9fe29"
             },
             "_id": "67f6c7638ac5478ec56ca195",
             "paid": "67f6c7638ac5478ec56ca195"
@@ -5714,7 +5877,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1187.0,
                 "CWAD": 5626.0,
-                "LAID_LAB": 2.494
+                "LAID_LAB": 2.494,
+                "pid": "64246dc78ac5470a33c9fe29"
             },
             "_id": "67f6c7638ac5478ec56ca196",
             "paid": "67f6c7638ac5478ec56ca196"
@@ -5749,7 +5913,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 498.0,
                 "CWAD": 2970.0,
-                "LAID_LAB": 1.376
+                "LAID_LAB": 1.376,
+                "pid": "64246dc78ac5470a33c9fe29"
             },
             "_id": "67f6c7638ac5478ec56ca197",
             "paid": "67f6c7638ac5478ec56ca197"
@@ -5784,7 +5949,8 @@
                 "MBWAD": 1799.0,
                 "PWAD": 4397.0,
                 "CWAD": 9036.0,
-                "LAID_LAB": 2.462
+                "LAID_LAB": 2.462,
+                "pid": "64246dc78ac5470a33c9fe29"
             },
             "_id": "67f6c7638ac5478ec56ca198",
             "paid": "67f6c7638ac5478ec56ca198"
@@ -5819,7 +5985,8 @@
                 "MBWAD": 2703.0,
                 "PWAD": 4522.0,
                 "CWAD": 10518.0,
-                "LAID_LAB": 3.321
+                "LAID_LAB": 3.321,
+                "pid": "64246dc78ac5470a33c9fe29"
             },
             "_id": "67f6c7638ac5478ec56ca199",
             "paid": "67f6c7638ac5478ec56ca199"
@@ -5854,7 +6021,8 @@
                 "MBWAD": 3070.0,
                 "PWAD": 3991.0,
                 "CWAD": 10370.0,
-                "LAID_LAB": 3.668
+                "LAID_LAB": 3.668,
+                "pid": "64246dc78ac5470a33c9fe29"
             },
             "_id": "67f6c7638ac5478ec56ca19a",
             "paid": "67f6c7638ac5478ec56ca19a"
@@ -5888,7 +6056,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 126.0,
-                "LAID_LAB": 0.102
+                "LAID_LAB": 0.102,
+                "pid": "64246dc78ac5470a33c9fe2a"
             },
             "_id": "67f6c7638ac5478ec56ca19b",
             "paid": "67f6c7638ac5478ec56ca19b"
@@ -5923,7 +6092,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1.0,
                 "CWAD": 259.0,
-                "LAID_LAB": 0.255
+                "LAID_LAB": 0.255,
+                "pid": "64246dc78ac5470a33c9fe2a"
             },
             "_id": "67f6c7638ac5478ec56ca19c",
             "paid": "67f6c7638ac5478ec56ca19c"
@@ -5958,7 +6128,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 21.0,
                 "CWAD": 1050.0,
-                "LAID_LAB": 0.685
+                "LAID_LAB": 0.685,
+                "pid": "64246dc78ac5470a33c9fe2a"
             },
             "_id": "67f6c7638ac5478ec56ca19d",
             "paid": "67f6c7638ac5478ec56ca19d"
@@ -5993,7 +6164,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 181.0,
                 "CWAD": 2198.0,
-                "LAID_LAB": 1.382
+                "LAID_LAB": 1.382,
+                "pid": "64246dc78ac5470a33c9fe2a"
             },
             "_id": "67f6c7638ac5478ec56ca19e",
             "paid": "67f6c7638ac5478ec56ca19e"
@@ -6028,7 +6200,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2507.0,
                 "CWAD": 6265.0,
-                "LAID_LAB": 2.453
+                "LAID_LAB": 2.453,
+                "pid": "64246dc78ac5470a33c9fe2a"
             },
             "_id": "67f6c7638ac5478ec56ca19f",
             "paid": "67f6c7638ac5478ec56ca19f"
@@ -6063,7 +6236,8 @@
                 "MBWAD": 350.0,
                 "PWAD": 3643.0,
                 "CWAD": 8155.0,
-                "LAID_LAB": 2.521
+                "LAID_LAB": 2.521,
+                "pid": "64246dc78ac5470a33c9fe2a"
             },
             "_id": "67f6c7638ac5478ec56ca1a0",
             "paid": "67f6c7638ac5478ec56ca1a0"
@@ -6098,7 +6272,8 @@
                 "MBWAD": 3433.0,
                 "PWAD": 6020.0,
                 "CWAD": 13519.0,
-                "LAID_LAB": 3.846
+                "LAID_LAB": 3.846,
+                "pid": "64246dc78ac5470a33c9fe2a"
             },
             "_id": "67f6c7638ac5478ec56ca1a1",
             "paid": "67f6c7638ac5478ec56ca1a1"
@@ -6133,7 +6308,8 @@
                 "MBWAD": 4593.0,
                 "PWAD": 5374.0,
                 "CWAD": 13793.0,
-                "LAID_LAB": 4.791
+                "LAID_LAB": 4.791,
+                "pid": "64246dc78ac5470a33c9fe2a"
             },
             "_id": "67f6c7638ac5478ec56ca1a2",
             "paid": "67f6c7638ac5478ec56ca1a2"
@@ -6167,7 +6343,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 123.0,
-                "LAID_LAB": 0.105
+                "LAID_LAB": 0.105,
+                "pid": "64246dc78ac5470a33c9fe2b"
             },
             "_id": "67f6c7638ac5478ec56ca1a3",
             "paid": "67f6c7638ac5478ec56ca1a3"
@@ -6202,7 +6379,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 13.0,
                 "CWAD": 614.0,
-                "LAID_LAB": 0.505
+                "LAID_LAB": 0.505,
+                "pid": "64246dc78ac5470a33c9fe2b"
             },
             "_id": "67f6c7638ac5478ec56ca1a4",
             "paid": "67f6c7638ac5478ec56ca1a4"
@@ -6237,7 +6415,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 54.0,
                 "CWAD": 1105.0,
-                "LAID_LAB": 0.71
+                "LAID_LAB": 0.71,
+                "pid": "64246dc78ac5470a33c9fe2b"
             },
             "_id": "67f6c7638ac5478ec56ca1a5",
             "paid": "67f6c7638ac5478ec56ca1a5"
@@ -6271,7 +6450,8 @@
                 "SWAD": 1005.0,
                 "MBWAD": 0.0,
                 "CWAD": 1849.0,
-                "LAID_LAB": 1.237
+                "LAID_LAB": 1.237,
+                "pid": "64246dc78ac5470a33c9fe2b"
             },
             "_id": "67f6c7638ac5478ec56ca1a6",
             "paid": "67f6c7638ac5478ec56ca1a6"
@@ -6306,7 +6486,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 1396.0,
                 "CWAD": 4306.0,
-                "LAID_LAB": 2.082
+                "LAID_LAB": 2.082,
+                "pid": "64246dc78ac5470a33c9fe2b"
             },
             "_id": "67f6c7638ac5478ec56ca1a7",
             "paid": "67f6c7638ac5478ec56ca1a7"
@@ -6341,7 +6522,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2323.0,
                 "CWAD": 6331.0,
-                "LAID_LAB": 2.662
+                "LAID_LAB": 2.662,
+                "pid": "64246dc78ac5470a33c9fe2b"
             },
             "_id": "67f6c7638ac5478ec56ca1a8",
             "paid": "67f6c7638ac5478ec56ca1a8"
@@ -6376,7 +6558,8 @@
                 "MBWAD": 4235.0,
                 "PWAD": 8367.0,
                 "CWAD": 18153.0,
-                "LAID_LAB": 5.367
+                "LAID_LAB": 5.367,
+                "pid": "64246dc78ac5470a33c9fe2b"
             },
             "_id": "67f6c7638ac5478ec56ca1a9",
             "paid": "67f6c7638ac5478ec56ca1a9"
@@ -6411,7 +6594,8 @@
                 "MBWAD": 4501.0,
                 "PWAD": 5072.0,
                 "CWAD": 12364.0,
-                "LAID_LAB": 4.656
+                "LAID_LAB": 4.656,
+                "pid": "64246dc78ac5470a33c9fe2b"
             },
             "_id": "67f6c7638ac5478ec56ca1aa",
             "paid": "67f6c7638ac5478ec56ca1aa"
@@ -6445,7 +6629,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 0.0,
                 "CWAD": 56.0,
-                "LAID_LAB": 0.048
+                "LAID_LAB": 0.048,
+                "pid": "64246dc78ac5470a33c9fe2c"
             },
             "_id": "67f6c7638ac5478ec56ca1ab",
             "paid": "67f6c7638ac5478ec56ca1ab"
@@ -6480,7 +6665,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 3.0,
                 "CWAD": 270.0,
-                "LAID_LAB": 0.235
+                "LAID_LAB": 0.235,
+                "pid": "64246dc78ac5470a33c9fe2c"
             },
             "_id": "67f6c7638ac5478ec56ca1ac",
             "paid": "67f6c7638ac5478ec56ca1ac"
@@ -6515,7 +6701,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 85.0,
                 "CWAD": 1313.0,
-                "LAID_LAB": 0.822
+                "LAID_LAB": 0.822,
+                "pid": "64246dc78ac5470a33c9fe2c"
             },
             "_id": "67f6c7638ac5478ec56ca1ad",
             "paid": "67f6c7638ac5478ec56ca1ad"
@@ -6550,7 +6737,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 280.0,
                 "CWAD": 3386.0,
-                "LAID_LAB": 2.008
+                "LAID_LAB": 2.008,
+                "pid": "64246dc78ac5470a33c9fe2c"
             },
             "_id": "67f6c7638ac5478ec56ca1ae",
             "paid": "67f6c7638ac5478ec56ca1ae"
@@ -6585,7 +6773,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 2483.0,
                 "CWAD": 8571.0,
-                "LAID_LAB": 4.151
+                "LAID_LAB": 4.151,
+                "pid": "64246dc78ac5470a33c9fe2c"
             },
             "_id": "67f6c7638ac5478ec56ca1af",
             "paid": "67f6c7638ac5478ec56ca1af"
@@ -6620,7 +6809,8 @@
                 "MBWAD": 0.0,
                 "PWAD": 3354.0,
                 "CWAD": 8715.0,
-                "LAID_LAB": 3.339
+                "LAID_LAB": 3.339,
+                "pid": "64246dc78ac5470a33c9fe2c"
             },
             "_id": "67f6c7638ac5478ec56ca1b0",
             "paid": "67f6c7638ac5478ec56ca1b0"
@@ -6655,7 +6845,8 @@
                 "MBWAD": 863.0,
                 "PWAD": 2155.0,
                 "CWAD": 5743.0,
-                "LAID_LAB": 2.29
+                "LAID_LAB": 2.29,
+                "pid": "64246dc78ac5470a33c9fe2c"
             },
             "_id": "67f6c7638ac5478ec56ca1b1",
             "paid": "67f6c7638ac5478ec56ca1b1"
@@ -6690,7 +6881,8 @@
                 "MBWAD": 1835.0,
                 "PWAD": 2983.0,
                 "CWAD": 9738.0,
-                "LAID_LAB": 3.66
+                "LAID_LAB": 3.66,
+                "pid": "64246dc78ac5470a33c9fe2c"
             },
             "_id": "67f6c7638ac5478ec56ca1b2",
             "paid": "67f6c7638ac5478ec56ca1b2"

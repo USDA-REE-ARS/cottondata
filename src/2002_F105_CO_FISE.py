@@ -321,6 +321,7 @@ for feature in layer:
             myplot.setproperty('FBCGR' ,row.iloc[0]['FBCGR'])
         if not math.isnan(row.iloc[0]['FBTAR']):
             myplot.setproperty('FBTAR' ,round(row.iloc[0]['FBTAR' ],2))
+    myplot.setproperty('eid',myexp.getid())
     plots.append(myplot)
 ########################################################################
 
@@ -338,7 +339,7 @@ safile = '../Data/'+fname+'/'+fname+'_SoilPhysicalAnalysis.xlsx'
 soil = pd.read_excel(safile,sheet_name='SoilHA')
 hareas = list()
 for feature in layer:
-    haid = feature.GetField('ObjectId')
+    chid = feature.GetField('ObjectId')
     ha_label = feature.GetField('HID') #(e.g., p101)
     geometry = feature.GetGeometryRef()
     geomcount = geometry.GetGeometryCount()
@@ -351,7 +352,7 @@ for feature in layer:
         print('Unexpected spatial reference in harvest area shapefile.')
         sys.exit()
     ha_area = geometry.GetArea()
-    myha = cropharvest.CropHarvest(haid=haid,geometry=geometry,ha_label=ha_label)
+    myha = cropharvest.CropHarvest(chid=chid,geometry=geometry,ha_label=ha_label)
     myha.setproperty('HAREA',round(ha_area,6))
     #Yield and fiber quality data
     if plt_label not in ['p901','p903','p905','p907']:
@@ -463,7 +464,8 @@ for feature in layer:
     found=False
     for plot in plots:
         if plot.plt_label == ha_label:
-            plot.addhaid(myha.getid())
+            plot.addchid(myha.getid())
+            myha.setproperty('pid',plot.getid())
             found=True
             break
     if not found:
@@ -481,14 +483,14 @@ swcfile = '../Data/'+fname+'/'+fname+'_SoilWaterContent.xlsx'
 swc = pd.read_excel(swcfile,sheet_name='Summary')
 tubes = list()
 for feature in layer:
-    tid = feature.GetField('ObjectId')
+    swcid = feature.GetField('ObjectId')
     tb_label = str(feature.GetField('Tube')) #(e.g., 101)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in neutronSWC shapefile.')
         sys.exit()
-    mytube = soilwatercontent.SoilWaterContent(tid=tid,geometry=geometry,tb_label=tb_label)
+    mytube = soilwatercontent.SoilWaterContent(swcid=swcid,geometry=geometry,tb_label=tb_label)
     #Neutron soil water content data
     rows = swc.loc[swc['Tube'] == int(tb_label)]
     rows = rows.sort_values(by='DOY')
@@ -517,7 +519,8 @@ for feature in layer:
     found=False
     for plot in plots:
         if int(plot.plt_label[1:]) == int(tb_label):
-            plot.addtid(mytube.getid())
+            plot.addswcid(mytube.getid())
+            mytube.setproperty('pid',plot.getid())
             found=True
             break
     if not found:
@@ -599,6 +602,7 @@ for feature in layer:
     for plot in plots:
         if plot.plt_label == cc_label[:4]:
             plot.addccid(mycc.getid())
+            mycc.setproperty('pid',plot.getid())
             found = True
             break
     if not found:
@@ -615,14 +619,14 @@ layer = shapes.GetLayer()
 safile = '../Data/'+fname+'/'+fname+'_SoilPhysicalAnalysis.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDJH')
 for feature in layer:
-    said = feature.GetField('ObjectId')
+    spaid = feature.GetField('ObjectId')
     sa_label = feature.GetField('Core')  #(e.g., p101)
     if sa_label in sa['Core'].values:
         row = sa[sa['Core'] == sa_label]
         found = False
         for plot in plots:
             if plot.plt_label == row.iloc[0]['Plot']:
-                plot.addsaid(said)
+                plot.addspaid(spaid)
                 found = True
                 break
         if not found:

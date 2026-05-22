@@ -4,7 +4,7 @@ import geojson
 from osgeo import osr
 
 class SoilChemicalAnalysis:
-    def __init__(self,scid=None,geometry=None,sc_label=None):
+    def __init__(self,scaid=None,geometry=None,sc_label=None):
 
         #Establish feature geometry in lon/lat (geojson standard)
         if geometry is not None:
@@ -22,23 +22,23 @@ class SoilChemicalAnalysis:
             self.doc = geojson.Feature()
 
         #Establish soil analysis core id
-        self.scid = scid
-        if self.scid is None:
-            self.scid = str(bson.objectid.ObjectId())
-        if not bson.objectid.ObjectId.is_valid(scid):
+        self.scaid = scaid
+        if self.scaid is None:
+            self.scaid = str(bson.objectid.ObjectId())
+        if not bson.objectid.ObjectId.is_valid(scaid):
             raise ValueError('Invalid ObjectId in SoilChemicalAnalysis')
-        self.doc.update({'_id':self.scid})
-        self.doc.update({'scid':self.scid})
+        self.doc.update({'_id':self.scaid})
+        self.doc.update({'scaid':self.scaid})
 
         #Set feature properties
         if sc_label is not None:
-            self.doc['properties'].update({'sc_label':sc_label})
+            self.doc['properties'].update({'sca_label':sc_label})
 
     def __str__(self):
         return str(json.dumps(self.doc,indent=4))
 
     def getid(self):
-        return self.scid
+        return self.scaid
 
     def setproperty(self,key,value):
         self.doc['properties'].update({key:value})

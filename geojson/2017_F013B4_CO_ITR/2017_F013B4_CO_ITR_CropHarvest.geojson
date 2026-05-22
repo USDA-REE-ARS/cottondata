@@ -31,7 +31,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "01-1A",
+                "ch_label": "01-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -519,10 +519,11 @@
                         "maxdepth": 200,
                         "value": 10.63
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd61"
             },
             "_id": "6425bb5a8ac54751232121e6",
-            "haid": "6425bb5a8ac54751232121e6"
+            "chid": "6425bb5a8ac54751232121e6"
         },
         {
             "type": "Feature",
@@ -554,7 +555,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "01-1B",
+                "ch_label": "01-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -1049,10 +1050,11 @@
                         "maxdepth": 200,
                         "value": 10.74
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd61"
             },
             "_id": "6425bb5a8ac54751232121e7",
-            "haid": "6425bb5a8ac54751232121e7"
+            "chid": "6425bb5a8ac54751232121e7"
         },
         {
             "type": "Feature",
@@ -1084,7 +1086,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "01-1C",
+                "ch_label": "01-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -1572,10 +1574,11 @@
                         "maxdepth": 200,
                         "value": 10.57
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd61"
             },
             "_id": "6425bb5a8ac54751232121e8",
-            "haid": "6425bb5a8ac54751232121e8"
+            "chid": "6425bb5a8ac54751232121e8"
         },
         {
             "type": "Feature",
@@ -1607,7 +1610,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "01-2A",
+                "ch_label": "01-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -2095,10 +2098,11 @@
                         "maxdepth": 200,
                         "value": 9.41
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd62"
             },
             "_id": "6425bb5a8ac54751232121e9",
-            "haid": "6425bb5a8ac54751232121e9"
+            "chid": "6425bb5a8ac54751232121e9"
         },
         {
             "type": "Feature",
@@ -2130,7 +2134,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "01-2B",
+                "ch_label": "01-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -2625,10 +2629,11 @@
                         "maxdepth": 200,
                         "value": 8.71
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd62"
             },
             "_id": "6425bb5a8ac54751232121ea",
-            "haid": "6425bb5a8ac54751232121ea"
+            "chid": "6425bb5a8ac54751232121ea"
         },
         {
             "type": "Feature",
@@ -2660,7 +2665,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "01-2C",
+                "ch_label": "01-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -3148,10 +3153,11 @@
                         "maxdepth": 200,
                         "value": 8.52
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd62"
             },
             "_id": "6425bb5a8ac54751232121eb",
-            "haid": "6425bb5a8ac54751232121eb"
+            "chid": "6425bb5a8ac54751232121eb"
         },
         {
             "type": "Feature",
@@ -3183,7 +3189,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "01-3A",
+                "ch_label": "01-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -3671,10 +3677,11 @@
                         "maxdepth": 200,
                         "value": 8.61
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd63"
             },
             "_id": "6425bb5a8ac54751232121ec",
-            "haid": "6425bb5a8ac54751232121ec"
+            "chid": "6425bb5a8ac54751232121ec"
         },
         {
             "type": "Feature",
@@ -3706,7 +3713,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "01-3B",
+                "ch_label": "01-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -4201,10 +4208,11 @@
                         "maxdepth": 200,
                         "value": 8.28
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd63"
             },
             "_id": "6425bb5a8ac54751232121ed",
-            "haid": "6425bb5a8ac54751232121ed"
+            "chid": "6425bb5a8ac54751232121ed"
         },
         {
             "type": "Feature",
@@ -4236,7 +4244,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "01-3C",
+                "ch_label": "01-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -4724,10 +4732,11 @@
                         "maxdepth": 200,
                         "value": 8.42
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd63"
             },
             "_id": "6425bb5a8ac54751232121ee",
-            "haid": "6425bb5a8ac54751232121ee"
+            "chid": "6425bb5a8ac54751232121ee"
         },
         {
             "type": "Feature",
@@ -4759,7 +4768,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "01-4A",
+                "ch_label": "01-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -5247,10 +5256,11 @@
                         "maxdepth": 200,
                         "value": 10.09
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd64"
             },
             "_id": "6425bb5a8ac54751232121ef",
-            "haid": "6425bb5a8ac54751232121ef"
+            "chid": "6425bb5a8ac54751232121ef"
         },
         {
             "type": "Feature",
@@ -5282,7 +5292,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "01-4B",
+                "ch_label": "01-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -5777,10 +5787,11 @@
                         "maxdepth": 200,
                         "value": 10.84
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd64"
             },
             "_id": "6425bb5a8ac54751232121f0",
-            "haid": "6425bb5a8ac54751232121f0"
+            "chid": "6425bb5a8ac54751232121f0"
         },
         {
             "type": "Feature",
@@ -5812,7 +5823,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "01-4C",
+                "ch_label": "01-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -6300,10 +6311,11 @@
                         "maxdepth": 200,
                         "value": 11.37
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd64"
             },
             "_id": "6425bb5a8ac54751232121f1",
-            "haid": "6425bb5a8ac54751232121f1"
+            "chid": "6425bb5a8ac54751232121f1"
         },
         {
             "type": "Feature",
@@ -6335,7 +6347,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "02-1A",
+                "ch_label": "02-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -6827,10 +6839,11 @@
                         "maxdepth": 200,
                         "value": 9.66
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd65"
             },
             "_id": "6425bb5a8ac54751232121f2",
-            "haid": "6425bb5a8ac54751232121f2"
+            "chid": "6425bb5a8ac54751232121f2"
         },
         {
             "type": "Feature",
@@ -6862,7 +6875,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "02-1B",
+                "ch_label": "02-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -7361,10 +7374,11 @@
                         "maxdepth": 200,
                         "value": 9.2
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd65"
             },
             "_id": "6425bb5a8ac54751232121f3",
-            "haid": "6425bb5a8ac54751232121f3"
+            "chid": "6425bb5a8ac54751232121f3"
         },
         {
             "type": "Feature",
@@ -7396,7 +7410,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "02-1C",
+                "ch_label": "02-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -7888,10 +7902,11 @@
                         "maxdepth": 200,
                         "value": 8.91
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd65"
             },
             "_id": "6425bb5a8ac54751232121f4",
-            "haid": "6425bb5a8ac54751232121f4"
+            "chid": "6425bb5a8ac54751232121f4"
         },
         {
             "type": "Feature",
@@ -7923,7 +7938,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "02-2A",
+                "ch_label": "02-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -8415,10 +8430,11 @@
                         "maxdepth": 200,
                         "value": 8.66
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd66"
             },
             "_id": "6425bb5a8ac54751232121f5",
-            "haid": "6425bb5a8ac54751232121f5"
+            "chid": "6425bb5a8ac54751232121f5"
         },
         {
             "type": "Feature",
@@ -8450,7 +8466,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "02-2B",
+                "ch_label": "02-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -8949,10 +8965,11 @@
                         "maxdepth": 200,
                         "value": 8.13
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd66"
             },
             "_id": "6425bb5a8ac54751232121f6",
-            "haid": "6425bb5a8ac54751232121f6"
+            "chid": "6425bb5a8ac54751232121f6"
         },
         {
             "type": "Feature",
@@ -8984,7 +9001,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "02-2C",
+                "ch_label": "02-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -9476,10 +9493,11 @@
                         "maxdepth": 200,
                         "value": 7.93
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd66"
             },
             "_id": "6425bb5a8ac54751232121f7",
-            "haid": "6425bb5a8ac54751232121f7"
+            "chid": "6425bb5a8ac54751232121f7"
         },
         {
             "type": "Feature",
@@ -9511,7 +9529,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "02-3A",
+                "ch_label": "02-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -10003,10 +10021,11 @@
                         "maxdepth": 200,
                         "value": 8.2
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd67"
             },
             "_id": "6425bb5a8ac54751232121f8",
-            "haid": "6425bb5a8ac54751232121f8"
+            "chid": "6425bb5a8ac54751232121f8"
         },
         {
             "type": "Feature",
@@ -10038,7 +10057,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "02-3B",
+                "ch_label": "02-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -10537,10 +10556,11 @@
                         "maxdepth": 200,
                         "value": 7.7
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd67"
             },
             "_id": "6425bb5a8ac54751232121f9",
-            "haid": "6425bb5a8ac54751232121f9"
+            "chid": "6425bb5a8ac54751232121f9"
         },
         {
             "type": "Feature",
@@ -10572,7 +10592,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "02-3C",
+                "ch_label": "02-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -11064,10 +11084,11 @@
                         "maxdepth": 200,
                         "value": 7.67
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd67"
             },
             "_id": "6425bb5a8ac54751232121fa",
-            "haid": "6425bb5a8ac54751232121fa"
+            "chid": "6425bb5a8ac54751232121fa"
         },
         {
             "type": "Feature",
@@ -11099,7 +11120,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "02-4A",
+                "ch_label": "02-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -11591,10 +11612,11 @@
                         "maxdepth": 200,
                         "value": 9.44
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd68"
             },
             "_id": "6425bb5a8ac54751232121fb",
-            "haid": "6425bb5a8ac54751232121fb"
+            "chid": "6425bb5a8ac54751232121fb"
         },
         {
             "type": "Feature",
@@ -11626,7 +11648,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "02-4B",
+                "ch_label": "02-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -12125,10 +12147,11 @@
                         "maxdepth": 200,
                         "value": 10.45
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd68"
             },
             "_id": "6425bb5a8ac54751232121fc",
-            "haid": "6425bb5a8ac54751232121fc"
+            "chid": "6425bb5a8ac54751232121fc"
         },
         {
             "type": "Feature",
@@ -12160,7 +12183,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "02-4C",
+                "ch_label": "02-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -12652,10 +12675,11 @@
                         "maxdepth": 200,
                         "value": 11.02
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd68"
             },
             "_id": "6425bb5a8ac54751232121fd",
-            "haid": "6425bb5a8ac54751232121fd"
+            "chid": "6425bb5a8ac54751232121fd"
         },
         {
             "type": "Feature",
@@ -12687,7 +12711,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "03-1A",
+                "ch_label": "03-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -13179,10 +13203,11 @@
                         "maxdepth": 200,
                         "value": 8.75
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd69"
             },
             "_id": "6425bb5a8ac54751232121fe",
-            "haid": "6425bb5a8ac54751232121fe"
+            "chid": "6425bb5a8ac54751232121fe"
         },
         {
             "type": "Feature",
@@ -13214,7 +13239,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "03-1B",
+                "ch_label": "03-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -13713,10 +13738,11 @@
                         "maxdepth": 200,
                         "value": 8.35
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd69"
             },
             "_id": "6425bb5a8ac54751232121ff",
-            "haid": "6425bb5a8ac54751232121ff"
+            "chid": "6425bb5a8ac54751232121ff"
         },
         {
             "type": "Feature",
@@ -13748,7 +13774,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "03-1C",
+                "ch_label": "03-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -14240,10 +14266,11 @@
                         "maxdepth": 200,
                         "value": 8.35
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd69"
             },
             "_id": "6425bb5a8ac5475123212200",
-            "haid": "6425bb5a8ac5475123212200"
+            "chid": "6425bb5a8ac5475123212200"
         },
         {
             "type": "Feature",
@@ -14275,7 +14302,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "03-2A",
+                "ch_label": "03-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -14767,10 +14794,11 @@
                         "maxdepth": 200,
                         "value": 8.4
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6a"
             },
             "_id": "6425bb5a8ac5475123212201",
-            "haid": "6425bb5a8ac5475123212201"
+            "chid": "6425bb5a8ac5475123212201"
         },
         {
             "type": "Feature",
@@ -14802,7 +14830,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "03-2B",
+                "ch_label": "03-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -15301,10 +15329,11 @@
                         "maxdepth": 200,
                         "value": 8.2
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6a"
             },
             "_id": "6425bb5a8ac5475123212202",
-            "haid": "6425bb5a8ac5475123212202"
+            "chid": "6425bb5a8ac5475123212202"
         },
         {
             "type": "Feature",
@@ -15336,7 +15365,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "03-2C",
+                "ch_label": "03-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -15828,10 +15857,11 @@
                         "maxdepth": 200,
                         "value": 8.13
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6a"
             },
             "_id": "6425bb5a8ac5475123212203",
-            "haid": "6425bb5a8ac5475123212203"
+            "chid": "6425bb5a8ac5475123212203"
         },
         {
             "type": "Feature",
@@ -15863,7 +15893,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "03-3A",
+                "ch_label": "03-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -16355,10 +16385,11 @@
                         "maxdepth": 200,
                         "value": 8.34
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6b"
             },
             "_id": "6425bb5a8ac5475123212204",
-            "haid": "6425bb5a8ac5475123212204"
+            "chid": "6425bb5a8ac5475123212204"
         },
         {
             "type": "Feature",
@@ -16390,7 +16421,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "03-3B",
+                "ch_label": "03-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -16889,10 +16920,11 @@
                         "maxdepth": 200,
                         "value": 7.92
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6b"
             },
             "_id": "6425bb5a8ac5475123212205",
-            "haid": "6425bb5a8ac5475123212205"
+            "chid": "6425bb5a8ac5475123212205"
         },
         {
             "type": "Feature",
@@ -16924,7 +16956,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "03-3C",
+                "ch_label": "03-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -17416,10 +17448,11 @@
                         "maxdepth": 200,
                         "value": 7.8
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6b"
             },
             "_id": "6425bb5a8ac5475123212206",
-            "haid": "6425bb5a8ac5475123212206"
+            "chid": "6425bb5a8ac5475123212206"
         },
         {
             "type": "Feature",
@@ -17451,7 +17484,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "03-4A",
+                "ch_label": "03-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -17943,10 +17976,11 @@
                         "maxdepth": 200,
                         "value": 8.79
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6c"
             },
             "_id": "6425bb5a8ac5475123212207",
-            "haid": "6425bb5a8ac5475123212207"
+            "chid": "6425bb5a8ac5475123212207"
         },
         {
             "type": "Feature",
@@ -17978,7 +18012,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "03-4B",
+                "ch_label": "03-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -18477,10 +18511,11 @@
                         "maxdepth": 200,
                         "value": 9.44
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6c"
             },
             "_id": "6425bb5a8ac5475123212208",
-            "haid": "6425bb5a8ac5475123212208"
+            "chid": "6425bb5a8ac5475123212208"
         },
         {
             "type": "Feature",
@@ -18512,7 +18547,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "03-4C",
+                "ch_label": "03-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -19004,10 +19039,11 @@
                         "maxdepth": 200,
                         "value": 10.09
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6c"
             },
             "_id": "6425bb5a8ac5475123212209",
-            "haid": "6425bb5a8ac5475123212209"
+            "chid": "6425bb5a8ac5475123212209"
         },
         {
             "type": "Feature",
@@ -19039,7 +19075,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "04-1A",
+                "ch_label": "04-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -19527,10 +19563,11 @@
                         "maxdepth": 200,
                         "value": 8.37
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6d"
             },
             "_id": "6425bb5a8ac547512321220a",
-            "haid": "6425bb5a8ac547512321220a"
+            "chid": "6425bb5a8ac547512321220a"
         },
         {
             "type": "Feature",
@@ -19562,7 +19599,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "04-1B",
+                "ch_label": "04-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -20057,10 +20094,11 @@
                         "maxdepth": 200,
                         "value": 8.45
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6d"
             },
             "_id": "6425bb5a8ac547512321220b",
-            "haid": "6425bb5a8ac547512321220b"
+            "chid": "6425bb5a8ac547512321220b"
         },
         {
             "type": "Feature",
@@ -20092,7 +20130,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "04-1C",
+                "ch_label": "04-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -20580,10 +20618,11 @@
                         "maxdepth": 200,
                         "value": 8.42
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6d"
             },
             "_id": "6425bb5a8ac547512321220c",
-            "haid": "6425bb5a8ac547512321220c"
+            "chid": "6425bb5a8ac547512321220c"
         },
         {
             "type": "Feature",
@@ -20615,7 +20654,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "04-2A",
+                "ch_label": "04-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -21103,10 +21142,11 @@
                         "maxdepth": 200,
                         "value": 8.34
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6e"
             },
             "_id": "6425bb5a8ac547512321220d",
-            "haid": "6425bb5a8ac547512321220d"
+            "chid": "6425bb5a8ac547512321220d"
         },
         {
             "type": "Feature",
@@ -21138,7 +21178,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "04-2B",
+                "ch_label": "04-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -21633,10 +21673,11 @@
                         "maxdepth": 200,
                         "value": 8.09
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6e"
             },
             "_id": "6425bb5a8ac547512321220e",
-            "haid": "6425bb5a8ac547512321220e"
+            "chid": "6425bb5a8ac547512321220e"
         },
         {
             "type": "Feature",
@@ -21668,7 +21709,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "04-2C",
+                "ch_label": "04-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -22156,10 +22197,11 @@
                         "maxdepth": 200,
                         "value": 8.03
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6e"
             },
             "_id": "6425bb5a8ac547512321220f",
-            "haid": "6425bb5a8ac547512321220f"
+            "chid": "6425bb5a8ac547512321220f"
         },
         {
             "type": "Feature",
@@ -22191,7 +22233,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "04-3A",
+                "ch_label": "04-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -22679,10 +22721,11 @@
                         "maxdepth": 200,
                         "value": 7.89
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6f"
             },
             "_id": "6425bb5a8ac5475123212210",
-            "haid": "6425bb5a8ac5475123212210"
+            "chid": "6425bb5a8ac5475123212210"
         },
         {
             "type": "Feature",
@@ -22714,7 +22757,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "04-3B",
+                "ch_label": "04-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -23209,10 +23252,11 @@
                         "maxdepth": 200,
                         "value": 7.7
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6f"
             },
             "_id": "6425bb5a8ac5475123212211",
-            "haid": "6425bb5a8ac5475123212211"
+            "chid": "6425bb5a8ac5475123212211"
         },
         {
             "type": "Feature",
@@ -23244,7 +23288,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "04-3C",
+                "ch_label": "04-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -23732,10 +23776,11 @@
                         "maxdepth": 200,
                         "value": 7.66
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd6f"
             },
             "_id": "6425bb5a8ac5475123212212",
-            "haid": "6425bb5a8ac5475123212212"
+            "chid": "6425bb5a8ac5475123212212"
         },
         {
             "type": "Feature",
@@ -23767,7 +23812,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "04-4A",
+                "ch_label": "04-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -24246,10 +24291,11 @@
                         "maxdepth": 200,
                         "value": 8.01
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd70"
             },
             "_id": "6425bb5a8ac5475123212213",
-            "haid": "6425bb5a8ac5475123212213"
+            "chid": "6425bb5a8ac5475123212213"
         },
         {
             "type": "Feature",
@@ -24281,7 +24327,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "04-4B",
+                "ch_label": "04-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -24776,10 +24822,11 @@
                         "maxdepth": 200,
                         "value": 8.43
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd70"
             },
             "_id": "6425bb5a8ac5475123212214",
-            "haid": "6425bb5a8ac5475123212214"
+            "chid": "6425bb5a8ac5475123212214"
         },
         {
             "type": "Feature",
@@ -24811,7 +24858,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "04-4C",
+                "ch_label": "04-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -25299,10 +25346,11 @@
                         "maxdepth": 200,
                         "value": 9.51
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd70"
             },
             "_id": "6425bb5a8ac5475123212215",
-            "haid": "6425bb5a8ac5475123212215"
+            "chid": "6425bb5a8ac5475123212215"
         },
         {
             "type": "Feature",
@@ -25334,7 +25382,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "05-1A",
+                "ch_label": "05-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -25826,10 +25874,11 @@
                         "maxdepth": 200,
                         "value": 8.25
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd71"
             },
             "_id": "6425bb5a8ac5475123212216",
-            "haid": "6425bb5a8ac5475123212216"
+            "chid": "6425bb5a8ac5475123212216"
         },
         {
             "type": "Feature",
@@ -25861,7 +25910,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "05-1B",
+                "ch_label": "05-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -26360,10 +26409,11 @@
                         "maxdepth": 200,
                         "value": 8.31
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd71"
             },
             "_id": "6425bb5a8ac5475123212217",
-            "haid": "6425bb5a8ac5475123212217"
+            "chid": "6425bb5a8ac5475123212217"
         },
         {
             "type": "Feature",
@@ -26395,7 +26445,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "05-1C",
+                "ch_label": "05-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -26887,10 +26937,11 @@
                         "maxdepth": 200,
                         "value": 8.21
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd71"
             },
             "_id": "6425bb5a8ac5475123212218",
-            "haid": "6425bb5a8ac5475123212218"
+            "chid": "6425bb5a8ac5475123212218"
         },
         {
             "type": "Feature",
@@ -26922,7 +26973,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "05-2A",
+                "ch_label": "05-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -27414,10 +27465,11 @@
                         "maxdepth": 200,
                         "value": 7.86
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd72"
             },
             "_id": "6425bb5a8ac5475123212219",
-            "haid": "6425bb5a8ac5475123212219"
+            "chid": "6425bb5a8ac5475123212219"
         },
         {
             "type": "Feature",
@@ -27449,7 +27501,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "05-2B",
+                "ch_label": "05-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -27948,10 +28000,11 @@
                         "maxdepth": 200,
                         "value": 7.82
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd72"
             },
             "_id": "6425bb5a8ac547512321221a",
-            "haid": "6425bb5a8ac547512321221a"
+            "chid": "6425bb5a8ac547512321221a"
         },
         {
             "type": "Feature",
@@ -27983,7 +28036,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "05-2C",
+                "ch_label": "05-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -28475,10 +28528,11 @@
                         "maxdepth": 200,
                         "value": 7.75
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd72"
             },
             "_id": "6425bb5a8ac547512321221b",
-            "haid": "6425bb5a8ac547512321221b"
+            "chid": "6425bb5a8ac547512321221b"
         },
         {
             "type": "Feature",
@@ -28510,7 +28564,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "05-3A",
+                "ch_label": "05-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -29002,10 +29056,11 @@
                         "maxdepth": 200,
                         "value": 7.38
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd73"
             },
             "_id": "6425bb5a8ac547512321221c",
-            "haid": "6425bb5a8ac547512321221c"
+            "chid": "6425bb5a8ac547512321221c"
         },
         {
             "type": "Feature",
@@ -29037,7 +29092,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "05-3B",
+                "ch_label": "05-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -29536,10 +29591,11 @@
                         "maxdepth": 200,
                         "value": 7.08
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd73"
             },
             "_id": "6425bb5a8ac547512321221d",
-            "haid": "6425bb5a8ac547512321221d"
+            "chid": "6425bb5a8ac547512321221d"
         },
         {
             "type": "Feature",
@@ -29571,7 +29627,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "05-3C",
+                "ch_label": "05-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -30063,10 +30119,11 @@
                         "maxdepth": 200,
                         "value": 6.97
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd73"
             },
             "_id": "6425bb5a8ac547512321221e",
-            "haid": "6425bb5a8ac547512321221e"
+            "chid": "6425bb5a8ac547512321221e"
         },
         {
             "type": "Feature",
@@ -30098,7 +30155,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "05-4A",
+                "ch_label": "05-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -30590,10 +30647,11 @@
                         "maxdepth": 200,
                         "value": 7.32
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd74"
             },
             "_id": "6425bb5a8ac547512321221f",
-            "haid": "6425bb5a8ac547512321221f"
+            "chid": "6425bb5a8ac547512321221f"
         },
         {
             "type": "Feature",
@@ -30625,7 +30683,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "05-4B",
+                "ch_label": "05-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -31124,10 +31182,11 @@
                         "maxdepth": 200,
                         "value": 7.73
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd74"
             },
             "_id": "6425bb5a8ac5475123212220",
-            "haid": "6425bb5a8ac5475123212220"
+            "chid": "6425bb5a8ac5475123212220"
         },
         {
             "type": "Feature",
@@ -31159,7 +31218,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "05-4C",
+                "ch_label": "05-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -31651,10 +31710,11 @@
                         "maxdepth": 200,
                         "value": 8.77
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd74"
             },
             "_id": "6425bb5a8ac5475123212221",
-            "haid": "6425bb5a8ac5475123212221"
+            "chid": "6425bb5a8ac5475123212221"
         },
         {
             "type": "Feature",
@@ -31686,7 +31746,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "06-1A",
+                "ch_label": "06-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -32174,10 +32234,11 @@
                         "maxdepth": 200,
                         "value": 8.4
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd75"
             },
             "_id": "6425bb5a8ac5475123212222",
-            "haid": "6425bb5a8ac5475123212222"
+            "chid": "6425bb5a8ac5475123212222"
         },
         {
             "type": "Feature",
@@ -32209,7 +32270,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "06-1B",
+                "ch_label": "06-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -32704,10 +32765,11 @@
                         "maxdepth": 200,
                         "value": 7.88
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd75"
             },
             "_id": "6425bb5a8ac5475123212223",
-            "haid": "6425bb5a8ac5475123212223"
+            "chid": "6425bb5a8ac5475123212223"
         },
         {
             "type": "Feature",
@@ -32739,7 +32801,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "06-1C",
+                "ch_label": "06-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -33227,10 +33289,11 @@
                         "maxdepth": 200,
                         "value": 7.57
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd75"
             },
             "_id": "6425bb5a8ac5475123212224",
-            "haid": "6425bb5a8ac5475123212224"
+            "chid": "6425bb5a8ac5475123212224"
         },
         {
             "type": "Feature",
@@ -33262,7 +33325,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "06-2A",
+                "ch_label": "06-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -33750,10 +33813,11 @@
                         "maxdepth": 200,
                         "value": 7.71
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd76"
             },
             "_id": "6425bb5a8ac5475123212225",
-            "haid": "6425bb5a8ac5475123212225"
+            "chid": "6425bb5a8ac5475123212225"
         },
         {
             "type": "Feature",
@@ -33785,7 +33849,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "06-2B",
+                "ch_label": "06-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -34280,10 +34344,11 @@
                         "maxdepth": 200,
                         "value": 7.96
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd76"
             },
             "_id": "6425bb5a8ac5475123212226",
-            "haid": "6425bb5a8ac5475123212226"
+            "chid": "6425bb5a8ac5475123212226"
         },
         {
             "type": "Feature",
@@ -34315,7 +34380,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "06-2C",
+                "ch_label": "06-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -34803,10 +34868,11 @@
                         "maxdepth": 200,
                         "value": 7.95
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd76"
             },
             "_id": "6425bb5a8ac5475123212227",
-            "haid": "6425bb5a8ac5475123212227"
+            "chid": "6425bb5a8ac5475123212227"
         },
         {
             "type": "Feature",
@@ -34838,7 +34904,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "06-3A",
+                "ch_label": "06-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -35326,10 +35392,11 @@
                         "maxdepth": 200,
                         "value": 7.41
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd77"
             },
             "_id": "6425bb5a8ac5475123212228",
-            "haid": "6425bb5a8ac5475123212228"
+            "chid": "6425bb5a8ac5475123212228"
         },
         {
             "type": "Feature",
@@ -35361,7 +35428,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "06-3B",
+                "ch_label": "06-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -35856,10 +35923,11 @@
                         "maxdepth": 200,
                         "value": 7.25
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd77"
             },
             "_id": "6425bb5a8ac5475123212229",
-            "haid": "6425bb5a8ac5475123212229"
+            "chid": "6425bb5a8ac5475123212229"
         },
         {
             "type": "Feature",
@@ -35891,7 +35959,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "06-3C",
+                "ch_label": "06-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -36379,10 +36447,11 @@
                         "maxdepth": 200,
                         "value": 7.12
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd77"
             },
             "_id": "6425bb5a8ac547512321222a",
-            "haid": "6425bb5a8ac547512321222a"
+            "chid": "6425bb5a8ac547512321222a"
         },
         {
             "type": "Feature",
@@ -36414,7 +36483,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "06-4A",
+                "ch_label": "06-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -36902,10 +36971,11 @@
                         "maxdepth": 200,
                         "value": 7.18
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd78"
             },
             "_id": "6425bb5a8ac547512321222b",
-            "haid": "6425bb5a8ac547512321222b"
+            "chid": "6425bb5a8ac547512321222b"
         },
         {
             "type": "Feature",
@@ -36937,7 +37007,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "06-4B",
+                "ch_label": "06-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -37432,10 +37502,11 @@
                         "maxdepth": 200,
                         "value": 7.75
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd78"
             },
             "_id": "6425bb5a8ac547512321222c",
-            "haid": "6425bb5a8ac547512321222c"
+            "chid": "6425bb5a8ac547512321222c"
         },
         {
             "type": "Feature",
@@ -37467,7 +37538,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "06-4C",
+                "ch_label": "06-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -37949,10 +38020,11 @@
                         "maxdepth": 200,
                         "value": 8.75
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd78"
             },
             "_id": "6425bb5a8ac547512321222d",
-            "haid": "6425bb5a8ac547512321222d"
+            "chid": "6425bb5a8ac547512321222d"
         },
         {
             "type": "Feature",
@@ -37984,7 +38056,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "07-1A",
+                "ch_label": "07-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -38476,10 +38548,11 @@
                         "maxdepth": 200,
                         "value": 8.79
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd79"
             },
             "_id": "6425bb5a8ac547512321222e",
-            "haid": "6425bb5a8ac547512321222e"
+            "chid": "6425bb5a8ac547512321222e"
         },
         {
             "type": "Feature",
@@ -38511,7 +38584,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "07-1B",
+                "ch_label": "07-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -39010,10 +39083,11 @@
                         "maxdepth": 200,
                         "value": 7.88
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd79"
             },
             "_id": "6425bb5a8ac547512321222f",
-            "haid": "6425bb5a8ac547512321222f"
+            "chid": "6425bb5a8ac547512321222f"
         },
         {
             "type": "Feature",
@@ -39045,7 +39119,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "07-1C",
+                "ch_label": "07-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -39537,10 +39611,11 @@
                         "maxdepth": 200,
                         "value": 7.5
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd79"
             },
             "_id": "6425bb5a8ac5475123212230",
-            "haid": "6425bb5a8ac5475123212230"
+            "chid": "6425bb5a8ac5475123212230"
         },
         {
             "type": "Feature",
@@ -39572,7 +39647,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "07-2A",
+                "ch_label": "07-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -40064,10 +40139,11 @@
                         "maxdepth": 200,
                         "value": 8.02
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7a"
             },
             "_id": "6425bb5a8ac5475123212231",
-            "haid": "6425bb5a8ac5475123212231"
+            "chid": "6425bb5a8ac5475123212231"
         },
         {
             "type": "Feature",
@@ -40099,7 +40175,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "07-2B",
+                "ch_label": "07-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -40598,10 +40674,11 @@
                         "maxdepth": 200,
                         "value": 8.12
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7a"
             },
             "_id": "6425bb5a8ac5475123212232",
-            "haid": "6425bb5a8ac5475123212232"
+            "chid": "6425bb5a8ac5475123212232"
         },
         {
             "type": "Feature",
@@ -40633,7 +40710,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "07-2C",
+                "ch_label": "07-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -41125,10 +41202,11 @@
                         "maxdepth": 200,
                         "value": 7.99
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7a"
             },
             "_id": "6425bb5a8ac5475123212233",
-            "haid": "6425bb5a8ac5475123212233"
+            "chid": "6425bb5a8ac5475123212233"
         },
         {
             "type": "Feature",
@@ -41160,7 +41238,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "07-3A",
+                "ch_label": "07-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -41652,10 +41730,11 @@
                         "maxdepth": 200,
                         "value": 7.52
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7b"
             },
             "_id": "6425bb5a8ac5475123212234",
-            "haid": "6425bb5a8ac5475123212234"
+            "chid": "6425bb5a8ac5475123212234"
         },
         {
             "type": "Feature",
@@ -41687,7 +41766,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "07-3B",
+                "ch_label": "07-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -42186,10 +42265,11 @@
                         "maxdepth": 200,
                         "value": 7.75
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7b"
             },
             "_id": "6425bb5a8ac5475123212235",
-            "haid": "6425bb5a8ac5475123212235"
+            "chid": "6425bb5a8ac5475123212235"
         },
         {
             "type": "Feature",
@@ -42221,7 +42301,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "07-3C",
+                "ch_label": "07-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -42713,10 +42793,11 @@
                         "maxdepth": 200,
                         "value": 7.71
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7b"
             },
             "_id": "6425bb5a8ac5475123212236",
-            "haid": "6425bb5a8ac5475123212236"
+            "chid": "6425bb5a8ac5475123212236"
         },
         {
             "type": "Feature",
@@ -42748,7 +42829,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "07-4A",
+                "ch_label": "07-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -43240,10 +43321,11 @@
                         "maxdepth": 200,
                         "value": 7.18
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7c"
             },
             "_id": "6425bb5a8ac5475123212237",
-            "haid": "6425bb5a8ac5475123212237"
+            "chid": "6425bb5a8ac5475123212237"
         },
         {
             "type": "Feature",
@@ -43275,7 +43357,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "07-4B",
+                "ch_label": "07-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -43774,10 +43856,11 @@
                         "maxdepth": 200,
                         "value": 7.31
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7c"
             },
             "_id": "6425bb5a8ac5475123212238",
-            "haid": "6425bb5a8ac5475123212238"
+            "chid": "6425bb5a8ac5475123212238"
         },
         {
             "type": "Feature",
@@ -43809,7 +43892,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "07-4C",
+                "ch_label": "07-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -44297,10 +44380,11 @@
                         "maxdepth": 200,
                         "value": 8.06
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7c"
             },
             "_id": "6425bb5a8ac5475123212239",
-            "haid": "6425bb5a8ac5475123212239"
+            "chid": "6425bb5a8ac5475123212239"
         },
         {
             "type": "Feature",
@@ -44332,7 +44416,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "08-1A",
+                "ch_label": "08-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -44820,10 +44904,11 @@
                         "maxdepth": 200,
                         "value": 8.81
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7d"
             },
             "_id": "6425bb5a8ac547512321223a",
-            "haid": "6425bb5a8ac547512321223a"
+            "chid": "6425bb5a8ac547512321223a"
         },
         {
             "type": "Feature",
@@ -44855,7 +44940,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "08-1B",
+                "ch_label": "08-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -45350,10 +45435,11 @@
                         "maxdepth": 200,
                         "value": 7.8
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7d"
             },
             "_id": "6425bb5a8ac547512321223b",
-            "haid": "6425bb5a8ac547512321223b"
+            "chid": "6425bb5a8ac547512321223b"
         },
         {
             "type": "Feature",
@@ -45385,7 +45471,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "08-1C",
+                "ch_label": "08-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -45873,10 +45959,11 @@
                         "maxdepth": 200,
                         "value": 7.45
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7d"
             },
             "_id": "6425bb5a8ac547512321223c",
-            "haid": "6425bb5a8ac547512321223c"
+            "chid": "6425bb5a8ac547512321223c"
         },
         {
             "type": "Feature",
@@ -45908,7 +45995,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "08-2A",
+                "ch_label": "08-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -46396,10 +46483,11 @@
                         "maxdepth": 200,
                         "value": 8.06
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7e"
             },
             "_id": "6425bb5a8ac547512321223d",
-            "haid": "6425bb5a8ac547512321223d"
+            "chid": "6425bb5a8ac547512321223d"
         },
         {
             "type": "Feature",
@@ -46431,7 +46519,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "08-2B",
+                "ch_label": "08-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -46926,10 +47014,11 @@
                         "maxdepth": 200,
                         "value": 7.86
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7e"
             },
             "_id": "6425bb5a8ac547512321223e",
-            "haid": "6425bb5a8ac547512321223e"
+            "chid": "6425bb5a8ac547512321223e"
         },
         {
             "type": "Feature",
@@ -46961,7 +47050,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "08-2C",
+                "ch_label": "08-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -47449,10 +47538,11 @@
                         "maxdepth": 200,
                         "value": 7.68
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7e"
             },
             "_id": "6425bb5a8ac547512321223f",
-            "haid": "6425bb5a8ac547512321223f"
+            "chid": "6425bb5a8ac547512321223f"
         },
         {
             "type": "Feature",
@@ -47484,7 +47574,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "08-3A",
+                "ch_label": "08-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -47972,10 +48062,11 @@
                         "maxdepth": 200,
                         "value": 7.51
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7f"
             },
             "_id": "6425bb5a8ac5475123212240",
-            "haid": "6425bb5a8ac5475123212240"
+            "chid": "6425bb5a8ac5475123212240"
         },
         {
             "type": "Feature",
@@ -48007,7 +48098,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "08-3B",
+                "ch_label": "08-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -48502,10 +48593,11 @@
                         "maxdepth": 200,
                         "value": 7.42
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7f"
             },
             "_id": "6425bb5a8ac5475123212241",
-            "haid": "6425bb5a8ac5475123212241"
+            "chid": "6425bb5a8ac5475123212241"
         },
         {
             "type": "Feature",
@@ -48537,7 +48629,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "08-3C",
+                "ch_label": "08-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -49025,10 +49117,11 @@
                         "maxdepth": 200,
                         "value": 7.3
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd7f"
             },
             "_id": "6425bb5a8ac5475123212242",
-            "haid": "6425bb5a8ac5475123212242"
+            "chid": "6425bb5a8ac5475123212242"
         },
         {
             "type": "Feature",
@@ -49060,7 +49153,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "08-4A",
+                "ch_label": "08-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -49548,10 +49641,11 @@
                         "maxdepth": 200,
                         "value": 7.06
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd80"
             },
             "_id": "6425bb5a8ac5475123212243",
-            "haid": "6425bb5a8ac5475123212243"
+            "chid": "6425bb5a8ac5475123212243"
         },
         {
             "type": "Feature",
@@ -49583,7 +49677,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "08-4B",
+                "ch_label": "08-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -50078,10 +50172,11 @@
                         "maxdepth": 200,
                         "value": 7.13
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd80"
             },
             "_id": "6425bb5a8ac5475123212244",
-            "haid": "6425bb5a8ac5475123212244"
+            "chid": "6425bb5a8ac5475123212244"
         },
         {
             "type": "Feature",
@@ -50113,7 +50208,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "08-4C",
+                "ch_label": "08-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -50595,10 +50690,11 @@
                         "maxdepth": 200,
                         "value": 7.75
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd80"
             },
             "_id": "6425bb5a8ac5475123212245",
-            "haid": "6425bb5a8ac5475123212245"
+            "chid": "6425bb5a8ac5475123212245"
         },
         {
             "type": "Feature",
@@ -50630,7 +50726,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "09-1A",
+                "ch_label": "09-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -51122,10 +51218,11 @@
                         "maxdepth": 200,
                         "value": 8.7
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd81"
             },
             "_id": "6425bb5a8ac5475123212246",
-            "haid": "6425bb5a8ac5475123212246"
+            "chid": "6425bb5a8ac5475123212246"
         },
         {
             "type": "Feature",
@@ -51157,7 +51254,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "09-1B",
+                "ch_label": "09-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -51656,10 +51753,11 @@
                         "maxdepth": 200,
                         "value": 7.6
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd81"
             },
             "_id": "6425bb5a8ac5475123212247",
-            "haid": "6425bb5a8ac5475123212247"
+            "chid": "6425bb5a8ac5475123212247"
         },
         {
             "type": "Feature",
@@ -51691,7 +51789,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "09-1C",
+                "ch_label": "09-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -52179,10 +52277,11 @@
                         "maxdepth": 200,
                         "value": 7.17
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd81"
             },
             "_id": "6425bb5a8ac5475123212248",
-            "haid": "6425bb5a8ac5475123212248"
+            "chid": "6425bb5a8ac5475123212248"
         },
         {
             "type": "Feature",
@@ -52214,7 +52313,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "09-2A",
+                "ch_label": "09-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -52702,10 +52801,11 @@
                         "maxdepth": 200,
                         "value": 7.64
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd82"
             },
             "_id": "6425bb5a8ac5475123212249",
-            "haid": "6425bb5a8ac5475123212249"
+            "chid": "6425bb5a8ac5475123212249"
         },
         {
             "type": "Feature",
@@ -52737,7 +52837,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "09-2B",
+                "ch_label": "09-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -53232,10 +53332,11 @@
                         "maxdepth": 200,
                         "value": 7.68
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd82"
             },
             "_id": "6425bb5a8ac547512321224a",
-            "haid": "6425bb5a8ac547512321224a"
+            "chid": "6425bb5a8ac547512321224a"
         },
         {
             "type": "Feature",
@@ -53267,7 +53368,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "09-2C",
+                "ch_label": "09-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -53755,10 +53856,11 @@
                         "maxdepth": 200,
                         "value": 7.61
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd82"
             },
             "_id": "6425bb5a8ac547512321224b",
-            "haid": "6425bb5a8ac547512321224b"
+            "chid": "6425bb5a8ac547512321224b"
         },
         {
             "type": "Feature",
@@ -53790,7 +53892,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "09-3A",
+                "ch_label": "09-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -54278,10 +54380,11 @@
                         "maxdepth": 200,
                         "value": 7.39
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd83"
             },
             "_id": "6425bb5a8ac547512321224c",
-            "haid": "6425bb5a8ac547512321224c"
+            "chid": "6425bb5a8ac547512321224c"
         },
         {
             "type": "Feature",
@@ -54313,7 +54416,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "09-3B",
+                "ch_label": "09-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -54808,10 +54911,11 @@
                         "maxdepth": 200,
                         "value": 7.28
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd83"
             },
             "_id": "6425bb5a8ac547512321224d",
-            "haid": "6425bb5a8ac547512321224d"
+            "chid": "6425bb5a8ac547512321224d"
         },
         {
             "type": "Feature",
@@ -54843,7 +54947,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "09-3C",
+                "ch_label": "09-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -55331,10 +55435,11 @@
                         "maxdepth": 200,
                         "value": 7.25
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd83"
             },
             "_id": "6425bb5a8ac547512321224e",
-            "haid": "6425bb5a8ac547512321224e"
+            "chid": "6425bb5a8ac547512321224e"
         },
         {
             "type": "Feature",
@@ -55366,7 +55471,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "09-4A",
+                "ch_label": "09-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -55854,10 +55959,11 @@
                         "maxdepth": 200,
                         "value": 7.26
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd84"
             },
             "_id": "6425bb5a8ac547512321224f",
-            "haid": "6425bb5a8ac547512321224f"
+            "chid": "6425bb5a8ac547512321224f"
         },
         {
             "type": "Feature",
@@ -55889,7 +55995,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "09-4B",
+                "ch_label": "09-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -56384,10 +56490,11 @@
                         "maxdepth": 200,
                         "value": 7.22
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd84"
             },
             "_id": "6425bb5a8ac5475123212250",
-            "haid": "6425bb5a8ac5475123212250"
+            "chid": "6425bb5a8ac5475123212250"
         },
         {
             "type": "Feature",
@@ -56419,7 +56526,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "09-4C",
+                "ch_label": "09-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -56907,10 +57014,11 @@
                         "maxdepth": 200,
                         "value": 7.66
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd84"
             },
             "_id": "6425bb5a8ac5475123212251",
-            "haid": "6425bb5a8ac5475123212251"
+            "chid": "6425bb5a8ac5475123212251"
         },
         {
             "type": "Feature",
@@ -56942,7 +57050,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "10-1A",
+                "ch_label": "10-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -57430,10 +57538,11 @@
                         "maxdepth": 200,
                         "value": 8.96
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd85"
             },
             "_id": "6425bb5a8ac5475123212252",
-            "haid": "6425bb5a8ac5475123212252"
+            "chid": "6425bb5a8ac5475123212252"
         },
         {
             "type": "Feature",
@@ -57465,7 +57574,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "10-1B",
+                "ch_label": "10-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -57960,10 +58069,11 @@
                         "maxdepth": 200,
                         "value": 7.9
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd85"
             },
             "_id": "6425bb5a8ac5475123212253",
-            "haid": "6425bb5a8ac5475123212253"
+            "chid": "6425bb5a8ac5475123212253"
         },
         {
             "type": "Feature",
@@ -57995,7 +58105,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "10-1C",
+                "ch_label": "10-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -58483,10 +58593,11 @@
                         "maxdepth": 200,
                         "value": 7.36
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd85"
             },
             "_id": "6425bb5a8ac5475123212254",
-            "haid": "6425bb5a8ac5475123212254"
+            "chid": "6425bb5a8ac5475123212254"
         },
         {
             "type": "Feature",
@@ -58518,7 +58629,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "10-2A",
+                "ch_label": "10-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -59006,10 +59117,11 @@
                         "maxdepth": 200,
                         "value": 7.53
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd86"
             },
             "_id": "6425bb5a8ac5475123212255",
-            "haid": "6425bb5a8ac5475123212255"
+            "chid": "6425bb5a8ac5475123212255"
         },
         {
             "type": "Feature",
@@ -59041,7 +59153,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "10-2B",
+                "ch_label": "10-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -59536,10 +59648,11 @@
                         "maxdepth": 200,
                         "value": 7.7
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd86"
             },
             "_id": "6425bb5a8ac5475123212256",
-            "haid": "6425bb5a8ac5475123212256"
+            "chid": "6425bb5a8ac5475123212256"
         },
         {
             "type": "Feature",
@@ -59571,7 +59684,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "10-2C",
+                "ch_label": "10-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -60059,10 +60172,11 @@
                         "maxdepth": 200,
                         "value": 7.67
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd86"
             },
             "_id": "6425bb5a8ac5475123212257",
-            "haid": "6425bb5a8ac5475123212257"
+            "chid": "6425bb5a8ac5475123212257"
         },
         {
             "type": "Feature",
@@ -60094,7 +60208,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "10-3A",
+                "ch_label": "10-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -60582,10 +60696,11 @@
                         "maxdepth": 200,
                         "value": 7.42
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd87"
             },
             "_id": "6425bb5a8ac5475123212258",
-            "haid": "6425bb5a8ac5475123212258"
+            "chid": "6425bb5a8ac5475123212258"
         },
         {
             "type": "Feature",
@@ -60617,7 +60732,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "10-3B",
+                "ch_label": "10-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -61112,10 +61227,11 @@
                         "maxdepth": 200,
                         "value": 7.62
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd87"
             },
             "_id": "6425bb5a8ac5475123212259",
-            "haid": "6425bb5a8ac5475123212259"
+            "chid": "6425bb5a8ac5475123212259"
         },
         {
             "type": "Feature",
@@ -61147,7 +61263,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "10-3C",
+                "ch_label": "10-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -61635,10 +61751,11 @@
                         "maxdepth": 200,
                         "value": 7.71
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd87"
             },
             "_id": "6425bb5a8ac547512321225a",
-            "haid": "6425bb5a8ac547512321225a"
+            "chid": "6425bb5a8ac547512321225a"
         },
         {
             "type": "Feature",
@@ -61670,7 +61787,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "10-4A",
+                "ch_label": "10-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -62158,10 +62275,11 @@
                         "maxdepth": 200,
                         "value": 7.82
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd88"
             },
             "_id": "6425bb5a8ac547512321225b",
-            "haid": "6425bb5a8ac547512321225b"
+            "chid": "6425bb5a8ac547512321225b"
         },
         {
             "type": "Feature",
@@ -62193,7 +62311,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "10-4B",
+                "ch_label": "10-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -62688,10 +62806,11 @@
                         "maxdepth": 200,
                         "value": 8.18
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd88"
             },
             "_id": "6425bb5a8ac547512321225c",
-            "haid": "6425bb5a8ac547512321225c"
+            "chid": "6425bb5a8ac547512321225c"
         },
         {
             "type": "Feature",
@@ -62723,7 +62842,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "10-4C",
+                "ch_label": "10-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -63211,10 +63330,11 @@
                         "maxdepth": 200,
                         "value": 8.54
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd88"
             },
             "_id": "6425bb5a8ac547512321225d",
-            "haid": "6425bb5a8ac547512321225d"
+            "chid": "6425bb5a8ac547512321225d"
         },
         {
             "type": "Feature",
@@ -63246,7 +63366,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "11-1A",
+                "ch_label": "11-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -63738,10 +63858,11 @@
                         "maxdepth": 200,
                         "value": 9.41
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd89"
             },
             "_id": "6425bb5a8ac547512321225e",
-            "haid": "6425bb5a8ac547512321225e"
+            "chid": "6425bb5a8ac547512321225e"
         },
         {
             "type": "Feature",
@@ -63773,7 +63894,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "11-1B",
+                "ch_label": "11-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -64272,10 +64393,11 @@
                         "maxdepth": 200,
                         "value": 8.38
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd89"
             },
             "_id": "6425bb5a8ac547512321225f",
-            "haid": "6425bb5a8ac547512321225f"
+            "chid": "6425bb5a8ac547512321225f"
         },
         {
             "type": "Feature",
@@ -64307,7 +64429,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "11-1C",
+                "ch_label": "11-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -64799,10 +64921,11 @@
                         "maxdepth": 200,
                         "value": 7.73
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd89"
             },
             "_id": "6425bb5a8ac5475123212260",
-            "haid": "6425bb5a8ac5475123212260"
+            "chid": "6425bb5a8ac5475123212260"
         },
         {
             "type": "Feature",
@@ -64834,7 +64957,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "11-2A",
+                "ch_label": "11-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -65326,10 +65449,11 @@
                         "maxdepth": 200,
                         "value": 7.42
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8a"
             },
             "_id": "6425bb5a8ac5475123212261",
-            "haid": "6425bb5a8ac5475123212261"
+            "chid": "6425bb5a8ac5475123212261"
         },
         {
             "type": "Feature",
@@ -65361,7 +65485,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "11-2B",
+                "ch_label": "11-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -65860,10 +65984,11 @@
                         "maxdepth": 200,
                         "value": 7.33
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8a"
             },
             "_id": "6425bb5a8ac5475123212262",
-            "haid": "6425bb5a8ac5475123212262"
+            "chid": "6425bb5a8ac5475123212262"
         },
         {
             "type": "Feature",
@@ -65895,7 +66020,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "11-2C",
+                "ch_label": "11-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -66387,10 +66512,11 @@
                         "maxdepth": 200,
                         "value": 7.26
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8a"
             },
             "_id": "6425bb5a8ac5475123212263",
-            "haid": "6425bb5a8ac5475123212263"
+            "chid": "6425bb5a8ac5475123212263"
         },
         {
             "type": "Feature",
@@ -66422,7 +66548,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "11-3A",
+                "ch_label": "11-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -66914,10 +67040,11 @@
                         "maxdepth": 200,
                         "value": 7.43
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8b"
             },
             "_id": "6425bb5a8ac5475123212264",
-            "haid": "6425bb5a8ac5475123212264"
+            "chid": "6425bb5a8ac5475123212264"
         },
         {
             "type": "Feature",
@@ -66949,7 +67076,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "11-3B",
+                "ch_label": "11-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -67448,10 +67575,11 @@
                         "maxdepth": 200,
                         "value": 7.55
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8b"
             },
             "_id": "6425bb5a8ac5475123212265",
-            "haid": "6425bb5a8ac5475123212265"
+            "chid": "6425bb5a8ac5475123212265"
         },
         {
             "type": "Feature",
@@ -67483,7 +67611,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "11-3C",
+                "ch_label": "11-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -67975,10 +68103,11 @@
                         "maxdepth": 200,
                         "value": 7.7
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8b"
             },
             "_id": "6425bb5a8ac5475123212266",
-            "haid": "6425bb5a8ac5475123212266"
+            "chid": "6425bb5a8ac5475123212266"
         },
         {
             "type": "Feature",
@@ -68010,7 +68139,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "11-4A",
+                "ch_label": "11-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -68502,10 +68631,11 @@
                         "maxdepth": 200,
                         "value": 8.29
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8c"
             },
             "_id": "6425bb5a8ac5475123212267",
-            "haid": "6425bb5a8ac5475123212267"
+            "chid": "6425bb5a8ac5475123212267"
         },
         {
             "type": "Feature",
@@ -68537,7 +68667,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "11-4B",
+                "ch_label": "11-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -69036,10 +69166,11 @@
                         "maxdepth": 200,
                         "value": 8.88
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8c"
             },
             "_id": "6425bb5a8ac5475123212268",
-            "haid": "6425bb5a8ac5475123212268"
+            "chid": "6425bb5a8ac5475123212268"
         },
         {
             "type": "Feature",
@@ -69071,7 +69202,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "11-4C",
+                "ch_label": "11-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -69563,10 +69694,11 @@
                         "maxdepth": 200,
                         "value": 9.11
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8c"
             },
             "_id": "6425bb5a8ac5475123212269",
-            "haid": "6425bb5a8ac5475123212269"
+            "chid": "6425bb5a8ac5475123212269"
         },
         {
             "type": "Feature",
@@ -69598,7 +69730,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "12-1A",
+                "ch_label": "12-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -70086,10 +70218,11 @@
                         "maxdepth": 200,
                         "value": 9.66
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8d"
             },
             "_id": "6425bb5a8ac547512321226a",
-            "haid": "6425bb5a8ac547512321226a"
+            "chid": "6425bb5a8ac547512321226a"
         },
         {
             "type": "Feature",
@@ -70121,7 +70254,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "12-1B",
+                "ch_label": "12-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -70616,10 +70749,11 @@
                         "maxdepth": 200,
                         "value": 8.64
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8d"
             },
             "_id": "6425bb5a8ac547512321226b",
-            "haid": "6425bb5a8ac547512321226b"
+            "chid": "6425bb5a8ac547512321226b"
         },
         {
             "type": "Feature",
@@ -70651,7 +70785,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "12-1C",
+                "ch_label": "12-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -71139,10 +71273,11 @@
                         "maxdepth": 200,
                         "value": 7.99
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8d"
             },
             "_id": "6425bb5a8ac547512321226c",
-            "haid": "6425bb5a8ac547512321226c"
+            "chid": "6425bb5a8ac547512321226c"
         },
         {
             "type": "Feature",
@@ -71174,7 +71309,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "12-2A",
+                "ch_label": "12-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -71662,10 +71797,11 @@
                         "maxdepth": 200,
                         "value": 7.52
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8e"
             },
             "_id": "6425bb5a8ac547512321226d",
-            "haid": "6425bb5a8ac547512321226d"
+            "chid": "6425bb5a8ac547512321226d"
         },
         {
             "type": "Feature",
@@ -71697,7 +71833,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "12-2B",
+                "ch_label": "12-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -72192,10 +72328,11 @@
                         "maxdepth": 200,
                         "value": 7.23
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8e"
             },
             "_id": "6425bb5a8ac547512321226e",
-            "haid": "6425bb5a8ac547512321226e"
+            "chid": "6425bb5a8ac547512321226e"
         },
         {
             "type": "Feature",
@@ -72227,7 +72364,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "12-2C",
+                "ch_label": "12-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -72715,10 +72852,11 @@
                         "maxdepth": 200,
                         "value": 7.16
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8e"
             },
             "_id": "6425bb5a8ac547512321226f",
-            "haid": "6425bb5a8ac547512321226f"
+            "chid": "6425bb5a8ac547512321226f"
         },
         {
             "type": "Feature",
@@ -72750,7 +72888,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "12-3A",
+                "ch_label": "12-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -73238,10 +73376,11 @@
                         "maxdepth": 200,
                         "value": 7.64
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8f"
             },
             "_id": "6425bb5a8ac5475123212270",
-            "haid": "6425bb5a8ac5475123212270"
+            "chid": "6425bb5a8ac5475123212270"
         },
         {
             "type": "Feature",
@@ -73273,7 +73412,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "12-3B",
+                "ch_label": "12-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -73768,10 +73907,11 @@
                         "maxdepth": 200,
                         "value": 7.96
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8f"
             },
             "_id": "6425bb5a8ac5475123212271",
-            "haid": "6425bb5a8ac5475123212271"
+            "chid": "6425bb5a8ac5475123212271"
         },
         {
             "type": "Feature",
@@ -73803,7 +73943,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "12-3C",
+                "ch_label": "12-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -74291,10 +74431,11 @@
                         "maxdepth": 200,
                         "value": 8.21
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd8f"
             },
             "_id": "6425bb5a8ac5475123212272",
-            "haid": "6425bb5a8ac5475123212272"
+            "chid": "6425bb5a8ac5475123212272"
         },
         {
             "type": "Feature",
@@ -74326,7 +74467,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "12-4A",
+                "ch_label": "12-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -74814,10 +74955,11 @@
                         "maxdepth": 200,
                         "value": 8.6
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd90"
             },
             "_id": "6425bb5a8ac5475123212273",
-            "haid": "6425bb5a8ac5475123212273"
+            "chid": "6425bb5a8ac5475123212273"
         },
         {
             "type": "Feature",
@@ -74849,7 +74991,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "12-4B",
+                "ch_label": "12-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -75335,10 +75477,11 @@
                         "maxdepth": 200,
                         "value": 8.97
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd90"
             },
             "_id": "6425bb5a8ac5475123212274",
-            "haid": "6425bb5a8ac5475123212274"
+            "chid": "6425bb5a8ac5475123212274"
         },
         {
             "type": "Feature",
@@ -75370,7 +75513,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "12-4C",
+                "ch_label": "12-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -75858,10 +76001,11 @@
                         "maxdepth": 200,
                         "value": 9.06
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd90"
             },
             "_id": "6425bb5a8ac5475123212275",
-            "haid": "6425bb5a8ac5475123212275"
+            "chid": "6425bb5a8ac5475123212275"
         },
         {
             "type": "Feature",
@@ -75893,7 +76037,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "13-1A",
+                "ch_label": "13-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -76385,10 +76529,11 @@
                         "maxdepth": 200,
                         "value": 9.66
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd91"
             },
             "_id": "6425bb5a8ac5475123212276",
-            "haid": "6425bb5a8ac5475123212276"
+            "chid": "6425bb5a8ac5475123212276"
         },
         {
             "type": "Feature",
@@ -76420,7 +76565,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "13-1B",
+                "ch_label": "13-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -76919,10 +77064,11 @@
                         "maxdepth": 200,
                         "value": 8.34
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd91"
             },
             "_id": "6425bb5a8ac5475123212277",
-            "haid": "6425bb5a8ac5475123212277"
+            "chid": "6425bb5a8ac5475123212277"
         },
         {
             "type": "Feature",
@@ -76954,7 +77100,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "13-1C",
+                "ch_label": "13-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -77446,10 +77592,11 @@
                         "maxdepth": 200,
                         "value": 7.7
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd91"
             },
             "_id": "6425bb5a8ac5475123212278",
-            "haid": "6425bb5a8ac5475123212278"
+            "chid": "6425bb5a8ac5475123212278"
         },
         {
             "type": "Feature",
@@ -77481,7 +77628,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "13-2A",
+                "ch_label": "13-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -77973,10 +78120,11 @@
                         "maxdepth": 200,
                         "value": 8.07
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd92"
             },
             "_id": "6425bb5a8ac5475123212279",
-            "haid": "6425bb5a8ac5475123212279"
+            "chid": "6425bb5a8ac5475123212279"
         },
         {
             "type": "Feature",
@@ -78008,7 +78156,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "13-2B",
+                "ch_label": "13-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -78507,10 +78655,11 @@
                         "maxdepth": 200,
                         "value": 8.28
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd92"
             },
             "_id": "6425bb5a8ac547512321227a",
-            "haid": "6425bb5a8ac547512321227a"
+            "chid": "6425bb5a8ac547512321227a"
         },
         {
             "type": "Feature",
@@ -78542,7 +78691,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "13-2C",
+                "ch_label": "13-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -79034,10 +79183,11 @@
                         "maxdepth": 200,
                         "value": 8.3
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd92"
             },
             "_id": "6425bb5a8ac547512321227b",
-            "haid": "6425bb5a8ac547512321227b"
+            "chid": "6425bb5a8ac547512321227b"
         },
         {
             "type": "Feature",
@@ -79069,7 +79219,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "13-3A",
+                "ch_label": "13-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -79561,10 +79711,11 @@
                         "maxdepth": 200,
                         "value": 8.21
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd93"
             },
             "_id": "6425bb5a8ac547512321227c",
-            "haid": "6425bb5a8ac547512321227c"
+            "chid": "6425bb5a8ac547512321227c"
         },
         {
             "type": "Feature",
@@ -79596,7 +79747,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "13-3B",
+                "ch_label": "13-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -80095,10 +80246,11 @@
                         "maxdepth": 200,
                         "value": 8.4
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd93"
             },
             "_id": "6425bb5a8ac547512321227d",
-            "haid": "6425bb5a8ac547512321227d"
+            "chid": "6425bb5a8ac547512321227d"
         },
         {
             "type": "Feature",
@@ -80130,7 +80282,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "13-3C",
+                "ch_label": "13-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -80622,10 +80774,11 @@
                         "maxdepth": 200,
                         "value": 8.57
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd93"
             },
             "_id": "6425bb5a8ac547512321227e",
-            "haid": "6425bb5a8ac547512321227e"
+            "chid": "6425bb5a8ac547512321227e"
         },
         {
             "type": "Feature",
@@ -80657,7 +80810,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "13-4A",
+                "ch_label": "13-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -81149,10 +81302,11 @@
                         "maxdepth": 200,
                         "value": 8.46
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd94"
             },
             "_id": "6425bb5a8ac547512321227f",
-            "haid": "6425bb5a8ac547512321227f"
+            "chid": "6425bb5a8ac547512321227f"
         },
         {
             "type": "Feature",
@@ -81184,7 +81338,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "13-4B",
+                "ch_label": "13-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -81683,10 +81837,11 @@
                         "maxdepth": 200,
                         "value": 8.19
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd94"
             },
             "_id": "6425bb5a8ac5475123212280",
-            "haid": "6425bb5a8ac5475123212280"
+            "chid": "6425bb5a8ac5475123212280"
         },
         {
             "type": "Feature",
@@ -81718,7 +81873,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "13-4C",
+                "ch_label": "13-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -82210,10 +82365,11 @@
                         "maxdepth": 200,
                         "value": 8.26
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd94"
             },
             "_id": "6425bb5a8ac5475123212281",
-            "haid": "6425bb5a8ac5475123212281"
+            "chid": "6425bb5a8ac5475123212281"
         },
         {
             "type": "Feature",
@@ -82245,7 +82401,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "14-1A",
+                "ch_label": "14-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -82737,10 +82893,11 @@
                         "maxdepth": 200,
                         "value": 9.4
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd95"
             },
             "_id": "6425bb5a8ac5475123212282",
-            "haid": "6425bb5a8ac5475123212282"
+            "chid": "6425bb5a8ac5475123212282"
         },
         {
             "type": "Feature",
@@ -82772,7 +82929,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "14-1B",
+                "ch_label": "14-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -83271,10 +83428,11 @@
                         "maxdepth": 200,
                         "value": 8.23
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd95"
             },
             "_id": "6425bb5a8ac5475123212283",
-            "haid": "6425bb5a8ac5475123212283"
+            "chid": "6425bb5a8ac5475123212283"
         },
         {
             "type": "Feature",
@@ -83306,7 +83464,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "14-1C",
+                "ch_label": "14-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -83798,10 +83956,11 @@
                         "maxdepth": 200,
                         "value": 7.82
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd95"
             },
             "_id": "6425bb5a8ac5475123212284",
-            "haid": "6425bb5a8ac5475123212284"
+            "chid": "6425bb5a8ac5475123212284"
         },
         {
             "type": "Feature",
@@ -83833,7 +83992,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "14-2A",
+                "ch_label": "14-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -84325,10 +84484,11 @@
                         "maxdepth": 200,
                         "value": 8.59
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd96"
             },
             "_id": "6425bb5a8ac5475123212285",
-            "haid": "6425bb5a8ac5475123212285"
+            "chid": "6425bb5a8ac5475123212285"
         },
         {
             "type": "Feature",
@@ -84360,7 +84520,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "14-2B",
+                "ch_label": "14-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -84859,10 +85019,11 @@
                         "maxdepth": 200,
                         "value": 9.04
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd96"
             },
             "_id": "6425bb5a8ac5475123212286",
-            "haid": "6425bb5a8ac5475123212286"
+            "chid": "6425bb5a8ac5475123212286"
         },
         {
             "type": "Feature",
@@ -84894,7 +85055,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "14-2C",
+                "ch_label": "14-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -85386,10 +85547,11 @@
                         "maxdepth": 200,
                         "value": 9.03
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd96"
             },
             "_id": "6425bb5a8ac5475123212287",
-            "haid": "6425bb5a8ac5475123212287"
+            "chid": "6425bb5a8ac5475123212287"
         },
         {
             "type": "Feature",
@@ -85421,7 +85583,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "14-3A",
+                "ch_label": "14-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -85913,10 +86075,11 @@
                         "maxdepth": 200,
                         "value": 8.4
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd97"
             },
             "_id": "6425bb5a8ac5475123212288",
-            "haid": "6425bb5a8ac5475123212288"
+            "chid": "6425bb5a8ac5475123212288"
         },
         {
             "type": "Feature",
@@ -85948,7 +86111,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "14-3B",
+                "ch_label": "14-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -86447,10 +86610,11 @@
                         "maxdepth": 200,
                         "value": 8.6
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd97"
             },
             "_id": "6425bb5a8ac5475123212289",
-            "haid": "6425bb5a8ac5475123212289"
+            "chid": "6425bb5a8ac5475123212289"
         },
         {
             "type": "Feature",
@@ -86482,7 +86646,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "14-3C",
+                "ch_label": "14-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -86974,10 +87138,11 @@
                         "maxdepth": 200,
                         "value": 8.76
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd97"
             },
             "_id": "6425bb5a8ac547512321228a",
-            "haid": "6425bb5a8ac547512321228a"
+            "chid": "6425bb5a8ac547512321228a"
         },
         {
             "type": "Feature",
@@ -87009,7 +87174,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "14-4A",
+                "ch_label": "14-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -87501,10 +87666,11 @@
                         "maxdepth": 200,
                         "value": 8.4
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd98"
             },
             "_id": "6425bb5a8ac547512321228b",
-            "haid": "6425bb5a8ac547512321228b"
+            "chid": "6425bb5a8ac547512321228b"
         },
         {
             "type": "Feature",
@@ -87536,7 +87702,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "14-4B",
+                "ch_label": "14-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -88035,10 +88201,11 @@
                         "maxdepth": 200,
                         "value": 7.81
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd98"
             },
             "_id": "6425bb5a8ac547512321228c",
-            "haid": "6425bb5a8ac547512321228c"
+            "chid": "6425bb5a8ac547512321228c"
         },
         {
             "type": "Feature",
@@ -88070,7 +88237,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "14-4C",
+                "ch_label": "14-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -88562,10 +88729,11 @@
                         "maxdepth": 200,
                         "value": 7.99
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd98"
             },
             "_id": "6425bb5a8ac547512321228d",
-            "haid": "6425bb5a8ac547512321228d"
+            "chid": "6425bb5a8ac547512321228d"
         },
         {
             "type": "Feature",
@@ -88597,7 +88765,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "15-1A",
+                "ch_label": "15-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -89089,10 +89257,11 @@
                         "maxdepth": 200,
                         "value": 8.89
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd99"
             },
             "_id": "6425bb5a8ac547512321228e",
-            "haid": "6425bb5a8ac547512321228e"
+            "chid": "6425bb5a8ac547512321228e"
         },
         {
             "type": "Feature",
@@ -89124,7 +89293,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "15-1B",
+                "ch_label": "15-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -89623,10 +89792,11 @@
                         "maxdepth": 200,
                         "value": 8.12
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd99"
             },
             "_id": "6425bb5a8ac547512321228f",
-            "haid": "6425bb5a8ac547512321228f"
+            "chid": "6425bb5a8ac547512321228f"
         },
         {
             "type": "Feature",
@@ -89658,7 +89828,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "15-1C",
+                "ch_label": "15-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -90150,10 +90320,11 @@
                         "maxdepth": 200,
                         "value": 7.82
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd99"
             },
             "_id": "6425bb5a8ac5475123212290",
-            "haid": "6425bb5a8ac5475123212290"
+            "chid": "6425bb5a8ac5475123212290"
         },
         {
             "type": "Feature",
@@ -90185,7 +90356,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "15-2A",
+                "ch_label": "15-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -90677,10 +90848,11 @@
                         "maxdepth": 200,
                         "value": 8.58
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9a"
             },
             "_id": "6425bb5a8ac5475123212291",
-            "haid": "6425bb5a8ac5475123212291"
+            "chid": "6425bb5a8ac5475123212291"
         },
         {
             "type": "Feature",
@@ -90712,7 +90884,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "15-2B",
+                "ch_label": "15-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -91211,10 +91383,11 @@
                         "maxdepth": 200,
                         "value": 8.95
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9a"
             },
             "_id": "6425bb5a8ac5475123212292",
-            "haid": "6425bb5a8ac5475123212292"
+            "chid": "6425bb5a8ac5475123212292"
         },
         {
             "type": "Feature",
@@ -91246,7 +91419,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "15-2C",
+                "ch_label": "15-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -91738,10 +91911,11 @@
                         "maxdepth": 200,
                         "value": 8.89
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9a"
             },
             "_id": "6425bb5a8ac5475123212293",
-            "haid": "6425bb5a8ac5475123212293"
+            "chid": "6425bb5a8ac5475123212293"
         },
         {
             "type": "Feature",
@@ -91773,7 +91947,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "15-3A",
+                "ch_label": "15-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -92265,10 +92439,11 @@
                         "maxdepth": 200,
                         "value": 8.03
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9b"
             },
             "_id": "6425bb5a8ac5475123212294",
-            "haid": "6425bb5a8ac5475123212294"
+            "chid": "6425bb5a8ac5475123212294"
         },
         {
             "type": "Feature",
@@ -92300,7 +92475,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "15-3B",
+                "ch_label": "15-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -92799,10 +92974,11 @@
                         "maxdepth": 200,
                         "value": 8.13
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9b"
             },
             "_id": "6425bb5a8ac5475123212295",
-            "haid": "6425bb5a8ac5475123212295"
+            "chid": "6425bb5a8ac5475123212295"
         },
         {
             "type": "Feature",
@@ -92834,7 +93010,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "15-3C",
+                "ch_label": "15-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -93326,10 +93502,11 @@
                         "maxdepth": 200,
                         "value": 8.38
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9b"
             },
             "_id": "6425bb5a8ac5475123212296",
-            "haid": "6425bb5a8ac5475123212296"
+            "chid": "6425bb5a8ac5475123212296"
         },
         {
             "type": "Feature",
@@ -93361,7 +93538,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "15-4A",
+                "ch_label": "15-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -93853,10 +94030,11 @@
                         "maxdepth": 200,
                         "value": 8.6
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9c"
             },
             "_id": "6425bb5a8ac5475123212297",
-            "haid": "6425bb5a8ac5475123212297"
+            "chid": "6425bb5a8ac5475123212297"
         },
         {
             "type": "Feature",
@@ -93888,7 +94066,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "15-4B",
+                "ch_label": "15-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -94387,10 +94565,11 @@
                         "maxdepth": 200,
                         "value": 8.27
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9c"
             },
             "_id": "6425bb5a8ac5475123212298",
-            "haid": "6425bb5a8ac5475123212298"
+            "chid": "6425bb5a8ac5475123212298"
         },
         {
             "type": "Feature",
@@ -94422,7 +94601,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "15-4C",
+                "ch_label": "15-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -94914,10 +95093,11 @@
                         "maxdepth": 200,
                         "value": 8.43
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9c"
             },
             "_id": "6425bb5a8ac5475123212299",
-            "haid": "6425bb5a8ac5475123212299"
+            "chid": "6425bb5a8ac5475123212299"
         },
         {
             "type": "Feature",
@@ -94949,7 +95129,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "16-1A",
+                "ch_label": "16-1A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -95441,10 +95621,11 @@
                         "maxdepth": 200,
                         "value": 8.51
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9d"
             },
             "_id": "6425bb5a8ac547512321229a",
-            "haid": "6425bb5a8ac547512321229a"
+            "chid": "6425bb5a8ac547512321229a"
         },
         {
             "type": "Feature",
@@ -95476,7 +95657,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "16-1B",
+                "ch_label": "16-1B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -95975,10 +96156,11 @@
                         "maxdepth": 200,
                         "value": 8.02
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9d"
             },
             "_id": "6425bb5a8ac547512321229b",
-            "haid": "6425bb5a8ac547512321229b"
+            "chid": "6425bb5a8ac547512321229b"
         },
         {
             "type": "Feature",
@@ -96010,7 +96192,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "16-1C",
+                "ch_label": "16-1C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -96502,10 +96684,11 @@
                         "maxdepth": 200,
                         "value": 7.79
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9d"
             },
             "_id": "6425bb5a8ac547512321229c",
-            "haid": "6425bb5a8ac547512321229c"
+            "chid": "6425bb5a8ac547512321229c"
         },
         {
             "type": "Feature",
@@ -96537,7 +96720,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "16-2A",
+                "ch_label": "16-2A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -97029,10 +97212,11 @@
                         "maxdepth": 200,
                         "value": 8.23
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9e"
             },
             "_id": "6425bb5a8ac547512321229d",
-            "haid": "6425bb5a8ac547512321229d"
+            "chid": "6425bb5a8ac547512321229d"
         },
         {
             "type": "Feature",
@@ -97064,7 +97248,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "16-2B",
+                "ch_label": "16-2B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -97563,10 +97747,11 @@
                         "maxdepth": 200,
                         "value": 8.19
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9e"
             },
             "_id": "6425bb5a8ac547512321229e",
-            "haid": "6425bb5a8ac547512321229e"
+            "chid": "6425bb5a8ac547512321229e"
         },
         {
             "type": "Feature",
@@ -97598,7 +97783,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "16-2C",
+                "ch_label": "16-2C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -98090,10 +98275,11 @@
                         "maxdepth": 200,
                         "value": 8.07
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9e"
             },
             "_id": "6425bb5a8ac547512321229f",
-            "haid": "6425bb5a8ac547512321229f"
+            "chid": "6425bb5a8ac547512321229f"
         },
         {
             "type": "Feature",
@@ -98125,7 +98311,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "16-3A",
+                "ch_label": "16-3A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -98617,10 +98803,11 @@
                         "maxdepth": 200,
                         "value": 7.75
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9f"
             },
             "_id": "6425bb5a8ac54751232122a0",
-            "haid": "6425bb5a8ac54751232122a0"
+            "chid": "6425bb5a8ac54751232122a0"
         },
         {
             "type": "Feature",
@@ -98652,7 +98839,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "16-3B",
+                "ch_label": "16-3B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -99151,10 +99338,11 @@
                         "maxdepth": 200,
                         "value": 7.62
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9f"
             },
             "_id": "6425bb5a8ac54751232122a1",
-            "haid": "6425bb5a8ac54751232122a1"
+            "chid": "6425bb5a8ac54751232122a1"
         },
         {
             "type": "Feature",
@@ -99186,7 +99374,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "16-3C",
+                "ch_label": "16-3C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -99678,10 +99866,11 @@
                         "maxdepth": 200,
                         "value": 7.9
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fd9f"
             },
             "_id": "6425bb5a8ac54751232122a2",
-            "haid": "6425bb5a8ac54751232122a2"
+            "chid": "6425bb5a8ac54751232122a2"
         },
         {
             "type": "Feature",
@@ -99713,7 +99902,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "16-4A",
+                "ch_label": "16-4A",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -100205,10 +100394,11 @@
                         "maxdepth": 200,
                         "value": 9.04
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fda0"
             },
             "_id": "6425bb5a8ac54751232122a3",
-            "haid": "6425bb5a8ac54751232122a3"
+            "chid": "6425bb5a8ac54751232122a3"
         },
         {
             "type": "Feature",
@@ -100240,7 +100430,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "16-4B",
+                "ch_label": "16-4B",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -100739,10 +100929,11 @@
                         "maxdepth": 200,
                         "value": 9.0
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fda0"
             },
             "_id": "6425bb5a8ac54751232122a4",
-            "haid": "6425bb5a8ac54751232122a4"
+            "chid": "6425bb5a8ac54751232122a4"
         },
         {
             "type": "Feature",
@@ -100774,7 +100965,7 @@
                 ]
             },
             "properties": {
-                "ha_label": "16-4C",
+                "ch_label": "16-4C",
                 "HAREA": 20.323746,
                 "HARM": "Machine",
                 "HADAT": "2017-11-08",
@@ -101266,10 +101457,11 @@
                         "maxdepth": 200,
                         "value": 9.27
                     }
-                ]
+                ],
+                "pid": "6425b4768ac5474f3e21fda0"
             },
             "_id": "6425bb5a8ac54751232122a5",
-            "haid": "6425bb5a8ac54751232122a5"
+            "chid": "6425bb5a8ac54751232122a5"
         }
     ]
 }

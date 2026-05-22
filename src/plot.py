@@ -50,17 +50,17 @@ class Plot:
     def setproperty(self,key,value):
         self.doc['properties'].update({key:value})
 
-    def addhaid(self,haid):
-        if 'haids' in self.doc['properties'].keys():
-            self.doc['properties']['haids'].append(haid)
+    def addchid(self,chid):
+        if 'chids' in self.doc['properties'].keys():
+            self.doc['properties']['chids'].append(chid)
         else:
-            self.doc['properties'].update({'haids':[haid]})
+            self.doc['properties'].update({'chids':[chid]})
 
-    def addtid(self,tid):
-        if 'tids' in self.doc['properties'].keys():
-            self.doc['properties']['tids'].append(tid)
+    def addswcid(self,swcid):
+        if 'swcids' in self.doc['properties'].keys():
+            self.doc['properties']['swcids'].append(swcid)
         else:
-            self.doc['properties'].update({'tids':[tid]})
+            self.doc['properties'].update({'swcids':[swcid]})
 
     def addccid(self,ccid):
         if 'ccids' in self.doc['properties'].keys():
@@ -74,17 +74,17 @@ class Plot:
         else:
             self.doc['properties'].update({'paids':[paid]})
 
-    def addsaid(self,said):
-        if 'saids' in self.doc['properties'].keys():
-            self.doc['properties']['saids'].append(said)
+    def addspaid(self,spaid):
+        if 'spaids' in self.doc['properties'].keys():
+            self.doc['properties']['spaids'].append(spaid)
         else:
-            self.doc['properties'].update({'saids':[said]})
+            self.doc['properties'].update({'spaids':[spaid]})
 
-    def addscid(self,scid):
-        if 'scids' in self.doc['properties'].keys():
-            self.doc['properties']['scids'].append(scid)
+    def addscaid(self,scaid):
+        if 'scaids' in self.doc['properties'].keys():
+            self.doc['properties']['scaids'].append(scaid)
         else:
-            self.doc['properties'].update({'scids':[scid]})
+            self.doc['properties'].update({'scaids':[scaid]})
 
     def addzid(self,zid):
         if 'zids' in self.doc['properties'].keys():

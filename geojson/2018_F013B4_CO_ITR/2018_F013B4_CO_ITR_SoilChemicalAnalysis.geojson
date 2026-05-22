@@ -11,7 +11,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "p01-4",
+                "sca_label": "p01-4",
                 "SOIL_DATE": "2018-05-22",
                 "SNO3": [
                     {
@@ -44,10 +44,11 @@
                         "maxdepth": 200,
                         "value": 5.5
                     }
-                ]
+                ],
+                "pid": "6424d1af8ac547248ba8e86a"
             },
             "_id": "682396978ac54752f9cbc911",
-            "scid": "682396978ac54752f9cbc911"
+            "scaid": "682396978ac54752f9cbc911"
         },
         {
             "type": "Feature",
@@ -59,7 +60,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "p02-2",
+                "sca_label": "p02-2",
                 "SOIL_DATE": "2018-05-22",
                 "SNO3": [
                     {
@@ -92,10 +93,11 @@
                         "maxdepth": 200,
                         "value": 2.1
                     }
-                ]
+                ],
+                "pid": "6424d1af8ac547248ba8e86c"
             },
             "_id": "682396978ac54752f9cbc912",
-            "scid": "682396978ac54752f9cbc912"
+            "scaid": "682396978ac54752f9cbc912"
         },
         {
             "type": "Feature",
@@ -107,7 +109,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "p06-2",
+                "sca_label": "p06-2",
                 "SOIL_DATE": "2018-05-22",
                 "SNO3": [
                     {
@@ -140,10 +142,11 @@
                         "maxdepth": 200,
                         "value": 3.6
                     }
-                ]
+                ],
+                "pid": "6424d1af8ac547248ba8e87c"
             },
             "_id": "682396978ac54752f9cbc913",
-            "scid": "682396978ac54752f9cbc913"
+            "scaid": "682396978ac54752f9cbc913"
         },
         {
             "type": "Feature",
@@ -155,7 +158,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "p08-2",
+                "sca_label": "p08-2",
                 "SOIL_DATE": "2018-05-22",
                 "SNO3": [
                     {
@@ -188,10 +191,11 @@
                         "maxdepth": 200,
                         "value": 7.6
                     }
-                ]
+                ],
+                "pid": "6424d1af8ac547248ba8e884"
             },
             "_id": "682396978ac54752f9cbc914",
-            "scid": "682396978ac54752f9cbc914"
+            "scaid": "682396978ac54752f9cbc914"
         },
         {
             "type": "Feature",
@@ -203,7 +207,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "p10-4",
+                "sca_label": "p10-4",
                 "SOIL_DATE": "2018-05-22",
                 "SNO3": [
                     {
@@ -236,10 +240,11 @@
                         "maxdepth": 200,
                         "value": 2.1
                     }
-                ]
+                ],
+                "pid": "6424d1af8ac547248ba8e88e"
             },
             "_id": "682396978ac54752f9cbc915",
-            "scid": "682396978ac54752f9cbc915"
+            "scaid": "682396978ac54752f9cbc915"
         },
         {
             "type": "Feature",
@@ -251,7 +256,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "p12-1",
+                "sca_label": "p12-1",
                 "SOIL_DATE": "2018-05-22",
                 "SNO3": [
                     {
@@ -284,10 +289,11 @@
                         "maxdepth": 200,
                         "value": 14.9
                     }
-                ]
+                ],
+                "pid": "6424d1af8ac547248ba8e893"
             },
             "_id": "682396978ac54752f9cbc916",
-            "scid": "682396978ac54752f9cbc916"
+            "scaid": "682396978ac54752f9cbc916"
         },
         {
             "type": "Feature",
@@ -299,7 +305,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "p15-2",
+                "sca_label": "p15-2",
                 "SOIL_DATE": "2018-05-22",
                 "SNO3": [
                     {
@@ -332,10 +338,11 @@
                         "maxdepth": 200,
                         "value": 1.0
                     }
-                ]
+                ],
+                "pid": "6424d1af8ac547248ba8e8a0"
             },
             "_id": "682396978ac54752f9cbc917",
-            "scid": "682396978ac54752f9cbc917"
+            "scaid": "682396978ac54752f9cbc917"
         }
     ]
 }

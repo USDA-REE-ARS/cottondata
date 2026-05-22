@@ -367,6 +367,7 @@ for feature in layer:
         myplot.setproperty('FBELO' ,round(row.iloc[0]['FBELO' ],1))
     if not math.isnan(row.iloc[0]['FBSFI']):
         myplot.setproperty('FBSFI' ,round(row.iloc[0]['FBSFI' ],1))
+    myplot.setproperty('eid',myexp.getid())
     plots.append(myplot)
 ########################################################################
 
@@ -384,7 +385,7 @@ safile = '../Data/'+fname+'/'+fname+'_SoilPhysicalAnalysis.xlsx'
 soil = pd.read_excel(safile,sheet_name='SoilHA')
 hareas = list()
 for feature in layer:
-    haid = feature.GetField('ObjectId')
+    chid = feature.GetField('ObjectId')
     ha_label = feature.GetField('HID') #(e.g., 01-1A)
     geometry = feature.GetGeometryRef()
     geomcount = geometry.GetGeometryCount()
@@ -397,7 +398,7 @@ for feature in layer:
         print('Unexpected spatial reference in harvest area shapefile.')
         sys.exit()
     ha_area = geometry.GetArea()
-    myha = cropharvest.CropHarvest(haid=haid,geometry=geometry,ha_label=ha_label)
+    myha = cropharvest.CropHarvest(chid=chid,geometry=geometry,ha_label=ha_label)
     myha.setproperty('HAREA',round(ha_area,6))
     #Yield and fiber quality data
     row = yld.loc[yld['HID'] == ha_label]
@@ -558,7 +559,8 @@ for feature in layer:
     found=False
     for plot in plots:
         if plot.plt_label[1:] == ha_label[:4]:
-            plot.addhaid(myha.getid())
+            plot.addchid(myha.getid())
+            myha.setproperty('pid',plot.getid())
             found=True
             break
     if not found:
@@ -578,14 +580,14 @@ tdrfile = '../Data/'+fname+'/'+fname+'_SurfaceTDR.xlsx'
 tdr = pd.read_excel(tdrfile,sheet_name='MiniTrase')
 tubes = list()
 for feature in layer:
-    tid = feature.GetField('ObjectId')
+    swcid = feature.GetField('ObjectId')
     tb_label = str(feature.GetField('Tube')) #(e.g., 01-1)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in neutronSWC shapefile.')
         sys.exit()
-    mytube = soilwatercontent.SoilWaterContent(tid=tid,geometry=geometry,tb_label=tb_label)
+    mytube = soilwatercontent.SoilWaterContent(swcid=swcid,geometry=geometry,tb_label=tb_label)
     swcdata = list()
     #Surface TDR soil water content measurements
     row = tdr.loc[tdr['PlotID'] == tb_label]
@@ -622,7 +624,8 @@ for feature in layer:
     found=False
     for plot in plots:
         if plot.plt_label[1:] == tb_label:
-            plot.addtid(mytube.getid())
+            plot.addswcid(mytube.getid())
+            mytube.setproperty('pid',plot.getid())
             found=True
             break
     if not found:
@@ -710,6 +713,7 @@ for feature in layer:
     for plot in plots:
         if plot.plt_label[1:] == cc_label[:4]:
             plot.addccid(mycc.getid())
+            mycc.setproperty('pid',plot.getid())
             found = True
             break
     if not found:
@@ -764,6 +768,7 @@ for feature in layer:
     for plot in plots:
         if plot.plt_label == pa_label[:5]:
             plot.addpaid(mypa.getid())
+            mypa.setproperty('pid',plot.getid())
             found = True
             break
     if not found:
@@ -779,9 +784,9 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 scfile = '../Data/'+fname+'/'+fname+'_SoilChemicalAnalysis.xlsx'
 sc = pd.read_excel(scfile,sheet_name='SoilChemDF')
-scs = list()
+scas = list()
 for feature in layer:
-    scid = feature.GetField('ObjectId')
+    scaid = feature.GetField('ObjectId')
     sc_label = feature.GetField('Core')  #(e.g., N1)
     plt_label = feature.GetField('Plot') #(e.g., p01-1)
     geometry = feature.GetGeometryRef()
@@ -789,11 +794,11 @@ for feature in layer:
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in soil chemistry shapefile.')
         sys.exit()
-    mysc = soilchemicalanalysis.SoilChemicalAnalysis(scid=scid,geometry=geometry,sc_label=sc_label)
+    mysca = soilchemicalanalysis.SoilChemicalAnalysis(scaid=scaid,geometry=geometry,sc_label=sc_label)
     #Soil chemistry data
     rows = sc[sc['Sample'] == sc_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
-        mysc.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m-%d'))
+        mysca.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m-%d'))
     items={'SNO3':1}
     for item in items.keys():
         scdata = list()
@@ -807,16 +812,17 @@ for feature in layer:
                                'maxdepth':int(depth)+15,
                                'value':value})
         if scdata:
-            mysc.setproperty(item,scdata)
+            mysca.setproperty(item,scdata)
     found = False
     for plot in plots:
         if plot.plt_label == plt_label:
-            plot.addscid(mysc.getid())
+            plot.addscaid(mysca.getid())
+            mysca.setproperty('pid',plot.getid())
             found = True
             break
     if not found:
         raise Exception('Did not find plot for soil chemical analysis %s' % sc_label)
-    scs.append(mysc)
+    scas.append(mysca)
 ########################################################################
 
 ########################################################################
@@ -828,14 +834,14 @@ layer = shapes.GetLayer()
 safile = '../Data/'+fname+'/'+fname+'_SoilPhysicalAnalysis.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDJH')
 for feature in layer:
-    said = feature.GetField('ObjectId')
+    spaid = feature.GetField('ObjectId')
     sa_label = feature.GetField('Core')  #(e.g., 2014-p01-1)
     if sa_label in sa['Core'].values:
         row = sa[sa['Core'] == sa_label]
         found = False
         for plot in plots:
             if plot.plt_label == row.iloc[0]['Plot']:
-                plot.addsaid(said)
+                plot.addspaid(spaid)
                 found = True
                 break
         if not found:
@@ -848,14 +854,14 @@ layer = shapes.GetLayer()
 safile = '../Data/'+fname+'/'+fname+'_SoilPhysicalAnalysis.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilKRT')
 for feature in layer:
-    said = feature.GetField('ObjectId')
+    spaid = feature.GetField('ObjectId')
     sa_label = feature.GetField('Core')  #(e.g., 2016-p01-1)
     if sa_label in sa['Core'].values:
         row = sa[sa['Core'] == sa_label]
         found = False
         for plot in plots:
             if plot.plt_label == row.iloc[0]['Plot']:
-                plot.addsaid(said)
+                plot.addspaid(spaid)
                 found = True
                 break
         if not found:
@@ -916,8 +922,8 @@ with open('../geojson/'+fname+'/'+fname+'_PlantAnalysis.geojson','w') as f:
 f.close()
 
 features = list()
-for mysc in scs:
-    features.append(mysc.doc)
+for mysca in scas:
+    features.append(mysca.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/'+fname+'/'+fname+'_SoilChemicalAnalysis.geojson','w') as f:
     geojson.dump(fc,f,indent=4)

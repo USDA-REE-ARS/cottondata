@@ -4,7 +4,7 @@ import geojson
 from osgeo import osr
 
 class CropHarvest:
-    def __init__(self,haid=None,geometry=None,ha_label=None):
+    def __init__(self,chid=None,geometry=None,ha_label=None):
 
         #Establish feature geometry in lon/lat (geojson standard)
         if geometry is not None:
@@ -26,23 +26,23 @@ class CropHarvest:
             self.doc = geojson.Feature()
 
         #Establish harvest area id
-        self.haid = haid
-        if self.haid is None:
-            self.haid = str(bson.objectid.ObjectId())
-        if not bson.objectid.ObjectId.is_valid(haid):
+        self.chid = chid
+        if self.chid is None:
+            self.chid = str(bson.objectid.ObjectId())
+        if not bson.objectid.ObjectId.is_valid(chid):
             raise ValueError('Invalid ObjectId in CropHarvest')
-        self.doc.update({'_id':self.haid})
-        self.doc.update({'haid':self.haid})
+        self.doc.update({'_id':self.chid})
+        self.doc.update({'chid':self.chid})
 
         #Set feature properties
         if ha_label is not None:
-            self.doc['properties'].update({'ha_label':ha_label})
+            self.doc['properties'].update({'ch_label':ha_label})
 
     def __str__(self):
         return str(json.dumps(self.doc,indent=4))
 
     def getid(self):
-        return self.haid
+        return self.chid
 
     def setproperty(self,key,value):
         self.doc['properties'].update({key:value})

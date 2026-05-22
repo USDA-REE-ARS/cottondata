@@ -11,7 +11,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap02",
+                "spa_label": "20062007camelinap02",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -281,7 +281,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b092",
-            "said": "68a8b2048ac5474b9468b092"
+            "spaid": "68a8b2048ac5474b9468b092"
         },
         {
             "type": "Feature",
@@ -293,7 +293,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap04",
+                "spa_label": "20062007camelinap04",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -563,7 +563,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b098",
-            "said": "68a8b2048ac5474b9468b098"
+            "spaid": "68a8b2048ac5474b9468b098"
         },
         {
             "type": "Feature",
@@ -575,7 +575,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap05",
+                "spa_label": "20062007camelinap05",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -845,7 +845,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b09e",
-            "said": "68a8b2048ac5474b9468b09e"
+            "spaid": "68a8b2048ac5474b9468b09e"
         },
         {
             "type": "Feature",
@@ -857,7 +857,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap06",
+                "spa_label": "20062007camelinap06",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -1127,7 +1127,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0a4",
-            "said": "68a8b2048ac5474b9468b0a4"
+            "spaid": "68a8b2048ac5474b9468b0a4"
         },
         {
             "type": "Feature",
@@ -1139,7 +1139,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap07",
+                "spa_label": "20062007camelinap07",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -1409,7 +1409,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0aa",
-            "said": "68a8b2048ac5474b9468b0aa"
+            "spaid": "68a8b2048ac5474b9468b0aa"
         },
         {
             "type": "Feature",
@@ -1421,7 +1421,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap08",
+                "spa_label": "20062007camelinap08",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -1691,7 +1691,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0b0",
-            "said": "68a8b2048ac5474b9468b0b0"
+            "spaid": "68a8b2048ac5474b9468b0b0"
         },
         {
             "type": "Feature",
@@ -1703,7 +1703,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap11",
+                "spa_label": "20062007camelinap11",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -1973,7 +1973,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0b6",
-            "said": "68a8b2048ac5474b9468b0b6"
+            "spaid": "68a8b2048ac5474b9468b0b6"
         },
         {
             "type": "Feature",
@@ -1985,7 +1985,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap12",
+                "spa_label": "20062007camelinap12",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -2255,7 +2255,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0bc",
-            "said": "68a8b2048ac5474b9468b0bc"
+            "spaid": "68a8b2048ac5474b9468b0bc"
         },
         {
             "type": "Feature",
@@ -2267,7 +2267,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap13",
+                "spa_label": "20062007camelinap13",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -2537,7 +2537,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0c2",
-            "said": "68a8b2048ac5474b9468b0c2"
+            "spaid": "68a8b2048ac5474b9468b0c2"
         },
         {
             "type": "Feature",
@@ -2549,7 +2549,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap14",
+                "spa_label": "20062007camelinap14",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -2819,7 +2819,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0c8",
-            "said": "68a8b2048ac5474b9468b0c8"
+            "spaid": "68a8b2048ac5474b9468b0c8"
         },
         {
             "type": "Feature",
@@ -2831,7 +2831,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap15",
+                "spa_label": "20062007camelinap15",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -3101,7 +3101,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0ce",
-            "said": "68a8b2048ac5474b9468b0ce"
+            "spaid": "68a8b2048ac5474b9468b0ce"
         },
         {
             "type": "Feature",
@@ -3113,7 +3113,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap16",
+                "spa_label": "20062007camelinap16",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -3383,7 +3383,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0d4",
-            "said": "68a8b2048ac5474b9468b0d4"
+            "spaid": "68a8b2048ac5474b9468b0d4"
         },
         {
             "type": "Feature",
@@ -3395,7 +3395,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap17",
+                "spa_label": "20062007camelinap17",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -3665,7 +3665,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0da",
-            "said": "68a8b2048ac5474b9468b0da"
+            "spaid": "68a8b2048ac5474b9468b0da"
         },
         {
             "type": "Feature",
@@ -3677,7 +3677,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap18",
+                "spa_label": "20062007camelinap18",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -3947,7 +3947,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0e0",
-            "said": "68a8b2048ac5474b9468b0e0"
+            "spaid": "68a8b2048ac5474b9468b0e0"
         },
         {
             "type": "Feature",
@@ -3959,7 +3959,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap21",
+                "spa_label": "20062007camelinap21",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -4229,7 +4229,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0e6",
-            "said": "68a8b2048ac5474b9468b0e6"
+            "spaid": "68a8b2048ac5474b9468b0e6"
         },
         {
             "type": "Feature",
@@ -4241,7 +4241,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap22",
+                "spa_label": "20062007camelinap22",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -4511,7 +4511,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0ed",
-            "said": "68a8b2048ac5474b9468b0ed"
+            "spaid": "68a8b2048ac5474b9468b0ed"
         },
         {
             "type": "Feature",
@@ -4523,7 +4523,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap23",
+                "spa_label": "20062007camelinap23",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -4793,7 +4793,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0f3",
-            "said": "68a8b2048ac5474b9468b0f3"
+            "spaid": "68a8b2048ac5474b9468b0f3"
         },
         {
             "type": "Feature",
@@ -4805,7 +4805,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap24",
+                "spa_label": "20062007camelinap24",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -5075,7 +5075,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0f9",
-            "said": "68a8b2048ac5474b9468b0f9"
+            "spaid": "68a8b2048ac5474b9468b0f9"
         },
         {
             "type": "Feature",
@@ -5087,7 +5087,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap25",
+                "spa_label": "20062007camelinap25",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -5357,7 +5357,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b0ff",
-            "said": "68a8b2048ac5474b9468b0ff"
+            "spaid": "68a8b2048ac5474b9468b0ff"
         },
         {
             "type": "Feature",
@@ -5369,7 +5369,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap26",
+                "spa_label": "20062007camelinap26",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -5639,7 +5639,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b105",
-            "said": "68a8b2048ac5474b9468b105"
+            "spaid": "68a8b2048ac5474b9468b105"
         },
         {
             "type": "Feature",
@@ -5651,7 +5651,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap27",
+                "spa_label": "20062007camelinap27",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -5921,7 +5921,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b10b",
-            "said": "68a8b2048ac5474b9468b10b"
+            "spaid": "68a8b2048ac5474b9468b10b"
         },
         {
             "type": "Feature",
@@ -5933,7 +5933,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap28",
+                "spa_label": "20062007camelinap28",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -6203,7 +6203,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b111",
-            "said": "68a8b2048ac5474b9468b111"
+            "spaid": "68a8b2048ac5474b9468b111"
         },
         {
             "type": "Feature",
@@ -6215,7 +6215,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap31",
+                "spa_label": "20062007camelinap31",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -6485,7 +6485,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b117",
-            "said": "68a8b2048ac5474b9468b117"
+            "spaid": "68a8b2048ac5474b9468b117"
         },
         {
             "type": "Feature",
@@ -6497,7 +6497,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap32",
+                "spa_label": "20062007camelinap32",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -6767,7 +6767,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b11d",
-            "said": "68a8b2048ac5474b9468b11d"
+            "spaid": "68a8b2048ac5474b9468b11d"
         },
         {
             "type": "Feature",
@@ -6779,7 +6779,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap33",
+                "spa_label": "20062007camelinap33",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -7049,7 +7049,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b123",
-            "said": "68a8b2048ac5474b9468b123"
+            "spaid": "68a8b2048ac5474b9468b123"
         },
         {
             "type": "Feature",
@@ -7061,7 +7061,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap34",
+                "spa_label": "20062007camelinap34",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -7331,7 +7331,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b129",
-            "said": "68a8b2048ac5474b9468b129"
+            "spaid": "68a8b2048ac5474b9468b129"
         },
         {
             "type": "Feature",
@@ -7343,7 +7343,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap35",
+                "spa_label": "20062007camelinap35",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -7613,7 +7613,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b12f",
-            "said": "68a8b2048ac5474b9468b12f"
+            "spaid": "68a8b2048ac5474b9468b12f"
         },
         {
             "type": "Feature",
@@ -7625,7 +7625,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap36",
+                "spa_label": "20062007camelinap36",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -7895,7 +7895,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b135",
-            "said": "68a8b2048ac5474b9468b135"
+            "spaid": "68a8b2048ac5474b9468b135"
         },
         {
             "type": "Feature",
@@ -7907,7 +7907,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap37",
+                "spa_label": "20062007camelinap37",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -8177,7 +8177,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b13b",
-            "said": "68a8b2048ac5474b9468b13b"
+            "spaid": "68a8b2048ac5474b9468b13b"
         },
         {
             "type": "Feature",
@@ -8189,7 +8189,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap38",
+                "spa_label": "20062007camelinap38",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -8459,7 +8459,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b141",
-            "said": "68a8b2048ac5474b9468b141"
+            "spaid": "68a8b2048ac5474b9468b141"
         },
         {
             "type": "Feature",
@@ -8471,7 +8471,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap41",
+                "spa_label": "20062007camelinap41",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -8741,7 +8741,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b147",
-            "said": "68a8b2048ac5474b9468b147"
+            "spaid": "68a8b2048ac5474b9468b147"
         },
         {
             "type": "Feature",
@@ -8753,7 +8753,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap42",
+                "spa_label": "20062007camelinap42",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -9023,7 +9023,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b14d",
-            "said": "68a8b2048ac5474b9468b14d"
+            "spaid": "68a8b2048ac5474b9468b14d"
         },
         {
             "type": "Feature",
@@ -9035,7 +9035,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap43",
+                "spa_label": "20062007camelinap43",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -9305,7 +9305,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b153",
-            "said": "68a8b2048ac5474b9468b153"
+            "spaid": "68a8b2048ac5474b9468b153"
         },
         {
             "type": "Feature",
@@ -9317,7 +9317,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap44",
+                "spa_label": "20062007camelinap44",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -9587,7 +9587,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b159",
-            "said": "68a8b2048ac5474b9468b159"
+            "spaid": "68a8b2048ac5474b9468b159"
         },
         {
             "type": "Feature",
@@ -9599,7 +9599,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap45",
+                "spa_label": "20062007camelinap45",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -9869,7 +9869,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b15f",
-            "said": "68a8b2048ac5474b9468b15f"
+            "spaid": "68a8b2048ac5474b9468b15f"
         },
         {
             "type": "Feature",
@@ -9881,7 +9881,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap46",
+                "spa_label": "20062007camelinap46",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -10151,7 +10151,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b165",
-            "said": "68a8b2048ac5474b9468b165"
+            "spaid": "68a8b2048ac5474b9468b165"
         },
         {
             "type": "Feature",
@@ -10163,7 +10163,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap47",
+                "spa_label": "20062007camelinap47",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -10433,7 +10433,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b16b",
-            "said": "68a8b2048ac5474b9468b16b"
+            "spaid": "68a8b2048ac5474b9468b16b"
         },
         {
             "type": "Feature",
@@ -10445,7 +10445,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20062007camelinap48",
+                "spa_label": "20062007camelinap48",
                 "SOIL_DATE": "2006-11",
                 "SLSND_M": [
                     {
@@ -10715,7 +10715,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b171",
-            "said": "68a8b2048ac5474b9468b171"
+            "spaid": "68a8b2048ac5474b9468b171"
         },
         {
             "type": "Feature",
@@ -10727,7 +10727,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp02",
+                "spa_label": "2007cottonp02",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -10955,7 +10955,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b177",
-            "said": "68a8b2048ac5474b9468b177"
+            "spaid": "68a8b2048ac5474b9468b177"
         },
         {
             "type": "Feature",
@@ -10967,7 +10967,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp04",
+                "spa_label": "2007cottonp04",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -11219,7 +11219,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b180",
-            "said": "68a8b2048ac5474b9468b180"
+            "spaid": "68a8b2048ac5474b9468b180"
         },
         {
             "type": "Feature",
@@ -11231,7 +11231,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp05",
+                "spa_label": "2007cottonp05",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -11483,7 +11483,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b18a",
-            "said": "68a8b2048ac5474b9468b18a"
+            "spaid": "68a8b2048ac5474b9468b18a"
         },
         {
             "type": "Feature",
@@ -11495,7 +11495,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp06",
+                "spa_label": "2007cottonp06",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -11699,7 +11699,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b194",
-            "said": "68a8b2048ac5474b9468b194"
+            "spaid": "68a8b2048ac5474b9468b194"
         },
         {
             "type": "Feature",
@@ -11711,7 +11711,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp07",
+                "spa_label": "2007cottonp07",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -11915,7 +11915,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b19c",
-            "said": "68a8b2048ac5474b9468b19c"
+            "spaid": "68a8b2048ac5474b9468b19c"
         },
         {
             "type": "Feature",
@@ -11927,7 +11927,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp08",
+                "spa_label": "2007cottonp08",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -12011,7 +12011,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b1a4",
-            "said": "68a8b2048ac5474b9468b1a4"
+            "spaid": "68a8b2048ac5474b9468b1a4"
         },
         {
             "type": "Feature",
@@ -12023,7 +12023,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp10",
+                "spa_label": "2007cottonp10",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -12275,7 +12275,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b1a7",
-            "said": "68a8b2048ac5474b9468b1a7"
+            "spaid": "68a8b2048ac5474b9468b1a7"
         },
         {
             "type": "Feature",
@@ -12287,7 +12287,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp11",
+                "spa_label": "2007cottonp11",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -12539,7 +12539,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b1b1",
-            "said": "68a8b2048ac5474b9468b1b1"
+            "spaid": "68a8b2048ac5474b9468b1b1"
         },
         {
             "type": "Feature",
@@ -12551,7 +12551,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp12",
+                "spa_label": "2007cottonp12",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -12803,7 +12803,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b1bb",
-            "said": "68a8b2048ac5474b9468b1bb"
+            "spaid": "68a8b2048ac5474b9468b1bb"
         },
         {
             "type": "Feature",
@@ -12815,7 +12815,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp13",
+                "spa_label": "2007cottonp13",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -13067,7 +13067,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b1c5",
-            "said": "68a8b2048ac5474b9468b1c5"
+            "spaid": "68a8b2048ac5474b9468b1c5"
         },
         {
             "type": "Feature",
@@ -13079,7 +13079,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp15",
+                "spa_label": "2007cottonp15",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -13331,7 +13331,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b1cf",
-            "said": "68a8b2048ac5474b9468b1cf"
+            "spaid": "68a8b2048ac5474b9468b1cf"
         },
         {
             "type": "Feature",
@@ -13343,7 +13343,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp16",
+                "spa_label": "2007cottonp16",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -13595,7 +13595,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b1d9",
-            "said": "68a8b2048ac5474b9468b1d9"
+            "spaid": "68a8b2048ac5474b9468b1d9"
         },
         {
             "type": "Feature",
@@ -13607,7 +13607,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp17",
+                "spa_label": "2007cottonp17",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -13835,7 +13835,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b1e3",
-            "said": "68a8b2048ac5474b9468b1e3"
+            "spaid": "68a8b2048ac5474b9468b1e3"
         },
         {
             "type": "Feature",
@@ -13847,7 +13847,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp18",
+                "spa_label": "2007cottonp18",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -13979,7 +13979,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b1ec",
-            "said": "68a8b2048ac5474b9468b1ec"
+            "spaid": "68a8b2048ac5474b9468b1ec"
         },
         {
             "type": "Feature",
@@ -13991,7 +13991,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp21",
+                "spa_label": "2007cottonp21",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -14219,7 +14219,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b1f1",
-            "said": "68a8b2048ac5474b9468b1f1"
+            "spaid": "68a8b2048ac5474b9468b1f1"
         },
         {
             "type": "Feature",
@@ -14231,7 +14231,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp22",
+                "spa_label": "2007cottonp22",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -14483,7 +14483,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b1fa",
-            "said": "68a8b2048ac5474b9468b1fa"
+            "spaid": "68a8b2048ac5474b9468b1fa"
         },
         {
             "type": "Feature",
@@ -14495,7 +14495,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp23",
+                "spa_label": "2007cottonp23",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -14747,7 +14747,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b204",
-            "said": "68a8b2048ac5474b9468b204"
+            "spaid": "68a8b2048ac5474b9468b204"
         },
         {
             "type": "Feature",
@@ -14759,7 +14759,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp24",
+                "spa_label": "2007cottonp24",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -15011,7 +15011,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b20e",
-            "said": "68a8b2048ac5474b9468b20e"
+            "spaid": "68a8b2048ac5474b9468b20e"
         },
         {
             "type": "Feature",
@@ -15023,7 +15023,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp25",
+                "spa_label": "2007cottonp25",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -15275,7 +15275,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b218",
-            "said": "68a8b2048ac5474b9468b218"
+            "spaid": "68a8b2048ac5474b9468b218"
         },
         {
             "type": "Feature",
@@ -15287,7 +15287,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp26",
+                "spa_label": "2007cottonp26",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -15539,7 +15539,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b222",
-            "said": "68a8b2048ac5474b9468b222"
+            "spaid": "68a8b2048ac5474b9468b222"
         },
         {
             "type": "Feature",
@@ -15551,7 +15551,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp27",
+                "spa_label": "2007cottonp27",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -15803,7 +15803,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b22c",
-            "said": "68a8b2048ac5474b9468b22c"
+            "spaid": "68a8b2048ac5474b9468b22c"
         },
         {
             "type": "Feature",
@@ -15815,7 +15815,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp28",
+                "spa_label": "2007cottonp28",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -16067,7 +16067,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b236",
-            "said": "68a8b2048ac5474b9468b236"
+            "spaid": "68a8b2048ac5474b9468b236"
         },
         {
             "type": "Feature",
@@ -16079,7 +16079,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp31",
+                "spa_label": "2007cottonp31",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -16331,7 +16331,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b240",
-            "said": "68a8b2048ac5474b9468b240"
+            "spaid": "68a8b2048ac5474b9468b240"
         },
         {
             "type": "Feature",
@@ -16343,7 +16343,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp32",
+                "spa_label": "2007cottonp32",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -16595,7 +16595,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b24a",
-            "said": "68a8b2048ac5474b9468b24a"
+            "spaid": "68a8b2048ac5474b9468b24a"
         },
         {
             "type": "Feature",
@@ -16607,7 +16607,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp33",
+                "spa_label": "2007cottonp33",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -16859,7 +16859,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b254",
-            "said": "68a8b2048ac5474b9468b254"
+            "spaid": "68a8b2048ac5474b9468b254"
         },
         {
             "type": "Feature",
@@ -16871,7 +16871,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp34",
+                "spa_label": "2007cottonp34",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -17123,7 +17123,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b25e",
-            "said": "68a8b2048ac5474b9468b25e"
+            "spaid": "68a8b2048ac5474b9468b25e"
         },
         {
             "type": "Feature",
@@ -17135,7 +17135,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp35",
+                "spa_label": "2007cottonp35",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -17387,7 +17387,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b268",
-            "said": "68a8b2048ac5474b9468b268"
+            "spaid": "68a8b2048ac5474b9468b268"
         },
         {
             "type": "Feature",
@@ -17399,7 +17399,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp36",
+                "spa_label": "2007cottonp36",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -17651,7 +17651,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b272",
-            "said": "68a8b2048ac5474b9468b272"
+            "spaid": "68a8b2048ac5474b9468b272"
         },
         {
             "type": "Feature",
@@ -17663,7 +17663,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp37",
+                "spa_label": "2007cottonp37",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -17915,7 +17915,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b27c",
-            "said": "68a8b2048ac5474b9468b27c"
+            "spaid": "68a8b2048ac5474b9468b27c"
         },
         {
             "type": "Feature",
@@ -17927,7 +17927,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp38",
+                "spa_label": "2007cottonp38",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -18179,7 +18179,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b286",
-            "said": "68a8b2048ac5474b9468b286"
+            "spaid": "68a8b2048ac5474b9468b286"
         },
         {
             "type": "Feature",
@@ -18191,7 +18191,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp41",
+                "spa_label": "2007cottonp41",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -18419,7 +18419,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b290",
-            "said": "68a8b2048ac5474b9468b290"
+            "spaid": "68a8b2048ac5474b9468b290"
         },
         {
             "type": "Feature",
@@ -18431,7 +18431,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp42",
+                "spa_label": "2007cottonp42",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -18683,7 +18683,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b299",
-            "said": "68a8b2048ac5474b9468b299"
+            "spaid": "68a8b2048ac5474b9468b299"
         },
         {
             "type": "Feature",
@@ -18695,7 +18695,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp43",
+                "spa_label": "2007cottonp43",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -18947,7 +18947,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b2a3",
-            "said": "68a8b2048ac5474b9468b2a3"
+            "spaid": "68a8b2048ac5474b9468b2a3"
         },
         {
             "type": "Feature",
@@ -18959,7 +18959,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp44",
+                "spa_label": "2007cottonp44",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -19211,7 +19211,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b2ad",
-            "said": "68a8b2048ac5474b9468b2ad"
+            "spaid": "68a8b2048ac5474b9468b2ad"
         },
         {
             "type": "Feature",
@@ -19223,7 +19223,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp45",
+                "spa_label": "2007cottonp45",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -19475,7 +19475,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b2b7",
-            "said": "68a8b2048ac5474b9468b2b7"
+            "spaid": "68a8b2048ac5474b9468b2b7"
         },
         {
             "type": "Feature",
@@ -19487,7 +19487,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp46",
+                "spa_label": "2007cottonp46",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -19739,7 +19739,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b2c1",
-            "said": "68a8b2048ac5474b9468b2c1"
+            "spaid": "68a8b2048ac5474b9468b2c1"
         },
         {
             "type": "Feature",
@@ -19751,7 +19751,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp47",
+                "spa_label": "2007cottonp47",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -20003,7 +20003,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b2cb",
-            "said": "68a8b2048ac5474b9468b2cb"
+            "spaid": "68a8b2048ac5474b9468b2cb"
         },
         {
             "type": "Feature",
@@ -20015,7 +20015,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2007cottonp48",
+                "spa_label": "2007cottonp48",
                 "SOIL_DATE": "2007-05",
                 "SLSND_M": [
                     {
@@ -20267,7 +20267,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b2d5",
-            "said": "68a8b2048ac5474b9468b2d5"
+            "spaid": "68a8b2048ac5474b9468b2d5"
         },
         {
             "type": "Feature",
@@ -20279,7 +20279,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp02",
+                "spa_label": "20082009wheatp02",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -20549,7 +20549,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b2df",
-            "said": "68a8b2048ac5474b9468b2df"
+            "spaid": "68a8b2048ac5474b9468b2df"
         },
         {
             "type": "Feature",
@@ -20561,7 +20561,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp04",
+                "spa_label": "20082009wheatp04",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -20831,7 +20831,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b2e5",
-            "said": "68a8b2048ac5474b9468b2e5"
+            "spaid": "68a8b2048ac5474b9468b2e5"
         },
         {
             "type": "Feature",
@@ -20843,7 +20843,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp05",
+                "spa_label": "20082009wheatp05",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -21113,7 +21113,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b2eb",
-            "said": "68a8b2048ac5474b9468b2eb"
+            "spaid": "68a8b2048ac5474b9468b2eb"
         },
         {
             "type": "Feature",
@@ -21125,7 +21125,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp06",
+                "spa_label": "20082009wheatp06",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -21395,7 +21395,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b2f1",
-            "said": "68a8b2048ac5474b9468b2f1"
+            "spaid": "68a8b2048ac5474b9468b2f1"
         },
         {
             "type": "Feature",
@@ -21407,7 +21407,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp07",
+                "spa_label": "20082009wheatp07",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -21677,7 +21677,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b2f7",
-            "said": "68a8b2048ac5474b9468b2f7"
+            "spaid": "68a8b2048ac5474b9468b2f7"
         },
         {
             "type": "Feature",
@@ -21689,7 +21689,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp08",
+                "spa_label": "20082009wheatp08",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -21959,7 +21959,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b2fd",
-            "said": "68a8b2048ac5474b9468b2fd"
+            "spaid": "68a8b2048ac5474b9468b2fd"
         },
         {
             "type": "Feature",
@@ -21971,7 +21971,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp10",
+                "spa_label": "20082009wheatp10",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -22241,7 +22241,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b303",
-            "said": "68a8b2048ac5474b9468b303"
+            "spaid": "68a8b2048ac5474b9468b303"
         },
         {
             "type": "Feature",
@@ -22253,7 +22253,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp11",
+                "spa_label": "20082009wheatp11",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -22523,7 +22523,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b309",
-            "said": "68a8b2048ac5474b9468b309"
+            "spaid": "68a8b2048ac5474b9468b309"
         },
         {
             "type": "Feature",
@@ -22535,7 +22535,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp12",
+                "spa_label": "20082009wheatp12",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -22805,7 +22805,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b30f",
-            "said": "68a8b2048ac5474b9468b30f"
+            "spaid": "68a8b2048ac5474b9468b30f"
         },
         {
             "type": "Feature",
@@ -22817,7 +22817,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp13",
+                "spa_label": "20082009wheatp13",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -23087,7 +23087,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b315",
-            "said": "68a8b2048ac5474b9468b315"
+            "spaid": "68a8b2048ac5474b9468b315"
         },
         {
             "type": "Feature",
@@ -23099,7 +23099,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp14",
+                "spa_label": "20082009wheatp14",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -23369,7 +23369,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b31b",
-            "said": "68a8b2048ac5474b9468b31b"
+            "spaid": "68a8b2048ac5474b9468b31b"
         },
         {
             "type": "Feature",
@@ -23381,7 +23381,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp15",
+                "spa_label": "20082009wheatp15",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -23651,7 +23651,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b321",
-            "said": "68a8b2048ac5474b9468b321"
+            "spaid": "68a8b2048ac5474b9468b321"
         },
         {
             "type": "Feature",
@@ -23663,7 +23663,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp16",
+                "spa_label": "20082009wheatp16",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -23933,7 +23933,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b327",
-            "said": "68a8b2048ac5474b9468b327"
+            "spaid": "68a8b2048ac5474b9468b327"
         },
         {
             "type": "Feature",
@@ -23945,7 +23945,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp17",
+                "spa_label": "20082009wheatp17",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -24215,7 +24215,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b32d",
-            "said": "68a8b2048ac5474b9468b32d"
+            "spaid": "68a8b2048ac5474b9468b32d"
         },
         {
             "type": "Feature",
@@ -24227,7 +24227,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp18",
+                "spa_label": "20082009wheatp18",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -24497,7 +24497,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b333",
-            "said": "68a8b2048ac5474b9468b333"
+            "spaid": "68a8b2048ac5474b9468b333"
         },
         {
             "type": "Feature",
@@ -24509,7 +24509,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp21",
+                "spa_label": "20082009wheatp21",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -24779,7 +24779,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b339",
-            "said": "68a8b2048ac5474b9468b339"
+            "spaid": "68a8b2048ac5474b9468b339"
         },
         {
             "type": "Feature",
@@ -24791,7 +24791,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp22",
+                "spa_label": "20082009wheatp22",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -25061,7 +25061,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b33f",
-            "said": "68a8b2048ac5474b9468b33f"
+            "spaid": "68a8b2048ac5474b9468b33f"
         },
         {
             "type": "Feature",
@@ -25073,7 +25073,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp23",
+                "spa_label": "20082009wheatp23",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -25343,7 +25343,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b345",
-            "said": "68a8b2048ac5474b9468b345"
+            "spaid": "68a8b2048ac5474b9468b345"
         },
         {
             "type": "Feature",
@@ -25355,7 +25355,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp24",
+                "spa_label": "20082009wheatp24",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -25625,7 +25625,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b34b",
-            "said": "68a8b2048ac5474b9468b34b"
+            "spaid": "68a8b2048ac5474b9468b34b"
         },
         {
             "type": "Feature",
@@ -25637,7 +25637,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp25",
+                "spa_label": "20082009wheatp25",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -25907,7 +25907,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b351",
-            "said": "68a8b2048ac5474b9468b351"
+            "spaid": "68a8b2048ac5474b9468b351"
         },
         {
             "type": "Feature",
@@ -25919,7 +25919,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp26",
+                "spa_label": "20082009wheatp26",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -26189,7 +26189,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b357",
-            "said": "68a8b2048ac5474b9468b357"
+            "spaid": "68a8b2048ac5474b9468b357"
         },
         {
             "type": "Feature",
@@ -26201,7 +26201,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp27",
+                "spa_label": "20082009wheatp27",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -26471,7 +26471,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b35d",
-            "said": "68a8b2048ac5474b9468b35d"
+            "spaid": "68a8b2048ac5474b9468b35d"
         },
         {
             "type": "Feature",
@@ -26483,7 +26483,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp28",
+                "spa_label": "20082009wheatp28",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -26753,7 +26753,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b363",
-            "said": "68a8b2048ac5474b9468b363"
+            "spaid": "68a8b2048ac5474b9468b363"
         },
         {
             "type": "Feature",
@@ -26765,7 +26765,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp31",
+                "spa_label": "20082009wheatp31",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -27035,7 +27035,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b369",
-            "said": "68a8b2048ac5474b9468b369"
+            "spaid": "68a8b2048ac5474b9468b369"
         },
         {
             "type": "Feature",
@@ -27047,7 +27047,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp32",
+                "spa_label": "20082009wheatp32",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -27317,7 +27317,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b36f",
-            "said": "68a8b2048ac5474b9468b36f"
+            "spaid": "68a8b2048ac5474b9468b36f"
         },
         {
             "type": "Feature",
@@ -27329,7 +27329,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp33",
+                "spa_label": "20082009wheatp33",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -27599,7 +27599,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b375",
-            "said": "68a8b2048ac5474b9468b375"
+            "spaid": "68a8b2048ac5474b9468b375"
         },
         {
             "type": "Feature",
@@ -27611,7 +27611,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp34",
+                "spa_label": "20082009wheatp34",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -27881,7 +27881,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b37b",
-            "said": "68a8b2048ac5474b9468b37b"
+            "spaid": "68a8b2048ac5474b9468b37b"
         },
         {
             "type": "Feature",
@@ -27893,7 +27893,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp35",
+                "spa_label": "20082009wheatp35",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -28163,7 +28163,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b381",
-            "said": "68a8b2048ac5474b9468b381"
+            "spaid": "68a8b2048ac5474b9468b381"
         },
         {
             "type": "Feature",
@@ -28175,7 +28175,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp36",
+                "spa_label": "20082009wheatp36",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -28445,7 +28445,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b387",
-            "said": "68a8b2048ac5474b9468b387"
+            "spaid": "68a8b2048ac5474b9468b387"
         },
         {
             "type": "Feature",
@@ -28457,7 +28457,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp37",
+                "spa_label": "20082009wheatp37",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -28727,7 +28727,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b38d",
-            "said": "68a8b2048ac5474b9468b38d"
+            "spaid": "68a8b2048ac5474b9468b38d"
         },
         {
             "type": "Feature",
@@ -28739,7 +28739,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp38",
+                "spa_label": "20082009wheatp38",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -29009,7 +29009,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b393",
-            "said": "68a8b2048ac5474b9468b393"
+            "spaid": "68a8b2048ac5474b9468b393"
         },
         {
             "type": "Feature",
@@ -29021,7 +29021,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp41",
+                "spa_label": "20082009wheatp41",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -29291,7 +29291,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b399",
-            "said": "68a8b2048ac5474b9468b399"
+            "spaid": "68a8b2048ac5474b9468b399"
         },
         {
             "type": "Feature",
@@ -29303,7 +29303,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp42",
+                "spa_label": "20082009wheatp42",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -29573,7 +29573,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b39f",
-            "said": "68a8b2048ac5474b9468b39f"
+            "spaid": "68a8b2048ac5474b9468b39f"
         },
         {
             "type": "Feature",
@@ -29585,7 +29585,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp43",
+                "spa_label": "20082009wheatp43",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -29855,7 +29855,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b3a5",
-            "said": "68a8b2048ac5474b9468b3a5"
+            "spaid": "68a8b2048ac5474b9468b3a5"
         },
         {
             "type": "Feature",
@@ -29867,7 +29867,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp44",
+                "spa_label": "20082009wheatp44",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -30137,7 +30137,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b3ab",
-            "said": "68a8b2048ac5474b9468b3ab"
+            "spaid": "68a8b2048ac5474b9468b3ab"
         },
         {
             "type": "Feature",
@@ -30149,7 +30149,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp45",
+                "spa_label": "20082009wheatp45",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -30419,7 +30419,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b3b1",
-            "said": "68a8b2048ac5474b9468b3b1"
+            "spaid": "68a8b2048ac5474b9468b3b1"
         },
         {
             "type": "Feature",
@@ -30431,7 +30431,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp46",
+                "spa_label": "20082009wheatp46",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -30701,7 +30701,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b3b7",
-            "said": "68a8b2048ac5474b9468b3b7"
+            "spaid": "68a8b2048ac5474b9468b3b7"
         },
         {
             "type": "Feature",
@@ -30713,7 +30713,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp47",
+                "spa_label": "20082009wheatp47",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -30983,7 +30983,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b3bd",
-            "said": "68a8b2048ac5474b9468b3bd"
+            "spaid": "68a8b2048ac5474b9468b3bd"
         },
         {
             "type": "Feature",
@@ -30995,7 +30995,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "20082009wheatp48",
+                "spa_label": "20082009wheatp48",
                 "SOIL_DATE": "2008-12",
                 "SLSND_M": [
                     {
@@ -31265,7 +31265,7 @@
                 ]
             },
             "_id": "68a8b2048ac5474b9468b3c3",
-            "said": "68a8b2048ac5474b9468b3c3"
+            "spaid": "68a8b2048ac5474b9468b3c3"
         }
     ]
 }

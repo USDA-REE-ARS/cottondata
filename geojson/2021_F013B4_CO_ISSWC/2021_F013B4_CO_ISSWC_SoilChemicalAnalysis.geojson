@@ -11,7 +11,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "p01-2",
+                "sca_label": "p01-2",
                 "SOIL_DATE": "2021-04-21",
                 "SLPHW": [
                     {
@@ -524,10 +524,11 @@
                         "maxdepth": 200,
                         "value": 24.4
                     }
-                ]
+                ],
+                "pid": "63643f288ac54794e7f9177f"
             },
             "_id": "67f413788ac5471a9830fb97",
-            "scid": "67f413788ac5471a9830fb97"
+            "scaid": "67f413788ac5471a9830fb97"
         },
         {
             "type": "Feature",
@@ -539,7 +540,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "p03-3",
+                "sca_label": "p03-3",
                 "SOIL_DATE": "2021-04-21",
                 "SLPHW": [
                     {
@@ -1052,10 +1053,11 @@
                         "maxdepth": 200,
                         "value": 22.1
                     }
-                ]
+                ],
+                "pid": "63643f288ac54794e7f91788"
             },
             "_id": "67f413788ac5471a9830fb98",
-            "scid": "67f413788ac5471a9830fb98"
+            "scaid": "67f413788ac5471a9830fb98"
         },
         {
             "type": "Feature",
@@ -1067,7 +1069,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "p06-1",
+                "sca_label": "p06-1",
                 "SOIL_DATE": "2021-04-21",
                 "SLPHW": [
                     {
@@ -1580,10 +1582,11 @@
                         "maxdepth": 200,
                         "value": 24.6
                     }
-                ]
+                ],
+                "pid": "63643f288ac54794e7f91792"
             },
             "_id": "67f413788ac5471a9830fb99",
-            "scid": "67f413788ac5471a9830fb99"
+            "scaid": "67f413788ac5471a9830fb99"
         },
         {
             "type": "Feature",
@@ -1595,7 +1598,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "p08-3",
+                "sca_label": "p08-3",
                 "SOIL_DATE": "2021-04-21",
                 "SLPHW": [
                     {
@@ -2108,10 +2111,11 @@
                         "maxdepth": 200,
                         "value": 22.5
                     }
-                ]
+                ],
+                "pid": "63643f288ac54794e7f9179c"
             },
             "_id": "67f413788ac5471a9830fb9a",
-            "scid": "67f413788ac5471a9830fb9a"
+            "scaid": "67f413788ac5471a9830fb9a"
         },
         {
             "type": "Feature",
@@ -2123,7 +2127,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "p10-2",
+                "sca_label": "p10-2",
                 "SOIL_DATE": "2021-04-21",
                 "SLPHW": [
                     {
@@ -2636,10 +2640,11 @@
                         "maxdepth": 200,
                         "value": 24.0
                     }
-                ]
+                ],
+                "pid": "63643f288ac54794e7f917a3"
             },
             "_id": "67f413788ac5471a9830fb9b",
-            "scid": "67f413788ac5471a9830fb9b"
+            "scaid": "67f413788ac5471a9830fb9b"
         },
         {
             "type": "Feature",
@@ -2651,7 +2656,7 @@
                 ]
             },
             "properties": {
-                "sc_label": "p11-4",
+                "sca_label": "p11-4",
                 "SOIL_DATE": "2021-04-21",
                 "SLPHW": [
                     {
@@ -3164,10 +3169,11 @@
                         "maxdepth": 200,
                         "value": 30.3
                     }
-                ]
+                ],
+                "pid": "63643f288ac54794e7f917a9"
             },
             "_id": "67f413788ac5471a9830fb9c",
-            "scid": "67f413788ac5471a9830fb9c"
+            "scaid": "67f413788ac5471a9830fb9c"
         }
     ]
 }

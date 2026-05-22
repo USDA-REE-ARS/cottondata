@@ -11,7 +11,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "101",
+                "swc_label": "101",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -4269,10 +4269,11 @@
                         "maxdepth": 300,
                         "value": 0.212
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41a6"
             },
             "_id": "6442f7dd8ac54733708dafa7",
-            "tid": "6442f7dd8ac54733708dafa7"
+            "swcid": "6442f7dd8ac54733708dafa7"
         },
         {
             "type": "Feature",
@@ -4284,7 +4285,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "102",
+                "swc_label": "102",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -8654,10 +8655,11 @@
                         "maxdepth": 300,
                         "value": 0.198
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41a7"
             },
             "_id": "6442f7dd8ac54733708dafa8",
-            "tid": "6442f7dd8ac54733708dafa8"
+            "swcid": "6442f7dd8ac54733708dafa8"
         },
         {
             "type": "Feature",
@@ -8669,7 +8671,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "104",
+                "swc_label": "104",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -12927,10 +12929,11 @@
                         "maxdepth": 300,
                         "value": 0.199
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41a9"
             },
             "_id": "6442f7dd8ac54733708dafaa",
-            "tid": "6442f7dd8ac54733708dafaa"
+            "swcid": "6442f7dd8ac54733708dafaa"
         },
         {
             "type": "Feature",
@@ -12942,7 +12945,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "103",
+                "swc_label": "103",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -17312,10 +17315,11 @@
                         "maxdepth": 300,
                         "value": 0.197
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41a8"
             },
             "_id": "6442f7dd8ac54733708dafa9",
-            "tid": "6442f7dd8ac54733708dafa9"
+            "swcid": "6442f7dd8ac54733708dafa9"
         },
         {
             "type": "Feature",
@@ -17327,7 +17331,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "105",
+                "swc_label": "105",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -21697,10 +21701,11 @@
                         "maxdepth": 300,
                         "value": 0.214
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41aa"
             },
             "_id": "6442f7dd8ac54733708dafab",
-            "tid": "6442f7dd8ac54733708dafab"
+            "swcid": "6442f7dd8ac54733708dafab"
         },
         {
             "type": "Feature",
@@ -21712,7 +21717,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "106",
+                "swc_label": "106",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -25970,10 +25975,11 @@
                         "maxdepth": 300,
                         "value": 0.2
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41ab"
             },
             "_id": "6442f7dd8ac54733708dafac",
-            "tid": "6442f7dd8ac54733708dafac"
+            "swcid": "6442f7dd8ac54733708dafac"
         },
         {
             "type": "Feature",
@@ -25985,7 +25991,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "107",
+                "swc_label": "107",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -30123,10 +30129,11 @@
                         "maxdepth": 300,
                         "value": 0.184
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41ac"
             },
             "_id": "6442f7dd8ac54733708dafad",
-            "tid": "6442f7dd8ac54733708dafad"
+            "swcid": "6442f7dd8ac54733708dafad"
         },
         {
             "type": "Feature",
@@ -30138,7 +30145,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "108",
+                "swc_label": "108",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -34508,10 +34515,11 @@
                         "maxdepth": 300,
                         "value": 0.148
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41ad"
             },
             "_id": "6442f7dd8ac54733708dafae",
-            "tid": "6442f7dd8ac54733708dafae"
+            "swcid": "6442f7dd8ac54733708dafae"
         },
         {
             "type": "Feature",
@@ -34523,7 +34531,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "201",
+                "swc_label": "201",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -38893,10 +38901,11 @@
                         "maxdepth": 300,
                         "value": 0.215
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41ae"
             },
             "_id": "6442f7dd8ac54733708dafaf",
-            "tid": "6442f7dd8ac54733708dafaf"
+            "swcid": "6442f7dd8ac54733708dafaf"
         },
         {
             "type": "Feature",
@@ -38908,7 +38917,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "202",
+                "swc_label": "202",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -43166,10 +43175,11 @@
                         "maxdepth": 300,
                         "value": 0.2
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41af"
             },
             "_id": "6442f7dd8ac54733708dafb0",
-            "tid": "6442f7dd8ac54733708dafb0"
+            "swcid": "6442f7dd8ac54733708dafb0"
         },
         {
             "type": "Feature",
@@ -43181,7 +43191,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "203",
+                "swc_label": "203",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -47551,10 +47561,11 @@
                         "maxdepth": 300,
                         "value": 0.206
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41b0"
             },
             "_id": "6442f7dd8ac54733708dafb1",
-            "tid": "6442f7dd8ac54733708dafb1"
+            "swcid": "6442f7dd8ac54733708dafb1"
         },
         {
             "type": "Feature",
@@ -47566,7 +47577,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "204",
+                "swc_label": "204",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -51936,10 +51947,11 @@
                         "maxdepth": 300,
                         "value": 0.199
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41b1"
             },
             "_id": "6442f7dd8ac54733708dafb2",
-            "tid": "6442f7dd8ac54733708dafb2"
+            "swcid": "6442f7dd8ac54733708dafb2"
         },
         {
             "type": "Feature",
@@ -51951,7 +51963,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "205",
+                "swc_label": "205",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -56209,10 +56221,11 @@
                         "maxdepth": 300,
                         "value": 0.208
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41b2"
             },
             "_id": "6442f7dd8ac54733708dafb3",
-            "tid": "6442f7dd8ac54733708dafb3"
+            "swcid": "6442f7dd8ac54733708dafb3"
         },
         {
             "type": "Feature",
@@ -56224,7 +56237,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "206",
+                "swc_label": "206",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -60362,10 +60375,11 @@
                         "maxdepth": 300,
                         "value": 0.179
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41b3"
             },
             "_id": "6442f7dd8ac54733708dafb4",
-            "tid": "6442f7dd8ac54733708dafb4"
+            "swcid": "6442f7dd8ac54733708dafb4"
         },
         {
             "type": "Feature",
@@ -60377,7 +60391,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "207",
+                "swc_label": "207",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -64747,10 +64761,11 @@
                         "maxdepth": 300,
                         "value": 0.172
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41b4"
             },
             "_id": "6442f7dd8ac54733708dafb5",
-            "tid": "6442f7dd8ac54733708dafb5"
+            "swcid": "6442f7dd8ac54733708dafb5"
         },
         {
             "type": "Feature",
@@ -64762,7 +64777,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "208",
+                "swc_label": "208",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -69132,10 +69147,11 @@
                         "maxdepth": 300,
                         "value": 0.2
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41b5"
             },
             "_id": "6442f7dd8ac54733708dafb6",
-            "tid": "6442f7dd8ac54733708dafb6"
+            "swcid": "6442f7dd8ac54733708dafb6"
         },
         {
             "type": "Feature",
@@ -69147,7 +69163,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "301",
+                "swc_label": "301",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -73405,10 +73421,11 @@
                         "maxdepth": 300,
                         "value": 0.215
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41b6"
             },
             "_id": "6442f7dd8ac54733708dafb7",
-            "tid": "6442f7dd8ac54733708dafb7"
+            "swcid": "6442f7dd8ac54733708dafb7"
         },
         {
             "type": "Feature",
@@ -73420,7 +73437,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "302",
+                "swc_label": "302",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -77790,10 +77807,11 @@
                         "maxdepth": 300,
                         "value": 0.253
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41b7"
             },
             "_id": "6442f7dd8ac54733708dafb8",
-            "tid": "6442f7dd8ac54733708dafb8"
+            "swcid": "6442f7dd8ac54733708dafb8"
         },
         {
             "type": "Feature",
@@ -77805,7 +77823,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "303",
+                "swc_label": "303",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -81951,10 +81969,11 @@
                         "maxdepth": 300,
                         "value": 0.229
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41b8"
             },
             "_id": "6442f7dd8ac54733708dafb9",
-            "tid": "6442f7dd8ac54733708dafb9"
+            "swcid": "6442f7dd8ac54733708dafb9"
         },
         {
             "type": "Feature",
@@ -81966,7 +81985,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "304",
+                "swc_label": "304",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -86336,10 +86355,11 @@
                         "maxdepth": 300,
                         "value": 0.214
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41b9"
             },
             "_id": "6442f7dd8ac54733708dafba",
-            "tid": "6442f7dd8ac54733708dafba"
+            "swcid": "6442f7dd8ac54733708dafba"
         },
         {
             "type": "Feature",
@@ -86351,7 +86371,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "305",
+                "swc_label": "305",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -90721,10 +90741,11 @@
                         "maxdepth": 300,
                         "value": 0.232
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41ba"
             },
             "_id": "6442f7dd8ac54733708dafbb",
-            "tid": "6442f7dd8ac54733708dafbb"
+            "swcid": "6442f7dd8ac54733708dafbb"
         },
         {
             "type": "Feature",
@@ -90736,7 +90757,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "306",
+                "swc_label": "306",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -95106,10 +95127,11 @@
                         "maxdepth": 300,
                         "value": 0.263
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41bb"
             },
             "_id": "6442f7dd8ac54733708dafbc",
-            "tid": "6442f7dd8ac54733708dafbc"
+            "swcid": "6442f7dd8ac54733708dafbc"
         },
         {
             "type": "Feature",
@@ -95121,7 +95143,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "307",
+                "swc_label": "307",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -99379,10 +99401,11 @@
                         "maxdepth": 300,
                         "value": 0.233
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41bc"
             },
             "_id": "6442f7dd8ac54733708dafbd",
-            "tid": "6442f7dd8ac54733708dafbd"
+            "swcid": "6442f7dd8ac54733708dafbd"
         },
         {
             "type": "Feature",
@@ -99394,7 +99417,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "308",
+                "swc_label": "308",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -103652,10 +103675,11 @@
                         "maxdepth": 300,
                         "value": 0.251
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41bd"
             },
             "_id": "6442f7dd8ac54733708dafbe",
-            "tid": "6442f7dd8ac54733708dafbe"
+            "swcid": "6442f7dd8ac54733708dafbe"
         },
         {
             "type": "Feature",
@@ -103667,7 +103691,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "401",
+                "swc_label": "401",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -107477,10 +107501,11 @@
                         "maxdepth": 300,
                         "value": 0.142
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41be"
             },
             "_id": "6442f7dd8ac54733708dafbf",
-            "tid": "6442f7dd8ac54733708dafbf"
+            "swcid": "6442f7dd8ac54733708dafbf"
         },
         {
             "type": "Feature",
@@ -107492,7 +107517,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "402",
+                "swc_label": "402",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -111190,10 +111215,11 @@
                         "maxdepth": 300,
                         "value": 0.189
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41bf"
             },
             "_id": "6442f7dd8ac54733708dafc0",
-            "tid": "6442f7dd8ac54733708dafc0"
+            "swcid": "6442f7dd8ac54733708dafc0"
         },
         {
             "type": "Feature",
@@ -111205,7 +111231,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "403",
+                "swc_label": "403",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -115575,10 +115601,11 @@
                         "maxdepth": 300,
                         "value": 0.172
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41c0"
             },
             "_id": "6442f7dd8ac54733708dafc1",
-            "tid": "6442f7dd8ac54733708dafc1"
+            "swcid": "6442f7dd8ac54733708dafc1"
         },
         {
             "type": "Feature",
@@ -115590,7 +115617,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "404",
+                "swc_label": "404",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -119960,10 +119987,11 @@
                         "maxdepth": 300,
                         "value": 0.218
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41c1"
             },
             "_id": "6442f7dd8ac54733708dafc2",
-            "tid": "6442f7dd8ac54733708dafc2"
+            "swcid": "6442f7dd8ac54733708dafc2"
         },
         {
             "type": "Feature",
@@ -119975,7 +120003,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "405",
+                "swc_label": "405",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -124345,10 +124373,11 @@
                         "maxdepth": 300,
                         "value": 0.235
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41c2"
             },
             "_id": "6442f7dd8ac54733708dafc3",
-            "tid": "6442f7dd8ac54733708dafc3"
+            "swcid": "6442f7dd8ac54733708dafc3"
         },
         {
             "type": "Feature",
@@ -124360,7 +124389,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "406",
+                "swc_label": "406",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -128730,10 +128759,11 @@
                         "maxdepth": 300,
                         "value": 0.247
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41c3"
             },
             "_id": "6442f7dd8ac54733708dafc4",
-            "tid": "6442f7dd8ac54733708dafc4"
+            "swcid": "6442f7dd8ac54733708dafc4"
         },
         {
             "type": "Feature",
@@ -128745,7 +128775,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "407",
+                "swc_label": "407",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -132891,10 +132921,11 @@
                         "maxdepth": 300,
                         "value": 0.235
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41c4"
             },
             "_id": "6442f7dd8ac54733708dafc5",
-            "tid": "6442f7dd8ac54733708dafc5"
+            "swcid": "6442f7dd8ac54733708dafc5"
         },
         {
             "type": "Feature",
@@ -132906,7 +132937,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "408",
+                "swc_label": "408",
                 "SWLD": [
                     {
                         "date": "2003-04-14",
@@ -136716,10 +136747,11 @@
                         "maxdepth": 300,
                         "value": 0.209
                     }
-                ]
+                ],
+                "pid": "6442e2658ac5472f1c3e41c5"
             },
             "_id": "6442f7dd8ac54733708dafc6",
-            "tid": "6442f7dd8ac54733708dafc6"
+            "swcid": "6442f7dd8ac54733708dafc6"
         }
     ]
 }

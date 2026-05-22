@@ -727,14 +727,15 @@
                 "FBTCT": 16.0,
                 "FBTAR": 0.26,
                 "FBSFI": 8.8,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62e9",
                     "642340a68ac5474bcb1c62f1"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6ca"
                 ],
-                "saids": [
+                "spaids": [
                     "684b226e8ac5476ed06f0cef"
                 ]
             },
@@ -1467,11 +1468,12 @@
                 "FBTCT": 8.0,
                 "FBTAR": 0.15,
                 "FBSFI": 9.6,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62ea",
                     "642340a68ac5474bcb1c62f2"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6cb"
                 ]
             },
@@ -2204,11 +2206,12 @@
                 "FBTCT": 15.0,
                 "FBTAR": 0.26,
                 "FBSFI": 9.0,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62eb",
                     "642340a68ac5474bcb1c62f3"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6cc"
                 ]
             },
@@ -2941,14 +2944,15 @@
                 "FBTCT": 6.0,
                 "FBTAR": 0.12,
                 "FBSFI": 9.6,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62ec",
                     "642340a68ac5474bcb1c62f4"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6cd"
                 ],
-                "saids": [
+                "spaids": [
                     "684b226e8ac5476ed06f0cf1"
                 ]
             },
@@ -3681,11 +3685,12 @@
                 "FBTCT": 12.0,
                 "FBTAR": 0.34,
                 "FBSFI": 10.1,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62ed",
                     "642340a68ac5474bcb1c62f5"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6ce"
                 ]
             },
@@ -4418,11 +4423,12 @@
                 "FBTCT": 11.0,
                 "FBTAR": 0.16,
                 "FBSFI": 9.1,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62ee",
                     "642340a68ac5474bcb1c62f6"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6cf"
                 ]
             },
@@ -5155,14 +5161,15 @@
                 "FBTCT": 7.0,
                 "FBTAR": 0.09,
                 "FBSFI": 9.0,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62ef",
                     "642340a68ac5474bcb1c62f7"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6d0"
                 ],
-                "saids": [
+                "spaids": [
                     "684b226e8ac5476ed06f0cf3"
                 ]
             },
@@ -5895,11 +5902,12 @@
                 "FBTCT": 12.0,
                 "FBTAR": 0.31,
                 "FBSFI": 9.4,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62f0",
                     "642340a68ac5474bcb1c62f8"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6d1"
                 ]
             },
@@ -6632,11 +6640,12 @@
                 "FBTCT": 10.0,
                 "FBTAR": 0.16,
                 "FBSFI": 10.4,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62f9",
                     "642340a68ac5474bcb1c6301"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6d2"
                 ]
             },
@@ -7369,11 +7378,12 @@
                 "FBTCT": 4.0,
                 "FBTAR": 0.06,
                 "FBSFI": 10.0,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62fa",
                     "642340a68ac5474bcb1c6302"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6d3"
                 ]
             },
@@ -8106,11 +8116,12 @@
                 "FBTCT": 8.0,
                 "FBTAR": 0.13,
                 "FBSFI": 10.2,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62fb",
                     "642340a68ac5474bcb1c6303"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6d4"
                 ]
             },
@@ -8843,11 +8854,12 @@
                 "FBTCT": 13.0,
                 "FBTAR": 0.11,
                 "FBSFI": 10.0,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62fc",
                     "642340a68ac5474bcb1c6304"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6d5"
                 ]
             },
@@ -9580,11 +9592,12 @@
                 "FBTCT": 9.0,
                 "FBTAR": 0.1,
                 "FBSFI": 9.6,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62fd",
                     "642340a68ac5474bcb1c6305"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6d6"
                 ]
             },
@@ -10317,11 +10330,12 @@
                 "FBTCT": 9.0,
                 "FBTAR": 0.1,
                 "FBSFI": 9.3,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62fe",
                     "642340a68ac5474bcb1c6306"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6d7"
                 ]
             },
@@ -11054,11 +11068,12 @@
                 "FBTCT": 16.0,
                 "FBTAR": 0.18,
                 "FBSFI": 10.8,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c62ff",
                     "642340a68ac5474bcb1c6307"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6d8"
                 ]
             },
@@ -11791,11 +11806,12 @@
                 "FBTCT": 10.0,
                 "FBTAR": 0.22,
                 "FBSFI": 9.8,
-                "haids": [
+                "eid": "64233b5e8ac5474bb0a7c662",
+                "chids": [
                     "642340a68ac5474bcb1c6300",
                     "642340a68ac5474bcb1c6308"
                 ],
-                "tids": [
+                "swcids": [
                     "642371e98ac5474e93f7c6d9"
                 ]
             },

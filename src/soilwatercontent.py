@@ -4,7 +4,7 @@ import geojson
 from osgeo import osr
 
 class SoilWaterContent:
-    def __init__(self,tid=None,geometry=None,tb_label=None):
+    def __init__(self,swcid=None,geometry=None,tb_label=None):
 
         #Establish feature geometry in lon/lat (geojson standard)
         if geometry is not None:
@@ -22,23 +22,23 @@ class SoilWaterContent:
             self.doc = geojson.Feature()
 
         #Establish neutron tube id
-        self.tid = tid
-        if self.tid is None:
-            self.tid = str(bson.objectid.ObjectId())
-        if not bson.objectid.ObjectId.is_valid(tid):
+        self.swcid = swcid
+        if self.swcid is None:
+            self.swcid = str(bson.objectid.ObjectId())
+        if not bson.objectid.ObjectId.is_valid(swcid):
             raise ValueError('Invalid ObjectId in SoilWaterContent')
-        self.doc.update({'_id':self.tid})
-        self.doc.update({'tid':self.tid})
+        self.doc.update({'_id':self.swcid})
+        self.doc.update({'swcid':self.swcid})
 
         #Set feature properties
         if tb_label is not None:
-            self.doc['properties'].update({'tb_label':tb_label})
+            self.doc['properties'].update({'swc_label':tb_label})
 
     def __str__(self):
         return str(json.dumps(self.doc,indent=4))
 
     def getid(self):
-        return self.tid
+        return self.swcid
 
     def setproperty(self,key,value):
         self.doc['properties'].update({key:value})

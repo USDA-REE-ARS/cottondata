@@ -11,7 +11,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p01-1",
+                "spa_label": "2009-p01-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -281,7 +281,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5292",
-            "said": "68a39f838ac54789750a5292"
+            "spaid": "68a39f838ac54789750a5292"
         },
         {
             "type": "Feature",
@@ -293,7 +293,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p01-2",
+                "spa_label": "2009-p01-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -563,7 +563,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5293",
-            "said": "68a39f838ac54789750a5293"
+            "spaid": "68a39f838ac54789750a5293"
         },
         {
             "type": "Feature",
@@ -575,7 +575,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p01-3",
+                "spa_label": "2009-p01-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -845,7 +845,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5294",
-            "said": "68a39f838ac54789750a5294"
+            "spaid": "68a39f838ac54789750a5294"
         },
         {
             "type": "Feature",
@@ -857,7 +857,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p01-4",
+                "spa_label": "2009-p01-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -1127,7 +1127,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5295",
-            "said": "68a39f838ac54789750a5295"
+            "spaid": "68a39f838ac54789750a5295"
         },
         {
             "type": "Feature",
@@ -1139,7 +1139,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p01-5",
+                "spa_label": "2009-p01-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -1409,7 +1409,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5296",
-            "said": "68a39f838ac54789750a5296"
+            "spaid": "68a39f838ac54789750a5296"
         },
         {
             "type": "Feature",
@@ -1421,7 +1421,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p01-6",
+                "spa_label": "2009-p01-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -1691,7 +1691,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5297",
-            "said": "68a39f838ac54789750a5297"
+            "spaid": "68a39f838ac54789750a5297"
         },
         {
             "type": "Feature",
@@ -1703,7 +1703,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p01-7",
+                "spa_label": "2009-p01-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -1973,7 +1973,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5298",
-            "said": "68a39f838ac54789750a5298"
+            "spaid": "68a39f838ac54789750a5298"
         },
         {
             "type": "Feature",
@@ -1985,7 +1985,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p02-1",
+                "spa_label": "2009-p02-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -2255,7 +2255,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5299",
-            "said": "68a39f838ac54789750a5299"
+            "spaid": "68a39f838ac54789750a5299"
         },
         {
             "type": "Feature",
@@ -2267,7 +2267,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p02-2",
+                "spa_label": "2009-p02-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -2537,7 +2537,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a529a",
-            "said": "68a39f838ac54789750a529a"
+            "spaid": "68a39f838ac54789750a529a"
         },
         {
             "type": "Feature",
@@ -2549,7 +2549,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p02-3",
+                "spa_label": "2009-p02-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -2819,7 +2819,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a529b",
-            "said": "68a39f838ac54789750a529b"
+            "spaid": "68a39f838ac54789750a529b"
         },
         {
             "type": "Feature",
@@ -2831,7 +2831,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p02-4",
+                "spa_label": "2009-p02-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -3101,7 +3101,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a529c",
-            "said": "68a39f838ac54789750a529c"
+            "spaid": "68a39f838ac54789750a529c"
         },
         {
             "type": "Feature",
@@ -3113,7 +3113,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p02-5",
+                "spa_label": "2009-p02-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -3383,7 +3383,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a529d",
-            "said": "68a39f838ac54789750a529d"
+            "spaid": "68a39f838ac54789750a529d"
         },
         {
             "type": "Feature",
@@ -3395,7 +3395,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p02-6",
+                "spa_label": "2009-p02-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -3665,7 +3665,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a529e",
-            "said": "68a39f838ac54789750a529e"
+            "spaid": "68a39f838ac54789750a529e"
         },
         {
             "type": "Feature",
@@ -3677,7 +3677,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p02-7",
+                "spa_label": "2009-p02-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -3947,7 +3947,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a529f",
-            "said": "68a39f838ac54789750a529f"
+            "spaid": "68a39f838ac54789750a529f"
         },
         {
             "type": "Feature",
@@ -3959,7 +3959,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p03-1",
+                "spa_label": "2009-p03-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -4229,7 +4229,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52a0",
-            "said": "68a39f838ac54789750a52a0"
+            "spaid": "68a39f838ac54789750a52a0"
         },
         {
             "type": "Feature",
@@ -4241,7 +4241,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p03-2",
+                "spa_label": "2009-p03-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -4511,7 +4511,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52a1",
-            "said": "68a39f838ac54789750a52a1"
+            "spaid": "68a39f838ac54789750a52a1"
         },
         {
             "type": "Feature",
@@ -4523,7 +4523,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p03-3",
+                "spa_label": "2009-p03-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -4793,7 +4793,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52a2",
-            "said": "68a39f838ac54789750a52a2"
+            "spaid": "68a39f838ac54789750a52a2"
         },
         {
             "type": "Feature",
@@ -4805,7 +4805,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p03-4",
+                "spa_label": "2009-p03-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -5075,7 +5075,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52a3",
-            "said": "68a39f838ac54789750a52a3"
+            "spaid": "68a39f838ac54789750a52a3"
         },
         {
             "type": "Feature",
@@ -5087,7 +5087,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p03-5",
+                "spa_label": "2009-p03-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -5357,7 +5357,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52a4",
-            "said": "68a39f838ac54789750a52a4"
+            "spaid": "68a39f838ac54789750a52a4"
         },
         {
             "type": "Feature",
@@ -5369,7 +5369,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p03-6",
+                "spa_label": "2009-p03-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -5639,7 +5639,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52a5",
-            "said": "68a39f838ac54789750a52a5"
+            "spaid": "68a39f838ac54789750a52a5"
         },
         {
             "type": "Feature",
@@ -5651,7 +5651,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p03-7",
+                "spa_label": "2009-p03-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -5921,7 +5921,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52a6",
-            "said": "68a39f838ac54789750a52a6"
+            "spaid": "68a39f838ac54789750a52a6"
         },
         {
             "type": "Feature",
@@ -5933,7 +5933,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p04-1",
+                "spa_label": "2009-p04-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -6203,7 +6203,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52a7",
-            "said": "68a39f838ac54789750a52a7"
+            "spaid": "68a39f838ac54789750a52a7"
         },
         {
             "type": "Feature",
@@ -6215,7 +6215,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p04-2",
+                "spa_label": "2009-p04-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -6485,7 +6485,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52a8",
-            "said": "68a39f838ac54789750a52a8"
+            "spaid": "68a39f838ac54789750a52a8"
         },
         {
             "type": "Feature",
@@ -6497,7 +6497,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p04-3",
+                "spa_label": "2009-p04-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -6767,7 +6767,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52a9",
-            "said": "68a39f838ac54789750a52a9"
+            "spaid": "68a39f838ac54789750a52a9"
         },
         {
             "type": "Feature",
@@ -6779,7 +6779,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p04-4",
+                "spa_label": "2009-p04-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -7043,7 +7043,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52aa",
-            "said": "68a39f838ac54789750a52aa"
+            "spaid": "68a39f838ac54789750a52aa"
         },
         {
             "type": "Feature",
@@ -7055,7 +7055,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p04-5",
+                "spa_label": "2009-p04-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -7313,7 +7313,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52ab",
-            "said": "68a39f838ac54789750a52ab"
+            "spaid": "68a39f838ac54789750a52ab"
         },
         {
             "type": "Feature",
@@ -7325,7 +7325,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p04-6",
+                "spa_label": "2009-p04-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -7589,7 +7589,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52ac",
-            "said": "68a39f838ac54789750a52ac"
+            "spaid": "68a39f838ac54789750a52ac"
         },
         {
             "type": "Feature",
@@ -7601,7 +7601,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p04-7",
+                "spa_label": "2009-p04-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -7871,7 +7871,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52ad",
-            "said": "68a39f838ac54789750a52ad"
+            "spaid": "68a39f838ac54789750a52ad"
         },
         {
             "type": "Feature",
@@ -7883,7 +7883,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p05-1",
+                "spa_label": "2009-p05-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -8153,7 +8153,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52ae",
-            "said": "68a39f838ac54789750a52ae"
+            "spaid": "68a39f838ac54789750a52ae"
         },
         {
             "type": "Feature",
@@ -8165,7 +8165,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p05-2",
+                "spa_label": "2009-p05-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -8435,7 +8435,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52af",
-            "said": "68a39f838ac54789750a52af"
+            "spaid": "68a39f838ac54789750a52af"
         },
         {
             "type": "Feature",
@@ -8447,7 +8447,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p05-3",
+                "spa_label": "2009-p05-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -8717,7 +8717,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52b0",
-            "said": "68a39f838ac54789750a52b0"
+            "spaid": "68a39f838ac54789750a52b0"
         },
         {
             "type": "Feature",
@@ -8729,7 +8729,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p05-4",
+                "spa_label": "2009-p05-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -8999,7 +8999,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52b1",
-            "said": "68a39f838ac54789750a52b1"
+            "spaid": "68a39f838ac54789750a52b1"
         },
         {
             "type": "Feature",
@@ -9011,7 +9011,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p05-5",
+                "spa_label": "2009-p05-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -9281,7 +9281,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52b2",
-            "said": "68a39f838ac54789750a52b2"
+            "spaid": "68a39f838ac54789750a52b2"
         },
         {
             "type": "Feature",
@@ -9293,7 +9293,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p05-6",
+                "spa_label": "2009-p05-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -9563,7 +9563,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52b3",
-            "said": "68a39f838ac54789750a52b3"
+            "spaid": "68a39f838ac54789750a52b3"
         },
         {
             "type": "Feature",
@@ -9575,7 +9575,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p05-7",
+                "spa_label": "2009-p05-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -9845,7 +9845,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52b4",
-            "said": "68a39f838ac54789750a52b4"
+            "spaid": "68a39f838ac54789750a52b4"
         },
         {
             "type": "Feature",
@@ -9857,7 +9857,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p06-1",
+                "spa_label": "2009-p06-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -10127,7 +10127,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52b5",
-            "said": "68a39f838ac54789750a52b5"
+            "spaid": "68a39f838ac54789750a52b5"
         },
         {
             "type": "Feature",
@@ -10139,7 +10139,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p06-2",
+                "spa_label": "2009-p06-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -10409,7 +10409,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52b6",
-            "said": "68a39f838ac54789750a52b6"
+            "spaid": "68a39f838ac54789750a52b6"
         },
         {
             "type": "Feature",
@@ -10421,7 +10421,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p06-3",
+                "spa_label": "2009-p06-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -10691,7 +10691,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52b7",
-            "said": "68a39f838ac54789750a52b7"
+            "spaid": "68a39f838ac54789750a52b7"
         },
         {
             "type": "Feature",
@@ -10703,7 +10703,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p06-4",
+                "spa_label": "2009-p06-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -10973,7 +10973,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52b8",
-            "said": "68a39f838ac54789750a52b8"
+            "spaid": "68a39f838ac54789750a52b8"
         },
         {
             "type": "Feature",
@@ -10985,7 +10985,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p06-5",
+                "spa_label": "2009-p06-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -11255,7 +11255,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52b9",
-            "said": "68a39f838ac54789750a52b9"
+            "spaid": "68a39f838ac54789750a52b9"
         },
         {
             "type": "Feature",
@@ -11267,7 +11267,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p06-6",
+                "spa_label": "2009-p06-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -11537,7 +11537,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52ba",
-            "said": "68a39f838ac54789750a52ba"
+            "spaid": "68a39f838ac54789750a52ba"
         },
         {
             "type": "Feature",
@@ -11549,7 +11549,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p06-7",
+                "spa_label": "2009-p06-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -11819,7 +11819,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52bb",
-            "said": "68a39f838ac54789750a52bb"
+            "spaid": "68a39f838ac54789750a52bb"
         },
         {
             "type": "Feature",
@@ -11831,7 +11831,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p07-1",
+                "spa_label": "2009-p07-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -12101,7 +12101,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52bc",
-            "said": "68a39f838ac54789750a52bc"
+            "spaid": "68a39f838ac54789750a52bc"
         },
         {
             "type": "Feature",
@@ -12113,7 +12113,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p07-2",
+                "spa_label": "2009-p07-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -12383,7 +12383,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52bd",
-            "said": "68a39f838ac54789750a52bd"
+            "spaid": "68a39f838ac54789750a52bd"
         },
         {
             "type": "Feature",
@@ -12395,7 +12395,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p07-3",
+                "spa_label": "2009-p07-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -12665,7 +12665,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52be",
-            "said": "68a39f838ac54789750a52be"
+            "spaid": "68a39f838ac54789750a52be"
         },
         {
             "type": "Feature",
@@ -12677,7 +12677,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p07-4",
+                "spa_label": "2009-p07-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -12947,7 +12947,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52bf",
-            "said": "68a39f838ac54789750a52bf"
+            "spaid": "68a39f838ac54789750a52bf"
         },
         {
             "type": "Feature",
@@ -12959,7 +12959,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p07-5",
+                "spa_label": "2009-p07-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -13229,7 +13229,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52c0",
-            "said": "68a39f838ac54789750a52c0"
+            "spaid": "68a39f838ac54789750a52c0"
         },
         {
             "type": "Feature",
@@ -13241,7 +13241,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p07-6",
+                "spa_label": "2009-p07-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -13505,7 +13505,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52c1",
-            "said": "68a39f838ac54789750a52c1"
+            "spaid": "68a39f838ac54789750a52c1"
         },
         {
             "type": "Feature",
@@ -13517,7 +13517,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p07-7",
+                "spa_label": "2009-p07-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -13787,7 +13787,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52c2",
-            "said": "68a39f838ac54789750a52c2"
+            "spaid": "68a39f838ac54789750a52c2"
         },
         {
             "type": "Feature",
@@ -13799,7 +13799,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p08-1",
+                "spa_label": "2009-p08-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -14069,7 +14069,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52c3",
-            "said": "68a39f838ac54789750a52c3"
+            "spaid": "68a39f838ac54789750a52c3"
         },
         {
             "type": "Feature",
@@ -14081,7 +14081,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p08-2",
+                "spa_label": "2009-p08-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -14351,7 +14351,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52c4",
-            "said": "68a39f838ac54789750a52c4"
+            "spaid": "68a39f838ac54789750a52c4"
         },
         {
             "type": "Feature",
@@ -14363,7 +14363,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p08-3",
+                "spa_label": "2009-p08-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -14633,7 +14633,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52c5",
-            "said": "68a39f838ac54789750a52c5"
+            "spaid": "68a39f838ac54789750a52c5"
         },
         {
             "type": "Feature",
@@ -14645,7 +14645,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p08-4",
+                "spa_label": "2009-p08-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -14897,7 +14897,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52c6",
-            "said": "68a39f838ac54789750a52c6"
+            "spaid": "68a39f838ac54789750a52c6"
         },
         {
             "type": "Feature",
@@ -14909,7 +14909,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p08-5",
+                "spa_label": "2009-p08-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -15161,7 +15161,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52c7",
-            "said": "68a39f838ac54789750a52c7"
+            "spaid": "68a39f838ac54789750a52c7"
         },
         {
             "type": "Feature",
@@ -15173,7 +15173,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p08-6",
+                "spa_label": "2009-p08-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -15443,7 +15443,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52c8",
-            "said": "68a39f838ac54789750a52c8"
+            "spaid": "68a39f838ac54789750a52c8"
         },
         {
             "type": "Feature",
@@ -15455,7 +15455,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p08-7",
+                "spa_label": "2009-p08-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -15725,7 +15725,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52c9",
-            "said": "68a39f838ac54789750a52c9"
+            "spaid": "68a39f838ac54789750a52c9"
         },
         {
             "type": "Feature",
@@ -15737,7 +15737,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p09-1",
+                "spa_label": "2009-p09-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -15989,7 +15989,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52ca",
-            "said": "68a39f838ac54789750a52ca"
+            "spaid": "68a39f838ac54789750a52ca"
         },
         {
             "type": "Feature",
@@ -16001,7 +16001,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p09-2",
+                "spa_label": "2009-p09-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -16271,7 +16271,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52cb",
-            "said": "68a39f838ac54789750a52cb"
+            "spaid": "68a39f838ac54789750a52cb"
         },
         {
             "type": "Feature",
@@ -16283,7 +16283,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p09-3",
+                "spa_label": "2009-p09-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -16553,7 +16553,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52cc",
-            "said": "68a39f838ac54789750a52cc"
+            "spaid": "68a39f838ac54789750a52cc"
         },
         {
             "type": "Feature",
@@ -16565,7 +16565,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p09-4",
+                "spa_label": "2009-p09-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -16835,7 +16835,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52cd",
-            "said": "68a39f838ac54789750a52cd"
+            "spaid": "68a39f838ac54789750a52cd"
         },
         {
             "type": "Feature",
@@ -16847,7 +16847,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p09-5",
+                "spa_label": "2009-p09-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -17117,7 +17117,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52ce",
-            "said": "68a39f838ac54789750a52ce"
+            "spaid": "68a39f838ac54789750a52ce"
         },
         {
             "type": "Feature",
@@ -17129,7 +17129,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p09-6",
+                "spa_label": "2009-p09-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -17399,7 +17399,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52cf",
-            "said": "68a39f838ac54789750a52cf"
+            "spaid": "68a39f838ac54789750a52cf"
         },
         {
             "type": "Feature",
@@ -17411,7 +17411,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p09-7",
+                "spa_label": "2009-p09-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -17681,7 +17681,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52d0",
-            "said": "68a39f838ac54789750a52d0"
+            "spaid": "68a39f838ac54789750a52d0"
         },
         {
             "type": "Feature",
@@ -17693,7 +17693,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p10-1",
+                "spa_label": "2009-p10-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -17963,7 +17963,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52d1",
-            "said": "68a39f838ac54789750a52d1"
+            "spaid": "68a39f838ac54789750a52d1"
         },
         {
             "type": "Feature",
@@ -17975,7 +17975,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p10-2",
+                "spa_label": "2009-p10-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -18245,7 +18245,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52d2",
-            "said": "68a39f838ac54789750a52d2"
+            "spaid": "68a39f838ac54789750a52d2"
         },
         {
             "type": "Feature",
@@ -18257,7 +18257,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p10-3",
+                "spa_label": "2009-p10-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -18527,7 +18527,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52d3",
-            "said": "68a39f838ac54789750a52d3"
+            "spaid": "68a39f838ac54789750a52d3"
         },
         {
             "type": "Feature",
@@ -18539,7 +18539,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p10-4",
+                "spa_label": "2009-p10-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -18803,7 +18803,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52d4",
-            "said": "68a39f838ac54789750a52d4"
+            "spaid": "68a39f838ac54789750a52d4"
         },
         {
             "type": "Feature",
@@ -18815,7 +18815,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p10-5",
+                "spa_label": "2009-p10-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -19085,7 +19085,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52d5",
-            "said": "68a39f838ac54789750a52d5"
+            "spaid": "68a39f838ac54789750a52d5"
         },
         {
             "type": "Feature",
@@ -19097,7 +19097,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p10-6",
+                "spa_label": "2009-p10-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -19367,7 +19367,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52d6",
-            "said": "68a39f838ac54789750a52d6"
+            "spaid": "68a39f838ac54789750a52d6"
         },
         {
             "type": "Feature",
@@ -19379,7 +19379,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p10-7",
+                "spa_label": "2009-p10-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -19649,7 +19649,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52d7",
-            "said": "68a39f838ac54789750a52d7"
+            "spaid": "68a39f838ac54789750a52d7"
         },
         {
             "type": "Feature",
@@ -19661,7 +19661,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p11-1",
+                "spa_label": "2009-p11-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -19931,7 +19931,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52d8",
-            "said": "68a39f838ac54789750a52d8"
+            "spaid": "68a39f838ac54789750a52d8"
         },
         {
             "type": "Feature",
@@ -19943,7 +19943,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p11-2",
+                "spa_label": "2009-p11-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -20213,7 +20213,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52d9",
-            "said": "68a39f838ac54789750a52d9"
+            "spaid": "68a39f838ac54789750a52d9"
         },
         {
             "type": "Feature",
@@ -20225,7 +20225,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p11-3",
+                "spa_label": "2009-p11-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -20495,7 +20495,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52da",
-            "said": "68a39f838ac54789750a52da"
+            "spaid": "68a39f838ac54789750a52da"
         },
         {
             "type": "Feature",
@@ -20507,7 +20507,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p11-4",
+                "spa_label": "2009-p11-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -20777,7 +20777,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52db",
-            "said": "68a39f838ac54789750a52db"
+            "spaid": "68a39f838ac54789750a52db"
         },
         {
             "type": "Feature",
@@ -20789,7 +20789,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p11-5",
+                "spa_label": "2009-p11-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -21059,7 +21059,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52dc",
-            "said": "68a39f838ac54789750a52dc"
+            "spaid": "68a39f838ac54789750a52dc"
         },
         {
             "type": "Feature",
@@ -21071,7 +21071,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p11-6",
+                "spa_label": "2009-p11-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -21341,7 +21341,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52dd",
-            "said": "68a39f838ac54789750a52dd"
+            "spaid": "68a39f838ac54789750a52dd"
         },
         {
             "type": "Feature",
@@ -21353,7 +21353,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p11-7",
+                "spa_label": "2009-p11-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -21623,7 +21623,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52de",
-            "said": "68a39f838ac54789750a52de"
+            "spaid": "68a39f838ac54789750a52de"
         },
         {
             "type": "Feature",
@@ -21635,7 +21635,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p12-1",
+                "spa_label": "2009-p12-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -21905,7 +21905,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52df",
-            "said": "68a39f838ac54789750a52df"
+            "spaid": "68a39f838ac54789750a52df"
         },
         {
             "type": "Feature",
@@ -21917,7 +21917,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p12-2",
+                "spa_label": "2009-p12-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -22187,7 +22187,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52e0",
-            "said": "68a39f838ac54789750a52e0"
+            "spaid": "68a39f838ac54789750a52e0"
         },
         {
             "type": "Feature",
@@ -22199,7 +22199,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p12-3",
+                "spa_label": "2009-p12-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -22469,7 +22469,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52e1",
-            "said": "68a39f838ac54789750a52e1"
+            "spaid": "68a39f838ac54789750a52e1"
         },
         {
             "type": "Feature",
@@ -22481,7 +22481,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p12-4",
+                "spa_label": "2009-p12-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -22745,7 +22745,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52e2",
-            "said": "68a39f838ac54789750a52e2"
+            "spaid": "68a39f838ac54789750a52e2"
         },
         {
             "type": "Feature",
@@ -22757,7 +22757,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p12-5",
+                "spa_label": "2009-p12-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -23027,7 +23027,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52e3",
-            "said": "68a39f838ac54789750a52e3"
+            "spaid": "68a39f838ac54789750a52e3"
         },
         {
             "type": "Feature",
@@ -23039,7 +23039,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p12-6",
+                "spa_label": "2009-p12-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -23309,7 +23309,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52e4",
-            "said": "68a39f838ac54789750a52e4"
+            "spaid": "68a39f838ac54789750a52e4"
         },
         {
             "type": "Feature",
@@ -23321,7 +23321,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p12-7",
+                "spa_label": "2009-p12-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -23591,7 +23591,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52e5",
-            "said": "68a39f838ac54789750a52e5"
+            "spaid": "68a39f838ac54789750a52e5"
         },
         {
             "type": "Feature",
@@ -23603,7 +23603,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p13-1",
+                "spa_label": "2009-p13-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -23873,7 +23873,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52e6",
-            "said": "68a39f838ac54789750a52e6"
+            "spaid": "68a39f838ac54789750a52e6"
         },
         {
             "type": "Feature",
@@ -23885,7 +23885,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p13-2",
+                "spa_label": "2009-p13-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -24155,7 +24155,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52e7",
-            "said": "68a39f838ac54789750a52e7"
+            "spaid": "68a39f838ac54789750a52e7"
         },
         {
             "type": "Feature",
@@ -24167,7 +24167,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p13-3",
+                "spa_label": "2009-p13-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -24437,7 +24437,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52e8",
-            "said": "68a39f838ac54789750a52e8"
+            "spaid": "68a39f838ac54789750a52e8"
         },
         {
             "type": "Feature",
@@ -24449,7 +24449,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p13-4",
+                "spa_label": "2009-p13-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -24719,7 +24719,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52e9",
-            "said": "68a39f838ac54789750a52e9"
+            "spaid": "68a39f838ac54789750a52e9"
         },
         {
             "type": "Feature",
@@ -24731,7 +24731,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p13-5",
+                "spa_label": "2009-p13-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -25001,7 +25001,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52ea",
-            "said": "68a39f838ac54789750a52ea"
+            "spaid": "68a39f838ac54789750a52ea"
         },
         {
             "type": "Feature",
@@ -25013,7 +25013,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p13-6",
+                "spa_label": "2009-p13-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -25283,7 +25283,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52eb",
-            "said": "68a39f838ac54789750a52eb"
+            "spaid": "68a39f838ac54789750a52eb"
         },
         {
             "type": "Feature",
@@ -25295,7 +25295,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p13-7",
+                "spa_label": "2009-p13-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -25565,7 +25565,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52ec",
-            "said": "68a39f838ac54789750a52ec"
+            "spaid": "68a39f838ac54789750a52ec"
         },
         {
             "type": "Feature",
@@ -25577,7 +25577,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p14-1",
+                "spa_label": "2009-p14-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -25847,7 +25847,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52ed",
-            "said": "68a39f838ac54789750a52ed"
+            "spaid": "68a39f838ac54789750a52ed"
         },
         {
             "type": "Feature",
@@ -25859,7 +25859,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p14-2",
+                "spa_label": "2009-p14-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -26129,7 +26129,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52ee",
-            "said": "68a39f838ac54789750a52ee"
+            "spaid": "68a39f838ac54789750a52ee"
         },
         {
             "type": "Feature",
@@ -26141,7 +26141,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p14-3",
+                "spa_label": "2009-p14-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -26411,7 +26411,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52ef",
-            "said": "68a39f838ac54789750a52ef"
+            "spaid": "68a39f838ac54789750a52ef"
         },
         {
             "type": "Feature",
@@ -26423,7 +26423,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p14-4",
+                "spa_label": "2009-p14-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -26693,7 +26693,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52f0",
-            "said": "68a39f838ac54789750a52f0"
+            "spaid": "68a39f838ac54789750a52f0"
         },
         {
             "type": "Feature",
@@ -26705,7 +26705,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p14-5",
+                "spa_label": "2009-p14-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -26975,7 +26975,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52f1",
-            "said": "68a39f838ac54789750a52f1"
+            "spaid": "68a39f838ac54789750a52f1"
         },
         {
             "type": "Feature",
@@ -26987,7 +26987,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p14-6",
+                "spa_label": "2009-p14-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -27257,7 +27257,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52f2",
-            "said": "68a39f838ac54789750a52f2"
+            "spaid": "68a39f838ac54789750a52f2"
         },
         {
             "type": "Feature",
@@ -27269,7 +27269,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p14-7",
+                "spa_label": "2009-p14-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -27539,7 +27539,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52f3",
-            "said": "68a39f838ac54789750a52f3"
+            "spaid": "68a39f838ac54789750a52f3"
         },
         {
             "type": "Feature",
@@ -27551,7 +27551,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p15-1",
+                "spa_label": "2009-p15-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -27821,7 +27821,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52f4",
-            "said": "68a39f838ac54789750a52f4"
+            "spaid": "68a39f838ac54789750a52f4"
         },
         {
             "type": "Feature",
@@ -27833,7 +27833,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p15-2",
+                "spa_label": "2009-p15-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -28103,7 +28103,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52f5",
-            "said": "68a39f838ac54789750a52f5"
+            "spaid": "68a39f838ac54789750a52f5"
         },
         {
             "type": "Feature",
@@ -28115,7 +28115,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p15-3",
+                "spa_label": "2009-p15-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -28385,7 +28385,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52f6",
-            "said": "68a39f838ac54789750a52f6"
+            "spaid": "68a39f838ac54789750a52f6"
         },
         {
             "type": "Feature",
@@ -28397,7 +28397,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p15-4",
+                "spa_label": "2009-p15-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -28667,7 +28667,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52f7",
-            "said": "68a39f838ac54789750a52f7"
+            "spaid": "68a39f838ac54789750a52f7"
         },
         {
             "type": "Feature",
@@ -28679,7 +28679,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p15-5",
+                "spa_label": "2009-p15-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -28949,7 +28949,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52f8",
-            "said": "68a39f838ac54789750a52f8"
+            "spaid": "68a39f838ac54789750a52f8"
         },
         {
             "type": "Feature",
@@ -28961,7 +28961,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p15-6",
+                "spa_label": "2009-p15-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -29231,7 +29231,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52f9",
-            "said": "68a39f838ac54789750a52f9"
+            "spaid": "68a39f838ac54789750a52f9"
         },
         {
             "type": "Feature",
@@ -29243,7 +29243,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p15-7",
+                "spa_label": "2009-p15-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -29513,7 +29513,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52fa",
-            "said": "68a39f838ac54789750a52fa"
+            "spaid": "68a39f838ac54789750a52fa"
         },
         {
             "type": "Feature",
@@ -29525,7 +29525,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p16-1",
+                "spa_label": "2009-p16-1",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -29795,7 +29795,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52fb",
-            "said": "68a39f838ac54789750a52fb"
+            "spaid": "68a39f838ac54789750a52fb"
         },
         {
             "type": "Feature",
@@ -29807,7 +29807,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p16-2",
+                "spa_label": "2009-p16-2",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -30077,7 +30077,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52fc",
-            "said": "68a39f838ac54789750a52fc"
+            "spaid": "68a39f838ac54789750a52fc"
         },
         {
             "type": "Feature",
@@ -30089,7 +30089,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p16-3",
+                "spa_label": "2009-p16-3",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -30359,7 +30359,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52fd",
-            "said": "68a39f838ac54789750a52fd"
+            "spaid": "68a39f838ac54789750a52fd"
         },
         {
             "type": "Feature",
@@ -30371,7 +30371,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p16-4",
+                "spa_label": "2009-p16-4",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -30641,7 +30641,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52fe",
-            "said": "68a39f838ac54789750a52fe"
+            "spaid": "68a39f838ac54789750a52fe"
         },
         {
             "type": "Feature",
@@ -30653,7 +30653,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p16-5",
+                "spa_label": "2009-p16-5",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -30923,7 +30923,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a52ff",
-            "said": "68a39f838ac54789750a52ff"
+            "spaid": "68a39f838ac54789750a52ff"
         },
         {
             "type": "Feature",
@@ -30935,7 +30935,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p16-6",
+                "spa_label": "2009-p16-6",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -31205,7 +31205,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5300",
-            "said": "68a39f838ac54789750a5300"
+            "spaid": "68a39f838ac54789750a5300"
         },
         {
             "type": "Feature",
@@ -31217,7 +31217,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2009-p16-7",
+                "spa_label": "2009-p16-7",
                 "SOIL_DATE": "2009-05",
                 "SLSND_M": [
                     {
@@ -31487,7 +31487,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5301",
-            "said": "68a39f838ac54789750a5301"
+            "spaid": "68a39f838ac54789750a5301"
         },
         {
             "type": "Feature",
@@ -31499,7 +31499,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s73",
+                "spa_label": "2010-s73",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -31673,7 +31673,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5302",
-            "said": "68a39f838ac54789750a5302"
+            "spaid": "68a39f838ac54789750a5302"
         },
         {
             "type": "Feature",
@@ -31685,7 +31685,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s94",
+                "spa_label": "2010-s94",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -31859,7 +31859,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5303",
-            "said": "68a39f838ac54789750a5303"
+            "spaid": "68a39f838ac54789750a5303"
         },
         {
             "type": "Feature",
@@ -31871,7 +31871,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s94dup",
+                "spa_label": "2010-s94dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -32003,7 +32003,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5304",
-            "said": "68a39f838ac54789750a5304"
+            "spaid": "68a39f838ac54789750a5304"
         },
         {
             "type": "Feature",
@@ -32015,7 +32015,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s104",
+                "spa_label": "2010-s104",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -32189,7 +32189,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5305",
-            "said": "68a39f838ac54789750a5305"
+            "spaid": "68a39f838ac54789750a5305"
         },
         {
             "type": "Feature",
@@ -32201,7 +32201,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s138",
+                "spa_label": "2010-s138",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -32361,7 +32361,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5306",
-            "said": "68a39f838ac54789750a5306"
+            "spaid": "68a39f838ac54789750a5306"
         },
         {
             "type": "Feature",
@@ -32373,7 +32373,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s162",
+                "spa_label": "2010-s162",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -32547,7 +32547,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5307",
-            "said": "68a39f838ac54789750a5307"
+            "spaid": "68a39f838ac54789750a5307"
         },
         {
             "type": "Feature",
@@ -32559,7 +32559,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s187",
+                "spa_label": "2010-s187",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -32733,7 +32733,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5308",
-            "said": "68a39f838ac54789750a5308"
+            "spaid": "68a39f838ac54789750a5308"
         },
         {
             "type": "Feature",
@@ -32745,7 +32745,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s219",
+                "spa_label": "2010-s219",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -32905,7 +32905,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5309",
-            "said": "68a39f838ac54789750a5309"
+            "spaid": "68a39f838ac54789750a5309"
         },
         {
             "type": "Feature",
@@ -32917,7 +32917,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s219dup",
+                "spa_label": "2010-s219dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -33049,7 +33049,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a530a",
-            "said": "68a39f838ac54789750a530a"
+            "spaid": "68a39f838ac54789750a530a"
         },
         {
             "type": "Feature",
@@ -33061,7 +33061,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s237",
+                "spa_label": "2010-s237",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -33235,7 +33235,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a530b",
-            "said": "68a39f838ac54789750a530b"
+            "spaid": "68a39f838ac54789750a530b"
         },
         {
             "type": "Feature",
@@ -33247,7 +33247,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s365",
+                "spa_label": "2010-s365",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -33421,7 +33421,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a530c",
-            "said": "68a39f838ac54789750a530c"
+            "spaid": "68a39f838ac54789750a530c"
         },
         {
             "type": "Feature",
@@ -33433,7 +33433,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s374",
+                "spa_label": "2010-s374",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -33607,7 +33607,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a530d",
-            "said": "68a39f838ac54789750a530d"
+            "spaid": "68a39f838ac54789750a530d"
         },
         {
             "type": "Feature",
@@ -33619,7 +33619,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s399",
+                "spa_label": "2010-s399",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -33793,7 +33793,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a530e",
-            "said": "68a39f838ac54789750a530e"
+            "spaid": "68a39f838ac54789750a530e"
         },
         {
             "type": "Feature",
@@ -33805,7 +33805,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s408",
+                "spa_label": "2010-s408",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -33979,7 +33979,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a530f",
-            "said": "68a39f838ac54789750a530f"
+            "spaid": "68a39f838ac54789750a530f"
         },
         {
             "type": "Feature",
@@ -33991,7 +33991,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s481",
+                "spa_label": "2010-s481",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -34165,7 +34165,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5310",
-            "said": "68a39f838ac54789750a5310"
+            "spaid": "68a39f838ac54789750a5310"
         },
         {
             "type": "Feature",
@@ -34177,7 +34177,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s517",
+                "spa_label": "2010-s517",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -34351,7 +34351,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5311",
-            "said": "68a39f838ac54789750a5311"
+            "spaid": "68a39f838ac54789750a5311"
         },
         {
             "type": "Feature",
@@ -34363,7 +34363,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s517dup",
+                "spa_label": "2010-s517dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -34495,7 +34495,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5312",
-            "said": "68a39f838ac54789750a5312"
+            "spaid": "68a39f838ac54789750a5312"
         },
         {
             "type": "Feature",
@@ -34507,7 +34507,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s557",
+                "spa_label": "2010-s557",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -34681,7 +34681,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5313",
-            "said": "68a39f838ac54789750a5313"
+            "spaid": "68a39f838ac54789750a5313"
         },
         {
             "type": "Feature",
@@ -34693,7 +34693,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s557dup",
+                "spa_label": "2010-s557dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -34825,7 +34825,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5314",
-            "said": "68a39f838ac54789750a5314"
+            "spaid": "68a39f838ac54789750a5314"
         },
         {
             "type": "Feature",
@@ -34837,7 +34837,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s575",
+                "spa_label": "2010-s575",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -35011,7 +35011,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5315",
-            "said": "68a39f838ac54789750a5315"
+            "spaid": "68a39f838ac54789750a5315"
         },
         {
             "type": "Feature",
@@ -35023,7 +35023,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s692",
+                "spa_label": "2010-s692",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -35197,7 +35197,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5316",
-            "said": "68a39f838ac54789750a5316"
+            "spaid": "68a39f838ac54789750a5316"
         },
         {
             "type": "Feature",
@@ -35209,7 +35209,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s692dup",
+                "spa_label": "2010-s692dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -35341,7 +35341,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5317",
-            "said": "68a39f838ac54789750a5317"
+            "spaid": "68a39f838ac54789750a5317"
         },
         {
             "type": "Feature",
@@ -35353,7 +35353,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s699",
+                "spa_label": "2010-s699",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -35527,7 +35527,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5318",
-            "said": "68a39f838ac54789750a5318"
+            "spaid": "68a39f838ac54789750a5318"
         },
         {
             "type": "Feature",
@@ -35539,7 +35539,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s723",
+                "spa_label": "2010-s723",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -35713,7 +35713,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5319",
-            "said": "68a39f838ac54789750a5319"
+            "spaid": "68a39f838ac54789750a5319"
         },
         {
             "type": "Feature",
@@ -35725,7 +35725,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s723dup",
+                "spa_label": "2010-s723dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -35857,7 +35857,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a531a",
-            "said": "68a39f838ac54789750a531a"
+            "spaid": "68a39f838ac54789750a531a"
         },
         {
             "type": "Feature",
@@ -35869,7 +35869,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s729",
+                "spa_label": "2010-s729",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -36043,7 +36043,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a531b",
-            "said": "68a39f838ac54789750a531b"
+            "spaid": "68a39f838ac54789750a531b"
         },
         {
             "type": "Feature",
@@ -36055,7 +36055,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s840",
+                "spa_label": "2010-s840",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -36229,7 +36229,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a531c",
-            "said": "68a39f838ac54789750a531c"
+            "spaid": "68a39f838ac54789750a531c"
         },
         {
             "type": "Feature",
@@ -36241,7 +36241,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s859",
+                "spa_label": "2010-s859",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -36415,7 +36415,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a531d",
-            "said": "68a39f838ac54789750a531d"
+            "spaid": "68a39f838ac54789750a531d"
         },
         {
             "type": "Feature",
@@ -36427,7 +36427,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s900",
+                "spa_label": "2010-s900",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -36601,7 +36601,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a531e",
-            "said": "68a39f838ac54789750a531e"
+            "spaid": "68a39f838ac54789750a531e"
         },
         {
             "type": "Feature",
@@ -36613,7 +36613,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s918",
+                "spa_label": "2010-s918",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -36787,7 +36787,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a531f",
-            "said": "68a39f838ac54789750a531f"
+            "spaid": "68a39f838ac54789750a531f"
         },
         {
             "type": "Feature",
@@ -36799,7 +36799,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1039",
+                "spa_label": "2010-s1039",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -36973,7 +36973,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5320",
-            "said": "68a39f838ac54789750a5320"
+            "spaid": "68a39f838ac54789750a5320"
         },
         {
             "type": "Feature",
@@ -36985,7 +36985,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1067",
+                "spa_label": "2010-s1067",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -37159,7 +37159,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5321",
-            "said": "68a39f838ac54789750a5321"
+            "spaid": "68a39f838ac54789750a5321"
         },
         {
             "type": "Feature",
@@ -37171,7 +37171,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1067dup",
+                "spa_label": "2010-s1067dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -37303,7 +37303,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5322",
-            "said": "68a39f838ac54789750a5322"
+            "spaid": "68a39f838ac54789750a5322"
         },
         {
             "type": "Feature",
@@ -37315,7 +37315,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1112",
+                "spa_label": "2010-s1112",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -37489,7 +37489,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5323",
-            "said": "68a39f838ac54789750a5323"
+            "spaid": "68a39f838ac54789750a5323"
         },
         {
             "type": "Feature",
@@ -37501,7 +37501,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1189",
+                "spa_label": "2010-s1189",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -37675,7 +37675,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5324",
-            "said": "68a39f838ac54789750a5324"
+            "spaid": "68a39f838ac54789750a5324"
         },
         {
             "type": "Feature",
@@ -37687,7 +37687,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1189dup",
+                "spa_label": "2010-s1189dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -37819,7 +37819,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5325",
-            "said": "68a39f838ac54789750a5325"
+            "spaid": "68a39f838ac54789750a5325"
         },
         {
             "type": "Feature",
@@ -37831,7 +37831,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1218",
+                "spa_label": "2010-s1218",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -38005,7 +38005,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5326",
-            "said": "68a39f838ac54789750a5326"
+            "spaid": "68a39f838ac54789750a5326"
         },
         {
             "type": "Feature",
@@ -38017,7 +38017,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1225",
+                "spa_label": "2010-s1225",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -38191,7 +38191,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5327",
-            "said": "68a39f838ac54789750a5327"
+            "spaid": "68a39f838ac54789750a5327"
         },
         {
             "type": "Feature",
@@ -38203,7 +38203,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1239",
+                "spa_label": "2010-s1239",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -38377,7 +38377,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5328",
-            "said": "68a39f838ac54789750a5328"
+            "spaid": "68a39f838ac54789750a5328"
         },
         {
             "type": "Feature",
@@ -38389,7 +38389,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1245",
+                "spa_label": "2010-s1245",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -38549,7 +38549,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5329",
-            "said": "68a39f838ac54789750a5329"
+            "spaid": "68a39f838ac54789750a5329"
         },
         {
             "type": "Feature",
@@ -38561,7 +38561,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1347",
+                "spa_label": "2010-s1347",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -38735,7 +38735,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a532a",
-            "said": "68a39f838ac54789750a532a"
+            "spaid": "68a39f838ac54789750a532a"
         },
         {
             "type": "Feature",
@@ -38747,7 +38747,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1347dup",
+                "spa_label": "2010-s1347dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -38879,7 +38879,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a532b",
-            "said": "68a39f838ac54789750a532b"
+            "spaid": "68a39f838ac54789750a532b"
         },
         {
             "type": "Feature",
@@ -38891,7 +38891,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1370",
+                "spa_label": "2010-s1370",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -39065,7 +39065,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a532c",
-            "said": "68a39f838ac54789750a532c"
+            "spaid": "68a39f838ac54789750a532c"
         },
         {
             "type": "Feature",
@@ -39077,7 +39077,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1390",
+                "spa_label": "2010-s1390",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -39251,7 +39251,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a532d",
-            "said": "68a39f838ac54789750a532d"
+            "spaid": "68a39f838ac54789750a532d"
         },
         {
             "type": "Feature",
@@ -39263,7 +39263,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1403",
+                "spa_label": "2010-s1403",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -39437,7 +39437,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a532e",
-            "said": "68a39f838ac54789750a532e"
+            "spaid": "68a39f838ac54789750a532e"
         },
         {
             "type": "Feature",
@@ -39449,7 +39449,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1428",
+                "spa_label": "2010-s1428",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -39623,7 +39623,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a532f",
-            "said": "68a39f838ac54789750a532f"
+            "spaid": "68a39f838ac54789750a532f"
         },
         {
             "type": "Feature",
@@ -39635,7 +39635,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1469",
+                "spa_label": "2010-s1469",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -39809,7 +39809,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5330",
-            "said": "68a39f838ac54789750a5330"
+            "spaid": "68a39f838ac54789750a5330"
         },
         {
             "type": "Feature",
@@ -39821,7 +39821,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1496",
+                "spa_label": "2010-s1496",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -39995,7 +39995,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5331",
-            "said": "68a39f838ac54789750a5331"
+            "spaid": "68a39f838ac54789750a5331"
         },
         {
             "type": "Feature",
@@ -40007,7 +40007,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1522",
+                "spa_label": "2010-s1522",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -40181,7 +40181,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5332",
-            "said": "68a39f838ac54789750a5332"
+            "spaid": "68a39f838ac54789750a5332"
         },
         {
             "type": "Feature",
@@ -40193,7 +40193,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1522dup",
+                "spa_label": "2010-s1522dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -40325,7 +40325,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5333",
-            "said": "68a39f838ac54789750a5333"
+            "spaid": "68a39f838ac54789750a5333"
         },
         {
             "type": "Feature",
@@ -40337,7 +40337,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1616",
+                "spa_label": "2010-s1616",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -40511,7 +40511,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5334",
-            "said": "68a39f838ac54789750a5334"
+            "spaid": "68a39f838ac54789750a5334"
         },
         {
             "type": "Feature",
@@ -40523,7 +40523,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1638",
+                "spa_label": "2010-s1638",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -40697,7 +40697,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5335",
-            "said": "68a39f838ac54789750a5335"
+            "spaid": "68a39f838ac54789750a5335"
         },
         {
             "type": "Feature",
@@ -40709,7 +40709,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1638dup",
+                "spa_label": "2010-s1638dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -40841,7 +40841,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5336",
-            "said": "68a39f838ac54789750a5336"
+            "spaid": "68a39f838ac54789750a5336"
         },
         {
             "type": "Feature",
@@ -40853,7 +40853,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1649",
+                "spa_label": "2010-s1649",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -41027,7 +41027,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5337",
-            "said": "68a39f838ac54789750a5337"
+            "spaid": "68a39f838ac54789750a5337"
         },
         {
             "type": "Feature",
@@ -41039,7 +41039,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1719",
+                "spa_label": "2010-s1719",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -41213,7 +41213,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5338",
-            "said": "68a39f838ac54789750a5338"
+            "spaid": "68a39f838ac54789750a5338"
         },
         {
             "type": "Feature",
@@ -41225,7 +41225,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1719dup",
+                "spa_label": "2010-s1719dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -41357,7 +41357,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5339",
-            "said": "68a39f838ac54789750a5339"
+            "spaid": "68a39f838ac54789750a5339"
         },
         {
             "type": "Feature",
@@ -41369,7 +41369,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1762",
+                "spa_label": "2010-s1762",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -41543,7 +41543,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a533a",
-            "said": "68a39f838ac54789750a533a"
+            "spaid": "68a39f838ac54789750a533a"
         },
         {
             "type": "Feature",
@@ -41555,7 +41555,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1768",
+                "spa_label": "2010-s1768",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -41729,7 +41729,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a533b",
-            "said": "68a39f838ac54789750a533b"
+            "spaid": "68a39f838ac54789750a533b"
         },
         {
             "type": "Feature",
@@ -41741,7 +41741,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1789",
+                "spa_label": "2010-s1789",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -41915,7 +41915,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a533c",
-            "said": "68a39f838ac54789750a533c"
+            "spaid": "68a39f838ac54789750a533c"
         },
         {
             "type": "Feature",
@@ -41927,7 +41927,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1799",
+                "spa_label": "2010-s1799",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -42101,7 +42101,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a533d",
-            "said": "68a39f838ac54789750a533d"
+            "spaid": "68a39f838ac54789750a533d"
         },
         {
             "type": "Feature",
@@ -42113,7 +42113,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1932",
+                "spa_label": "2010-s1932",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -42287,7 +42287,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a533e",
-            "said": "68a39f838ac54789750a533e"
+            "spaid": "68a39f838ac54789750a533e"
         },
         {
             "type": "Feature",
@@ -42299,7 +42299,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1938",
+                "spa_label": "2010-s1938",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -42431,7 +42431,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a533f",
-            "said": "68a39f838ac54789750a533f"
+            "spaid": "68a39f838ac54789750a533f"
         },
         {
             "type": "Feature",
@@ -42443,7 +42443,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1938dup",
+                "spa_label": "2010-s1938dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -42575,7 +42575,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5340",
-            "said": "68a39f838ac54789750a5340"
+            "spaid": "68a39f838ac54789750a5340"
         },
         {
             "type": "Feature",
@@ -42587,7 +42587,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1960",
+                "spa_label": "2010-s1960",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -42761,7 +42761,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5341",
-            "said": "68a39f838ac54789750a5341"
+            "spaid": "68a39f838ac54789750a5341"
         },
         {
             "type": "Feature",
@@ -42773,7 +42773,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1965",
+                "spa_label": "2010-s1965",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -42947,7 +42947,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5342",
-            "said": "68a39f838ac54789750a5342"
+            "spaid": "68a39f838ac54789750a5342"
         },
         {
             "type": "Feature",
@@ -42959,7 +42959,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s1965dup",
+                "spa_label": "2010-s1965dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -43091,7 +43091,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5343",
-            "said": "68a39f838ac54789750a5343"
+            "spaid": "68a39f838ac54789750a5343"
         },
         {
             "type": "Feature",
@@ -43103,7 +43103,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2009",
+                "spa_label": "2010-s2009",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -43277,7 +43277,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5344",
-            "said": "68a39f838ac54789750a5344"
+            "spaid": "68a39f838ac54789750a5344"
         },
         {
             "type": "Feature",
@@ -43289,7 +43289,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2027",
+                "spa_label": "2010-s2027",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -43463,7 +43463,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5345",
-            "said": "68a39f838ac54789750a5345"
+            "spaid": "68a39f838ac54789750a5345"
         },
         {
             "type": "Feature",
@@ -43475,7 +43475,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2036",
+                "spa_label": "2010-s2036",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -43649,7 +43649,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5346",
-            "said": "68a39f838ac54789750a5346"
+            "spaid": "68a39f838ac54789750a5346"
         },
         {
             "type": "Feature",
@@ -43661,7 +43661,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2044",
+                "spa_label": "2010-s2044",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -43835,7 +43835,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5347",
-            "said": "68a39f838ac54789750a5347"
+            "spaid": "68a39f838ac54789750a5347"
         },
         {
             "type": "Feature",
@@ -43847,7 +43847,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2134",
+                "spa_label": "2010-s2134",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -44021,7 +44021,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5348",
-            "said": "68a39f838ac54789750a5348"
+            "spaid": "68a39f838ac54789750a5348"
         },
         {
             "type": "Feature",
@@ -44033,7 +44033,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2147",
+                "spa_label": "2010-s2147",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -44207,7 +44207,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5349",
-            "said": "68a39f838ac54789750a5349"
+            "spaid": "68a39f838ac54789750a5349"
         },
         {
             "type": "Feature",
@@ -44219,7 +44219,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2154",
+                "spa_label": "2010-s2154",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -44393,7 +44393,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a534a",
-            "said": "68a39f838ac54789750a534a"
+            "spaid": "68a39f838ac54789750a534a"
         },
         {
             "type": "Feature",
@@ -44405,7 +44405,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2154dup",
+                "spa_label": "2010-s2154dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -44537,7 +44537,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a534b",
-            "said": "68a39f838ac54789750a534b"
+            "spaid": "68a39f838ac54789750a534b"
         },
         {
             "type": "Feature",
@@ -44549,7 +44549,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2170",
+                "spa_label": "2010-s2170",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -44723,7 +44723,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a534c",
-            "said": "68a39f838ac54789750a534c"
+            "spaid": "68a39f838ac54789750a534c"
         },
         {
             "type": "Feature",
@@ -44735,7 +44735,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2295",
+                "spa_label": "2010-s2295",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -44909,7 +44909,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a534d",
-            "said": "68a39f838ac54789750a534d"
+            "spaid": "68a39f838ac54789750a534d"
         },
         {
             "type": "Feature",
@@ -44921,7 +44921,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2312",
+                "spa_label": "2010-s2312",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -45095,7 +45095,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a534e",
-            "said": "68a39f838ac54789750a534e"
+            "spaid": "68a39f838ac54789750a534e"
         },
         {
             "type": "Feature",
@@ -45107,7 +45107,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2312dup",
+                "spa_label": "2010-s2312dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -45239,7 +45239,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a534f",
-            "said": "68a39f838ac54789750a534f"
+            "spaid": "68a39f838ac54789750a534f"
         },
         {
             "type": "Feature",
@@ -45251,7 +45251,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2330",
+                "spa_label": "2010-s2330",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -45425,7 +45425,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5350",
-            "said": "68a39f838ac54789750a5350"
+            "spaid": "68a39f838ac54789750a5350"
         },
         {
             "type": "Feature",
@@ -45437,7 +45437,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2341",
+                "spa_label": "2010-s2341",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -45611,7 +45611,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5351",
-            "said": "68a39f838ac54789750a5351"
+            "spaid": "68a39f838ac54789750a5351"
         },
         {
             "type": "Feature",
@@ -45623,7 +45623,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2439",
+                "spa_label": "2010-s2439",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -45755,7 +45755,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5352",
-            "said": "68a39f838ac54789750a5352"
+            "spaid": "68a39f838ac54789750a5352"
         },
         {
             "type": "Feature",
@@ -45767,7 +45767,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2439dup",
+                "spa_label": "2010-s2439dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -45899,7 +45899,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5353",
-            "said": "68a39f838ac54789750a5353"
+            "spaid": "68a39f838ac54789750a5353"
         },
         {
             "type": "Feature",
@@ -45911,7 +45911,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2445",
+                "spa_label": "2010-s2445",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -46043,7 +46043,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5354",
-            "said": "68a39f838ac54789750a5354"
+            "spaid": "68a39f838ac54789750a5354"
         },
         {
             "type": "Feature",
@@ -46055,7 +46055,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2454",
+                "spa_label": "2010-s2454",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -46187,7 +46187,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5355",
-            "said": "68a39f838ac54789750a5355"
+            "spaid": "68a39f838ac54789750a5355"
         },
         {
             "type": "Feature",
@@ -46199,7 +46199,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2467",
+                "spa_label": "2010-s2467",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -46331,7 +46331,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5356",
-            "said": "68a39f838ac54789750a5356"
+            "spaid": "68a39f838ac54789750a5356"
         },
         {
             "type": "Feature",
@@ -46343,7 +46343,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2481",
+                "spa_label": "2010-s2481",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -46475,7 +46475,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5357",
-            "said": "68a39f838ac54789750a5357"
+            "spaid": "68a39f838ac54789750a5357"
         },
         {
             "type": "Feature",
@@ -46487,7 +46487,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2615",
+                "spa_label": "2010-s2615",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -46619,7 +46619,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5358",
-            "said": "68a39f838ac54789750a5358"
+            "spaid": "68a39f838ac54789750a5358"
         },
         {
             "type": "Feature",
@@ -46631,7 +46631,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2627",
+                "spa_label": "2010-s2627",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -46763,7 +46763,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5359",
-            "said": "68a39f838ac54789750a5359"
+            "spaid": "68a39f838ac54789750a5359"
         },
         {
             "type": "Feature",
@@ -46775,7 +46775,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2639",
+                "spa_label": "2010-s2639",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -46907,7 +46907,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a535a",
-            "said": "68a39f838ac54789750a535a"
+            "spaid": "68a39f838ac54789750a535a"
         },
         {
             "type": "Feature",
@@ -46919,7 +46919,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2639dup",
+                "spa_label": "2010-s2639dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -47051,7 +47051,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a535b",
-            "said": "68a39f838ac54789750a535b"
+            "spaid": "68a39f838ac54789750a535b"
         },
         {
             "type": "Feature",
@@ -47063,7 +47063,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2752",
+                "spa_label": "2010-s2752",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -47195,7 +47195,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a535c",
-            "said": "68a39f838ac54789750a535c"
+            "spaid": "68a39f838ac54789750a535c"
         },
         {
             "type": "Feature",
@@ -47207,7 +47207,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2808",
+                "spa_label": "2010-s2808",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -47339,7 +47339,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a535d",
-            "said": "68a39f838ac54789750a535d"
+            "spaid": "68a39f838ac54789750a535d"
         },
         {
             "type": "Feature",
@@ -47351,7 +47351,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2813",
+                "spa_label": "2010-s2813",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -47483,7 +47483,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a535e",
-            "said": "68a39f838ac54789750a535e"
+            "spaid": "68a39f838ac54789750a535e"
         },
         {
             "type": "Feature",
@@ -47495,7 +47495,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2837",
+                "spa_label": "2010-s2837",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -47627,7 +47627,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a535f",
-            "said": "68a39f838ac54789750a535f"
+            "spaid": "68a39f838ac54789750a535f"
         },
         {
             "type": "Feature",
@@ -47639,7 +47639,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2841",
+                "spa_label": "2010-s2841",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -47771,7 +47771,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5360",
-            "said": "68a39f838ac54789750a5360"
+            "spaid": "68a39f838ac54789750a5360"
         },
         {
             "type": "Feature",
@@ -47783,7 +47783,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2857",
+                "spa_label": "2010-s2857",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -47915,7 +47915,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5361",
-            "said": "68a39f838ac54789750a5361"
+            "spaid": "68a39f838ac54789750a5361"
         },
         {
             "type": "Feature",
@@ -47927,7 +47927,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2870",
+                "spa_label": "2010-s2870",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -48059,7 +48059,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5362",
-            "said": "68a39f838ac54789750a5362"
+            "spaid": "68a39f838ac54789750a5362"
         },
         {
             "type": "Feature",
@@ -48071,7 +48071,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2870dup",
+                "spa_label": "2010-s2870dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -48203,7 +48203,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5363",
-            "said": "68a39f838ac54789750a5363"
+            "spaid": "68a39f838ac54789750a5363"
         },
         {
             "type": "Feature",
@@ -48215,7 +48215,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2888",
+                "spa_label": "2010-s2888",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -48347,7 +48347,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5364",
-            "said": "68a39f838ac54789750a5364"
+            "spaid": "68a39f838ac54789750a5364"
         },
         {
             "type": "Feature",
@@ -48359,7 +48359,7 @@
                 ]
             },
             "properties": {
-                "sa_label": "2010-s2888dup",
+                "spa_label": "2010-s2888dup",
                 "SOIL_DATE": "2010-12",
                 "SLSND_M": [
                     {
@@ -48491,7 +48491,7 @@
                 ]
             },
             "_id": "68a39f838ac54789750a5365",
-            "said": "68a39f838ac54789750a5365"
+            "spaid": "68a39f838ac54789750a5365"
         }
     ]
 }

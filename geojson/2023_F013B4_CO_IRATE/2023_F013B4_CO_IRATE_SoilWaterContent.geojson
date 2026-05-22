@@ -11,7 +11,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p1-1",
+                "swc_label": "p1-1",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -2013,10 +2013,11 @@
                         "maxdepth": 200,
                         "value": 0.24606
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65b5"
             },
             "_id": "643deab48ac54781d1540da0",
-            "tid": "643deab48ac54781d1540da0"
+            "swcid": "643deab48ac54781d1540da0"
         },
         {
             "type": "Feature",
@@ -2028,7 +2029,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p1-2",
+                "swc_label": "p1-2",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -4030,10 +4031,11 @@
                         "maxdepth": 200,
                         "value": 0.22638
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65b4"
             },
             "_id": "643deab48ac54781d1540da1",
-            "tid": "643deab48ac54781d1540da1"
+            "swcid": "643deab48ac54781d1540da1"
         },
         {
             "type": "Feature",
@@ -4045,7 +4047,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p1-3",
+                "swc_label": "p1-3",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -6047,10 +6049,11 @@
                         "maxdepth": 200,
                         "value": 0.11585
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65b3"
             },
             "_id": "643deab48ac54781d1540da2",
-            "tid": "643deab48ac54781d1540da2"
+            "swcid": "643deab48ac54781d1540da2"
         },
         {
             "type": "Feature",
@@ -6062,7 +6065,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p1-4",
+                "swc_label": "p1-4",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -8064,10 +8067,11 @@
                         "maxdepth": 200,
                         "value": 0.15622
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65b2"
             },
             "_id": "643deab48ac54781d1540da3",
-            "tid": "643deab48ac54781d1540da3"
+            "swcid": "643deab48ac54781d1540da3"
         },
         {
             "type": "Feature",
@@ -8079,7 +8083,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p1-5",
+                "swc_label": "p1-5",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -10081,10 +10085,11 @@
                         "maxdepth": 200,
                         "value": 0.1627
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65b1"
             },
             "_id": "643deab48ac54781d1540da4",
-            "tid": "643deab48ac54781d1540da4"
+            "swcid": "643deab48ac54781d1540da4"
         },
         {
             "type": "Feature",
@@ -10096,7 +10101,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p1-6",
+                "swc_label": "p1-6",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -12098,10 +12103,11 @@
                         "maxdepth": 200,
                         "value": 0.19098
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65b0"
             },
             "_id": "643deab48ac54781d1540da5",
-            "tid": "643deab48ac54781d1540da5"
+            "swcid": "643deab48ac54781d1540da5"
         },
         {
             "type": "Feature",
@@ -12113,7 +12119,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p1-7",
+                "swc_label": "p1-7",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -14115,10 +14121,11 @@
                         "maxdepth": 200,
                         "value": 0.14942
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65af"
             },
             "_id": "643deab48ac54781d1540da6",
-            "tid": "643deab48ac54781d1540da6"
+            "swcid": "643deab48ac54781d1540da6"
         },
         {
             "type": "Feature",
@@ -14130,7 +14137,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p1-8",
+                "swc_label": "p1-8",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -16132,10 +16139,11 @@
                         "maxdepth": 200,
                         "value": 0.11166
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65ae"
             },
             "_id": "643deab48ac54781d1540da7",
-            "tid": "643deab48ac54781d1540da7"
+            "swcid": "643deab48ac54781d1540da7"
         },
         {
             "type": "Feature",
@@ -16147,7 +16155,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p2-1",
+                "swc_label": "p2-1",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -18069,10 +18077,11 @@
                         "maxdepth": 200,
                         "value": 0.15719
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65bd"
             },
             "_id": "643deab48ac54781d1540da8",
-            "tid": "643deab48ac54781d1540da8"
+            "swcid": "643deab48ac54781d1540da8"
         },
         {
             "type": "Feature",
@@ -18084,7 +18093,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p2-2",
+                "swc_label": "p2-2",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -20086,10 +20095,11 @@
                         "maxdepth": 200,
                         "value": 0.15471
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65bc"
             },
             "_id": "643deab48ac54781d1540da9",
-            "tid": "643deab48ac54781d1540da9"
+            "swcid": "643deab48ac54781d1540da9"
         },
         {
             "type": "Feature",
@@ -20101,7 +20111,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p2-3",
+                "swc_label": "p2-3",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -22103,10 +22113,11 @@
                         "maxdepth": 200,
                         "value": 0.14414
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65bb"
             },
             "_id": "643deab48ac54781d1540daa",
-            "tid": "643deab48ac54781d1540daa"
+            "swcid": "643deab48ac54781d1540daa"
         },
         {
             "type": "Feature",
@@ -22118,7 +22129,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p2-4",
+                "swc_label": "p2-4",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -24120,10 +24131,11 @@
                         "maxdepth": 200,
                         "value": 0.16557
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65ba"
             },
             "_id": "643deab48ac54781d1540dab",
-            "tid": "643deab48ac54781d1540dab"
+            "swcid": "643deab48ac54781d1540dab"
         },
         {
             "type": "Feature",
@@ -24135,7 +24147,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p2-5",
+                "swc_label": "p2-5",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -26137,10 +26149,11 @@
                         "maxdepth": 200,
                         "value": 0.15801
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65b9"
             },
             "_id": "643deab48ac54781d1540dac",
-            "tid": "643deab48ac54781d1540dac"
+            "swcid": "643deab48ac54781d1540dac"
         },
         {
             "type": "Feature",
@@ -26152,7 +26165,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p2-6",
+                "swc_label": "p2-6",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -28154,10 +28167,11 @@
                         "maxdepth": 200,
                         "value": 0.11438
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65b8"
             },
             "_id": "643deab48ac54781d1540dad",
-            "tid": "643deab48ac54781d1540dad"
+            "swcid": "643deab48ac54781d1540dad"
         },
         {
             "type": "Feature",
@@ -28169,7 +28183,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p2-7",
+                "swc_label": "p2-7",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -30171,10 +30185,11 @@
                         "maxdepth": 200,
                         "value": 0.18478
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65b7"
             },
             "_id": "643deab48ac54781d1540dae",
-            "tid": "643deab48ac54781d1540dae"
+            "swcid": "643deab48ac54781d1540dae"
         },
         {
             "type": "Feature",
@@ -30186,7 +30201,7 @@
                 ]
             },
             "properties": {
-                "tb_label": "p2-8",
+                "swc_label": "p2-8",
                 "SWLD": [
                     {
                         "date": "2023-04-23",
@@ -32188,10 +32203,11 @@
                         "maxdepth": 200,
                         "value": 0.10498
                     }
-                ]
+                ],
+                "pid": "641e1e7e8ac547e72d8d65b6"
             },
             "_id": "643deab48ac54781d1540daf",
-            "tid": "643deab48ac54781d1540daf"
+            "swcid": "643deab48ac54781d1540daf"
         }
     ]
 }

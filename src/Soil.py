@@ -20,20 +20,20 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 safile = '../Data/Soil/F013B4_SoilPhysicalAnalysis_DJH.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDF')
-sas = list()
+spas = list()
 for feature in layer:
-    said = feature.GetField('ObjectId')
+    spaid = feature.GetField('ObjectId')
     sa_label = feature.GetField('Core')  #(e.g., 2014-p01-1)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in plot shapefile.')
         sys.exit()
-    mysa = soilphysicalanalysis.SoilPhysicalAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    myspa = soilphysicalanalysis.SoilPhysicalAnalysis(spaid=spaid,geometry=geometry,sa_label=sa_label)
     #Soil physical analysis data
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
-        mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m'))
+        myspa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m'))
     items={'SLSND_M':2,'SLSLT_M':2,'SLCLY_M':2,'SLTX':-99,'SLWP':3,'SLWP2':3,'SLFC1':3}
     for item in items.keys():
         sadata = list()
@@ -53,11 +53,11 @@ for feature in layer:
                                'maxdepth':int(depth)+15,
                                'value':value})
         if sadata:
-            mysa.setproperty(item,sadata)
-    sas.append(mysa)
+            myspa.setproperty(item,sadata)
+    spas.append(myspa)
 features = list()
-for mysa in sas:
-    features.append(mysa.doc)
+for myspa in spas:
+    features.append(myspa.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/Soil/F013B4_SoilPhysicalAnalysis_DJH.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
@@ -72,20 +72,20 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 safile = '../Data/Soil/F013B4_SoilPhysicalAnalysis_KRT.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDF')
-sas = list()
+spas = list()
 for feature in layer:
-    said = feature.GetField('ObjectId')
+    spaid = feature.GetField('ObjectId')
     sa_label = feature.GetField('Core')  #(e.g., 2016-p01-1)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in plot shapefile.')
         sys.exit()
-    mysa = soilphysicalanalysis.SoilPhysicalAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    myspa = soilphysicalanalysis.SoilPhysicalAnalysis(spaid=spaid,geometry=geometry,sa_label=sa_label)
     #Soil physicalanalysis data
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
-        mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m'))
+        myspa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m'))
     items={'SLSND_GBM':1,'SLSLT_GBM':1,'SLCLY_GBM':1,'SLSND_GB':1,'SLSLT_GB':1,'SLCLY_GB':1}
     for item in items.keys():
         sadata = list()
@@ -100,11 +100,11 @@ for feature in layer:
                                'maxdepth':int(depth)+20,
                                'value':value})
         if sadata:
-            mysa.setproperty(item,sadata)
-    sas.append(mysa)
+            myspa.setproperty(item,sadata)
+    spas.append(myspa)
 features = list()
-for mysa in sas:
-    features.append(mysa.doc)
+for myspa in spas:
+    features.append(myspa.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/Soil/F013B4_SoilPhysicalAnalysis_KRT.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
@@ -119,20 +119,20 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 safile = '../Data/Soil/F033_SoilPhysicalAnalysis_DJH.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDF')
-sas = list()
+spas = list()
 for feature in layer:
-    said = feature.GetField('ObjectId')
+    spaid = feature.GetField('ObjectId')
     sa_label = feature.GetField('Core')  #(e.g., 2019-p01-1)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in plot shapefile.')
         sys.exit()
-    mysa = soilphysicalanalysis.SoilPhysicalAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    myspa = soilphysicalanalysis.SoilPhysicalAnalysis(spaid=spaid,geometry=geometry,sa_label=sa_label)
     #Soil physicalanalysis data
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
-        mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m'))
+        myspa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m'))
     items={'SLSND_M':2,'SLSLT_M':2,'SLCLY_M':2,'SLTX':-99,'SLWP':3,'SLWP2':3,'SLFC1':3}
     for item in items.keys():
         sadata = list()
@@ -153,11 +153,11 @@ for feature in layer:
                                    'maxdepth':int(depth)+15,
                                    'value':value})
         if sadata:
-            mysa.setproperty(item,sadata)
-    sas.append(mysa)
+            myspa.setproperty(item,sadata)
+    spas.append(myspa)
 features = list()
-for mysa in sas:
-    features.append(mysa.doc)
+for myspa in spas:
+    features.append(myspa.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/Soil/F033_SoilPhysicalAnalysis_DJH.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
@@ -172,20 +172,20 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 safile = '../Data/Soil/F111_SoilPhysicalAnalysis_DJH.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDF')
-sas = list()
+spas = list()
 for feature in layer:
-    said = feature.GetField('ObjectId')
+    spaid = feature.GetField('ObjectId')
     sa_label = feature.GetField('Core')  #(e.g., 20062007camelinap11)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in plot shapefile.')
         sys.exit()
-    mysa = soilphysicalanalysis.SoilPhysicalAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    myspa = soilphysicalanalysis.SoilPhysicalAnalysis(spaid=spaid,geometry=geometry,sa_label=sa_label)
     #Soil physical analysis data
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
-        mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m'))
+        myspa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y-%m'))
     items={'SLSND_M':2,'SLSLT_M':2,'SLCLY_M':2,'SLTX':-99,'SLWP':3,'SLWP2':3,'SLFC1':3}
     for item in items.keys():
         sadata = list()
@@ -206,11 +206,11 @@ for feature in layer:
                                    'maxdepth':int(depth)+15,
                                    'value':value})
         if sadata:
-            mysa.setproperty(item,sadata)
-    sas.append(mysa)
+            myspa.setproperty(item,sadata)
+    spas.append(myspa)
 features = list()
-for mysa in sas:
-    features.append(mysa.doc)
+for myspa in spas:
+    features.append(myspa.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/Soil/F111_SoilPhysicalAnalysis_DJH.geojson','w') as f:
     geojson.dump(fc,f,indent=4)
@@ -225,20 +225,20 @@ shapes = driver.Open(shapefile, 0)
 layer = shapes.GetLayer()
 safile = '../Data/Soil/F105_SoilPhysicalAnalysis_DJH.xlsx'
 sa = pd.read_excel(safile,sheet_name='SoilDF')
-sas = list()
+spas = list()
 for feature in layer:
-    said = feature.GetField('ObjectId')
+    spaid = feature.GetField('ObjectId')
     sa_label = feature.GetField('Core')  #(e.g., p101)
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
         print('Unexpected spatial reference in plot shapefile.')
         sys.exit()
-    mysa = soilphysicalanalysis.SoilPhysicalAnalysis(said=said,geometry=geometry,sa_label=sa_label)
+    myspa = soilphysicalanalysis.SoilPhysicalAnalysis(spaid=spaid,geometry=geometry,sa_label=sa_label)
     #Soil physical analysis data
     rows = sa[sa['Core'] == sa_label]
     if not str(rows.iloc[0]['SOIL_DATE']) in ['nan','NaT']:
-        mysa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y'))
+        myspa.setproperty('SOIL_DATE',rows.iloc[0]['SOIL_DATE'].strftime('%Y'))
     items={'SLSND_M':2,'SLSLT_M':2,'SLCLY_M':2,'SLTX':-99,'SLWP':3,'SLWP2':3,'SLFC1':3}
     for item in items.keys():
         sadata = list()
@@ -259,11 +259,11 @@ for feature in layer:
                                    'maxdepth':int(depth)+15,
                                    'value':value})
         if sadata:
-            mysa.setproperty(item,sadata)
-    sas.append(mysa)
+            myspa.setproperty(item,sadata)
+    spas.append(myspa)
 features = list()
-for mysa in sas:
-    features.append(mysa.doc)
+for myspa in spas:
+    features.append(myspa.doc)
 fc = geojson.FeatureCollection(features)
 with open('../geojson/Soil/F105_SoilPhysicalAnalysis_DJH.geojson','w') as f:
     geojson.dump(fc,f,indent=4)

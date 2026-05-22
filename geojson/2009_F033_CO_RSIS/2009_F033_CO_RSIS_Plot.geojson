@@ -492,6 +492,7 @@
                 "WFWAH": 2088.7,
                 "WSWAH": 3658.8,
                 "WSCWAH": 5747.6,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d4f6",
                     "652efe578ac5473df067d4f7",
@@ -514,7 +515,7 @@
                     "652efe578ac5473df067d508",
                     "652efe578ac5473df067d509"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2b2a",
                     "643ecfa58ac547abcd9b2b2b",
                     "643ecfa58ac547abcd9b2b2c",
@@ -556,7 +557,7 @@
                     "643ecfa58ac547abcd9b2b50",
                     "643ecfa58ac547abcd9b2b51"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb2536fb",
                     "643ed5b28ac547adeb2536fa",
                     "643ed5b28ac547adeb2536f9",
@@ -574,7 +575,7 @@
                     "689e0d378ac547e0e8d20102",
                     "689e0d378ac547e0e8d20112"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a5292",
                     "68a39f838ac54789750a5293",
                     "68a39f838ac54789750a5294",
@@ -1084,6 +1085,7 @@
                 "WFWAH": 2003.7,
                 "WSWAH": 3509.9,
                 "WSCWAH": 5513.6,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d50a",
                     "652efe578ac5473df067d50b",
@@ -1106,7 +1108,7 @@
                     "652efe578ac5473df067d51c",
                     "652efe578ac5473df067d51d"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2b52",
                     "643ecfa58ac547abcd9b2b53",
                     "643ecfa58ac547abcd9b2b54",
@@ -1148,7 +1150,7 @@
                     "643ecfa58ac547abcd9b2b78",
                     "643ecfa58ac547abcd9b2b79"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb253702",
                     "643ed5b28ac547adeb253701",
                     "643ed5b28ac547adeb253700",
@@ -1166,7 +1168,7 @@
                     "689e0d378ac547e0e8d2010a",
                     "689e0d378ac547e0e8d2011a"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a5299",
                     "68a39f838ac54789750a529a",
                     "68a39f838ac54789750a529b",
@@ -1670,6 +1672,7 @@
                 "WFWAH": 1780.5,
                 "WSWAH": 3177.3,
                 "WSCWAH": 4957.9,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d51e",
                     "652efe578ac5473df067d51f",
@@ -1692,7 +1695,7 @@
                     "652efe578ac5473df067d530",
                     "652efe578ac5473df067d531"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2b7a",
                     "643ecfa58ac547abcd9b2b7b",
                     "643ecfa58ac547abcd9b2b7c",
@@ -1734,7 +1737,7 @@
                     "643ecfa58ac547abcd9b2ba0",
                     "643ecfa58ac547abcd9b2ba1"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb253709",
                     "643ed5b28ac547adeb253708",
                     "643ed5b28ac547adeb253707",
@@ -1752,7 +1755,7 @@
                     "689e0d378ac547e0e8d20103",
                     "689e0d378ac547e0e8d20113"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52a0",
                     "68a39f838ac54789750a52a1",
                     "68a39f838ac54789750a52a2",
@@ -2260,6 +2263,7 @@
                 "WFWAH": 1932.8,
                 "WSWAH": 3282.2,
                 "WSCWAH": 5215.0,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d532",
                     "652efe578ac5473df067d533",
@@ -2282,7 +2286,7 @@
                     "652efe578ac5473df067d544",
                     "652efe578ac5473df067d545"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2ba2",
                     "643ecfa58ac547abcd9b2ba3",
                     "643ecfa58ac547abcd9b2ba4",
@@ -2324,7 +2328,7 @@
                     "643ecfa58ac547abcd9b2bc8",
                     "643ecfa58ac547abcd9b2bc9"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb253710",
                     "643ed5b28ac547adeb25370f",
                     "643ed5b28ac547adeb25370e",
@@ -2342,7 +2346,7 @@
                     "689e0d378ac547e0e8d2010b",
                     "689e0d378ac547e0e8d2011b"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52a7",
                     "68a39f838ac54789750a52a8",
                     "68a39f838ac54789750a52a9",
@@ -2846,6 +2850,7 @@
                 "WFWAH": 1889.0,
                 "WSWAH": 3246.3,
                 "WSCWAH": 5135.2,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d546",
                     "652efe578ac5473df067d547",
@@ -2868,7 +2873,7 @@
                     "652efe578ac5473df067d558",
                     "652efe578ac5473df067d559"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2bca",
                     "643ecfa58ac547abcd9b2bcb",
                     "643ecfa58ac547abcd9b2bcc",
@@ -2910,7 +2915,7 @@
                     "643ecfa58ac547abcd9b2bf0",
                     "643ecfa58ac547abcd9b2bf1"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb253717",
                     "643ed5b28ac547adeb253716",
                     "643ed5b28ac547adeb253715",
@@ -2928,7 +2933,7 @@
                     "689e0d378ac547e0e8d20104",
                     "689e0d378ac547e0e8d20114"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52ae",
                     "68a39f838ac54789750a52af",
                     "68a39f838ac54789750a52b0",
@@ -3435,6 +3440,7 @@
                 "WFWAH": 1466.3,
                 "WSWAH": 2524.1,
                 "WSCWAH": 3990.4,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d55a",
                     "652efe578ac5473df067d55b",
@@ -3457,7 +3463,7 @@
                     "652efe578ac5473df067d56c",
                     "652efe578ac5473df067d56d"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2bf2",
                     "643ecfa58ac547abcd9b2bf3",
                     "643ecfa58ac547abcd9b2bf4",
@@ -3499,7 +3505,7 @@
                     "643ecfa58ac547abcd9b2c18",
                     "643ecfa58ac547abcd9b2c19"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb25371e",
                     "643ed5b28ac547adeb25371d",
                     "643ed5b28ac547adeb25371c",
@@ -3517,7 +3523,7 @@
                     "689e0d378ac547e0e8d2010c",
                     "689e0d378ac547e0e8d2011c"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52b5",
                     "68a39f838ac54789750a52b6",
                     "68a39f838ac54789750a52b7",
@@ -4021,6 +4027,7 @@
                 "WFWAH": 1811.0,
                 "WSWAH": 3139.2,
                 "WSCWAH": 4950.1,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d56e",
                     "652efe578ac5473df067d56f",
@@ -4043,7 +4050,7 @@
                     "652efe578ac5473df067d580",
                     "652efe578ac5473df067d581"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2c1a",
                     "643ecfa58ac547abcd9b2c1b",
                     "643ecfa58ac547abcd9b2c1c",
@@ -4085,7 +4092,7 @@
                     "643ecfa58ac547abcd9b2c40",
                     "643ecfa58ac547abcd9b2c41"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb253725",
                     "643ed5b28ac547adeb253724",
                     "643ed5b28ac547adeb253723",
@@ -4103,7 +4110,7 @@
                     "689e0d378ac547e0e8d20105",
                     "689e0d378ac547e0e8d20115"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52bc",
                     "68a39f838ac54789750a52bd",
                     "68a39f838ac54789750a52be",
@@ -4611,6 +4618,7 @@
                 "WFWAH": 1837.2,
                 "WSWAH": 3250.0,
                 "WSCWAH": 5087.2,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d582",
                     "652efe578ac5473df067d583",
@@ -4633,7 +4641,7 @@
                     "652efe578ac5473df067d594",
                     "652efe578ac5473df067d595"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2c42",
                     "643ecfa58ac547abcd9b2c43",
                     "643ecfa58ac547abcd9b2c44",
@@ -4675,7 +4683,7 @@
                     "643ecfa58ac547abcd9b2c68",
                     "643ecfa58ac547abcd9b2c69"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb25372c",
                     "643ed5b28ac547adeb25372b",
                     "643ed5b28ac547adeb25372a",
@@ -4693,7 +4701,7 @@
                     "689e0d378ac547e0e8d2010d",
                     "689e0d378ac547e0e8d2011d"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52c3",
                     "68a39f838ac54789750a52c4",
                     "68a39f838ac54789750a52c5",
@@ -5197,6 +5205,7 @@
                 "WFWAH": 1649.1,
                 "WSWAH": 2897.4,
                 "WSCWAH": 4546.6,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d596",
                     "652efe578ac5473df067d597",
@@ -5219,7 +5228,7 @@
                     "652efe578ac5473df067d5a8",
                     "652efe578ac5473df067d5a9"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2c6a",
                     "643ecfa58ac547abcd9b2c6b",
                     "643ecfa58ac547abcd9b2c6c",
@@ -5261,7 +5270,7 @@
                     "643ecfa58ac547abcd9b2c90",
                     "643ecfa58ac547abcd9b2c91"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb253733",
                     "643ed5b28ac547adeb253732",
                     "643ed5b28ac547adeb253731",
@@ -5279,7 +5288,7 @@
                     "689e0d378ac547e0e8d2010e",
                     "689e0d378ac547e0e8d2011e"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52ca",
                     "68a39f838ac54789750a52cb",
                     "68a39f838ac54789750a52cc",
@@ -5788,6 +5797,7 @@
                 "WFWAH": 1929.5,
                 "WSWAH": 3457.3,
                 "WSCWAH": 5386.9,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d5aa",
                     "652efe578ac5473df067d5ab",
@@ -5810,7 +5820,7 @@
                     "652efe578ac5473df067d5bc",
                     "652efe578ac5473df067d5bd"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2c92",
                     "643ecfa58ac547abcd9b2c93",
                     "643ecfa58ac547abcd9b2c94",
@@ -5852,7 +5862,7 @@
                     "643ecfa58ac547abcd9b2cb8",
                     "643ecfa58ac547abcd9b2cb9"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb25373a",
                     "643ed5b28ac547adeb253739",
                     "643ed5b28ac547adeb253738",
@@ -5870,7 +5880,7 @@
                     "689e0d378ac547e0e8d20106",
                     "689e0d378ac547e0e8d20116"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52d1",
                     "68a39f838ac54789750a52d2",
                     "68a39f838ac54789750a52d3",
@@ -6373,6 +6383,7 @@
                 "WFWAH": 1841.4,
                 "WSWAH": 3253.5,
                 "WSCWAH": 5094.9,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d5be",
                     "652efe578ac5473df067d5bf",
@@ -6395,7 +6406,7 @@
                     "652efe578ac5473df067d5d0",
                     "652efe578ac5473df067d5d1"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2cba",
                     "643ecfa58ac547abcd9b2cbb",
                     "643ecfa58ac547abcd9b2cbc",
@@ -6437,7 +6448,7 @@
                     "643ecfa58ac547abcd9b2ce0",
                     "643ecfa58ac547abcd9b2ce1"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb253741",
                     "643ed5b28ac547adeb253740",
                     "643ed5b28ac547adeb25373f",
@@ -6455,7 +6466,7 @@
                     "689e0d378ac547e0e8d2010f",
                     "689e0d378ac547e0e8d2011f"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52d8",
                     "68a39f838ac54789750a52d9",
                     "68a39f838ac54789750a52da",
@@ -6963,6 +6974,7 @@
                 "WFWAH": 1720.7,
                 "WSWAH": 3065.4,
                 "WSCWAH": 4786.1,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d5d2",
                     "652efe578ac5473df067d5d3",
@@ -6985,7 +6997,7 @@
                     "652efe578ac5473df067d5e4",
                     "652efe578ac5473df067d5e5"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2ce2",
                     "643ecfa58ac547abcd9b2ce3",
                     "643ecfa58ac547abcd9b2ce4",
@@ -7027,7 +7039,7 @@
                     "643ecfa58ac547abcd9b2d08",
                     "643ecfa58ac547abcd9b2d09"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb253748",
                     "643ed5b28ac547adeb253747",
                     "643ed5b28ac547adeb253746",
@@ -7045,7 +7057,7 @@
                     "689e0d378ac547e0e8d20107",
                     "689e0d378ac547e0e8d20117"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52df",
                     "68a39f838ac54789750a52e0",
                     "68a39f838ac54789750a52e1",
@@ -7550,6 +7562,7 @@
                 "WFWAH": 1555.3,
                 "WSWAH": 2709.5,
                 "WSCWAH": 4264.8,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d5e6",
                     "652efe578ac5473df067d5e7",
@@ -7572,7 +7585,7 @@
                     "652efe578ac5473df067d5f8",
                     "652efe578ac5473df067d5f9"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2d0a",
                     "643ecfa58ac547abcd9b2d0b",
                     "643ecfa58ac547abcd9b2d0c",
@@ -7614,7 +7627,7 @@
                     "643ecfa58ac547abcd9b2d30",
                     "643ecfa58ac547abcd9b2d31"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb25374f",
                     "643ed5b28ac547adeb25374e",
                     "643ed5b28ac547adeb25374d",
@@ -7632,7 +7645,7 @@
                     "689e0d378ac547e0e8d20108",
                     "689e0d378ac547e0e8d20118"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52e6",
                     "68a39f838ac54789750a52e7",
                     "68a39f838ac54789750a52e8",
@@ -8141,6 +8154,7 @@
                 "WFWAH": 1669.1,
                 "WSWAH": 2945.0,
                 "WSCWAH": 4614.1,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d5fa",
                     "652efe578ac5473df067d5fb",
@@ -8163,7 +8177,7 @@
                     "652efe578ac5473df067d60c",
                     "652efe578ac5473df067d60d"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2d32",
                     "643ecfa58ac547abcd9b2d33",
                     "643ecfa58ac547abcd9b2d34",
@@ -8205,7 +8219,7 @@
                     "643ecfa58ac547abcd9b2d58",
                     "643ecfa58ac547abcd9b2d59"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb253756",
                     "643ed5b28ac547adeb253755",
                     "643ed5b28ac547adeb253754",
@@ -8223,7 +8237,7 @@
                     "689e0d378ac547e0e8d20110",
                     "689e0d378ac547e0e8d20120"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52ed",
                     "68a39f838ac54789750a52ee",
                     "68a39f838ac54789750a52ef",
@@ -8729,6 +8743,7 @@
                 "WFWAH": 1979.1,
                 "WSWAH": 3545.9,
                 "WSCWAH": 5525.0,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d60e",
                     "652efe578ac5473df067d60f",
@@ -8751,7 +8766,7 @@
                     "652efe578ac5473df067d620",
                     "652efe578ac5473df067d621"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2d5a",
                     "643ecfa58ac547abcd9b2d5b",
                     "643ecfa58ac547abcd9b2d5c",
@@ -8793,7 +8808,7 @@
                     "643ecfa58ac547abcd9b2d80",
                     "643ecfa58ac547abcd9b2d81"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb25375d",
                     "643ed5b28ac547adeb25375c",
                     "643ed5b28ac547adeb25375b",
@@ -8811,7 +8826,7 @@
                     "689e0d378ac547e0e8d20111",
                     "689e0d378ac547e0e8d20121"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52f4",
                     "68a39f838ac54789750a52f5",
                     "68a39f838ac54789750a52f6",
@@ -9320,6 +9335,7 @@
                 "WFWAH": 1962.2,
                 "WSWAH": 3442.4,
                 "WSCWAH": 5404.6,
+                "eid": "6439db5c8ac5473b1f313427",
                 "zids": [
                     "652efe578ac5473df067d622",
                     "652efe578ac5473df067d623",
@@ -9342,7 +9358,7 @@
                     "652efe578ac5473df067d634",
                     "652efe578ac5473df067d635"
                 ],
-                "haids": [
+                "chids": [
                     "643ecfa58ac547abcd9b2d82",
                     "643ecfa58ac547abcd9b2d83",
                     "643ecfa58ac547abcd9b2d84",
@@ -9384,7 +9400,7 @@
                     "643ecfa58ac547abcd9b2da8",
                     "643ecfa58ac547abcd9b2da9"
                 ],
-                "tids": [
+                "swcids": [
                     "643ed5b28ac547adeb253764",
                     "643ed5b28ac547adeb253763",
                     "643ed5b28ac547adeb253762",
@@ -9402,7 +9418,7 @@
                     "689e0d378ac547e0e8d20109",
                     "689e0d378ac547e0e8d20119"
                 ],
-                "saids": [
+                "spaids": [
                     "68a39f838ac54789750a52fb",
                     "68a39f838ac54789750a52fc",
                     "68a39f838ac54789750a52fd",
