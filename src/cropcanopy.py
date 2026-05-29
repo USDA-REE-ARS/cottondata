@@ -27,8 +27,9 @@ class CropCanopy:
             self.ccid = str(bson.objectid.ObjectId())
         if not bson.objectid.ObjectId.is_valid(ccid):
             raise ValueError('Invalid ObjectId in CropCanopy')
-        self.doc.update({'_id':self.ccid})
         self.doc.update({'ccid':self.ccid})
+        self.doc.update({'id':self.ccid}) #geojson standard id
+        self.doc.update({'_id':self.ccid}) #mongodb primary key
 
         #Set feature properties
         if cc_label is not None:

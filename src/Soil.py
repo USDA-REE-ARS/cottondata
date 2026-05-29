@@ -56,6 +56,7 @@ for feature in layer:
             myspa.setproperty(item,sadata)
     spas.append(myspa)
 features = list()
+#print('SoilPhysicalAnalysis:' + str(len(spas)))
 for myspa in spas:
     features.append(myspa.doc)
 fc = geojson.FeatureCollection(features)
@@ -103,6 +104,7 @@ for feature in layer:
             myspa.setproperty(item,sadata)
     spas.append(myspa)
 features = list()
+#print('SoilPhysicalAnalysis:' + str(len(spas)))
 for myspa in spas:
     features.append(myspa.doc)
 fc = geojson.FeatureCollection(features)
@@ -156,6 +158,7 @@ for feature in layer:
             myspa.setproperty(item,sadata)
     spas.append(myspa)
 features = list()
+#print('SoilPhysicalAnalysis:' + str(len(spas)))
 for myspa in spas:
     features.append(myspa.doc)
 fc = geojson.FeatureCollection(features)
@@ -209,6 +212,7 @@ for feature in layer:
             myspa.setproperty(item,sadata)
     spas.append(myspa)
 features = list()
+#print('SoilPhysicalAnalysis:' + str(len(spas)))
 for myspa in spas:
     features.append(myspa.doc)
 fc = geojson.FeatureCollection(features)
@@ -262,6 +266,7 @@ for feature in layer:
             myspa.setproperty(item,sadata)
     spas.append(myspa)
 features = list()
+#print('SoilPhysicalAnalysis:' + str(len(spas)))
 for myspa in spas:
     features.append(myspa.doc)
 fc = geojson.FeatureCollection(features)

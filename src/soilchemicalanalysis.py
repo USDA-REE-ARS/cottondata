@@ -27,8 +27,9 @@ class SoilChemicalAnalysis:
             self.scaid = str(bson.objectid.ObjectId())
         if not bson.objectid.ObjectId.is_valid(scaid):
             raise ValueError('Invalid ObjectId in SoilChemicalAnalysis')
-        self.doc.update({'_id':self.scaid})
         self.doc.update({'scaid':self.scaid})
+        self.doc.update({'id':self.scaid}) #geojson standard id
+        self.doc.update({'_id':self.scaid}) #mongodb primary key
 
         #Set feature properties
         if sc_label is not None:

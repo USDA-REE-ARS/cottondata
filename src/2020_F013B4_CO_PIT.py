@@ -1058,6 +1058,7 @@ with open('../geojson/'+fname+'/'+fname+'_Experiment.geojson','w') as f:
 f.close()
 
 features = list()
+#print('Plots:' + str(len(plots)))
 for myplot in plots:
     features.append(myplot.doc)
 fc = geojson.FeatureCollection(features)
@@ -1066,6 +1067,7 @@ with open('../geojson/'+fname+'/'+fname+'_Plot.geojson','w') as f:
 f.close()
 
 features = list()
+#print('Zone:' + str(len(zones)))
 for myzone in zones:
     features.append(myzone.doc)
 fc = geojson.FeatureCollection(features)
@@ -1074,6 +1076,7 @@ with open('../geojson/'+fname+'/'+fname+'_Zone.geojson','w') as f:
 f.close()
 
 features = list()
+#print('CropHarvest:' + str(len(hareas)))
 for myha in hareas:
     features.append(myha.doc)
 fc = geojson.FeatureCollection(features)
@@ -1082,6 +1085,7 @@ with open('../geojson/'+fname+'/'+fname+'_CropHarvest.geojson','w') as f:
 f.close()
 
 features = list()
+#print('SoilWaterContent:' + str(len(tubes)))
 for mytube in tubes:
     features.append(mytube.doc)
 fc = geojson.FeatureCollection(features)
@@ -1090,6 +1094,7 @@ with open('../geojson/'+fname+'/'+fname+'_SoilWaterContent.geojson','w') as f:
 f.close()
 
 features = list()
+#print('CropCanopy:' + str(len(crpcns)))
 for mycrpcn in crpcns:
     features.append(mycrpcn.doc)
 fc = geojson.FeatureCollection(features)
@@ -1098,6 +1103,7 @@ with open('../geojson/'+fname+'/'+fname+'_CropCanopy.geojson','w') as f:
 f.close()
 
 features = list()
+#print('PlantAnalysis:' + str(len(pas)))
 for mypa in pas:
     features.append(mypa.doc)
 fc = geojson.FeatureCollection(features)
@@ -1106,6 +1112,7 @@ with open('../geojson/'+fname+'/'+fname+'_PlantAnalysis.geojson','w') as f:
 f.close()
 
 features = list()
+#print('SoilChemicalAnalysis:' + str(len(scas)))
 for mysca in scas:
     features.append(mysca.doc)
 fc = geojson.FeatureCollection(features)

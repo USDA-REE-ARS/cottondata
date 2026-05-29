@@ -27,8 +27,9 @@ class SoilPhysicalAnalysis:
             self.spaid = str(bson.objectid.ObjectId())
         if not bson.objectid.ObjectId.is_valid(spaid):
             raise ValueError('Invalid ObjectId in SoilPhysicalAnalysis')
-        self.doc.update({'_id':self.spaid})
         self.doc.update({'spaid':self.spaid})
+        self.doc.update({'id':self.spaid}) #geojson standard id
+        self.doc.update({'_id':self.spaid}) #mongodb primary key
 
         #Set feature properties
         if sa_label is not None:

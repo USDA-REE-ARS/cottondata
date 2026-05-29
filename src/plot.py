@@ -31,8 +31,9 @@ class Plot:
             self.pid = str(bson.objectid.ObjectId())
         if not bson.objectid.ObjectId.is_valid(pid):
             raise ValueError('Invalid ObjectId in Plot')
-        self.doc.update({'_id':self.pid})
         self.doc.update({'pid':self.pid})
+        self.doc.update({'id':self.pid}) #geojson standard id
+        self.doc.update({'_id':self.pid}) #mongodb primary key
 
         #Set feature properties
         self.plt_label = plt_label

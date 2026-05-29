@@ -44,8 +44,9 @@ class PlantAnalysis:
             self.paid = str(bson.objectid.ObjectId())
         if not bson.objectid.ObjectId.is_valid(paid):
             raise ValueError('Invalid ObjectId in PlantAnalysis')
-        self.doc.update({'_id':self.paid})
         self.doc.update({'paid':self.paid})
+        self.doc.update({'id':self.paid}) #geojson standard id
+        self.doc.update({'_id':self.paid}) #mongodb primary key
 
         #Set feature properties
         if pa_label is not None:

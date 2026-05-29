@@ -31,8 +31,9 @@ class Zone:
             self.zid = str(bson.objectid.ObjectId())
         if not bson.objectid.ObjectId.is_valid(zid):
             raise ValueError('Invalid ObjectId in Zone')
-        self.doc.update({'_id':self.zid})
         self.doc.update({'zid':self.zid})
+        self.doc.update({'id':self.zid}) #geojson standard id
+        self.doc.update({'_id':self.zid}) #mongodb primary key
 
         #Set feature properties
         if zon_label is not None:

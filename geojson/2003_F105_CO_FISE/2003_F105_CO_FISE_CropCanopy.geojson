@@ -86,8 +86,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41a6"
             },
-            "_id": "68c2d0a88ac54786684d86a6",
-            "ccid": "68c2d0a88ac54786684d86a6"
+            "ccid": "68c2d0a88ac54786684d86a6",
+            "id": "68c2d0a88ac54786684d86a6",
+            "_id": "68c2d0a88ac54786684d86a6"
         },
         {
             "type": "Feature",
@@ -174,8 +175,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41a6"
             },
-            "_id": "68c2d0a88ac54786684d86a7",
-            "ccid": "68c2d0a88ac54786684d86a7"
+            "ccid": "68c2d0a88ac54786684d86a7",
+            "id": "68c2d0a88ac54786684d86a7",
+            "_id": "68c2d0a88ac54786684d86a7"
         },
         {
             "type": "Feature",
@@ -314,8 +316,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41a6"
             },
-            "_id": "68c2d0a88ac54786684d86a8",
-            "ccid": "68c2d0a88ac54786684d86a8"
+            "ccid": "68c2d0a88ac54786684d86a8",
+            "id": "68c2d0a88ac54786684d86a8",
+            "_id": "68c2d0a88ac54786684d86a8"
         },
         {
             "type": "Feature",
@@ -402,8 +405,9 @@
                 "PLDOE": 118,
                 "pid": "6442e2658ac5472f1c3e41a6"
             },
-            "_id": "68c2d0a88ac54786684d86a9",
-            "ccid": "68c2d0a88ac54786684d86a9"
+            "ccid": "68c2d0a88ac54786684d86a9",
+            "id": "68c2d0a88ac54786684d86a9",
+            "_id": "68c2d0a88ac54786684d86a9"
         },
         {
             "type": "Feature",
@@ -490,8 +494,9 @@
                 "PLDOE": 118,
                 "pid": "6442e2658ac5472f1c3e41a6"
             },
-            "_id": "68c2d0a88ac54786684d86aa",
-            "ccid": "68c2d0a88ac54786684d86aa"
+            "ccid": "68c2d0a88ac54786684d86aa",
+            "id": "68c2d0a88ac54786684d86aa",
+            "_id": "68c2d0a88ac54786684d86aa"
         },
         {
             "type": "Feature",
@@ -578,8 +583,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41a6"
             },
-            "_id": "68c2d0a88ac54786684d86ab",
-            "ccid": "68c2d0a88ac54786684d86ab"
+            "ccid": "68c2d0a88ac54786684d86ab",
+            "id": "68c2d0a88ac54786684d86ab",
+            "_id": "68c2d0a88ac54786684d86ab"
         },
         {
             "type": "Feature",
@@ -666,8 +672,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41a7"
             },
-            "_id": "68c2d0a88ac54786684d86ac",
-            "ccid": "68c2d0a88ac54786684d86ac"
+            "ccid": "68c2d0a88ac54786684d86ac",
+            "id": "68c2d0a88ac54786684d86ac",
+            "_id": "68c2d0a88ac54786684d86ac"
         },
         {
             "type": "Feature",
@@ -754,8 +761,9 @@
                 "PLDOE": 117,
                 "pid": "6442e2658ac5472f1c3e41a7"
             },
-            "_id": "68c2d0a88ac54786684d86ad",
-            "ccid": "68c2d0a88ac54786684d86ad"
+            "ccid": "68c2d0a88ac54786684d86ad",
+            "id": "68c2d0a88ac54786684d86ad",
+            "_id": "68c2d0a88ac54786684d86ad"
         },
         {
             "type": "Feature",
@@ -894,8 +902,9 @@
                 "PLDOE": 118,
                 "pid": "6442e2658ac5472f1c3e41a7"
             },
-            "_id": "68c2d0a88ac54786684d86ae",
-            "ccid": "68c2d0a88ac54786684d86ae"
+            "ccid": "68c2d0a88ac54786684d86ae",
+            "id": "68c2d0a88ac54786684d86ae",
+            "_id": "68c2d0a88ac54786684d86ae"
         },
         {
             "type": "Feature",
@@ -978,8 +987,9 @@
                 "PLDOE": 118,
                 "pid": "6442e2658ac5472f1c3e41a7"
             },
-            "_id": "68c2d0a88ac54786684d86af",
-            "ccid": "68c2d0a88ac54786684d86af"
+            "ccid": "68c2d0a88ac54786684d86af",
+            "id": "68c2d0a88ac54786684d86af",
+            "_id": "68c2d0a88ac54786684d86af"
         },
         {
             "type": "Feature",
@@ -1066,8 +1076,9 @@
                 "PLDOE": 118,
                 "pid": "6442e2658ac5472f1c3e41a7"
             },
-            "_id": "68c2d0a88ac54786684d86b0",
-            "ccid": "68c2d0a88ac54786684d86b0"
+            "ccid": "68c2d0a88ac54786684d86b0",
+            "id": "68c2d0a88ac54786684d86b0",
+            "_id": "68c2d0a88ac54786684d86b0"
         },
         {
             "type": "Feature",
@@ -1154,8 +1165,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41a7"
             },
-            "_id": "68c2d0a88ac54786684d86b1",
-            "ccid": "68c2d0a88ac54786684d86b1"
+            "ccid": "68c2d0a88ac54786684d86b1",
+            "id": "68c2d0a88ac54786684d86b1",
+            "_id": "68c2d0a88ac54786684d86b1"
         },
         {
             "type": "Feature",
@@ -1242,8 +1254,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41a8"
             },
-            "_id": "68c2d0a88ac54786684d86b2",
-            "ccid": "68c2d0a88ac54786684d86b2"
+            "ccid": "68c2d0a88ac54786684d86b2",
+            "id": "68c2d0a88ac54786684d86b2",
+            "_id": "68c2d0a88ac54786684d86b2"
         },
         {
             "type": "Feature",
@@ -1330,8 +1343,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41a8"
             },
-            "_id": "68c2d0a88ac54786684d86b3",
-            "ccid": "68c2d0a88ac54786684d86b3"
+            "ccid": "68c2d0a88ac54786684d86b3",
+            "id": "68c2d0a88ac54786684d86b3",
+            "_id": "68c2d0a88ac54786684d86b3"
         },
         {
             "type": "Feature",
@@ -1470,8 +1484,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41a8"
             },
-            "_id": "68c2d0a88ac54786684d86b4",
-            "ccid": "68c2d0a88ac54786684d86b4"
+            "ccid": "68c2d0a88ac54786684d86b4",
+            "id": "68c2d0a88ac54786684d86b4",
+            "_id": "68c2d0a88ac54786684d86b4"
         },
         {
             "type": "Feature",
@@ -1558,8 +1573,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41a8"
             },
-            "_id": "68c2d0a88ac54786684d86b5",
-            "ccid": "68c2d0a88ac54786684d86b5"
+            "ccid": "68c2d0a88ac54786684d86b5",
+            "id": "68c2d0a88ac54786684d86b5",
+            "_id": "68c2d0a88ac54786684d86b5"
         },
         {
             "type": "Feature",
@@ -1643,8 +1659,9 @@
                 "PLPD": 19.2,
                 "pid": "6442e2658ac5472f1c3e41a8"
             },
-            "_id": "68c2d0a88ac54786684d86b6",
-            "ccid": "68c2d0a88ac54786684d86b6"
+            "ccid": "68c2d0a88ac54786684d86b6",
+            "id": "68c2d0a88ac54786684d86b6",
+            "_id": "68c2d0a88ac54786684d86b6"
         },
         {
             "type": "Feature",
@@ -1728,8 +1745,9 @@
                 "PLPD": 24.3,
                 "pid": "6442e2658ac5472f1c3e41a8"
             },
-            "_id": "68c2d0a88ac54786684d86b7",
-            "ccid": "68c2d0a88ac54786684d86b7"
+            "ccid": "68c2d0a88ac54786684d86b7",
+            "id": "68c2d0a88ac54786684d86b7",
+            "_id": "68c2d0a88ac54786684d86b7"
         },
         {
             "type": "Feature",
@@ -1816,8 +1834,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41a9"
             },
-            "_id": "68c2d0a88ac54786684d86b8",
-            "ccid": "68c2d0a88ac54786684d86b8"
+            "ccid": "68c2d0a88ac54786684d86b8",
+            "id": "68c2d0a88ac54786684d86b8",
+            "_id": "68c2d0a88ac54786684d86b8"
         },
         {
             "type": "Feature",
@@ -1904,8 +1923,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41a9"
             },
-            "_id": "68c2d0a88ac54786684d86b9",
-            "ccid": "68c2d0a88ac54786684d86b9"
+            "ccid": "68c2d0a88ac54786684d86b9",
+            "id": "68c2d0a88ac54786684d86b9",
+            "_id": "68c2d0a88ac54786684d86b9"
         },
         {
             "type": "Feature",
@@ -2044,8 +2064,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41a9"
             },
-            "_id": "68c2d0a88ac54786684d86ba",
-            "ccid": "68c2d0a88ac54786684d86ba"
+            "ccid": "68c2d0a88ac54786684d86ba",
+            "id": "68c2d0a88ac54786684d86ba",
+            "_id": "68c2d0a88ac54786684d86ba"
         },
         {
             "type": "Feature",
@@ -2132,8 +2153,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41a9"
             },
-            "_id": "68c2d0a88ac54786684d86bb",
-            "ccid": "68c2d0a88ac54786684d86bb"
+            "ccid": "68c2d0a88ac54786684d86bb",
+            "id": "68c2d0a88ac54786684d86bb",
+            "_id": "68c2d0a88ac54786684d86bb"
         },
         {
             "type": "Feature",
@@ -2220,8 +2242,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41a9"
             },
-            "_id": "68c2d0a88ac54786684d86bc",
-            "ccid": "68c2d0a88ac54786684d86bc"
+            "ccid": "68c2d0a88ac54786684d86bc",
+            "id": "68c2d0a88ac54786684d86bc",
+            "_id": "68c2d0a88ac54786684d86bc"
         },
         {
             "type": "Feature",
@@ -2308,8 +2331,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41a9"
             },
-            "_id": "68c2d0a88ac54786684d86bd",
-            "ccid": "68c2d0a88ac54786684d86bd"
+            "ccid": "68c2d0a88ac54786684d86bd",
+            "id": "68c2d0a88ac54786684d86bd",
+            "_id": "68c2d0a88ac54786684d86bd"
         },
         {
             "type": "Feature",
@@ -2396,8 +2420,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41aa"
             },
-            "_id": "68c2d0a88ac54786684d86be",
-            "ccid": "68c2d0a88ac54786684d86be"
+            "ccid": "68c2d0a88ac54786684d86be",
+            "id": "68c2d0a88ac54786684d86be",
+            "_id": "68c2d0a88ac54786684d86be"
         },
         {
             "type": "Feature",
@@ -2484,8 +2509,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41aa"
             },
-            "_id": "68c2d0a88ac54786684d86bf",
-            "ccid": "68c2d0a88ac54786684d86bf"
+            "ccid": "68c2d0a88ac54786684d86bf",
+            "id": "68c2d0a88ac54786684d86bf",
+            "_id": "68c2d0a88ac54786684d86bf"
         },
         {
             "type": "Feature",
@@ -2624,8 +2650,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41aa"
             },
-            "_id": "68c2d0a88ac54786684d86c0",
-            "ccid": "68c2d0a88ac54786684d86c0"
+            "ccid": "68c2d0a88ac54786684d86c0",
+            "id": "68c2d0a88ac54786684d86c0",
+            "_id": "68c2d0a88ac54786684d86c0"
         },
         {
             "type": "Feature",
@@ -2712,8 +2739,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41aa"
             },
-            "_id": "68c2d0a88ac54786684d86c1",
-            "ccid": "68c2d0a88ac54786684d86c1"
+            "ccid": "68c2d0a88ac54786684d86c1",
+            "id": "68c2d0a88ac54786684d86c1",
+            "_id": "68c2d0a88ac54786684d86c1"
         },
         {
             "type": "Feature",
@@ -2800,8 +2828,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41aa"
             },
-            "_id": "68c2d0a88ac54786684d86c2",
-            "ccid": "68c2d0a88ac54786684d86c2"
+            "ccid": "68c2d0a88ac54786684d86c2",
+            "id": "68c2d0a88ac54786684d86c2",
+            "_id": "68c2d0a88ac54786684d86c2"
         },
         {
             "type": "Feature",
@@ -2888,8 +2917,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41aa"
             },
-            "_id": "68c2d0a88ac54786684d86c3",
-            "ccid": "68c2d0a88ac54786684d86c3"
+            "ccid": "68c2d0a88ac54786684d86c3",
+            "id": "68c2d0a88ac54786684d86c3",
+            "_id": "68c2d0a88ac54786684d86c3"
         },
         {
             "type": "Feature",
@@ -2976,8 +3006,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41ab"
             },
-            "_id": "68c2d0a88ac54786684d86c4",
-            "ccid": "68c2d0a88ac54786684d86c4"
+            "ccid": "68c2d0a88ac54786684d86c4",
+            "id": "68c2d0a88ac54786684d86c4",
+            "_id": "68c2d0a88ac54786684d86c4"
         },
         {
             "type": "Feature",
@@ -3064,8 +3095,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ab"
             },
-            "_id": "68c2d0a88ac54786684d86c5",
-            "ccid": "68c2d0a88ac54786684d86c5"
+            "ccid": "68c2d0a88ac54786684d86c5",
+            "id": "68c2d0a88ac54786684d86c5",
+            "_id": "68c2d0a88ac54786684d86c5"
         },
         {
             "type": "Feature",
@@ -3204,8 +3236,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ab"
             },
-            "_id": "68c2d0a88ac54786684d86c6",
-            "ccid": "68c2d0a88ac54786684d86c6"
+            "ccid": "68c2d0a88ac54786684d86c6",
+            "id": "68c2d0a88ac54786684d86c6",
+            "_id": "68c2d0a88ac54786684d86c6"
         },
         {
             "type": "Feature",
@@ -3292,8 +3325,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ab"
             },
-            "_id": "68c2d0a88ac54786684d86c7",
-            "ccid": "68c2d0a88ac54786684d86c7"
+            "ccid": "68c2d0a88ac54786684d86c7",
+            "id": "68c2d0a88ac54786684d86c7",
+            "_id": "68c2d0a88ac54786684d86c7"
         },
         {
             "type": "Feature",
@@ -3380,8 +3414,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41ab"
             },
-            "_id": "68c2d0a88ac54786684d86c8",
-            "ccid": "68c2d0a88ac54786684d86c8"
+            "ccid": "68c2d0a88ac54786684d86c8",
+            "id": "68c2d0a88ac54786684d86c8",
+            "_id": "68c2d0a88ac54786684d86c8"
         },
         {
             "type": "Feature",
@@ -3468,8 +3503,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41ab"
             },
-            "_id": "68c2d0a88ac54786684d86c9",
-            "ccid": "68c2d0a88ac54786684d86c9"
+            "ccid": "68c2d0a88ac54786684d86c9",
+            "id": "68c2d0a88ac54786684d86c9",
+            "_id": "68c2d0a88ac54786684d86c9"
         },
         {
             "type": "Feature",
@@ -3553,8 +3589,9 @@
                 "PLPD": 9.4,
                 "pid": "6442e2658ac5472f1c3e41ac"
             },
-            "_id": "68c2d0a88ac54786684d86ca",
-            "ccid": "68c2d0a88ac54786684d86ca"
+            "ccid": "68c2d0a88ac54786684d86ca",
+            "id": "68c2d0a88ac54786684d86ca",
+            "_id": "68c2d0a88ac54786684d86ca"
         },
         {
             "type": "Feature",
@@ -3641,8 +3678,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ac"
             },
-            "_id": "68c2d0a88ac54786684d86cb",
-            "ccid": "68c2d0a88ac54786684d86cb"
+            "ccid": "68c2d0a88ac54786684d86cb",
+            "id": "68c2d0a88ac54786684d86cb",
+            "_id": "68c2d0a88ac54786684d86cb"
         },
         {
             "type": "Feature",
@@ -3781,8 +3819,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41ac"
             },
-            "_id": "68c2d0a88ac54786684d86cc",
-            "ccid": "68c2d0a88ac54786684d86cc"
+            "ccid": "68c2d0a88ac54786684d86cc",
+            "id": "68c2d0a88ac54786684d86cc",
+            "_id": "68c2d0a88ac54786684d86cc"
         },
         {
             "type": "Feature",
@@ -3869,8 +3908,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41ac"
             },
-            "_id": "68c2d0a88ac54786684d86cd",
-            "ccid": "68c2d0a88ac54786684d86cd"
+            "ccid": "68c2d0a88ac54786684d86cd",
+            "id": "68c2d0a88ac54786684d86cd",
+            "_id": "68c2d0a88ac54786684d86cd"
         },
         {
             "type": "Feature",
@@ -3957,8 +3997,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ac"
             },
-            "_id": "68c2d0a88ac54786684d86ce",
-            "ccid": "68c2d0a88ac54786684d86ce"
+            "ccid": "68c2d0a88ac54786684d86ce",
+            "id": "68c2d0a88ac54786684d86ce",
+            "_id": "68c2d0a88ac54786684d86ce"
         },
         {
             "type": "Feature",
@@ -4045,8 +4086,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ac"
             },
-            "_id": "68c2d0a88ac54786684d86cf",
-            "ccid": "68c2d0a88ac54786684d86cf"
+            "ccid": "68c2d0a88ac54786684d86cf",
+            "id": "68c2d0a88ac54786684d86cf",
+            "_id": "68c2d0a88ac54786684d86cf"
         },
         {
             "type": "Feature",
@@ -4133,8 +4175,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41ad"
             },
-            "_id": "68c2d0a88ac54786684d86d0",
-            "ccid": "68c2d0a88ac54786684d86d0"
+            "ccid": "68c2d0a88ac54786684d86d0",
+            "id": "68c2d0a88ac54786684d86d0",
+            "_id": "68c2d0a88ac54786684d86d0"
         },
         {
             "type": "Feature",
@@ -4221,8 +4264,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ad"
             },
-            "_id": "68c2d0a88ac54786684d86d1",
-            "ccid": "68c2d0a88ac54786684d86d1"
+            "ccid": "68c2d0a88ac54786684d86d1",
+            "id": "68c2d0a88ac54786684d86d1",
+            "_id": "68c2d0a88ac54786684d86d1"
         },
         {
             "type": "Feature",
@@ -4361,8 +4405,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41ad"
             },
-            "_id": "68c2d0a88ac54786684d86d2",
-            "ccid": "68c2d0a88ac54786684d86d2"
+            "ccid": "68c2d0a88ac54786684d86d2",
+            "id": "68c2d0a88ac54786684d86d2",
+            "_id": "68c2d0a88ac54786684d86d2"
         },
         {
             "type": "Feature",
@@ -4449,8 +4494,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ad"
             },
-            "_id": "68c2d0a88ac54786684d86d3",
-            "ccid": "68c2d0a88ac54786684d86d3"
+            "ccid": "68c2d0a88ac54786684d86d3",
+            "id": "68c2d0a88ac54786684d86d3",
+            "_id": "68c2d0a88ac54786684d86d3"
         },
         {
             "type": "Feature",
@@ -4537,8 +4583,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41ad"
             },
-            "_id": "68c2d0a88ac54786684d86d4",
-            "ccid": "68c2d0a88ac54786684d86d4"
+            "ccid": "68c2d0a88ac54786684d86d4",
+            "id": "68c2d0a88ac54786684d86d4",
+            "_id": "68c2d0a88ac54786684d86d4"
         },
         {
             "type": "Feature",
@@ -4625,8 +4672,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41ad"
             },
-            "_id": "68c2d0a88ac54786684d86d5",
-            "ccid": "68c2d0a88ac54786684d86d5"
+            "ccid": "68c2d0a88ac54786684d86d5",
+            "id": "68c2d0a88ac54786684d86d5",
+            "_id": "68c2d0a88ac54786684d86d5"
         },
         {
             "type": "Feature",
@@ -4713,8 +4761,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ae"
             },
-            "_id": "68c2d0a88ac54786684d86d6",
-            "ccid": "68c2d0a88ac54786684d86d6"
+            "ccid": "68c2d0a88ac54786684d86d6",
+            "id": "68c2d0a88ac54786684d86d6",
+            "_id": "68c2d0a88ac54786684d86d6"
         },
         {
             "type": "Feature",
@@ -4801,8 +4850,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ae"
             },
-            "_id": "68c2d0a88ac54786684d86d7",
-            "ccid": "68c2d0a88ac54786684d86d7"
+            "ccid": "68c2d0a88ac54786684d86d7",
+            "id": "68c2d0a88ac54786684d86d7",
+            "_id": "68c2d0a88ac54786684d86d7"
         },
         {
             "type": "Feature",
@@ -4941,8 +4991,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ae"
             },
-            "_id": "68c2d0a88ac54786684d86d8",
-            "ccid": "68c2d0a88ac54786684d86d8"
+            "ccid": "68c2d0a88ac54786684d86d8",
+            "id": "68c2d0a88ac54786684d86d8",
+            "_id": "68c2d0a88ac54786684d86d8"
         },
         {
             "type": "Feature",
@@ -5029,8 +5080,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ae"
             },
-            "_id": "68c2d0a88ac54786684d86d9",
-            "ccid": "68c2d0a88ac54786684d86d9"
+            "ccid": "68c2d0a88ac54786684d86d9",
+            "id": "68c2d0a88ac54786684d86d9",
+            "_id": "68c2d0a88ac54786684d86d9"
         },
         {
             "type": "Feature",
@@ -5117,8 +5169,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41ae"
             },
-            "_id": "68c2d0a88ac54786684d86da",
-            "ccid": "68c2d0a88ac54786684d86da"
+            "ccid": "68c2d0a88ac54786684d86da",
+            "id": "68c2d0a88ac54786684d86da",
+            "_id": "68c2d0a88ac54786684d86da"
         },
         {
             "type": "Feature",
@@ -5205,8 +5258,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41ae"
             },
-            "_id": "68c2d0a88ac54786684d86db",
-            "ccid": "68c2d0a88ac54786684d86db"
+            "ccid": "68c2d0a88ac54786684d86db",
+            "id": "68c2d0a88ac54786684d86db",
+            "_id": "68c2d0a88ac54786684d86db"
         },
         {
             "type": "Feature",
@@ -5293,8 +5347,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41af"
             },
-            "_id": "68c2d0a88ac54786684d86dc",
-            "ccid": "68c2d0a88ac54786684d86dc"
+            "ccid": "68c2d0a88ac54786684d86dc",
+            "id": "68c2d0a88ac54786684d86dc",
+            "_id": "68c2d0a88ac54786684d86dc"
         },
         {
             "type": "Feature",
@@ -5381,8 +5436,9 @@
                 "PLDOE": 117,
                 "pid": "6442e2658ac5472f1c3e41af"
             },
-            "_id": "68c2d0a88ac54786684d86dd",
-            "ccid": "68c2d0a88ac54786684d86dd"
+            "ccid": "68c2d0a88ac54786684d86dd",
+            "id": "68c2d0a88ac54786684d86dd",
+            "_id": "68c2d0a88ac54786684d86dd"
         },
         {
             "type": "Feature",
@@ -5521,8 +5577,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41af"
             },
-            "_id": "68c2d0a88ac54786684d86de",
-            "ccid": "68c2d0a88ac54786684d86de"
+            "ccid": "68c2d0a88ac54786684d86de",
+            "id": "68c2d0a88ac54786684d86de",
+            "_id": "68c2d0a88ac54786684d86de"
         },
         {
             "type": "Feature",
@@ -5609,8 +5666,9 @@
                 "PLDOE": 117,
                 "pid": "6442e2658ac5472f1c3e41af"
             },
-            "_id": "68c2d0a88ac54786684d86df",
-            "ccid": "68c2d0a88ac54786684d86df"
+            "ccid": "68c2d0a88ac54786684d86df",
+            "id": "68c2d0a88ac54786684d86df",
+            "_id": "68c2d0a88ac54786684d86df"
         },
         {
             "type": "Feature",
@@ -5697,8 +5755,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41af"
             },
-            "_id": "68c2d0a88ac54786684d86e0",
-            "ccid": "68c2d0a88ac54786684d86e0"
+            "ccid": "68c2d0a88ac54786684d86e0",
+            "id": "68c2d0a88ac54786684d86e0",
+            "_id": "68c2d0a88ac54786684d86e0"
         },
         {
             "type": "Feature",
@@ -5785,8 +5844,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41af"
             },
-            "_id": "68c2d0a88ac54786684d86e1",
-            "ccid": "68c2d0a88ac54786684d86e1"
+            "ccid": "68c2d0a88ac54786684d86e1",
+            "id": "68c2d0a88ac54786684d86e1",
+            "_id": "68c2d0a88ac54786684d86e1"
         },
         {
             "type": "Feature",
@@ -5873,8 +5933,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b0"
             },
-            "_id": "68c2d0a88ac54786684d86e2",
-            "ccid": "68c2d0a88ac54786684d86e2"
+            "ccid": "68c2d0a88ac54786684d86e2",
+            "id": "68c2d0a88ac54786684d86e2",
+            "_id": "68c2d0a88ac54786684d86e2"
         },
         {
             "type": "Feature",
@@ -5961,8 +6022,9 @@
                 "PLDOE": 111,
                 "pid": "6442e2658ac5472f1c3e41b0"
             },
-            "_id": "68c2d0a88ac54786684d86e3",
-            "ccid": "68c2d0a88ac54786684d86e3"
+            "ccid": "68c2d0a88ac54786684d86e3",
+            "id": "68c2d0a88ac54786684d86e3",
+            "_id": "68c2d0a88ac54786684d86e3"
         },
         {
             "type": "Feature",
@@ -6101,8 +6163,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b0"
             },
-            "_id": "68c2d0a88ac54786684d86e4",
-            "ccid": "68c2d0a88ac54786684d86e4"
+            "ccid": "68c2d0a88ac54786684d86e4",
+            "id": "68c2d0a88ac54786684d86e4",
+            "_id": "68c2d0a88ac54786684d86e4"
         },
         {
             "type": "Feature",
@@ -6189,8 +6252,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b0"
             },
-            "_id": "68c2d0a88ac54786684d86e5",
-            "ccid": "68c2d0a88ac54786684d86e5"
+            "ccid": "68c2d0a88ac54786684d86e5",
+            "id": "68c2d0a88ac54786684d86e5",
+            "_id": "68c2d0a88ac54786684d86e5"
         },
         {
             "type": "Feature",
@@ -6277,8 +6341,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41b0"
             },
-            "_id": "68c2d0a88ac54786684d86e6",
-            "ccid": "68c2d0a88ac54786684d86e6"
+            "ccid": "68c2d0a88ac54786684d86e6",
+            "id": "68c2d0a88ac54786684d86e6",
+            "_id": "68c2d0a88ac54786684d86e6"
         },
         {
             "type": "Feature",
@@ -6365,8 +6430,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b0"
             },
-            "_id": "68c2d0a88ac54786684d86e7",
-            "ccid": "68c2d0a88ac54786684d86e7"
+            "ccid": "68c2d0a88ac54786684d86e7",
+            "id": "68c2d0a88ac54786684d86e7",
+            "_id": "68c2d0a88ac54786684d86e7"
         },
         {
             "type": "Feature",
@@ -6453,8 +6519,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41b1"
             },
-            "_id": "68c2d0a88ac54786684d86e8",
-            "ccid": "68c2d0a88ac54786684d86e8"
+            "ccid": "68c2d0a88ac54786684d86e8",
+            "id": "68c2d0a88ac54786684d86e8",
+            "_id": "68c2d0a88ac54786684d86e8"
         },
         {
             "type": "Feature",
@@ -6541,8 +6608,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41b1"
             },
-            "_id": "68c2d0a88ac54786684d86e9",
-            "ccid": "68c2d0a88ac54786684d86e9"
+            "ccid": "68c2d0a88ac54786684d86e9",
+            "id": "68c2d0a88ac54786684d86e9",
+            "_id": "68c2d0a88ac54786684d86e9"
         },
         {
             "type": "Feature",
@@ -6678,8 +6746,9 @@
                 "PLPD": 24.8,
                 "pid": "6442e2658ac5472f1c3e41b1"
             },
-            "_id": "68c2d0a88ac54786684d86ea",
-            "ccid": "68c2d0a88ac54786684d86ea"
+            "ccid": "68c2d0a88ac54786684d86ea",
+            "id": "68c2d0a88ac54786684d86ea",
+            "_id": "68c2d0a88ac54786684d86ea"
         },
         {
             "type": "Feature",
@@ -6766,8 +6835,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41b1"
             },
-            "_id": "68c2d0a88ac54786684d86eb",
-            "ccid": "68c2d0a88ac54786684d86eb"
+            "ccid": "68c2d0a88ac54786684d86eb",
+            "id": "68c2d0a88ac54786684d86eb",
+            "_id": "68c2d0a88ac54786684d86eb"
         },
         {
             "type": "Feature",
@@ -6851,8 +6921,9 @@
                 "PLPD": 21.8,
                 "pid": "6442e2658ac5472f1c3e41b1"
             },
-            "_id": "68c2d0a88ac54786684d86ec",
-            "ccid": "68c2d0a88ac54786684d86ec"
+            "ccid": "68c2d0a88ac54786684d86ec",
+            "id": "68c2d0a88ac54786684d86ec",
+            "_id": "68c2d0a88ac54786684d86ec"
         },
         {
             "type": "Feature",
@@ -6939,8 +7010,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41b1"
             },
-            "_id": "68c2d0a88ac54786684d86ed",
-            "ccid": "68c2d0a88ac54786684d86ed"
+            "ccid": "68c2d0a88ac54786684d86ed",
+            "id": "68c2d0a88ac54786684d86ed",
+            "_id": "68c2d0a88ac54786684d86ed"
         },
         {
             "type": "Feature",
@@ -7027,8 +7099,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b2"
             },
-            "_id": "68c2d0a88ac54786684d86ee",
-            "ccid": "68c2d0a88ac54786684d86ee"
+            "ccid": "68c2d0a88ac54786684d86ee",
+            "id": "68c2d0a88ac54786684d86ee",
+            "_id": "68c2d0a88ac54786684d86ee"
         },
         {
             "type": "Feature",
@@ -7115,8 +7188,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b2"
             },
-            "_id": "68c2d0a88ac54786684d86ef",
-            "ccid": "68c2d0a88ac54786684d86ef"
+            "ccid": "68c2d0a88ac54786684d86ef",
+            "id": "68c2d0a88ac54786684d86ef",
+            "_id": "68c2d0a88ac54786684d86ef"
         },
         {
             "type": "Feature",
@@ -7255,8 +7329,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b2"
             },
-            "_id": "68c2d0a88ac54786684d86f0",
-            "ccid": "68c2d0a88ac54786684d86f0"
+            "ccid": "68c2d0a88ac54786684d86f0",
+            "id": "68c2d0a88ac54786684d86f0",
+            "_id": "68c2d0a88ac54786684d86f0"
         },
         {
             "type": "Feature",
@@ -7343,8 +7418,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41b2"
             },
-            "_id": "68c2d0a88ac54786684d86f1",
-            "ccid": "68c2d0a88ac54786684d86f1"
+            "ccid": "68c2d0a88ac54786684d86f1",
+            "id": "68c2d0a88ac54786684d86f1",
+            "_id": "68c2d0a88ac54786684d86f1"
         },
         {
             "type": "Feature",
@@ -7431,8 +7507,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b2"
             },
-            "_id": "68c2d0a88ac54786684d86f2",
-            "ccid": "68c2d0a88ac54786684d86f2"
+            "ccid": "68c2d0a88ac54786684d86f2",
+            "id": "68c2d0a88ac54786684d86f2",
+            "_id": "68c2d0a88ac54786684d86f2"
         },
         {
             "type": "Feature",
@@ -7519,8 +7596,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b2"
             },
-            "_id": "68c2d0a88ac54786684d86f3",
-            "ccid": "68c2d0a88ac54786684d86f3"
+            "ccid": "68c2d0a88ac54786684d86f3",
+            "id": "68c2d0a88ac54786684d86f3",
+            "_id": "68c2d0a88ac54786684d86f3"
         },
         {
             "type": "Feature",
@@ -7607,8 +7685,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b3"
             },
-            "_id": "68c2d0a88ac54786684d86f4",
-            "ccid": "68c2d0a88ac54786684d86f4"
+            "ccid": "68c2d0a88ac54786684d86f4",
+            "id": "68c2d0a88ac54786684d86f4",
+            "_id": "68c2d0a88ac54786684d86f4"
         },
         {
             "type": "Feature",
@@ -7695,8 +7774,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41b3"
             },
-            "_id": "68c2d0a88ac54786684d86f5",
-            "ccid": "68c2d0a88ac54786684d86f5"
+            "ccid": "68c2d0a88ac54786684d86f5",
+            "id": "68c2d0a88ac54786684d86f5",
+            "_id": "68c2d0a88ac54786684d86f5"
         },
         {
             "type": "Feature",
@@ -7835,8 +7915,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41b3"
             },
-            "_id": "68c2d0a88ac54786684d86f6",
-            "ccid": "68c2d0a88ac54786684d86f6"
+            "ccid": "68c2d0a88ac54786684d86f6",
+            "id": "68c2d0a88ac54786684d86f6",
+            "_id": "68c2d0a88ac54786684d86f6"
         },
         {
             "type": "Feature",
@@ -7923,8 +8004,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b3"
             },
-            "_id": "68c2d0a88ac54786684d86f7",
-            "ccid": "68c2d0a88ac54786684d86f7"
+            "ccid": "68c2d0a88ac54786684d86f7",
+            "id": "68c2d0a88ac54786684d86f7",
+            "_id": "68c2d0a88ac54786684d86f7"
         },
         {
             "type": "Feature",
@@ -8011,8 +8093,9 @@
                 "PLDOE": 111,
                 "pid": "6442e2658ac5472f1c3e41b3"
             },
-            "_id": "68c2d0a88ac54786684d86f8",
-            "ccid": "68c2d0a88ac54786684d86f8"
+            "ccid": "68c2d0a88ac54786684d86f8",
+            "id": "68c2d0a88ac54786684d86f8",
+            "_id": "68c2d0a88ac54786684d86f8"
         },
         {
             "type": "Feature",
@@ -8099,8 +8182,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41b3"
             },
-            "_id": "68c2d0a88ac54786684d86f9",
-            "ccid": "68c2d0a88ac54786684d86f9"
+            "ccid": "68c2d0a88ac54786684d86f9",
+            "id": "68c2d0a88ac54786684d86f9",
+            "_id": "68c2d0a88ac54786684d86f9"
         },
         {
             "type": "Feature",
@@ -8184,8 +8268,9 @@
                 "PLPD": 9.8,
                 "pid": "6442e2658ac5472f1c3e41b4"
             },
-            "_id": "68c2d0a88ac54786684d86fa",
-            "ccid": "68c2d0a88ac54786684d86fa"
+            "ccid": "68c2d0a88ac54786684d86fa",
+            "id": "68c2d0a88ac54786684d86fa",
+            "_id": "68c2d0a88ac54786684d86fa"
         },
         {
             "type": "Feature",
@@ -8272,8 +8357,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41b4"
             },
-            "_id": "68c2d0a88ac54786684d86fb",
-            "ccid": "68c2d0a88ac54786684d86fb"
+            "ccid": "68c2d0a88ac54786684d86fb",
+            "id": "68c2d0a88ac54786684d86fb",
+            "_id": "68c2d0a88ac54786684d86fb"
         },
         {
             "type": "Feature",
@@ -8412,8 +8498,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41b4"
             },
-            "_id": "68c2d0a88ac54786684d86fc",
-            "ccid": "68c2d0a88ac54786684d86fc"
+            "ccid": "68c2d0a88ac54786684d86fc",
+            "id": "68c2d0a88ac54786684d86fc",
+            "_id": "68c2d0a88ac54786684d86fc"
         },
         {
             "type": "Feature",
@@ -8500,8 +8587,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b4"
             },
-            "_id": "68c2d0a88ac54786684d86fd",
-            "ccid": "68c2d0a88ac54786684d86fd"
+            "ccid": "68c2d0a88ac54786684d86fd",
+            "id": "68c2d0a88ac54786684d86fd",
+            "_id": "68c2d0a88ac54786684d86fd"
         },
         {
             "type": "Feature",
@@ -8588,8 +8676,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41b4"
             },
-            "_id": "68c2d0a88ac54786684d86fe",
-            "ccid": "68c2d0a88ac54786684d86fe"
+            "ccid": "68c2d0a88ac54786684d86fe",
+            "id": "68c2d0a88ac54786684d86fe",
+            "_id": "68c2d0a88ac54786684d86fe"
         },
         {
             "type": "Feature",
@@ -8676,8 +8765,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b4"
             },
-            "_id": "68c2d0a88ac54786684d86ff",
-            "ccid": "68c2d0a88ac54786684d86ff"
+            "ccid": "68c2d0a88ac54786684d86ff",
+            "id": "68c2d0a88ac54786684d86ff",
+            "_id": "68c2d0a88ac54786684d86ff"
         },
         {
             "type": "Feature",
@@ -8764,8 +8854,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41b5"
             },
-            "_id": "68c2d0a88ac54786684d8700",
-            "ccid": "68c2d0a88ac54786684d8700"
+            "ccid": "68c2d0a88ac54786684d8700",
+            "id": "68c2d0a88ac54786684d8700",
+            "_id": "68c2d0a88ac54786684d8700"
         },
         {
             "type": "Feature",
@@ -8852,8 +8943,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b5"
             },
-            "_id": "68c2d0a88ac54786684d8701",
-            "ccid": "68c2d0a88ac54786684d8701"
+            "ccid": "68c2d0a88ac54786684d8701",
+            "id": "68c2d0a88ac54786684d8701",
+            "_id": "68c2d0a88ac54786684d8701"
         },
         {
             "type": "Feature",
@@ -8988,8 +9080,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41b5"
             },
-            "_id": "68c2d0a88ac54786684d8702",
-            "ccid": "68c2d0a88ac54786684d8702"
+            "ccid": "68c2d0a88ac54786684d8702",
+            "id": "68c2d0a88ac54786684d8702",
+            "_id": "68c2d0a88ac54786684d8702"
         },
         {
             "type": "Feature",
@@ -9076,8 +9169,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41b5"
             },
-            "_id": "68c2d0a88ac54786684d8703",
-            "ccid": "68c2d0a88ac54786684d8703"
+            "ccid": "68c2d0a88ac54786684d8703",
+            "id": "68c2d0a88ac54786684d8703",
+            "_id": "68c2d0a88ac54786684d8703"
         },
         {
             "type": "Feature",
@@ -9161,8 +9255,9 @@
                 "PLPD": 4.3,
                 "pid": "6442e2658ac5472f1c3e41b5"
             },
-            "_id": "68c2d0a88ac54786684d8704",
-            "ccid": "68c2d0a88ac54786684d8704"
+            "ccid": "68c2d0a88ac54786684d8704",
+            "id": "68c2d0a88ac54786684d8704",
+            "_id": "68c2d0a88ac54786684d8704"
         },
         {
             "type": "Feature",
@@ -9249,8 +9344,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b5"
             },
-            "_id": "68c2d0a88ac54786684d8705",
-            "ccid": "68c2d0a88ac54786684d8705"
+            "ccid": "68c2d0a88ac54786684d8705",
+            "id": "68c2d0a88ac54786684d8705",
+            "_id": "68c2d0a88ac54786684d8705"
         },
         {
             "type": "Feature",
@@ -9337,8 +9433,9 @@
                 "PLDOE": 117,
                 "pid": "6442e2658ac5472f1c3e41b6"
             },
-            "_id": "68c2d0a88ac54786684d8706",
-            "ccid": "68c2d0a88ac54786684d8706"
+            "ccid": "68c2d0a88ac54786684d8706",
+            "id": "68c2d0a88ac54786684d8706",
+            "_id": "68c2d0a88ac54786684d8706"
         },
         {
             "type": "Feature",
@@ -9425,8 +9522,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41b6"
             },
-            "_id": "68c2d0a88ac54786684d8707",
-            "ccid": "68c2d0a88ac54786684d8707"
+            "ccid": "68c2d0a88ac54786684d8707",
+            "id": "68c2d0a88ac54786684d8707",
+            "_id": "68c2d0a88ac54786684d8707"
         },
         {
             "type": "Feature",
@@ -9565,8 +9663,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41b6"
             },
-            "_id": "68c2d0a88ac54786684d8708",
-            "ccid": "68c2d0a88ac54786684d8708"
+            "ccid": "68c2d0a88ac54786684d8708",
+            "id": "68c2d0a88ac54786684d8708",
+            "_id": "68c2d0a88ac54786684d8708"
         },
         {
             "type": "Feature",
@@ -9653,8 +9752,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41b6"
             },
-            "_id": "68c2d0a88ac54786684d8709",
-            "ccid": "68c2d0a88ac54786684d8709"
+            "ccid": "68c2d0a88ac54786684d8709",
+            "id": "68c2d0a88ac54786684d8709",
+            "_id": "68c2d0a88ac54786684d8709"
         },
         {
             "type": "Feature",
@@ -9741,8 +9841,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41b6"
             },
-            "_id": "68c2d0a88ac54786684d870a",
-            "ccid": "68c2d0a88ac54786684d870a"
+            "ccid": "68c2d0a88ac54786684d870a",
+            "id": "68c2d0a88ac54786684d870a",
+            "_id": "68c2d0a88ac54786684d870a"
         },
         {
             "type": "Feature",
@@ -9829,8 +9930,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41b6"
             },
-            "_id": "68c2d0a88ac54786684d870b",
-            "ccid": "68c2d0a88ac54786684d870b"
+            "ccid": "68c2d0a88ac54786684d870b",
+            "id": "68c2d0a88ac54786684d870b",
+            "_id": "68c2d0a88ac54786684d870b"
         },
         {
             "type": "Feature",
@@ -9917,8 +10019,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41b7"
             },
-            "_id": "68c2d0a88ac54786684d870c",
-            "ccid": "68c2d0a88ac54786684d870c"
+            "ccid": "68c2d0a88ac54786684d870c",
+            "id": "68c2d0a88ac54786684d870c",
+            "_id": "68c2d0a88ac54786684d870c"
         },
         {
             "type": "Feature",
@@ -10005,8 +10108,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41b7"
             },
-            "_id": "68c2d0a88ac54786684d870d",
-            "ccid": "68c2d0a88ac54786684d870d"
+            "ccid": "68c2d0a88ac54786684d870d",
+            "id": "68c2d0a88ac54786684d870d",
+            "_id": "68c2d0a88ac54786684d870d"
         },
         {
             "type": "Feature",
@@ -10145,8 +10249,9 @@
                 "PLDOE": 117,
                 "pid": "6442e2658ac5472f1c3e41b7"
             },
-            "_id": "68c2d0a88ac54786684d870e",
-            "ccid": "68c2d0a88ac54786684d870e"
+            "ccid": "68c2d0a88ac54786684d870e",
+            "id": "68c2d0a88ac54786684d870e",
+            "_id": "68c2d0a88ac54786684d870e"
         },
         {
             "type": "Feature",
@@ -10233,8 +10338,9 @@
                 "PLDOE": 117,
                 "pid": "6442e2658ac5472f1c3e41b7"
             },
-            "_id": "68c2d0a88ac54786684d870f",
-            "ccid": "68c2d0a88ac54786684d870f"
+            "ccid": "68c2d0a88ac54786684d870f",
+            "id": "68c2d0a88ac54786684d870f",
+            "_id": "68c2d0a88ac54786684d870f"
         },
         {
             "type": "Feature",
@@ -10321,8 +10427,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41b7"
             },
-            "_id": "68c2d0a88ac54786684d8710",
-            "ccid": "68c2d0a88ac54786684d8710"
+            "ccid": "68c2d0a88ac54786684d8710",
+            "id": "68c2d0a88ac54786684d8710",
+            "_id": "68c2d0a88ac54786684d8710"
         },
         {
             "type": "Feature",
@@ -10409,8 +10516,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41b7"
             },
-            "_id": "68c2d0a88ac54786684d8711",
-            "ccid": "68c2d0a88ac54786684d8711"
+            "ccid": "68c2d0a88ac54786684d8711",
+            "id": "68c2d0a88ac54786684d8711",
+            "_id": "68c2d0a88ac54786684d8711"
         },
         {
             "type": "Feature",
@@ -10497,8 +10605,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41b8"
             },
-            "_id": "68c2d0a88ac54786684d8712",
-            "ccid": "68c2d0a88ac54786684d8712"
+            "ccid": "68c2d0a88ac54786684d8712",
+            "id": "68c2d0a88ac54786684d8712",
+            "_id": "68c2d0a88ac54786684d8712"
         },
         {
             "type": "Feature",
@@ -10585,8 +10694,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41b8"
             },
-            "_id": "68c2d0a88ac54786684d8713",
-            "ccid": "68c2d0a88ac54786684d8713"
+            "ccid": "68c2d0a88ac54786684d8713",
+            "id": "68c2d0a88ac54786684d8713",
+            "_id": "68c2d0a88ac54786684d8713"
         },
         {
             "type": "Feature",
@@ -10725,8 +10835,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41b8"
             },
-            "_id": "68c2d0a88ac54786684d8714",
-            "ccid": "68c2d0a88ac54786684d8714"
+            "ccid": "68c2d0a88ac54786684d8714",
+            "id": "68c2d0a88ac54786684d8714",
+            "_id": "68c2d0a88ac54786684d8714"
         },
         {
             "type": "Feature",
@@ -10813,8 +10924,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41b8"
             },
-            "_id": "68c2d0a88ac54786684d8715",
-            "ccid": "68c2d0a88ac54786684d8715"
+            "ccid": "68c2d0a88ac54786684d8715",
+            "id": "68c2d0a88ac54786684d8715",
+            "_id": "68c2d0a88ac54786684d8715"
         },
         {
             "type": "Feature",
@@ -10901,8 +11013,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b8"
             },
-            "_id": "68c2d0a88ac54786684d8716",
-            "ccid": "68c2d0a88ac54786684d8716"
+            "ccid": "68c2d0a88ac54786684d8716",
+            "id": "68c2d0a88ac54786684d8716",
+            "_id": "68c2d0a88ac54786684d8716"
         },
         {
             "type": "Feature",
@@ -10989,8 +11102,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41b8"
             },
-            "_id": "68c2d0a88ac54786684d8717",
-            "ccid": "68c2d0a88ac54786684d8717"
+            "ccid": "68c2d0a88ac54786684d8717",
+            "id": "68c2d0a88ac54786684d8717",
+            "_id": "68c2d0a88ac54786684d8717"
         },
         {
             "type": "Feature",
@@ -11077,8 +11191,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41b9"
             },
-            "_id": "68c2d0a88ac54786684d8718",
-            "ccid": "68c2d0a88ac54786684d8718"
+            "ccid": "68c2d0a88ac54786684d8718",
+            "id": "68c2d0a88ac54786684d8718",
+            "_id": "68c2d0a88ac54786684d8718"
         },
         {
             "type": "Feature",
@@ -11165,8 +11280,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b9"
             },
-            "_id": "68c2d0a88ac54786684d8719",
-            "ccid": "68c2d0a88ac54786684d8719"
+            "ccid": "68c2d0a88ac54786684d8719",
+            "id": "68c2d0a88ac54786684d8719",
+            "_id": "68c2d0a88ac54786684d8719"
         },
         {
             "type": "Feature",
@@ -11305,8 +11421,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41b9"
             },
-            "_id": "68c2d0a88ac54786684d871a",
-            "ccid": "68c2d0a88ac54786684d871a"
+            "ccid": "68c2d0a88ac54786684d871a",
+            "id": "68c2d0a88ac54786684d871a",
+            "_id": "68c2d0a88ac54786684d871a"
         },
         {
             "type": "Feature",
@@ -11393,8 +11510,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41b9"
             },
-            "_id": "68c2d0a88ac54786684d871b",
-            "ccid": "68c2d0a88ac54786684d871b"
+            "ccid": "68c2d0a88ac54786684d871b",
+            "id": "68c2d0a88ac54786684d871b",
+            "_id": "68c2d0a88ac54786684d871b"
         },
         {
             "type": "Feature",
@@ -11481,8 +11599,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41b9"
             },
-            "_id": "68c2d0a88ac54786684d871c",
-            "ccid": "68c2d0a88ac54786684d871c"
+            "ccid": "68c2d0a88ac54786684d871c",
+            "id": "68c2d0a88ac54786684d871c",
+            "_id": "68c2d0a88ac54786684d871c"
         },
         {
             "type": "Feature",
@@ -11569,8 +11688,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41b9"
             },
-            "_id": "68c2d0a88ac54786684d871d",
-            "ccid": "68c2d0a88ac54786684d871d"
+            "ccid": "68c2d0a88ac54786684d871d",
+            "id": "68c2d0a88ac54786684d871d",
+            "_id": "68c2d0a88ac54786684d871d"
         },
         {
             "type": "Feature",
@@ -11657,8 +11777,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ba"
             },
-            "_id": "68c2d0a88ac54786684d871e",
-            "ccid": "68c2d0a88ac54786684d871e"
+            "ccid": "68c2d0a88ac54786684d871e",
+            "id": "68c2d0a88ac54786684d871e",
+            "_id": "68c2d0a88ac54786684d871e"
         },
         {
             "type": "Feature",
@@ -11745,8 +11866,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41ba"
             },
-            "_id": "68c2d0a88ac54786684d871f",
-            "ccid": "68c2d0a88ac54786684d871f"
+            "ccid": "68c2d0a88ac54786684d871f",
+            "id": "68c2d0a88ac54786684d871f",
+            "_id": "68c2d0a88ac54786684d871f"
         },
         {
             "type": "Feature",
@@ -11885,8 +12007,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ba"
             },
-            "_id": "68c2d0a88ac54786684d8720",
-            "ccid": "68c2d0a88ac54786684d8720"
+            "ccid": "68c2d0a88ac54786684d8720",
+            "id": "68c2d0a88ac54786684d8720",
+            "_id": "68c2d0a88ac54786684d8720"
         },
         {
             "type": "Feature",
@@ -11973,8 +12096,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ba"
             },
-            "_id": "68c2d0a88ac54786684d8721",
-            "ccid": "68c2d0a88ac54786684d8721"
+            "ccid": "68c2d0a88ac54786684d8721",
+            "id": "68c2d0a88ac54786684d8721",
+            "_id": "68c2d0a88ac54786684d8721"
         },
         {
             "type": "Feature",
@@ -12061,8 +12185,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ba"
             },
-            "_id": "68c2d0a88ac54786684d8722",
-            "ccid": "68c2d0a88ac54786684d8722"
+            "ccid": "68c2d0a88ac54786684d8722",
+            "id": "68c2d0a88ac54786684d8722",
+            "_id": "68c2d0a88ac54786684d8722"
         },
         {
             "type": "Feature",
@@ -12149,8 +12274,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41ba"
             },
-            "_id": "68c2d0a88ac54786684d8723",
-            "ccid": "68c2d0a88ac54786684d8723"
+            "ccid": "68c2d0a88ac54786684d8723",
+            "id": "68c2d0a88ac54786684d8723",
+            "_id": "68c2d0a88ac54786684d8723"
         },
         {
             "type": "Feature",
@@ -12237,8 +12363,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41bb"
             },
-            "_id": "68c2d0a88ac54786684d8724",
-            "ccid": "68c2d0a88ac54786684d8724"
+            "ccid": "68c2d0a88ac54786684d8724",
+            "id": "68c2d0a88ac54786684d8724",
+            "_id": "68c2d0a88ac54786684d8724"
         },
         {
             "type": "Feature",
@@ -12325,8 +12452,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41bb"
             },
-            "_id": "68c2d0a88ac54786684d8725",
-            "ccid": "68c2d0a88ac54786684d8725"
+            "ccid": "68c2d0a88ac54786684d8725",
+            "id": "68c2d0a88ac54786684d8725",
+            "_id": "68c2d0a88ac54786684d8725"
         },
         {
             "type": "Feature",
@@ -12465,8 +12593,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41bb"
             },
-            "_id": "68c2d0a88ac54786684d8726",
-            "ccid": "68c2d0a88ac54786684d8726"
+            "ccid": "68c2d0a88ac54786684d8726",
+            "id": "68c2d0a88ac54786684d8726",
+            "_id": "68c2d0a88ac54786684d8726"
         },
         {
             "type": "Feature",
@@ -12553,8 +12682,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41bb"
             },
-            "_id": "68c2d0a88ac54786684d8727",
-            "ccid": "68c2d0a88ac54786684d8727"
+            "ccid": "68c2d0a88ac54786684d8727",
+            "id": "68c2d0a88ac54786684d8727",
+            "_id": "68c2d0a88ac54786684d8727"
         },
         {
             "type": "Feature",
@@ -12638,8 +12768,9 @@
                 "PLPD": 13.0,
                 "pid": "6442e2658ac5472f1c3e41bb"
             },
-            "_id": "68c2d0a88ac54786684d8728",
-            "ccid": "68c2d0a88ac54786684d8728"
+            "ccid": "68c2d0a88ac54786684d8728",
+            "id": "68c2d0a88ac54786684d8728",
+            "_id": "68c2d0a88ac54786684d8728"
         },
         {
             "type": "Feature",
@@ -12723,8 +12854,9 @@
                 "PLPD": 12.8,
                 "pid": "6442e2658ac5472f1c3e41bb"
             },
-            "_id": "68c2d0a88ac54786684d8729",
-            "ccid": "68c2d0a88ac54786684d8729"
+            "ccid": "68c2d0a88ac54786684d8729",
+            "id": "68c2d0a88ac54786684d8729",
+            "_id": "68c2d0a88ac54786684d8729"
         },
         {
             "type": "Feature",
@@ -12811,8 +12943,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41bc"
             },
-            "_id": "68c2d0a88ac54786684d872a",
-            "ccid": "68c2d0a88ac54786684d872a"
+            "ccid": "68c2d0a88ac54786684d872a",
+            "id": "68c2d0a88ac54786684d872a",
+            "_id": "68c2d0a88ac54786684d872a"
         },
         {
             "type": "Feature",
@@ -12899,8 +13032,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41bc"
             },
-            "_id": "68c2d0a88ac54786684d872b",
-            "ccid": "68c2d0a88ac54786684d872b"
+            "ccid": "68c2d0a88ac54786684d872b",
+            "id": "68c2d0a88ac54786684d872b",
+            "_id": "68c2d0a88ac54786684d872b"
         },
         {
             "type": "Feature",
@@ -13039,8 +13173,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41bc"
             },
-            "_id": "68c2d0a88ac54786684d872c",
-            "ccid": "68c2d0a88ac54786684d872c"
+            "ccid": "68c2d0a88ac54786684d872c",
+            "id": "68c2d0a88ac54786684d872c",
+            "_id": "68c2d0a88ac54786684d872c"
         },
         {
             "type": "Feature",
@@ -13124,8 +13259,9 @@
                 "PLPD": 13.5,
                 "pid": "6442e2658ac5472f1c3e41bc"
             },
-            "_id": "68c2d0a88ac54786684d872d",
-            "ccid": "68c2d0a88ac54786684d872d"
+            "ccid": "68c2d0a88ac54786684d872d",
+            "id": "68c2d0a88ac54786684d872d",
+            "_id": "68c2d0a88ac54786684d872d"
         },
         {
             "type": "Feature",
@@ -13209,8 +13345,9 @@
                 "PLPD": 12.1,
                 "pid": "6442e2658ac5472f1c3e41bc"
             },
-            "_id": "68c2d0a88ac54786684d872e",
-            "ccid": "68c2d0a88ac54786684d872e"
+            "ccid": "68c2d0a88ac54786684d872e",
+            "id": "68c2d0a88ac54786684d872e",
+            "_id": "68c2d0a88ac54786684d872e"
         },
         {
             "type": "Feature",
@@ -13297,8 +13434,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41bc"
             },
-            "_id": "68c2d0a88ac54786684d872f",
-            "ccid": "68c2d0a88ac54786684d872f"
+            "ccid": "68c2d0a88ac54786684d872f",
+            "id": "68c2d0a88ac54786684d872f",
+            "_id": "68c2d0a88ac54786684d872f"
         },
         {
             "type": "Feature",
@@ -13385,8 +13523,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41bd"
             },
-            "_id": "68c2d0a88ac54786684d8730",
-            "ccid": "68c2d0a88ac54786684d8730"
+            "ccid": "68c2d0a88ac54786684d8730",
+            "id": "68c2d0a88ac54786684d8730",
+            "_id": "68c2d0a88ac54786684d8730"
         },
         {
             "type": "Feature",
@@ -13473,8 +13612,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41bd"
             },
-            "_id": "68c2d0a88ac54786684d8731",
-            "ccid": "68c2d0a88ac54786684d8731"
+            "ccid": "68c2d0a88ac54786684d8731",
+            "id": "68c2d0a88ac54786684d8731",
+            "_id": "68c2d0a88ac54786684d8731"
         },
         {
             "type": "Feature",
@@ -13613,8 +13753,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41bd"
             },
-            "_id": "68c2d0a88ac54786684d8732",
-            "ccid": "68c2d0a88ac54786684d8732"
+            "ccid": "68c2d0a88ac54786684d8732",
+            "id": "68c2d0a88ac54786684d8732",
+            "_id": "68c2d0a88ac54786684d8732"
         },
         {
             "type": "Feature",
@@ -13698,8 +13839,9 @@
                 "PLPD": 21.5,
                 "pid": "6442e2658ac5472f1c3e41bd"
             },
-            "_id": "68c2d0a88ac54786684d8733",
-            "ccid": "68c2d0a88ac54786684d8733"
+            "ccid": "68c2d0a88ac54786684d8733",
+            "id": "68c2d0a88ac54786684d8733",
+            "_id": "68c2d0a88ac54786684d8733"
         },
         {
             "type": "Feature",
@@ -13786,8 +13928,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41bd"
             },
-            "_id": "68c2d0a88ac54786684d8734",
-            "ccid": "68c2d0a88ac54786684d8734"
+            "ccid": "68c2d0a88ac54786684d8734",
+            "id": "68c2d0a88ac54786684d8734",
+            "_id": "68c2d0a88ac54786684d8734"
         },
         {
             "type": "Feature",
@@ -13874,8 +14017,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41bd"
             },
-            "_id": "68c2d0a88ac54786684d8735",
-            "ccid": "68c2d0a88ac54786684d8735"
+            "ccid": "68c2d0a88ac54786684d8735",
+            "id": "68c2d0a88ac54786684d8735",
+            "_id": "68c2d0a88ac54786684d8735"
         },
         {
             "type": "Feature",
@@ -13962,8 +14106,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41be"
             },
-            "_id": "68c2d0a88ac54786684d8736",
-            "ccid": "68c2d0a88ac54786684d8736"
+            "ccid": "68c2d0a88ac54786684d8736",
+            "id": "68c2d0a88ac54786684d8736",
+            "_id": "68c2d0a88ac54786684d8736"
         },
         {
             "type": "Feature",
@@ -14050,8 +14195,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41be"
             },
-            "_id": "68c2d0a88ac54786684d8737",
-            "ccid": "68c2d0a88ac54786684d8737"
+            "ccid": "68c2d0a88ac54786684d8737",
+            "id": "68c2d0a88ac54786684d8737",
+            "_id": "68c2d0a88ac54786684d8737"
         },
         {
             "type": "Feature",
@@ -14190,8 +14336,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41be"
             },
-            "_id": "68c2d0a88ac54786684d8738",
-            "ccid": "68c2d0a88ac54786684d8738"
+            "ccid": "68c2d0a88ac54786684d8738",
+            "id": "68c2d0a88ac54786684d8738",
+            "_id": "68c2d0a88ac54786684d8738"
         },
         {
             "type": "Feature",
@@ -14278,8 +14425,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41be"
             },
-            "_id": "68c2d0a88ac54786684d8739",
-            "ccid": "68c2d0a88ac54786684d8739"
+            "ccid": "68c2d0a88ac54786684d8739",
+            "id": "68c2d0a88ac54786684d8739",
+            "_id": "68c2d0a88ac54786684d8739"
         },
         {
             "type": "Feature",
@@ -14366,8 +14514,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41be"
             },
-            "_id": "68c2d0a88ac54786684d873a",
-            "ccid": "68c2d0a88ac54786684d873a"
+            "ccid": "68c2d0a88ac54786684d873a",
+            "id": "68c2d0a88ac54786684d873a",
+            "_id": "68c2d0a88ac54786684d873a"
         },
         {
             "type": "Feature",
@@ -14454,8 +14603,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41be"
             },
-            "_id": "68c2d0a88ac54786684d873b",
-            "ccid": "68c2d0a88ac54786684d873b"
+            "ccid": "68c2d0a88ac54786684d873b",
+            "id": "68c2d0a88ac54786684d873b",
+            "_id": "68c2d0a88ac54786684d873b"
         },
         {
             "type": "Feature",
@@ -14542,8 +14692,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41bf"
             },
-            "_id": "68c2d0a88ac54786684d873c",
-            "ccid": "68c2d0a88ac54786684d873c"
+            "ccid": "68c2d0a88ac54786684d873c",
+            "id": "68c2d0a88ac54786684d873c",
+            "_id": "68c2d0a88ac54786684d873c"
         },
         {
             "type": "Feature",
@@ -14630,8 +14781,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41bf"
             },
-            "_id": "68c2d0a88ac54786684d873d",
-            "ccid": "68c2d0a88ac54786684d873d"
+            "ccid": "68c2d0a88ac54786684d873d",
+            "id": "68c2d0a88ac54786684d873d",
+            "_id": "68c2d0a88ac54786684d873d"
         },
         {
             "type": "Feature",
@@ -14770,8 +14922,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41bf"
             },
-            "_id": "68c2d0a88ac54786684d873e",
-            "ccid": "68c2d0a88ac54786684d873e"
+            "ccid": "68c2d0a88ac54786684d873e",
+            "id": "68c2d0a88ac54786684d873e",
+            "_id": "68c2d0a88ac54786684d873e"
         },
         {
             "type": "Feature",
@@ -14858,8 +15011,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41bf"
             },
-            "_id": "68c2d0a88ac54786684d873f",
-            "ccid": "68c2d0a88ac54786684d873f"
+            "ccid": "68c2d0a88ac54786684d873f",
+            "id": "68c2d0a88ac54786684d873f",
+            "_id": "68c2d0a88ac54786684d873f"
         },
         {
             "type": "Feature",
@@ -14946,8 +15100,9 @@
                 "PLDOE": 117,
                 "pid": "6442e2658ac5472f1c3e41bf"
             },
-            "_id": "68c2d0a88ac54786684d8740",
-            "ccid": "68c2d0a88ac54786684d8740"
+            "ccid": "68c2d0a88ac54786684d8740",
+            "id": "68c2d0a88ac54786684d8740",
+            "_id": "68c2d0a88ac54786684d8740"
         },
         {
             "type": "Feature",
@@ -15034,8 +15189,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41bf"
             },
-            "_id": "68c2d0a88ac54786684d8741",
-            "ccid": "68c2d0a88ac54786684d8741"
+            "ccid": "68c2d0a88ac54786684d8741",
+            "id": "68c2d0a88ac54786684d8741",
+            "_id": "68c2d0a88ac54786684d8741"
         },
         {
             "type": "Feature",
@@ -15122,8 +15278,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41c0"
             },
-            "_id": "68c2d0a88ac54786684d8742",
-            "ccid": "68c2d0a88ac54786684d8742"
+            "ccid": "68c2d0a88ac54786684d8742",
+            "id": "68c2d0a88ac54786684d8742",
+            "_id": "68c2d0a88ac54786684d8742"
         },
         {
             "type": "Feature",
@@ -15210,8 +15367,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41c0"
             },
-            "_id": "68c2d0a88ac54786684d8743",
-            "ccid": "68c2d0a88ac54786684d8743"
+            "ccid": "68c2d0a88ac54786684d8743",
+            "id": "68c2d0a88ac54786684d8743",
+            "_id": "68c2d0a88ac54786684d8743"
         },
         {
             "type": "Feature",
@@ -15350,8 +15508,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41c0"
             },
-            "_id": "68c2d0a88ac54786684d8744",
-            "ccid": "68c2d0a88ac54786684d8744"
+            "ccid": "68c2d0a88ac54786684d8744",
+            "id": "68c2d0a88ac54786684d8744",
+            "_id": "68c2d0a88ac54786684d8744"
         },
         {
             "type": "Feature",
@@ -15438,8 +15597,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41c0"
             },
-            "_id": "68c2d0a88ac54786684d8745",
-            "ccid": "68c2d0a88ac54786684d8745"
+            "ccid": "68c2d0a88ac54786684d8745",
+            "id": "68c2d0a88ac54786684d8745",
+            "_id": "68c2d0a88ac54786684d8745"
         },
         {
             "type": "Feature",
@@ -15523,8 +15683,9 @@
                 "PLPD": 19.4,
                 "pid": "6442e2658ac5472f1c3e41c0"
             },
-            "_id": "68c2d0a88ac54786684d8746",
-            "ccid": "68c2d0a88ac54786684d8746"
+            "ccid": "68c2d0a88ac54786684d8746",
+            "id": "68c2d0a88ac54786684d8746",
+            "_id": "68c2d0a88ac54786684d8746"
         },
         {
             "type": "Feature",
@@ -15611,8 +15772,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41c0"
             },
-            "_id": "68c2d0a88ac54786684d8747",
-            "ccid": "68c2d0a88ac54786684d8747"
+            "ccid": "68c2d0a88ac54786684d8747",
+            "id": "68c2d0a88ac54786684d8747",
+            "_id": "68c2d0a88ac54786684d8747"
         },
         {
             "type": "Feature",
@@ -15699,8 +15861,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41c1"
             },
-            "_id": "68c2d0a88ac54786684d8748",
-            "ccid": "68c2d0a88ac54786684d8748"
+            "ccid": "68c2d0a88ac54786684d8748",
+            "id": "68c2d0a88ac54786684d8748",
+            "_id": "68c2d0a88ac54786684d8748"
         },
         {
             "type": "Feature",
@@ -15787,8 +15950,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41c1"
             },
-            "_id": "68c2d0a88ac54786684d8749",
-            "ccid": "68c2d0a88ac54786684d8749"
+            "ccid": "68c2d0a88ac54786684d8749",
+            "id": "68c2d0a88ac54786684d8749",
+            "_id": "68c2d0a88ac54786684d8749"
         },
         {
             "type": "Feature",
@@ -15924,8 +16088,9 @@
                 "PLPD": 10.3,
                 "pid": "6442e2658ac5472f1c3e41c1"
             },
-            "_id": "68c2d0a88ac54786684d874a",
-            "ccid": "68c2d0a88ac54786684d874a"
+            "ccid": "68c2d0a88ac54786684d874a",
+            "id": "68c2d0a88ac54786684d874a",
+            "_id": "68c2d0a88ac54786684d874a"
         },
         {
             "type": "Feature",
@@ -16012,8 +16177,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41c1"
             },
-            "_id": "68c2d0a88ac54786684d874b",
-            "ccid": "68c2d0a88ac54786684d874b"
+            "ccid": "68c2d0a88ac54786684d874b",
+            "id": "68c2d0a88ac54786684d874b",
+            "_id": "68c2d0a88ac54786684d874b"
         },
         {
             "type": "Feature",
@@ -16097,8 +16263,9 @@
                 "PLPD": 10.0,
                 "pid": "6442e2658ac5472f1c3e41c1"
             },
-            "_id": "68c2d0a88ac54786684d874c",
-            "ccid": "68c2d0a88ac54786684d874c"
+            "ccid": "68c2d0a88ac54786684d874c",
+            "id": "68c2d0a88ac54786684d874c",
+            "_id": "68c2d0a88ac54786684d874c"
         },
         {
             "type": "Feature",
@@ -16185,8 +16352,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41c1"
             },
-            "_id": "68c2d0a88ac54786684d874d",
-            "ccid": "68c2d0a88ac54786684d874d"
+            "ccid": "68c2d0a88ac54786684d874d",
+            "id": "68c2d0a88ac54786684d874d",
+            "_id": "68c2d0a88ac54786684d874d"
         },
         {
             "type": "Feature",
@@ -16273,8 +16441,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41c2"
             },
-            "_id": "68c2d0a88ac54786684d874e",
-            "ccid": "68c2d0a88ac54786684d874e"
+            "ccid": "68c2d0a88ac54786684d874e",
+            "id": "68c2d0a88ac54786684d874e",
+            "_id": "68c2d0a88ac54786684d874e"
         },
         {
             "type": "Feature",
@@ -16361,8 +16530,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41c2"
             },
-            "_id": "68c2d0a88ac54786684d874f",
-            "ccid": "68c2d0a88ac54786684d874f"
+            "ccid": "68c2d0a88ac54786684d874f",
+            "id": "68c2d0a88ac54786684d874f",
+            "_id": "68c2d0a88ac54786684d874f"
         },
         {
             "type": "Feature",
@@ -16501,8 +16671,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41c2"
             },
-            "_id": "68c2d0a88ac54786684d8750",
-            "ccid": "68c2d0a88ac54786684d8750"
+            "ccid": "68c2d0a88ac54786684d8750",
+            "id": "68c2d0a88ac54786684d8750",
+            "_id": "68c2d0a88ac54786684d8750"
         },
         {
             "type": "Feature",
@@ -16589,8 +16760,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41c2"
             },
-            "_id": "68c2d0a88ac54786684d8751",
-            "ccid": "68c2d0a88ac54786684d8751"
+            "ccid": "68c2d0a88ac54786684d8751",
+            "id": "68c2d0a88ac54786684d8751",
+            "_id": "68c2d0a88ac54786684d8751"
         },
         {
             "type": "Feature",
@@ -16677,8 +16849,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41c2"
             },
-            "_id": "68c2d0a88ac54786684d8752",
-            "ccid": "68c2d0a88ac54786684d8752"
+            "ccid": "68c2d0a88ac54786684d8752",
+            "id": "68c2d0a88ac54786684d8752",
+            "_id": "68c2d0a88ac54786684d8752"
         },
         {
             "type": "Feature",
@@ -16762,8 +16935,9 @@
                 "PLPD": 24.8,
                 "pid": "6442e2658ac5472f1c3e41c2"
             },
-            "_id": "68c2d0a88ac54786684d8753",
-            "ccid": "68c2d0a88ac54786684d8753"
+            "ccid": "68c2d0a88ac54786684d8753",
+            "id": "68c2d0a88ac54786684d8753",
+            "_id": "68c2d0a88ac54786684d8753"
         },
         {
             "type": "Feature",
@@ -16850,8 +17024,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41c3"
             },
-            "_id": "68c2d0a88ac54786684d8754",
-            "ccid": "68c2d0a88ac54786684d8754"
+            "ccid": "68c2d0a88ac54786684d8754",
+            "id": "68c2d0a88ac54786684d8754",
+            "_id": "68c2d0a88ac54786684d8754"
         },
         {
             "type": "Feature",
@@ -16935,8 +17110,9 @@
                 "PLPD": 13.0,
                 "pid": "6442e2658ac5472f1c3e41c3"
             },
-            "_id": "68c2d0a88ac54786684d8755",
-            "ccid": "68c2d0a88ac54786684d8755"
+            "ccid": "68c2d0a88ac54786684d8755",
+            "id": "68c2d0a88ac54786684d8755",
+            "_id": "68c2d0a88ac54786684d8755"
         },
         {
             "type": "Feature",
@@ -17075,8 +17251,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41c3"
             },
-            "_id": "68c2d0a88ac54786684d8756",
-            "ccid": "68c2d0a88ac54786684d8756"
+            "ccid": "68c2d0a88ac54786684d8756",
+            "id": "68c2d0a88ac54786684d8756",
+            "_id": "68c2d0a88ac54786684d8756"
         },
         {
             "type": "Feature",
@@ -17163,8 +17340,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41c3"
             },
-            "_id": "68c2d0a88ac54786684d8757",
-            "ccid": "68c2d0a88ac54786684d8757"
+            "ccid": "68c2d0a88ac54786684d8757",
+            "id": "68c2d0a88ac54786684d8757",
+            "_id": "68c2d0a88ac54786684d8757"
         },
         {
             "type": "Feature",
@@ -17251,8 +17429,9 @@
                 "PLDOE": 113,
                 "pid": "6442e2658ac5472f1c3e41c3"
             },
-            "_id": "68c2d0a88ac54786684d8758",
-            "ccid": "68c2d0a88ac54786684d8758"
+            "ccid": "68c2d0a88ac54786684d8758",
+            "id": "68c2d0a88ac54786684d8758",
+            "_id": "68c2d0a88ac54786684d8758"
         },
         {
             "type": "Feature",
@@ -17339,8 +17518,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41c3"
             },
-            "_id": "68c2d0a88ac54786684d8759",
-            "ccid": "68c2d0a88ac54786684d8759"
+            "ccid": "68c2d0a88ac54786684d8759",
+            "id": "68c2d0a88ac54786684d8759",
+            "_id": "68c2d0a88ac54786684d8759"
         },
         {
             "type": "Feature",
@@ -17424,8 +17604,9 @@
                 "PLPD": 5.0,
                 "pid": "6442e2658ac5472f1c3e41c4"
             },
-            "_id": "68c2d0a88ac54786684d875a",
-            "ccid": "68c2d0a88ac54786684d875a"
+            "ccid": "68c2d0a88ac54786684d875a",
+            "id": "68c2d0a88ac54786684d875a",
+            "_id": "68c2d0a88ac54786684d875a"
         },
         {
             "type": "Feature",
@@ -17509,8 +17690,9 @@
                 "PLPD": 4.8,
                 "pid": "6442e2658ac5472f1c3e41c4"
             },
-            "_id": "68c2d0a88ac54786684d875b",
-            "ccid": "68c2d0a88ac54786684d875b"
+            "ccid": "68c2d0a88ac54786684d875b",
+            "id": "68c2d0a88ac54786684d875b",
+            "_id": "68c2d0a88ac54786684d875b"
         },
         {
             "type": "Feature",
@@ -17649,8 +17831,9 @@
                 "PLDOE": 112,
                 "pid": "6442e2658ac5472f1c3e41c4"
             },
-            "_id": "68c2d0a88ac54786684d875c",
-            "ccid": "68c2d0a88ac54786684d875c"
+            "ccid": "68c2d0a88ac54786684d875c",
+            "id": "68c2d0a88ac54786684d875c",
+            "_id": "68c2d0a88ac54786684d875c"
         },
         {
             "type": "Feature",
@@ -17734,8 +17917,9 @@
                 "PLPD": 5.5,
                 "pid": "6442e2658ac5472f1c3e41c4"
             },
-            "_id": "68c2d0a88ac54786684d875d",
-            "ccid": "68c2d0a88ac54786684d875d"
+            "ccid": "68c2d0a88ac54786684d875d",
+            "id": "68c2d0a88ac54786684d875d",
+            "_id": "68c2d0a88ac54786684d875d"
         },
         {
             "type": "Feature",
@@ -17819,8 +18003,9 @@
                 "PLPD": 4.9,
                 "pid": "6442e2658ac5472f1c3e41c4"
             },
-            "_id": "68c2d0a88ac54786684d875e",
-            "ccid": "68c2d0a88ac54786684d875e"
+            "ccid": "68c2d0a88ac54786684d875e",
+            "id": "68c2d0a88ac54786684d875e",
+            "_id": "68c2d0a88ac54786684d875e"
         },
         {
             "type": "Feature",
@@ -17907,8 +18092,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41c4"
             },
-            "_id": "68c2d0a88ac54786684d875f",
-            "ccid": "68c2d0a88ac54786684d875f"
+            "ccid": "68c2d0a88ac54786684d875f",
+            "id": "68c2d0a88ac54786684d875f",
+            "_id": "68c2d0a88ac54786684d875f"
         },
         {
             "type": "Feature",
@@ -17992,8 +18178,9 @@
                 "PLPD": 13.6,
                 "pid": "6442e2658ac5472f1c3e41c5"
             },
-            "_id": "68c2d0a88ac54786684d8760",
-            "ccid": "68c2d0a88ac54786684d8760"
+            "ccid": "68c2d0a88ac54786684d8760",
+            "id": "68c2d0a88ac54786684d8760",
+            "_id": "68c2d0a88ac54786684d8760"
         },
         {
             "type": "Feature",
@@ -18080,8 +18267,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41c5"
             },
-            "_id": "68c2d0a88ac54786684d8761",
-            "ccid": "68c2d0a88ac54786684d8761"
+            "ccid": "68c2d0a88ac54786684d8761",
+            "id": "68c2d0a88ac54786684d8761",
+            "_id": "68c2d0a88ac54786684d8761"
         },
         {
             "type": "Feature",
@@ -18220,8 +18408,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41c5"
             },
-            "_id": "68c2d0a88ac54786684d8762",
-            "ccid": "68c2d0a88ac54786684d8762"
+            "ccid": "68c2d0a88ac54786684d8762",
+            "id": "68c2d0a88ac54786684d8762",
+            "_id": "68c2d0a88ac54786684d8762"
         },
         {
             "type": "Feature",
@@ -18308,8 +18497,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41c5"
             },
-            "_id": "68c2d0a88ac54786684d8763",
-            "ccid": "68c2d0a88ac54786684d8763"
+            "ccid": "68c2d0a88ac54786684d8763",
+            "id": "68c2d0a88ac54786684d8763",
+            "_id": "68c2d0a88ac54786684d8763"
         },
         {
             "type": "Feature",
@@ -18393,8 +18583,9 @@
                 "PLPD": 13.3,
                 "pid": "6442e2658ac5472f1c3e41c5"
             },
-            "_id": "68c2d0a88ac54786684d8764",
-            "ccid": "68c2d0a88ac54786684d8764"
+            "ccid": "68c2d0a88ac54786684d8764",
+            "id": "68c2d0a88ac54786684d8764",
+            "_id": "68c2d0a88ac54786684d8764"
         },
         {
             "type": "Feature",
@@ -18481,8 +18672,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41c5"
             },
-            "_id": "68c2d0a88ac54786684d8765",
-            "ccid": "68c2d0a88ac54786684d8765"
+            "ccid": "68c2d0a88ac54786684d8765",
+            "id": "68c2d0a88ac54786684d8765",
+            "_id": "68c2d0a88ac54786684d8765"
         },
         {
             "type": "Feature",
@@ -18561,8 +18753,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ca"
             },
-            "_id": "68c2d0a88ac54786684d8766",
-            "ccid": "68c2d0a88ac54786684d8766"
+            "ccid": "68c2d0a88ac54786684d8766",
+            "id": "68c2d0a88ac54786684d8766",
+            "_id": "68c2d0a88ac54786684d8766"
         },
         {
             "type": "Feature",
@@ -18641,8 +18834,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41ca"
             },
-            "_id": "68c2d0a88ac54786684d8767",
-            "ccid": "68c2d0a88ac54786684d8767"
+            "ccid": "68c2d0a88ac54786684d8767",
+            "id": "68c2d0a88ac54786684d8767",
+            "_id": "68c2d0a88ac54786684d8767"
         },
         {
             "type": "Feature",
@@ -18757,8 +18951,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41ca"
             },
-            "_id": "68c2d0a88ac54786684d8768",
-            "ccid": "68c2d0a88ac54786684d8768"
+            "ccid": "68c2d0a88ac54786684d8768",
+            "id": "68c2d0a88ac54786684d8768",
+            "_id": "68c2d0a88ac54786684d8768"
         },
         {
             "type": "Feature",
@@ -18837,8 +19032,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41ca"
             },
-            "_id": "68c2d0a88ac54786684d8769",
-            "ccid": "68c2d0a88ac54786684d8769"
+            "ccid": "68c2d0a88ac54786684d8769",
+            "id": "68c2d0a88ac54786684d8769",
+            "_id": "68c2d0a88ac54786684d8769"
         },
         {
             "type": "Feature",
@@ -18917,8 +19113,9 @@
                 "PLDOE": 114,
                 "pid": "6442e2658ac5472f1c3e41ca"
             },
-            "_id": "68c2d0a88ac54786684d876a",
-            "ccid": "68c2d0a88ac54786684d876a"
+            "ccid": "68c2d0a88ac54786684d876a",
+            "id": "68c2d0a88ac54786684d876a",
+            "_id": "68c2d0a88ac54786684d876a"
         },
         {
             "type": "Feature",
@@ -18997,8 +19194,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41ca"
             },
-            "_id": "68c2d0a88ac54786684d876b",
-            "ccid": "68c2d0a88ac54786684d876b"
+            "ccid": "68c2d0a88ac54786684d876b",
+            "id": "68c2d0a88ac54786684d876b",
+            "_id": "68c2d0a88ac54786684d876b"
         },
         {
             "type": "Feature",
@@ -19077,8 +19275,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41cb"
             },
-            "_id": "68c2d0a88ac54786684d876c",
-            "ccid": "68c2d0a88ac54786684d876c"
+            "ccid": "68c2d0a88ac54786684d876c",
+            "id": "68c2d0a88ac54786684d876c",
+            "_id": "68c2d0a88ac54786684d876c"
         },
         {
             "type": "Feature",
@@ -19157,8 +19356,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41cb"
             },
-            "_id": "68c2d0a88ac54786684d876d",
-            "ccid": "68c2d0a88ac54786684d876d"
+            "ccid": "68c2d0a88ac54786684d876d",
+            "id": "68c2d0a88ac54786684d876d",
+            "_id": "68c2d0a88ac54786684d876d"
         },
         {
             "type": "Feature",
@@ -19289,8 +19489,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41cb"
             },
-            "_id": "68c2d0a88ac54786684d876e",
-            "ccid": "68c2d0a88ac54786684d876e"
+            "ccid": "68c2d0a88ac54786684d876e",
+            "id": "68c2d0a88ac54786684d876e",
+            "_id": "68c2d0a88ac54786684d876e"
         },
         {
             "type": "Feature",
@@ -19369,8 +19570,9 @@
                 "PLDOE": 118,
                 "pid": "6442e2658ac5472f1c3e41cb"
             },
-            "_id": "68c2d0a88ac54786684d876f",
-            "ccid": "68c2d0a88ac54786684d876f"
+            "ccid": "68c2d0a88ac54786684d876f",
+            "id": "68c2d0a88ac54786684d876f",
+            "_id": "68c2d0a88ac54786684d876f"
         },
         {
             "type": "Feature",
@@ -19449,8 +19651,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41cb"
             },
-            "_id": "68c2d0a88ac54786684d8770",
-            "ccid": "68c2d0a88ac54786684d8770"
+            "ccid": "68c2d0a88ac54786684d8770",
+            "id": "68c2d0a88ac54786684d8770",
+            "_id": "68c2d0a88ac54786684d8770"
         },
         {
             "type": "Feature",
@@ -19529,8 +19732,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41cb"
             },
-            "_id": "68c2d0a88ac54786684d8771",
-            "ccid": "68c2d0a88ac54786684d8771"
+            "ccid": "68c2d0a88ac54786684d8771",
+            "id": "68c2d0a88ac54786684d8771",
+            "_id": "68c2d0a88ac54786684d8771"
         },
         {
             "type": "Feature",
@@ -19609,8 +19813,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41cc"
             },
-            "_id": "68c2d0a88ac54786684d8772",
-            "ccid": "68c2d0a88ac54786684d8772"
+            "ccid": "68c2d0a88ac54786684d8772",
+            "id": "68c2d0a88ac54786684d8772",
+            "_id": "68c2d0a88ac54786684d8772"
         },
         {
             "type": "Feature",
@@ -19689,8 +19894,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41cc"
             },
-            "_id": "68c2d0a88ac54786684d8773",
-            "ccid": "68c2d0a88ac54786684d8773"
+            "ccid": "68c2d0a88ac54786684d8773",
+            "id": "68c2d0a88ac54786684d8773",
+            "_id": "68c2d0a88ac54786684d8773"
         },
         {
             "type": "Feature",
@@ -19805,8 +20011,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41cc"
             },
-            "_id": "68c2d0a88ac54786684d8774",
-            "ccid": "68c2d0a88ac54786684d8774"
+            "ccid": "68c2d0a88ac54786684d8774",
+            "id": "68c2d0a88ac54786684d8774",
+            "_id": "68c2d0a88ac54786684d8774"
         },
         {
             "type": "Feature",
@@ -19885,8 +20092,9 @@
                 "PLDOE": 117,
                 "pid": "6442e2658ac5472f1c3e41cc"
             },
-            "_id": "68c2d0a88ac54786684d8775",
-            "ccid": "68c2d0a88ac54786684d8775"
+            "ccid": "68c2d0a88ac54786684d8775",
+            "id": "68c2d0a88ac54786684d8775",
+            "_id": "68c2d0a88ac54786684d8775"
         },
         {
             "type": "Feature",
@@ -19965,8 +20173,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41cc"
             },
-            "_id": "68c2d0a88ac54786684d8776",
-            "ccid": "68c2d0a88ac54786684d8776"
+            "ccid": "68c2d0a88ac54786684d8776",
+            "id": "68c2d0a88ac54786684d8776",
+            "_id": "68c2d0a88ac54786684d8776"
         },
         {
             "type": "Feature",
@@ -20045,8 +20254,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41cc"
             },
-            "_id": "68c2d0a88ac54786684d8777",
-            "ccid": "68c2d0a88ac54786684d8777"
+            "ccid": "68c2d0a88ac54786684d8777",
+            "id": "68c2d0a88ac54786684d8777",
+            "_id": "68c2d0a88ac54786684d8777"
         },
         {
             "type": "Feature",
@@ -20125,8 +20335,9 @@
                 "PLDOE": 115,
                 "pid": "6442e2658ac5472f1c3e41cd"
             },
-            "_id": "68c2d0a88ac54786684d8778",
-            "ccid": "68c2d0a88ac54786684d8778"
+            "ccid": "68c2d0a88ac54786684d8778",
+            "id": "68c2d0a88ac54786684d8778",
+            "_id": "68c2d0a88ac54786684d8778"
         },
         {
             "type": "Feature",
@@ -20205,8 +20416,9 @@
                 "PLDOE": 117,
                 "pid": "6442e2658ac5472f1c3e41cd"
             },
-            "_id": "68c2d0a88ac54786684d8779",
-            "ccid": "68c2d0a88ac54786684d8779"
+            "ccid": "68c2d0a88ac54786684d8779",
+            "id": "68c2d0a88ac54786684d8779",
+            "_id": "68c2d0a88ac54786684d8779"
         },
         {
             "type": "Feature",
@@ -20337,8 +20549,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41cd"
             },
-            "_id": "68c2d0a88ac54786684d877a",
-            "ccid": "68c2d0a88ac54786684d877a"
+            "ccid": "68c2d0a88ac54786684d877a",
+            "id": "68c2d0a88ac54786684d877a",
+            "_id": "68c2d0a88ac54786684d877a"
         },
         {
             "type": "Feature",
@@ -20417,8 +20630,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41cd"
             },
-            "_id": "68c2d0a88ac54786684d877b",
-            "ccid": "68c2d0a88ac54786684d877b"
+            "ccid": "68c2d0a88ac54786684d877b",
+            "id": "68c2d0a88ac54786684d877b",
+            "_id": "68c2d0a88ac54786684d877b"
         },
         {
             "type": "Feature",
@@ -20497,8 +20711,9 @@
                 "PLDOE": 117,
                 "pid": "6442e2658ac5472f1c3e41cd"
             },
-            "_id": "68c2d0a88ac54786684d877c",
-            "ccid": "68c2d0a88ac54786684d877c"
+            "ccid": "68c2d0a88ac54786684d877c",
+            "id": "68c2d0a88ac54786684d877c",
+            "_id": "68c2d0a88ac54786684d877c"
         },
         {
             "type": "Feature",
@@ -20577,8 +20792,9 @@
                 "PLDOE": 116,
                 "pid": "6442e2658ac5472f1c3e41cd"
             },
-            "_id": "68c2d0a88ac54786684d877d",
-            "ccid": "68c2d0a88ac54786684d877d"
+            "ccid": "68c2d0a88ac54786684d877d",
+            "id": "68c2d0a88ac54786684d877d",
+            "_id": "68c2d0a88ac54786684d877d"
         }
     ]
 }

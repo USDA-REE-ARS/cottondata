@@ -619,6 +619,7 @@ with open('../geojson/'+fname+'/'+fname+'_Experiment.geojson','w') as f:
 f.close()
 
 features = list()
+#print('Plots:' + str(len(plots)))
 for myplot in plots:
     features.append(myplot.doc)
 fc = geojson.FeatureCollection(features)
@@ -627,6 +628,7 @@ with open('../geojson/'+fname+'/'+fname+'_Plot.geojson','w') as f:
 f.close()
 
 features = list()
+#print('CropHarvest:' + str(len(hareas)))
 for myha in hareas:
     features.append(myha.doc)
 fc = geojson.FeatureCollection(features)
@@ -635,6 +637,7 @@ with open('../geojson/'+fname+'/'+fname+'_CropHarvest.geojson','w') as f:
 f.close()
 
 features = list()
+#print('SoilWaterContent:' + str(len(tubes)))
 for mytube in tubes:
     features.append(mytube.doc)
 fc = geojson.FeatureCollection(features)

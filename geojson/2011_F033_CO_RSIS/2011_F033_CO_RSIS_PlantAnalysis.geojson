@@ -47,8 +47,9 @@
                 "LAID_LAB": 0.363,
                 "pid": "643f25fe8ac547c328e484fd"
             },
-            "_id": "689ce7358ac54766eae03235",
-            "paid": "689ce7358ac54766eae03235"
+            "paid": "689ce7358ac54766eae03235",
+            "id": "689ce7358ac54766eae03235",
+            "_id": "689ce7358ac54766eae03235"
         },
         {
             "type": "Feature",
@@ -96,8 +97,9 @@
                 "LAID_LAB": 0.336,
                 "pid": "643f25fe8ac547c328e484ff"
             },
-            "_id": "689ce7358ac54766eae0323d",
-            "paid": "689ce7358ac54766eae0323d"
+            "paid": "689ce7358ac54766eae0323d",
+            "id": "689ce7358ac54766eae0323d",
+            "_id": "689ce7358ac54766eae0323d"
         },
         {
             "type": "Feature",
@@ -145,8 +147,9 @@
                 "LAID_LAB": 0.413,
                 "pid": "643f25fe8ac547c328e48501"
             },
-            "_id": "689ce7358ac54766eae03245",
-            "paid": "689ce7358ac54766eae03245"
+            "paid": "689ce7358ac54766eae03245",
+            "id": "689ce7358ac54766eae03245",
+            "_id": "689ce7358ac54766eae03245"
         },
         {
             "type": "Feature",
@@ -194,8 +197,9 @@
                 "LAID_LAB": 0.344,
                 "pid": "643f25fe8ac547c328e48503"
             },
-            "_id": "689ce7358ac54766eae0324d",
-            "paid": "689ce7358ac54766eae0324d"
+            "paid": "689ce7358ac54766eae0324d",
+            "id": "689ce7358ac54766eae0324d",
+            "_id": "689ce7358ac54766eae0324d"
         },
         {
             "type": "Feature",
@@ -243,8 +247,9 @@
                 "LAID_LAB": 0.349,
                 "pid": "643f25fe8ac547c328e48506"
             },
-            "_id": "689ce7358ac54766eae03259",
-            "paid": "689ce7358ac54766eae03259"
+            "paid": "689ce7358ac54766eae03259",
+            "id": "689ce7358ac54766eae03259",
+            "_id": "689ce7358ac54766eae03259"
         },
         {
             "type": "Feature",
@@ -292,8 +297,9 @@
                 "LAID_LAB": 0.362,
                 "pid": "643f25fe8ac547c328e48508"
             },
-            "_id": "689ce7358ac54766eae03261",
-            "paid": "689ce7358ac54766eae03261"
+            "paid": "689ce7358ac54766eae03261",
+            "id": "689ce7358ac54766eae03261",
+            "_id": "689ce7358ac54766eae03261"
         },
         {
             "type": "Feature",
@@ -341,8 +347,9 @@
                 "LAID_LAB": 0.419,
                 "pid": "643f25fe8ac547c328e48509"
             },
-            "_id": "689ce7358ac54766eae03265",
-            "paid": "689ce7358ac54766eae03265"
+            "paid": "689ce7358ac54766eae03265",
+            "id": "689ce7358ac54766eae03265",
+            "_id": "689ce7358ac54766eae03265"
         },
         {
             "type": "Feature",
@@ -390,8 +397,9 @@
                 "LAID_LAB": 0.377,
                 "pid": "643f25fe8ac547c328e4850c"
             },
-            "_id": "689ce7358ac54766eae03271",
-            "paid": "689ce7358ac54766eae03271"
+            "paid": "689ce7358ac54766eae03271",
+            "id": "689ce7358ac54766eae03271",
+            "_id": "689ce7358ac54766eae03271"
         },
         {
             "type": "Feature",
@@ -439,8 +447,9 @@
                 "LAID_LAB": 2.978,
                 "pid": "643f25fe8ac547c328e484fe"
             },
-            "_id": "689ce7358ac54766eae0323a",
-            "paid": "689ce7358ac54766eae0323a"
+            "paid": "689ce7358ac54766eae0323a",
+            "id": "689ce7358ac54766eae0323a",
+            "_id": "689ce7358ac54766eae0323a"
         },
         {
             "type": "Feature",
@@ -488,8 +497,9 @@
                 "LAID_LAB": 3.197,
                 "pid": "643f25fe8ac547c328e48500"
             },
-            "_id": "689ce7358ac54766eae03242",
-            "paid": "689ce7358ac54766eae03242"
+            "paid": "689ce7358ac54766eae03242",
+            "id": "689ce7358ac54766eae03242",
+            "_id": "689ce7358ac54766eae03242"
         },
         {
             "type": "Feature",
@@ -537,8 +547,9 @@
                 "LAID_LAB": 2.378,
                 "pid": "643f25fe8ac547c328e48502"
             },
-            "_id": "689ce7358ac54766eae0324a",
-            "paid": "689ce7358ac54766eae0324a"
+            "paid": "689ce7358ac54766eae0324a",
+            "id": "689ce7358ac54766eae0324a",
+            "_id": "689ce7358ac54766eae0324a"
         },
         {
             "type": "Feature",
@@ -586,8 +597,9 @@
                 "LAID_LAB": 3.196,
                 "pid": "643f25fe8ac547c328e48504"
             },
-            "_id": "689ce7358ac54766eae03252",
-            "paid": "689ce7358ac54766eae03252"
+            "paid": "689ce7358ac54766eae03252",
+            "id": "689ce7358ac54766eae03252",
+            "_id": "689ce7358ac54766eae03252"
         },
         {
             "type": "Feature",
@@ -635,8 +647,9 @@
                 "LAID_LAB": 2.282,
                 "pid": "643f25fe8ac547c328e48505"
             },
-            "_id": "689ce7358ac54766eae03256",
-            "paid": "689ce7358ac54766eae03256"
+            "paid": "689ce7358ac54766eae03256",
+            "id": "689ce7358ac54766eae03256",
+            "_id": "689ce7358ac54766eae03256"
         },
         {
             "type": "Feature",
@@ -684,8 +697,9 @@
                 "LAID_LAB": 2.103,
                 "pid": "643f25fe8ac547c328e48507"
             },
-            "_id": "689ce7358ac54766eae0325e",
-            "paid": "689ce7358ac54766eae0325e"
+            "paid": "689ce7358ac54766eae0325e",
+            "id": "689ce7358ac54766eae0325e",
+            "_id": "689ce7358ac54766eae0325e"
         },
         {
             "type": "Feature",
@@ -733,8 +747,9 @@
                 "LAID_LAB": 2.96,
                 "pid": "643f25fe8ac547c328e4850a"
             },
-            "_id": "689ce7358ac54766eae0326a",
-            "paid": "689ce7358ac54766eae0326a"
+            "paid": "689ce7358ac54766eae0326a",
+            "id": "689ce7358ac54766eae0326a",
+            "_id": "689ce7358ac54766eae0326a"
         },
         {
             "type": "Feature",
@@ -782,8 +797,9 @@
                 "LAID_LAB": 2.792,
                 "pid": "643f25fe8ac547c328e4850b"
             },
-            "_id": "689ce7358ac54766eae0326e",
-            "paid": "689ce7358ac54766eae0326e"
+            "paid": "689ce7358ac54766eae0326e",
+            "id": "689ce7358ac54766eae0326e",
+            "_id": "689ce7358ac54766eae0326e"
         },
         {
             "type": "Feature",
@@ -831,8 +847,9 @@
                 "LAID_LAB": 3.797,
                 "pid": "643f25fe8ac547c328e484fd"
             },
-            "_id": "689ce7358ac54766eae03237",
-            "paid": "689ce7358ac54766eae03237"
+            "paid": "689ce7358ac54766eae03237",
+            "id": "689ce7358ac54766eae03237",
+            "_id": "689ce7358ac54766eae03237"
         },
         {
             "type": "Feature",
@@ -880,8 +897,9 @@
                 "LAID_LAB": 4.027,
                 "pid": "643f25fe8ac547c328e484ff"
             },
-            "_id": "689ce7358ac54766eae0323f",
-            "paid": "689ce7358ac54766eae0323f"
+            "paid": "689ce7358ac54766eae0323f",
+            "id": "689ce7358ac54766eae0323f",
+            "_id": "689ce7358ac54766eae0323f"
         },
         {
             "type": "Feature",
@@ -929,8 +947,9 @@
                 "LAID_LAB": 4.088,
                 "pid": "643f25fe8ac547c328e48501"
             },
-            "_id": "689ce7358ac54766eae03247",
-            "paid": "689ce7358ac54766eae03247"
+            "paid": "689ce7358ac54766eae03247",
+            "id": "689ce7358ac54766eae03247",
+            "_id": "689ce7358ac54766eae03247"
         },
         {
             "type": "Feature",
@@ -978,8 +997,9 @@
                 "LAID_LAB": 5.497,
                 "pid": "643f25fe8ac547c328e48503"
             },
-            "_id": "689ce7358ac54766eae0324f",
-            "paid": "689ce7358ac54766eae0324f"
+            "paid": "689ce7358ac54766eae0324f",
+            "id": "689ce7358ac54766eae0324f",
+            "_id": "689ce7358ac54766eae0324f"
         },
         {
             "type": "Feature",
@@ -1027,8 +1047,9 @@
                 "LAID_LAB": 5.65,
                 "pid": "643f25fe8ac547c328e48506"
             },
-            "_id": "689ce7358ac54766eae0325b",
-            "paid": "689ce7358ac54766eae0325b"
+            "paid": "689ce7358ac54766eae0325b",
+            "id": "689ce7358ac54766eae0325b",
+            "_id": "689ce7358ac54766eae0325b"
         },
         {
             "type": "Feature",
@@ -1076,8 +1097,9 @@
                 "LAID_LAB": 4.732,
                 "pid": "643f25fe8ac547c328e48508"
             },
-            "_id": "689ce7358ac54766eae03263",
-            "paid": "689ce7358ac54766eae03263"
+            "paid": "689ce7358ac54766eae03263",
+            "id": "689ce7358ac54766eae03263",
+            "_id": "689ce7358ac54766eae03263"
         },
         {
             "type": "Feature",
@@ -1125,8 +1147,9 @@
                 "LAID_LAB": 4.257,
                 "pid": "643f25fe8ac547c328e48509"
             },
-            "_id": "689ce7358ac54766eae03267",
-            "paid": "689ce7358ac54766eae03267"
+            "paid": "689ce7358ac54766eae03267",
+            "id": "689ce7358ac54766eae03267",
+            "_id": "689ce7358ac54766eae03267"
         },
         {
             "type": "Feature",
@@ -1174,8 +1197,9 @@
                 "LAID_LAB": 3.12,
                 "pid": "643f25fe8ac547c328e4850c"
             },
-            "_id": "689ce7358ac54766eae03273",
-            "paid": "689ce7358ac54766eae03273"
+            "paid": "689ce7358ac54766eae03273",
+            "id": "689ce7358ac54766eae03273",
+            "_id": "689ce7358ac54766eae03273"
         },
         {
             "type": "Feature",
@@ -1223,8 +1247,9 @@
                 "LAID_LAB": 5.808,
                 "pid": "643f25fe8ac547c328e484fe"
             },
-            "_id": "689ce7358ac54766eae0323c",
-            "paid": "689ce7358ac54766eae0323c"
+            "paid": "689ce7358ac54766eae0323c",
+            "id": "689ce7358ac54766eae0323c",
+            "_id": "689ce7358ac54766eae0323c"
         },
         {
             "type": "Feature",
@@ -1272,8 +1297,9 @@
                 "LAID_LAB": 5.597,
                 "pid": "643f25fe8ac547c328e48500"
             },
-            "_id": "689ce7358ac54766eae03244",
-            "paid": "689ce7358ac54766eae03244"
+            "paid": "689ce7358ac54766eae03244",
+            "id": "689ce7358ac54766eae03244",
+            "_id": "689ce7358ac54766eae03244"
         },
         {
             "type": "Feature",
@@ -1321,8 +1347,9 @@
                 "LAID_LAB": 6.192,
                 "pid": "643f25fe8ac547c328e48502"
             },
-            "_id": "689ce7358ac54766eae0324c",
-            "paid": "689ce7358ac54766eae0324c"
+            "paid": "689ce7358ac54766eae0324c",
+            "id": "689ce7358ac54766eae0324c",
+            "_id": "689ce7358ac54766eae0324c"
         },
         {
             "type": "Feature",
@@ -1370,8 +1397,9 @@
                 "LAID_LAB": 5.543,
                 "pid": "643f25fe8ac547c328e48504"
             },
-            "_id": "689ce7358ac54766eae03254",
-            "paid": "689ce7358ac54766eae03254"
+            "paid": "689ce7358ac54766eae03254",
+            "id": "689ce7358ac54766eae03254",
+            "_id": "689ce7358ac54766eae03254"
         },
         {
             "type": "Feature",
@@ -1419,8 +1447,9 @@
                 "LAID_LAB": 8.061,
                 "pid": "643f25fe8ac547c328e48505"
             },
-            "_id": "689ce7358ac54766eae03258",
-            "paid": "689ce7358ac54766eae03258"
+            "paid": "689ce7358ac54766eae03258",
+            "id": "689ce7358ac54766eae03258",
+            "_id": "689ce7358ac54766eae03258"
         },
         {
             "type": "Feature",
@@ -1468,8 +1497,9 @@
                 "LAID_LAB": 5.827,
                 "pid": "643f25fe8ac547c328e48507"
             },
-            "_id": "689ce7358ac54766eae03260",
-            "paid": "689ce7358ac54766eae03260"
+            "paid": "689ce7358ac54766eae03260",
+            "id": "689ce7358ac54766eae03260",
+            "_id": "689ce7358ac54766eae03260"
         },
         {
             "type": "Feature",
@@ -1517,8 +1547,9 @@
                 "LAID_LAB": 5.44,
                 "pid": "643f25fe8ac547c328e4850a"
             },
-            "_id": "689ce7358ac54766eae0326c",
-            "paid": "689ce7358ac54766eae0326c"
+            "paid": "689ce7358ac54766eae0326c",
+            "id": "689ce7358ac54766eae0326c",
+            "_id": "689ce7358ac54766eae0326c"
         },
         {
             "type": "Feature",
@@ -1566,8 +1597,9 @@
                 "LAID_LAB": 5.671,
                 "pid": "643f25fe8ac547c328e4850b"
             },
-            "_id": "689ce7358ac54766eae03270",
-            "paid": "689ce7358ac54766eae03270"
+            "paid": "689ce7358ac54766eae03270",
+            "id": "689ce7358ac54766eae03270",
+            "_id": "689ce7358ac54766eae03270"
         }
     ]
 }

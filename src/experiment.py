@@ -31,8 +31,9 @@ class Experiment:
             self.eid = str(bson.objectid.ObjectId())
         if not bson.objectid.ObjectId.is_valid(eid):
             raise ValueError('Invalid ObjectId in Experiment')
-        self.doc.update({'_id':self.eid})
         self.doc.update({'eid':self.eid})
+        self.doc.update({'id':self.eid}) #geojson standard id
+        self.doc.update({'_id':self.eid}) #mongodb primary key
 
         #Set feature properties
         self.exp_label = exp_label

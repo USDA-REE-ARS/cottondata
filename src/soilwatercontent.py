@@ -27,8 +27,9 @@ class SoilWaterContent:
             self.swcid = str(bson.objectid.ObjectId())
         if not bson.objectid.ObjectId.is_valid(swcid):
             raise ValueError('Invalid ObjectId in SoilWaterContent')
-        self.doc.update({'_id':self.swcid})
         self.doc.update({'swcid':self.swcid})
+        self.doc.update({'id':self.swcid}) #geojson standard id
+        self.doc.update({'_id':self.swcid}) #mongodb primary key
 
         #Set feature properties
         if tb_label is not None:

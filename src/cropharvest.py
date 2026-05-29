@@ -31,8 +31,9 @@ class CropHarvest:
             self.chid = str(bson.objectid.ObjectId())
         if not bson.objectid.ObjectId.is_valid(chid):
             raise ValueError('Invalid ObjectId in CropHarvest')
-        self.doc.update({'_id':self.chid})
         self.doc.update({'chid':self.chid})
+        self.doc.update({'id':self.chid}) #geojson standard id
+        self.doc.update({'_id':self.chid}) #mongodb primary key
 
         #Set feature properties
         if ha_label is not None:

@@ -33,8 +33,9 @@
                 "LAID_LAB": 0.1,
                 "pid": "64246dc78ac5470a33c9fe15"
             },
-            "_id": "67f6c7638ac5478ec56ca0f3",
-            "paid": "67f6c7638ac5478ec56ca0f3"
+            "paid": "67f6c7638ac5478ec56ca0f3",
+            "id": "67f6c7638ac5478ec56ca0f3",
+            "_id": "67f6c7638ac5478ec56ca0f3"
         },
         {
             "type": "Feature",
@@ -69,8 +70,9 @@
                 "LAID_LAB": 0.433,
                 "pid": "64246dc78ac5470a33c9fe15"
             },
-            "_id": "67f6c7638ac5478ec56ca0f4",
-            "paid": "67f6c7638ac5478ec56ca0f4"
+            "paid": "67f6c7638ac5478ec56ca0f4",
+            "id": "67f6c7638ac5478ec56ca0f4",
+            "_id": "67f6c7638ac5478ec56ca0f4"
         },
         {
             "type": "Feature",
@@ -105,8 +107,9 @@
                 "LAID_LAB": 1.207,
                 "pid": "64246dc78ac5470a33c9fe15"
             },
-            "_id": "67f6c7638ac5478ec56ca0f5",
-            "paid": "67f6c7638ac5478ec56ca0f5"
+            "paid": "67f6c7638ac5478ec56ca0f5",
+            "id": "67f6c7638ac5478ec56ca0f5",
+            "_id": "67f6c7638ac5478ec56ca0f5"
         },
         {
             "type": "Feature",
@@ -141,8 +144,9 @@
                 "LAID_LAB": 2.349,
                 "pid": "64246dc78ac5470a33c9fe15"
             },
-            "_id": "67f6c7638ac5478ec56ca0f6",
-            "paid": "67f6c7638ac5478ec56ca0f6"
+            "paid": "67f6c7638ac5478ec56ca0f6",
+            "id": "67f6c7638ac5478ec56ca0f6",
+            "_id": "67f6c7638ac5478ec56ca0f6"
         },
         {
             "type": "Feature",
@@ -177,8 +181,9 @@
                 "LAID_LAB": 4.169,
                 "pid": "64246dc78ac5470a33c9fe15"
             },
-            "_id": "67f6c7638ac5478ec56ca0f7",
-            "paid": "67f6c7638ac5478ec56ca0f7"
+            "paid": "67f6c7638ac5478ec56ca0f7",
+            "id": "67f6c7638ac5478ec56ca0f7",
+            "_id": "67f6c7638ac5478ec56ca0f7"
         },
         {
             "type": "Feature",
@@ -213,8 +218,9 @@
                 "LAID_LAB": 2.604,
                 "pid": "64246dc78ac5470a33c9fe15"
             },
-            "_id": "67f6c7638ac5478ec56ca0f8",
-            "paid": "67f6c7638ac5478ec56ca0f8"
+            "paid": "67f6c7638ac5478ec56ca0f8",
+            "id": "67f6c7638ac5478ec56ca0f8",
+            "_id": "67f6c7638ac5478ec56ca0f8"
         },
         {
             "type": "Feature",
@@ -249,8 +255,9 @@
                 "LAID_LAB": 5.394,
                 "pid": "64246dc78ac5470a33c9fe15"
             },
-            "_id": "67f6c7638ac5478ec56ca0f9",
-            "paid": "67f6c7638ac5478ec56ca0f9"
+            "paid": "67f6c7638ac5478ec56ca0f9",
+            "id": "67f6c7638ac5478ec56ca0f9",
+            "_id": "67f6c7638ac5478ec56ca0f9"
         },
         {
             "type": "Feature",
@@ -285,8 +292,9 @@
                 "LAID_LAB": 6.061,
                 "pid": "64246dc78ac5470a33c9fe15"
             },
-            "_id": "67f6c7638ac5478ec56ca0fa",
-            "paid": "67f6c7638ac5478ec56ca0fa"
+            "paid": "67f6c7638ac5478ec56ca0fa",
+            "id": "67f6c7638ac5478ec56ca0fa",
+            "_id": "67f6c7638ac5478ec56ca0fa"
         },
         {
             "type": "Feature",
@@ -320,8 +328,9 @@
                 "LAID_LAB": 0.098,
                 "pid": "64246dc78ac5470a33c9fe16"
             },
-            "_id": "67f6c7638ac5478ec56ca0fb",
-            "paid": "67f6c7638ac5478ec56ca0fb"
+            "paid": "67f6c7638ac5478ec56ca0fb",
+            "id": "67f6c7638ac5478ec56ca0fb",
+            "_id": "67f6c7638ac5478ec56ca0fb"
         },
         {
             "type": "Feature",
@@ -356,8 +365,9 @@
                 "LAID_LAB": 0.513,
                 "pid": "64246dc78ac5470a33c9fe16"
             },
-            "_id": "67f6c7638ac5478ec56ca0fc",
-            "paid": "67f6c7638ac5478ec56ca0fc"
+            "paid": "67f6c7638ac5478ec56ca0fc",
+            "id": "67f6c7638ac5478ec56ca0fc",
+            "_id": "67f6c7638ac5478ec56ca0fc"
         },
         {
             "type": "Feature",
@@ -392,8 +402,9 @@
                 "LAID_LAB": 1.495,
                 "pid": "64246dc78ac5470a33c9fe16"
             },
-            "_id": "67f6c7638ac5478ec56ca0fd",
-            "paid": "67f6c7638ac5478ec56ca0fd"
+            "paid": "67f6c7638ac5478ec56ca0fd",
+            "id": "67f6c7638ac5478ec56ca0fd",
+            "_id": "67f6c7638ac5478ec56ca0fd"
         },
         {
             "type": "Feature",
@@ -428,8 +439,9 @@
                 "LAID_LAB": 2.657,
                 "pid": "64246dc78ac5470a33c9fe16"
             },
-            "_id": "67f6c7638ac5478ec56ca0fe",
-            "paid": "67f6c7638ac5478ec56ca0fe"
+            "paid": "67f6c7638ac5478ec56ca0fe",
+            "id": "67f6c7638ac5478ec56ca0fe",
+            "_id": "67f6c7638ac5478ec56ca0fe"
         },
         {
             "type": "Feature",
@@ -464,8 +476,9 @@
                 "LAID_LAB": 2.032,
                 "pid": "64246dc78ac5470a33c9fe16"
             },
-            "_id": "67f6c7638ac5478ec56ca0ff",
-            "paid": "67f6c7638ac5478ec56ca0ff"
+            "paid": "67f6c7638ac5478ec56ca0ff",
+            "id": "67f6c7638ac5478ec56ca0ff",
+            "_id": "67f6c7638ac5478ec56ca0ff"
         },
         {
             "type": "Feature",
@@ -500,8 +513,9 @@
                 "LAID_LAB": 1.426,
                 "pid": "64246dc78ac5470a33c9fe16"
             },
-            "_id": "67f6c7638ac5478ec56ca100",
-            "paid": "67f6c7638ac5478ec56ca100"
+            "paid": "67f6c7638ac5478ec56ca100",
+            "id": "67f6c7638ac5478ec56ca100",
+            "_id": "67f6c7638ac5478ec56ca100"
         },
         {
             "type": "Feature",
@@ -536,8 +550,9 @@
                 "LAID_LAB": 1.798,
                 "pid": "64246dc78ac5470a33c9fe16"
             },
-            "_id": "67f6c7638ac5478ec56ca101",
-            "paid": "67f6c7638ac5478ec56ca101"
+            "paid": "67f6c7638ac5478ec56ca101",
+            "id": "67f6c7638ac5478ec56ca101",
+            "_id": "67f6c7638ac5478ec56ca101"
         },
         {
             "type": "Feature",
@@ -572,8 +587,9 @@
                 "LAID_LAB": 4.214,
                 "pid": "64246dc78ac5470a33c9fe16"
             },
-            "_id": "67f6c7638ac5478ec56ca102",
-            "paid": "67f6c7638ac5478ec56ca102"
+            "paid": "67f6c7638ac5478ec56ca102",
+            "id": "67f6c7638ac5478ec56ca102",
+            "_id": "67f6c7638ac5478ec56ca102"
         },
         {
             "type": "Feature",
@@ -607,8 +623,9 @@
                 "LAID_LAB": 0.053,
                 "pid": "64246dc78ac5470a33c9fe17"
             },
-            "_id": "67f6c7638ac5478ec56ca103",
-            "paid": "67f6c7638ac5478ec56ca103"
+            "paid": "67f6c7638ac5478ec56ca103",
+            "id": "67f6c7638ac5478ec56ca103",
+            "_id": "67f6c7638ac5478ec56ca103"
         },
         {
             "type": "Feature",
@@ -643,8 +660,9 @@
                 "LAID_LAB": 0.398,
                 "pid": "64246dc78ac5470a33c9fe17"
             },
-            "_id": "67f6c7638ac5478ec56ca104",
-            "paid": "67f6c7638ac5478ec56ca104"
+            "paid": "67f6c7638ac5478ec56ca104",
+            "id": "67f6c7638ac5478ec56ca104",
+            "_id": "67f6c7638ac5478ec56ca104"
         },
         {
             "type": "Feature",
@@ -679,8 +697,9 @@
                 "LAID_LAB": 1.15,
                 "pid": "64246dc78ac5470a33c9fe17"
             },
-            "_id": "67f6c7638ac5478ec56ca105",
-            "paid": "67f6c7638ac5478ec56ca105"
+            "paid": "67f6c7638ac5478ec56ca105",
+            "id": "67f6c7638ac5478ec56ca105",
+            "_id": "67f6c7638ac5478ec56ca105"
         },
         {
             "type": "Feature",
@@ -715,8 +734,9 @@
                 "LAID_LAB": 2.474,
                 "pid": "64246dc78ac5470a33c9fe17"
             },
-            "_id": "67f6c7638ac5478ec56ca106",
-            "paid": "67f6c7638ac5478ec56ca106"
+            "paid": "67f6c7638ac5478ec56ca106",
+            "id": "67f6c7638ac5478ec56ca106",
+            "_id": "67f6c7638ac5478ec56ca106"
         },
         {
             "type": "Feature",
@@ -751,8 +771,9 @@
                 "LAID_LAB": 1.59,
                 "pid": "64246dc78ac5470a33c9fe17"
             },
-            "_id": "67f6c7638ac5478ec56ca107",
-            "paid": "67f6c7638ac5478ec56ca107"
+            "paid": "67f6c7638ac5478ec56ca107",
+            "id": "67f6c7638ac5478ec56ca107",
+            "_id": "67f6c7638ac5478ec56ca107"
         },
         {
             "type": "Feature",
@@ -787,8 +808,9 @@
                 "LAID_LAB": 2.986,
                 "pid": "64246dc78ac5470a33c9fe17"
             },
-            "_id": "67f6c7638ac5478ec56ca108",
-            "paid": "67f6c7638ac5478ec56ca108"
+            "paid": "67f6c7638ac5478ec56ca108",
+            "id": "67f6c7638ac5478ec56ca108",
+            "_id": "67f6c7638ac5478ec56ca108"
         },
         {
             "type": "Feature",
@@ -823,8 +845,9 @@
                 "LAID_LAB": 3.547,
                 "pid": "64246dc78ac5470a33c9fe17"
             },
-            "_id": "67f6c7638ac5478ec56ca109",
-            "paid": "67f6c7638ac5478ec56ca109"
+            "paid": "67f6c7638ac5478ec56ca109",
+            "id": "67f6c7638ac5478ec56ca109",
+            "_id": "67f6c7638ac5478ec56ca109"
         },
         {
             "type": "Feature",
@@ -859,8 +882,9 @@
                 "LAID_LAB": 3.47,
                 "pid": "64246dc78ac5470a33c9fe17"
             },
-            "_id": "67f6c7638ac5478ec56ca10a",
-            "paid": "67f6c7638ac5478ec56ca10a"
+            "paid": "67f6c7638ac5478ec56ca10a",
+            "id": "67f6c7638ac5478ec56ca10a",
+            "_id": "67f6c7638ac5478ec56ca10a"
         },
         {
             "type": "Feature",
@@ -894,8 +918,9 @@
                 "LAID_LAB": 0.088,
                 "pid": "64246dc78ac5470a33c9fe18"
             },
-            "_id": "67f6c7638ac5478ec56ca10b",
-            "paid": "67f6c7638ac5478ec56ca10b"
+            "paid": "67f6c7638ac5478ec56ca10b",
+            "id": "67f6c7638ac5478ec56ca10b",
+            "_id": "67f6c7638ac5478ec56ca10b"
         },
         {
             "type": "Feature",
@@ -930,8 +955,9 @@
                 "LAID_LAB": 0.435,
                 "pid": "64246dc78ac5470a33c9fe18"
             },
-            "_id": "67f6c7638ac5478ec56ca10c",
-            "paid": "67f6c7638ac5478ec56ca10c"
+            "paid": "67f6c7638ac5478ec56ca10c",
+            "id": "67f6c7638ac5478ec56ca10c",
+            "_id": "67f6c7638ac5478ec56ca10c"
         },
         {
             "type": "Feature",
@@ -966,8 +992,9 @@
                 "LAID_LAB": 1.574,
                 "pid": "64246dc78ac5470a33c9fe18"
             },
-            "_id": "67f6c7638ac5478ec56ca10d",
-            "paid": "67f6c7638ac5478ec56ca10d"
+            "paid": "67f6c7638ac5478ec56ca10d",
+            "id": "67f6c7638ac5478ec56ca10d",
+            "_id": "67f6c7638ac5478ec56ca10d"
         },
         {
             "type": "Feature",
@@ -1002,8 +1029,9 @@
                 "LAID_LAB": 2.766,
                 "pid": "64246dc78ac5470a33c9fe18"
             },
-            "_id": "67f6c7638ac5478ec56ca10e",
-            "paid": "67f6c7638ac5478ec56ca10e"
+            "paid": "67f6c7638ac5478ec56ca10e",
+            "id": "67f6c7638ac5478ec56ca10e",
+            "_id": "67f6c7638ac5478ec56ca10e"
         },
         {
             "type": "Feature",
@@ -1038,8 +1066,9 @@
                 "LAID_LAB": 2.841,
                 "pid": "64246dc78ac5470a33c9fe18"
             },
-            "_id": "67f6c7638ac5478ec56ca10f",
-            "paid": "67f6c7638ac5478ec56ca10f"
+            "paid": "67f6c7638ac5478ec56ca10f",
+            "id": "67f6c7638ac5478ec56ca10f",
+            "_id": "67f6c7638ac5478ec56ca10f"
         },
         {
             "type": "Feature",
@@ -1074,8 +1103,9 @@
                 "LAID_LAB": 3.606,
                 "pid": "64246dc78ac5470a33c9fe18"
             },
-            "_id": "67f6c7638ac5478ec56ca110",
-            "paid": "67f6c7638ac5478ec56ca110"
+            "paid": "67f6c7638ac5478ec56ca110",
+            "id": "67f6c7638ac5478ec56ca110",
+            "_id": "67f6c7638ac5478ec56ca110"
         },
         {
             "type": "Feature",
@@ -1110,8 +1140,9 @@
                 "LAID_LAB": 4.202,
                 "pid": "64246dc78ac5470a33c9fe18"
             },
-            "_id": "67f6c7638ac5478ec56ca111",
-            "paid": "67f6c7638ac5478ec56ca111"
+            "paid": "67f6c7638ac5478ec56ca111",
+            "id": "67f6c7638ac5478ec56ca111",
+            "_id": "67f6c7638ac5478ec56ca111"
         },
         {
             "type": "Feature",
@@ -1146,8 +1177,9 @@
                 "LAID_LAB": 4.372,
                 "pid": "64246dc78ac5470a33c9fe18"
             },
-            "_id": "67f6c7638ac5478ec56ca112",
-            "paid": "67f6c7638ac5478ec56ca112"
+            "paid": "67f6c7638ac5478ec56ca112",
+            "id": "67f6c7638ac5478ec56ca112",
+            "_id": "67f6c7638ac5478ec56ca112"
         },
         {
             "type": "Feature",
@@ -1181,8 +1213,9 @@
                 "LAID_LAB": 0.07,
                 "pid": "64246dc78ac5470a33c9fe19"
             },
-            "_id": "67f6c7638ac5478ec56ca113",
-            "paid": "67f6c7638ac5478ec56ca113"
+            "paid": "67f6c7638ac5478ec56ca113",
+            "id": "67f6c7638ac5478ec56ca113",
+            "_id": "67f6c7638ac5478ec56ca113"
         },
         {
             "type": "Feature",
@@ -1217,8 +1250,9 @@
                 "LAID_LAB": 0.45,
                 "pid": "64246dc78ac5470a33c9fe19"
             },
-            "_id": "67f6c7638ac5478ec56ca114",
-            "paid": "67f6c7638ac5478ec56ca114"
+            "paid": "67f6c7638ac5478ec56ca114",
+            "id": "67f6c7638ac5478ec56ca114",
+            "_id": "67f6c7638ac5478ec56ca114"
         },
         {
             "type": "Feature",
@@ -1253,8 +1287,9 @@
                 "LAID_LAB": 1.325,
                 "pid": "64246dc78ac5470a33c9fe19"
             },
-            "_id": "67f6c7638ac5478ec56ca115",
-            "paid": "67f6c7638ac5478ec56ca115"
+            "paid": "67f6c7638ac5478ec56ca115",
+            "id": "67f6c7638ac5478ec56ca115",
+            "_id": "67f6c7638ac5478ec56ca115"
         },
         {
             "type": "Feature",
@@ -1289,8 +1324,9 @@
                 "LAID_LAB": 1.415,
                 "pid": "64246dc78ac5470a33c9fe19"
             },
-            "_id": "67f6c7638ac5478ec56ca116",
-            "paid": "67f6c7638ac5478ec56ca116"
+            "paid": "67f6c7638ac5478ec56ca116",
+            "id": "67f6c7638ac5478ec56ca116",
+            "_id": "67f6c7638ac5478ec56ca116"
         },
         {
             "type": "Feature",
@@ -1325,8 +1361,9 @@
                 "LAID_LAB": 1.634,
                 "pid": "64246dc78ac5470a33c9fe19"
             },
-            "_id": "67f6c7638ac5478ec56ca117",
-            "paid": "67f6c7638ac5478ec56ca117"
+            "paid": "67f6c7638ac5478ec56ca117",
+            "id": "67f6c7638ac5478ec56ca117",
+            "_id": "67f6c7638ac5478ec56ca117"
         },
         {
             "type": "Feature",
@@ -1361,8 +1398,9 @@
                 "LAID_LAB": 1.881,
                 "pid": "64246dc78ac5470a33c9fe19"
             },
-            "_id": "67f6c7638ac5478ec56ca118",
-            "paid": "67f6c7638ac5478ec56ca118"
+            "paid": "67f6c7638ac5478ec56ca118",
+            "id": "67f6c7638ac5478ec56ca118",
+            "_id": "67f6c7638ac5478ec56ca118"
         },
         {
             "type": "Feature",
@@ -1397,8 +1435,9 @@
                 "LAID_LAB": 3.199,
                 "pid": "64246dc78ac5470a33c9fe19"
             },
-            "_id": "67f6c7638ac5478ec56ca119",
-            "paid": "67f6c7638ac5478ec56ca119"
+            "paid": "67f6c7638ac5478ec56ca119",
+            "id": "67f6c7638ac5478ec56ca119",
+            "_id": "67f6c7638ac5478ec56ca119"
         },
         {
             "type": "Feature",
@@ -1433,8 +1472,9 @@
                 "LAID_LAB": 2.914,
                 "pid": "64246dc78ac5470a33c9fe19"
             },
-            "_id": "67f6c7638ac5478ec56ca11a",
-            "paid": "67f6c7638ac5478ec56ca11a"
+            "paid": "67f6c7638ac5478ec56ca11a",
+            "id": "67f6c7638ac5478ec56ca11a",
+            "_id": "67f6c7638ac5478ec56ca11a"
         },
         {
             "type": "Feature",
@@ -1468,8 +1508,9 @@
                 "LAID_LAB": 0.073,
                 "pid": "64246dc78ac5470a33c9fe1a"
             },
-            "_id": "67f6c7638ac5478ec56ca11b",
-            "paid": "67f6c7638ac5478ec56ca11b"
+            "paid": "67f6c7638ac5478ec56ca11b",
+            "id": "67f6c7638ac5478ec56ca11b",
+            "_id": "67f6c7638ac5478ec56ca11b"
         },
         {
             "type": "Feature",
@@ -1504,8 +1545,9 @@
                 "LAID_LAB": 0.416,
                 "pid": "64246dc78ac5470a33c9fe1a"
             },
-            "_id": "67f6c7638ac5478ec56ca11c",
-            "paid": "67f6c7638ac5478ec56ca11c"
+            "paid": "67f6c7638ac5478ec56ca11c",
+            "id": "67f6c7638ac5478ec56ca11c",
+            "_id": "67f6c7638ac5478ec56ca11c"
         },
         {
             "type": "Feature",
@@ -1540,8 +1582,9 @@
                 "LAID_LAB": 1.117,
                 "pid": "64246dc78ac5470a33c9fe1a"
             },
-            "_id": "67f6c7638ac5478ec56ca11d",
-            "paid": "67f6c7638ac5478ec56ca11d"
+            "paid": "67f6c7638ac5478ec56ca11d",
+            "id": "67f6c7638ac5478ec56ca11d",
+            "_id": "67f6c7638ac5478ec56ca11d"
         },
         {
             "type": "Feature",
@@ -1576,8 +1619,9 @@
                 "LAID_LAB": 2.301,
                 "pid": "64246dc78ac5470a33c9fe1a"
             },
-            "_id": "67f6c7638ac5478ec56ca11e",
-            "paid": "67f6c7638ac5478ec56ca11e"
+            "paid": "67f6c7638ac5478ec56ca11e",
+            "id": "67f6c7638ac5478ec56ca11e",
+            "_id": "67f6c7638ac5478ec56ca11e"
         },
         {
             "type": "Feature",
@@ -1612,8 +1656,9 @@
                 "LAID_LAB": 4.242,
                 "pid": "64246dc78ac5470a33c9fe1a"
             },
-            "_id": "67f6c7638ac5478ec56ca11f",
-            "paid": "67f6c7638ac5478ec56ca11f"
+            "paid": "67f6c7638ac5478ec56ca11f",
+            "id": "67f6c7638ac5478ec56ca11f",
+            "_id": "67f6c7638ac5478ec56ca11f"
         },
         {
             "type": "Feature",
@@ -1648,8 +1693,9 @@
                 "LAID_LAB": 3.413,
                 "pid": "64246dc78ac5470a33c9fe1a"
             },
-            "_id": "67f6c7638ac5478ec56ca120",
-            "paid": "67f6c7638ac5478ec56ca120"
+            "paid": "67f6c7638ac5478ec56ca120",
+            "id": "67f6c7638ac5478ec56ca120",
+            "_id": "67f6c7638ac5478ec56ca120"
         },
         {
             "type": "Feature",
@@ -1684,8 +1730,9 @@
                 "LAID_LAB": 3.917,
                 "pid": "64246dc78ac5470a33c9fe1a"
             },
-            "_id": "67f6c7638ac5478ec56ca121",
-            "paid": "67f6c7638ac5478ec56ca121"
+            "paid": "67f6c7638ac5478ec56ca121",
+            "id": "67f6c7638ac5478ec56ca121",
+            "_id": "67f6c7638ac5478ec56ca121"
         },
         {
             "type": "Feature",
@@ -1720,8 +1767,9 @@
                 "LAID_LAB": 5.195,
                 "pid": "64246dc78ac5470a33c9fe1a"
             },
-            "_id": "67f6c7638ac5478ec56ca122",
-            "paid": "67f6c7638ac5478ec56ca122"
+            "paid": "67f6c7638ac5478ec56ca122",
+            "id": "67f6c7638ac5478ec56ca122",
+            "_id": "67f6c7638ac5478ec56ca122"
         },
         {
             "type": "Feature",
@@ -1755,8 +1803,9 @@
                 "LAID_LAB": 0.104,
                 "pid": "64246dc78ac5470a33c9fe1b"
             },
-            "_id": "67f6c7638ac5478ec56ca123",
-            "paid": "67f6c7638ac5478ec56ca123"
+            "paid": "67f6c7638ac5478ec56ca123",
+            "id": "67f6c7638ac5478ec56ca123",
+            "_id": "67f6c7638ac5478ec56ca123"
         },
         {
             "type": "Feature",
@@ -1791,8 +1840,9 @@
                 "LAID_LAB": 0.376,
                 "pid": "64246dc78ac5470a33c9fe1b"
             },
-            "_id": "67f6c7638ac5478ec56ca124",
-            "paid": "67f6c7638ac5478ec56ca124"
+            "paid": "67f6c7638ac5478ec56ca124",
+            "id": "67f6c7638ac5478ec56ca124",
+            "_id": "67f6c7638ac5478ec56ca124"
         },
         {
             "type": "Feature",
@@ -1827,8 +1877,9 @@
                 "LAID_LAB": 1.463,
                 "pid": "64246dc78ac5470a33c9fe1b"
             },
-            "_id": "67f6c7638ac5478ec56ca125",
-            "paid": "67f6c7638ac5478ec56ca125"
+            "paid": "67f6c7638ac5478ec56ca125",
+            "id": "67f6c7638ac5478ec56ca125",
+            "_id": "67f6c7638ac5478ec56ca125"
         },
         {
             "type": "Feature",
@@ -1863,8 +1914,9 @@
                 "LAID_LAB": 1.871,
                 "pid": "64246dc78ac5470a33c9fe1b"
             },
-            "_id": "67f6c7638ac5478ec56ca126",
-            "paid": "67f6c7638ac5478ec56ca126"
+            "paid": "67f6c7638ac5478ec56ca126",
+            "id": "67f6c7638ac5478ec56ca126",
+            "_id": "67f6c7638ac5478ec56ca126"
         },
         {
             "type": "Feature",
@@ -1899,8 +1951,9 @@
                 "LAID_LAB": 2.365,
                 "pid": "64246dc78ac5470a33c9fe1b"
             },
-            "_id": "67f6c7638ac5478ec56ca127",
-            "paid": "67f6c7638ac5478ec56ca127"
+            "paid": "67f6c7638ac5478ec56ca127",
+            "id": "67f6c7638ac5478ec56ca127",
+            "_id": "67f6c7638ac5478ec56ca127"
         },
         {
             "type": "Feature",
@@ -1935,8 +1988,9 @@
                 "LAID_LAB": 2.079,
                 "pid": "64246dc78ac5470a33c9fe1b"
             },
-            "_id": "67f6c7638ac5478ec56ca128",
-            "paid": "67f6c7638ac5478ec56ca128"
+            "paid": "67f6c7638ac5478ec56ca128",
+            "id": "67f6c7638ac5478ec56ca128",
+            "_id": "67f6c7638ac5478ec56ca128"
         },
         {
             "type": "Feature",
@@ -1971,8 +2025,9 @@
                 "LAID_LAB": 2.421,
                 "pid": "64246dc78ac5470a33c9fe1b"
             },
-            "_id": "67f6c7638ac5478ec56ca129",
-            "paid": "67f6c7638ac5478ec56ca129"
+            "paid": "67f6c7638ac5478ec56ca129",
+            "id": "67f6c7638ac5478ec56ca129",
+            "_id": "67f6c7638ac5478ec56ca129"
         },
         {
             "type": "Feature",
@@ -2007,8 +2062,9 @@
                 "LAID_LAB": 3.008,
                 "pid": "64246dc78ac5470a33c9fe1b"
             },
-            "_id": "67f6c7638ac5478ec56ca12a",
-            "paid": "67f6c7638ac5478ec56ca12a"
+            "paid": "67f6c7638ac5478ec56ca12a",
+            "id": "67f6c7638ac5478ec56ca12a",
+            "_id": "67f6c7638ac5478ec56ca12a"
         },
         {
             "type": "Feature",
@@ -2042,8 +2098,9 @@
                 "LAID_LAB": 0.075,
                 "pid": "64246dc78ac5470a33c9fe1c"
             },
-            "_id": "67f6c7638ac5478ec56ca12b",
-            "paid": "67f6c7638ac5478ec56ca12b"
+            "paid": "67f6c7638ac5478ec56ca12b",
+            "id": "67f6c7638ac5478ec56ca12b",
+            "_id": "67f6c7638ac5478ec56ca12b"
         },
         {
             "type": "Feature",
@@ -2078,8 +2135,9 @@
                 "LAID_LAB": 0.507,
                 "pid": "64246dc78ac5470a33c9fe1c"
             },
-            "_id": "67f6c7638ac5478ec56ca12c",
-            "paid": "67f6c7638ac5478ec56ca12c"
+            "paid": "67f6c7638ac5478ec56ca12c",
+            "id": "67f6c7638ac5478ec56ca12c",
+            "_id": "67f6c7638ac5478ec56ca12c"
         },
         {
             "type": "Feature",
@@ -2114,8 +2172,9 @@
                 "LAID_LAB": 0.893,
                 "pid": "64246dc78ac5470a33c9fe1c"
             },
-            "_id": "67f6c7638ac5478ec56ca12d",
-            "paid": "67f6c7638ac5478ec56ca12d"
+            "paid": "67f6c7638ac5478ec56ca12d",
+            "id": "67f6c7638ac5478ec56ca12d",
+            "_id": "67f6c7638ac5478ec56ca12d"
         },
         {
             "type": "Feature",
@@ -2150,8 +2209,9 @@
                 "LAID_LAB": 3.677,
                 "pid": "64246dc78ac5470a33c9fe1c"
             },
-            "_id": "67f6c7638ac5478ec56ca12e",
-            "paid": "67f6c7638ac5478ec56ca12e"
+            "paid": "67f6c7638ac5478ec56ca12e",
+            "id": "67f6c7638ac5478ec56ca12e",
+            "_id": "67f6c7638ac5478ec56ca12e"
         },
         {
             "type": "Feature",
@@ -2186,8 +2246,9 @@
                 "LAID_LAB": 2.849,
                 "pid": "64246dc78ac5470a33c9fe1c"
             },
-            "_id": "67f6c7638ac5478ec56ca12f",
-            "paid": "67f6c7638ac5478ec56ca12f"
+            "paid": "67f6c7638ac5478ec56ca12f",
+            "id": "67f6c7638ac5478ec56ca12f",
+            "_id": "67f6c7638ac5478ec56ca12f"
         },
         {
             "type": "Feature",
@@ -2222,8 +2283,9 @@
                 "LAID_LAB": 5.815,
                 "pid": "64246dc78ac5470a33c9fe1c"
             },
-            "_id": "67f6c7638ac5478ec56ca130",
-            "paid": "67f6c7638ac5478ec56ca130"
+            "paid": "67f6c7638ac5478ec56ca130",
+            "id": "67f6c7638ac5478ec56ca130",
+            "_id": "67f6c7638ac5478ec56ca130"
         },
         {
             "type": "Feature",
@@ -2258,8 +2320,9 @@
                 "LAID_LAB": 3.213,
                 "pid": "64246dc78ac5470a33c9fe1c"
             },
-            "_id": "67f6c7638ac5478ec56ca131",
-            "paid": "67f6c7638ac5478ec56ca131"
+            "paid": "67f6c7638ac5478ec56ca131",
+            "id": "67f6c7638ac5478ec56ca131",
+            "_id": "67f6c7638ac5478ec56ca131"
         },
         {
             "type": "Feature",
@@ -2294,8 +2357,9 @@
                 "LAID_LAB": 6.848,
                 "pid": "64246dc78ac5470a33c9fe1c"
             },
-            "_id": "67f6c7638ac5478ec56ca132",
-            "paid": "67f6c7638ac5478ec56ca132"
+            "paid": "67f6c7638ac5478ec56ca132",
+            "id": "67f6c7638ac5478ec56ca132",
+            "_id": "67f6c7638ac5478ec56ca132"
         },
         {
             "type": "Feature",
@@ -2329,8 +2393,9 @@
                 "LAID_LAB": 0.067,
                 "pid": "64246dc78ac5470a33c9fe1d"
             },
-            "_id": "67f6c7638ac5478ec56ca133",
-            "paid": "67f6c7638ac5478ec56ca133"
+            "paid": "67f6c7638ac5478ec56ca133",
+            "id": "67f6c7638ac5478ec56ca133",
+            "_id": "67f6c7638ac5478ec56ca133"
         },
         {
             "type": "Feature",
@@ -2365,8 +2430,9 @@
                 "LAID_LAB": 0.296,
                 "pid": "64246dc78ac5470a33c9fe1d"
             },
-            "_id": "67f6c7638ac5478ec56ca134",
-            "paid": "67f6c7638ac5478ec56ca134"
+            "paid": "67f6c7638ac5478ec56ca134",
+            "id": "67f6c7638ac5478ec56ca134",
+            "_id": "67f6c7638ac5478ec56ca134"
         },
         {
             "type": "Feature",
@@ -2401,8 +2467,9 @@
                 "LAID_LAB": 1.207,
                 "pid": "64246dc78ac5470a33c9fe1d"
             },
-            "_id": "67f6c7638ac5478ec56ca135",
-            "paid": "67f6c7638ac5478ec56ca135"
+            "paid": "67f6c7638ac5478ec56ca135",
+            "id": "67f6c7638ac5478ec56ca135",
+            "_id": "67f6c7638ac5478ec56ca135"
         },
         {
             "type": "Feature",
@@ -2436,8 +2503,9 @@
                 "CWAD": 5918.0,
                 "pid": "64246dc78ac5470a33c9fe1d"
             },
-            "_id": "67f6c7638ac5478ec56ca136",
-            "paid": "67f6c7638ac5478ec56ca136"
+            "paid": "67f6c7638ac5478ec56ca136",
+            "id": "67f6c7638ac5478ec56ca136",
+            "_id": "67f6c7638ac5478ec56ca136"
         },
         {
             "type": "Feature",
@@ -2472,8 +2540,9 @@
                 "LAID_LAB": 2.395,
                 "pid": "64246dc78ac5470a33c9fe1d"
             },
-            "_id": "67f6c7638ac5478ec56ca137",
-            "paid": "67f6c7638ac5478ec56ca137"
+            "paid": "67f6c7638ac5478ec56ca137",
+            "id": "67f6c7638ac5478ec56ca137",
+            "_id": "67f6c7638ac5478ec56ca137"
         },
         {
             "type": "Feature",
@@ -2508,8 +2577,9 @@
                 "LAID_LAB": 3.088,
                 "pid": "64246dc78ac5470a33c9fe1d"
             },
-            "_id": "67f6c7638ac5478ec56ca138",
-            "paid": "67f6c7638ac5478ec56ca138"
+            "paid": "67f6c7638ac5478ec56ca138",
+            "id": "67f6c7638ac5478ec56ca138",
+            "_id": "67f6c7638ac5478ec56ca138"
         },
         {
             "type": "Feature",
@@ -2544,8 +2614,9 @@
                 "LAID_LAB": 2.809,
                 "pid": "64246dc78ac5470a33c9fe1d"
             },
-            "_id": "67f6c7638ac5478ec56ca139",
-            "paid": "67f6c7638ac5478ec56ca139"
+            "paid": "67f6c7638ac5478ec56ca139",
+            "id": "67f6c7638ac5478ec56ca139",
+            "_id": "67f6c7638ac5478ec56ca139"
         },
         {
             "type": "Feature",
@@ -2580,8 +2651,9 @@
                 "LAID_LAB": 3.683,
                 "pid": "64246dc78ac5470a33c9fe1d"
             },
-            "_id": "67f6c7638ac5478ec56ca13a",
-            "paid": "67f6c7638ac5478ec56ca13a"
+            "paid": "67f6c7638ac5478ec56ca13a",
+            "id": "67f6c7638ac5478ec56ca13a",
+            "_id": "67f6c7638ac5478ec56ca13a"
         },
         {
             "type": "Feature",
@@ -2615,8 +2687,9 @@
                 "LAID_LAB": 0.054,
                 "pid": "64246dc78ac5470a33c9fe1e"
             },
-            "_id": "67f6c7638ac5478ec56ca13b",
-            "paid": "67f6c7638ac5478ec56ca13b"
+            "paid": "67f6c7638ac5478ec56ca13b",
+            "id": "67f6c7638ac5478ec56ca13b",
+            "_id": "67f6c7638ac5478ec56ca13b"
         },
         {
             "type": "Feature",
@@ -2651,8 +2724,9 @@
                 "LAID_LAB": 0.497,
                 "pid": "64246dc78ac5470a33c9fe1e"
             },
-            "_id": "67f6c7638ac5478ec56ca13c",
-            "paid": "67f6c7638ac5478ec56ca13c"
+            "paid": "67f6c7638ac5478ec56ca13c",
+            "id": "67f6c7638ac5478ec56ca13c",
+            "_id": "67f6c7638ac5478ec56ca13c"
         },
         {
             "type": "Feature",
@@ -2687,8 +2761,9 @@
                 "LAID_LAB": 1.253,
                 "pid": "64246dc78ac5470a33c9fe1e"
             },
-            "_id": "67f6c7638ac5478ec56ca13d",
-            "paid": "67f6c7638ac5478ec56ca13d"
+            "paid": "67f6c7638ac5478ec56ca13d",
+            "id": "67f6c7638ac5478ec56ca13d",
+            "_id": "67f6c7638ac5478ec56ca13d"
         },
         {
             "type": "Feature",
@@ -2723,8 +2798,9 @@
                 "LAID_LAB": 2.678,
                 "pid": "64246dc78ac5470a33c9fe1e"
             },
-            "_id": "67f6c7638ac5478ec56ca13e",
-            "paid": "67f6c7638ac5478ec56ca13e"
+            "paid": "67f6c7638ac5478ec56ca13e",
+            "id": "67f6c7638ac5478ec56ca13e",
+            "_id": "67f6c7638ac5478ec56ca13e"
         },
         {
             "type": "Feature",
@@ -2759,8 +2835,9 @@
                 "LAID_LAB": 2.861,
                 "pid": "64246dc78ac5470a33c9fe1e"
             },
-            "_id": "67f6c7638ac5478ec56ca13f",
-            "paid": "67f6c7638ac5478ec56ca13f"
+            "paid": "67f6c7638ac5478ec56ca13f",
+            "id": "67f6c7638ac5478ec56ca13f",
+            "_id": "67f6c7638ac5478ec56ca13f"
         },
         {
             "type": "Feature",
@@ -2795,8 +2872,9 @@
                 "LAID_LAB": 2.265,
                 "pid": "64246dc78ac5470a33c9fe1e"
             },
-            "_id": "67f6c7638ac5478ec56ca140",
-            "paid": "67f6c7638ac5478ec56ca140"
+            "paid": "67f6c7638ac5478ec56ca140",
+            "id": "67f6c7638ac5478ec56ca140",
+            "_id": "67f6c7638ac5478ec56ca140"
         },
         {
             "type": "Feature",
@@ -2831,8 +2909,9 @@
                 "LAID_LAB": 2.718,
                 "pid": "64246dc78ac5470a33c9fe1e"
             },
-            "_id": "67f6c7638ac5478ec56ca141",
-            "paid": "67f6c7638ac5478ec56ca141"
+            "paid": "67f6c7638ac5478ec56ca141",
+            "id": "67f6c7638ac5478ec56ca141",
+            "_id": "67f6c7638ac5478ec56ca141"
         },
         {
             "type": "Feature",
@@ -2867,8 +2946,9 @@
                 "LAID_LAB": 3.901,
                 "pid": "64246dc78ac5470a33c9fe1e"
             },
-            "_id": "67f6c7638ac5478ec56ca142",
-            "paid": "67f6c7638ac5478ec56ca142"
+            "paid": "67f6c7638ac5478ec56ca142",
+            "id": "67f6c7638ac5478ec56ca142",
+            "_id": "67f6c7638ac5478ec56ca142"
         },
         {
             "type": "Feature",
@@ -2902,8 +2982,9 @@
                 "LAID_LAB": 0.061,
                 "pid": "64246dc78ac5470a33c9fe1f"
             },
-            "_id": "67f6c7638ac5478ec56ca143",
-            "paid": "67f6c7638ac5478ec56ca143"
+            "paid": "67f6c7638ac5478ec56ca143",
+            "id": "67f6c7638ac5478ec56ca143",
+            "_id": "67f6c7638ac5478ec56ca143"
         },
         {
             "type": "Feature",
@@ -2938,8 +3019,9 @@
                 "LAID_LAB": 0.52,
                 "pid": "64246dc78ac5470a33c9fe1f"
             },
-            "_id": "67f6c7638ac5478ec56ca144",
-            "paid": "67f6c7638ac5478ec56ca144"
+            "paid": "67f6c7638ac5478ec56ca144",
+            "id": "67f6c7638ac5478ec56ca144",
+            "_id": "67f6c7638ac5478ec56ca144"
         },
         {
             "type": "Feature",
@@ -2974,8 +3056,9 @@
                 "LAID_LAB": 1.036,
                 "pid": "64246dc78ac5470a33c9fe1f"
             },
-            "_id": "67f6c7638ac5478ec56ca145",
-            "paid": "67f6c7638ac5478ec56ca145"
+            "paid": "67f6c7638ac5478ec56ca145",
+            "id": "67f6c7638ac5478ec56ca145",
+            "_id": "67f6c7638ac5478ec56ca145"
         },
         {
             "type": "Feature",
@@ -3010,8 +3093,9 @@
                 "LAID_LAB": 2.088,
                 "pid": "64246dc78ac5470a33c9fe1f"
             },
-            "_id": "67f6c7638ac5478ec56ca146",
-            "paid": "67f6c7638ac5478ec56ca146"
+            "paid": "67f6c7638ac5478ec56ca146",
+            "id": "67f6c7638ac5478ec56ca146",
+            "_id": "67f6c7638ac5478ec56ca146"
         },
         {
             "type": "Feature",
@@ -3046,8 +3130,9 @@
                 "LAID_LAB": 3.828,
                 "pid": "64246dc78ac5470a33c9fe1f"
             },
-            "_id": "67f6c7638ac5478ec56ca147",
-            "paid": "67f6c7638ac5478ec56ca147"
+            "paid": "67f6c7638ac5478ec56ca147",
+            "id": "67f6c7638ac5478ec56ca147",
+            "_id": "67f6c7638ac5478ec56ca147"
         },
         {
             "type": "Feature",
@@ -3082,8 +3167,9 @@
                 "LAID_LAB": 1.925,
                 "pid": "64246dc78ac5470a33c9fe1f"
             },
-            "_id": "67f6c7638ac5478ec56ca148",
-            "paid": "67f6c7638ac5478ec56ca148"
+            "paid": "67f6c7638ac5478ec56ca148",
+            "id": "67f6c7638ac5478ec56ca148",
+            "_id": "67f6c7638ac5478ec56ca148"
         },
         {
             "type": "Feature",
@@ -3118,8 +3204,9 @@
                 "LAID_LAB": 4.994,
                 "pid": "64246dc78ac5470a33c9fe1f"
             },
-            "_id": "67f6c7638ac5478ec56ca149",
-            "paid": "67f6c7638ac5478ec56ca149"
+            "paid": "67f6c7638ac5478ec56ca149",
+            "id": "67f6c7638ac5478ec56ca149",
+            "_id": "67f6c7638ac5478ec56ca149"
         },
         {
             "type": "Feature",
@@ -3154,8 +3241,9 @@
                 "LAID_LAB": 4.279,
                 "pid": "64246dc78ac5470a33c9fe1f"
             },
-            "_id": "67f6c7638ac5478ec56ca14a",
-            "paid": "67f6c7638ac5478ec56ca14a"
+            "paid": "67f6c7638ac5478ec56ca14a",
+            "id": "67f6c7638ac5478ec56ca14a",
+            "_id": "67f6c7638ac5478ec56ca14a"
         },
         {
             "type": "Feature",
@@ -3189,8 +3277,9 @@
                 "LAID_LAB": 0.058,
                 "pid": "64246dc78ac5470a33c9fe20"
             },
-            "_id": "67f6c7638ac5478ec56ca14b",
-            "paid": "67f6c7638ac5478ec56ca14b"
+            "paid": "67f6c7638ac5478ec56ca14b",
+            "id": "67f6c7638ac5478ec56ca14b",
+            "_id": "67f6c7638ac5478ec56ca14b"
         },
         {
             "type": "Feature",
@@ -3225,8 +3314,9 @@
                 "LAID_LAB": 0.39,
                 "pid": "64246dc78ac5470a33c9fe20"
             },
-            "_id": "67f6c7638ac5478ec56ca14c",
-            "paid": "67f6c7638ac5478ec56ca14c"
+            "paid": "67f6c7638ac5478ec56ca14c",
+            "id": "67f6c7638ac5478ec56ca14c",
+            "_id": "67f6c7638ac5478ec56ca14c"
         },
         {
             "type": "Feature",
@@ -3261,8 +3351,9 @@
                 "LAID_LAB": 1.263,
                 "pid": "64246dc78ac5470a33c9fe20"
             },
-            "_id": "67f6c7638ac5478ec56ca14d",
-            "paid": "67f6c7638ac5478ec56ca14d"
+            "paid": "67f6c7638ac5478ec56ca14d",
+            "id": "67f6c7638ac5478ec56ca14d",
+            "_id": "67f6c7638ac5478ec56ca14d"
         },
         {
             "type": "Feature",
@@ -3297,8 +3388,9 @@
                 "LAID_LAB": 2.781,
                 "pid": "64246dc78ac5470a33c9fe20"
             },
-            "_id": "67f6c7638ac5478ec56ca14e",
-            "paid": "67f6c7638ac5478ec56ca14e"
+            "paid": "67f6c7638ac5478ec56ca14e",
+            "id": "67f6c7638ac5478ec56ca14e",
+            "_id": "67f6c7638ac5478ec56ca14e"
         },
         {
             "type": "Feature",
@@ -3333,8 +3425,9 @@
                 "LAID_LAB": 4.38,
                 "pid": "64246dc78ac5470a33c9fe20"
             },
-            "_id": "67f6c7638ac5478ec56ca14f",
-            "paid": "67f6c7638ac5478ec56ca14f"
+            "paid": "67f6c7638ac5478ec56ca14f",
+            "id": "67f6c7638ac5478ec56ca14f",
+            "_id": "67f6c7638ac5478ec56ca14f"
         },
         {
             "type": "Feature",
@@ -3369,8 +3462,9 @@
                 "LAID_LAB": 2.606,
                 "pid": "64246dc78ac5470a33c9fe20"
             },
-            "_id": "67f6c7638ac5478ec56ca150",
-            "paid": "67f6c7638ac5478ec56ca150"
+            "paid": "67f6c7638ac5478ec56ca150",
+            "id": "67f6c7638ac5478ec56ca150",
+            "_id": "67f6c7638ac5478ec56ca150"
         },
         {
             "type": "Feature",
@@ -3405,8 +3499,9 @@
                 "LAID_LAB": 2.222,
                 "pid": "64246dc78ac5470a33c9fe20"
             },
-            "_id": "67f6c7638ac5478ec56ca151",
-            "paid": "67f6c7638ac5478ec56ca151"
+            "paid": "67f6c7638ac5478ec56ca151",
+            "id": "67f6c7638ac5478ec56ca151",
+            "_id": "67f6c7638ac5478ec56ca151"
         },
         {
             "type": "Feature",
@@ -3441,8 +3536,9 @@
                 "LAID_LAB": 5.78,
                 "pid": "64246dc78ac5470a33c9fe20"
             },
-            "_id": "67f6c7638ac5478ec56ca152",
-            "paid": "67f6c7638ac5478ec56ca152"
+            "paid": "67f6c7638ac5478ec56ca152",
+            "id": "67f6c7638ac5478ec56ca152",
+            "_id": "67f6c7638ac5478ec56ca152"
         },
         {
             "type": "Feature",
@@ -3476,8 +3572,9 @@
                 "LAID_LAB": 0.076,
                 "pid": "64246dc78ac5470a33c9fe21"
             },
-            "_id": "67f6c7638ac5478ec56ca153",
-            "paid": "67f6c7638ac5478ec56ca153"
+            "paid": "67f6c7638ac5478ec56ca153",
+            "id": "67f6c7638ac5478ec56ca153",
+            "_id": "67f6c7638ac5478ec56ca153"
         },
         {
             "type": "Feature",
@@ -3512,8 +3609,9 @@
                 "LAID_LAB": 0.41,
                 "pid": "64246dc78ac5470a33c9fe21"
             },
-            "_id": "67f6c7638ac5478ec56ca154",
-            "paid": "67f6c7638ac5478ec56ca154"
+            "paid": "67f6c7638ac5478ec56ca154",
+            "id": "67f6c7638ac5478ec56ca154",
+            "_id": "67f6c7638ac5478ec56ca154"
         },
         {
             "type": "Feature",
@@ -3548,8 +3646,9 @@
                 "LAID_LAB": 1.557,
                 "pid": "64246dc78ac5470a33c9fe21"
             },
-            "_id": "67f6c7638ac5478ec56ca155",
-            "paid": "67f6c7638ac5478ec56ca155"
+            "paid": "67f6c7638ac5478ec56ca155",
+            "id": "67f6c7638ac5478ec56ca155",
+            "_id": "67f6c7638ac5478ec56ca155"
         },
         {
             "type": "Feature",
@@ -3584,8 +3683,9 @@
                 "LAID_LAB": 2.77,
                 "pid": "64246dc78ac5470a33c9fe21"
             },
-            "_id": "67f6c7638ac5478ec56ca156",
-            "paid": "67f6c7638ac5478ec56ca156"
+            "paid": "67f6c7638ac5478ec56ca156",
+            "id": "67f6c7638ac5478ec56ca156",
+            "_id": "67f6c7638ac5478ec56ca156"
         },
         {
             "type": "Feature",
@@ -3620,8 +3720,9 @@
                 "LAID_LAB": 2.39,
                 "pid": "64246dc78ac5470a33c9fe21"
             },
-            "_id": "67f6c7638ac5478ec56ca157",
-            "paid": "67f6c7638ac5478ec56ca157"
+            "paid": "67f6c7638ac5478ec56ca157",
+            "id": "67f6c7638ac5478ec56ca157",
+            "_id": "67f6c7638ac5478ec56ca157"
         },
         {
             "type": "Feature",
@@ -3656,8 +3757,9 @@
                 "LAID_LAB": 2.242,
                 "pid": "64246dc78ac5470a33c9fe21"
             },
-            "_id": "67f6c7638ac5478ec56ca158",
-            "paid": "67f6c7638ac5478ec56ca158"
+            "paid": "67f6c7638ac5478ec56ca158",
+            "id": "67f6c7638ac5478ec56ca158",
+            "_id": "67f6c7638ac5478ec56ca158"
         },
         {
             "type": "Feature",
@@ -3692,8 +3794,9 @@
                 "LAID_LAB": 3.982,
                 "pid": "64246dc78ac5470a33c9fe21"
             },
-            "_id": "67f6c7638ac5478ec56ca159",
-            "paid": "67f6c7638ac5478ec56ca159"
+            "paid": "67f6c7638ac5478ec56ca159",
+            "id": "67f6c7638ac5478ec56ca159",
+            "_id": "67f6c7638ac5478ec56ca159"
         },
         {
             "type": "Feature",
@@ -3728,8 +3831,9 @@
                 "LAID_LAB": 6.455,
                 "pid": "64246dc78ac5470a33c9fe21"
             },
-            "_id": "67f6c7638ac5478ec56ca15a",
-            "paid": "67f6c7638ac5478ec56ca15a"
+            "paid": "67f6c7638ac5478ec56ca15a",
+            "id": "67f6c7638ac5478ec56ca15a",
+            "_id": "67f6c7638ac5478ec56ca15a"
         },
         {
             "type": "Feature",
@@ -3763,8 +3867,9 @@
                 "LAID_LAB": 0.102,
                 "pid": "64246dc78ac5470a33c9fe22"
             },
-            "_id": "67f6c7638ac5478ec56ca15b",
-            "paid": "67f6c7638ac5478ec56ca15b"
+            "paid": "67f6c7638ac5478ec56ca15b",
+            "id": "67f6c7638ac5478ec56ca15b",
+            "_id": "67f6c7638ac5478ec56ca15b"
         },
         {
             "type": "Feature",
@@ -3799,8 +3904,9 @@
                 "LAID_LAB": 0.41,
                 "pid": "64246dc78ac5470a33c9fe22"
             },
-            "_id": "67f6c7638ac5478ec56ca15c",
-            "paid": "67f6c7638ac5478ec56ca15c"
+            "paid": "67f6c7638ac5478ec56ca15c",
+            "id": "67f6c7638ac5478ec56ca15c",
+            "_id": "67f6c7638ac5478ec56ca15c"
         },
         {
             "type": "Feature",
@@ -3835,8 +3941,9 @@
                 "LAID_LAB": 1.096,
                 "pid": "64246dc78ac5470a33c9fe22"
             },
-            "_id": "67f6c7638ac5478ec56ca15d",
-            "paid": "67f6c7638ac5478ec56ca15d"
+            "paid": "67f6c7638ac5478ec56ca15d",
+            "id": "67f6c7638ac5478ec56ca15d",
+            "_id": "67f6c7638ac5478ec56ca15d"
         },
         {
             "type": "Feature",
@@ -3871,8 +3978,9 @@
                 "LAID_LAB": 2.81,
                 "pid": "64246dc78ac5470a33c9fe22"
             },
-            "_id": "67f6c7638ac5478ec56ca15e",
-            "paid": "67f6c7638ac5478ec56ca15e"
+            "paid": "67f6c7638ac5478ec56ca15e",
+            "id": "67f6c7638ac5478ec56ca15e",
+            "_id": "67f6c7638ac5478ec56ca15e"
         },
         {
             "type": "Feature",
@@ -3907,8 +4015,9 @@
                 "LAID_LAB": 4.107,
                 "pid": "64246dc78ac5470a33c9fe22"
             },
-            "_id": "67f6c7638ac5478ec56ca15f",
-            "paid": "67f6c7638ac5478ec56ca15f"
+            "paid": "67f6c7638ac5478ec56ca15f",
+            "id": "67f6c7638ac5478ec56ca15f",
+            "_id": "67f6c7638ac5478ec56ca15f"
         },
         {
             "type": "Feature",
@@ -3943,8 +4052,9 @@
                 "LAID_LAB": 2.981,
                 "pid": "64246dc78ac5470a33c9fe22"
             },
-            "_id": "67f6c7638ac5478ec56ca160",
-            "paid": "67f6c7638ac5478ec56ca160"
+            "paid": "67f6c7638ac5478ec56ca160",
+            "id": "67f6c7638ac5478ec56ca160",
+            "_id": "67f6c7638ac5478ec56ca160"
         },
         {
             "type": "Feature",
@@ -3979,8 +4089,9 @@
                 "LAID_LAB": 4.149,
                 "pid": "64246dc78ac5470a33c9fe22"
             },
-            "_id": "67f6c7638ac5478ec56ca161",
-            "paid": "67f6c7638ac5478ec56ca161"
+            "paid": "67f6c7638ac5478ec56ca161",
+            "id": "67f6c7638ac5478ec56ca161",
+            "_id": "67f6c7638ac5478ec56ca161"
         },
         {
             "type": "Feature",
@@ -4015,8 +4126,9 @@
                 "LAID_LAB": 7.262,
                 "pid": "64246dc78ac5470a33c9fe22"
             },
-            "_id": "67f6c7638ac5478ec56ca162",
-            "paid": "67f6c7638ac5478ec56ca162"
+            "paid": "67f6c7638ac5478ec56ca162",
+            "id": "67f6c7638ac5478ec56ca162",
+            "_id": "67f6c7638ac5478ec56ca162"
         },
         {
             "type": "Feature",
@@ -4050,8 +4162,9 @@
                 "LAID_LAB": 0.068,
                 "pid": "64246dc78ac5470a33c9fe23"
             },
-            "_id": "67f6c7638ac5478ec56ca163",
-            "paid": "67f6c7638ac5478ec56ca163"
+            "paid": "67f6c7638ac5478ec56ca163",
+            "id": "67f6c7638ac5478ec56ca163",
+            "_id": "67f6c7638ac5478ec56ca163"
         },
         {
             "type": "Feature",
@@ -4086,8 +4199,9 @@
                 "LAID_LAB": 0.489,
                 "pid": "64246dc78ac5470a33c9fe23"
             },
-            "_id": "67f6c7638ac5478ec56ca164",
-            "paid": "67f6c7638ac5478ec56ca164"
+            "paid": "67f6c7638ac5478ec56ca164",
+            "id": "67f6c7638ac5478ec56ca164",
+            "_id": "67f6c7638ac5478ec56ca164"
         },
         {
             "type": "Feature",
@@ -4122,8 +4236,9 @@
                 "LAID_LAB": 0.806,
                 "pid": "64246dc78ac5470a33c9fe23"
             },
-            "_id": "67f6c7638ac5478ec56ca165",
-            "paid": "67f6c7638ac5478ec56ca165"
+            "paid": "67f6c7638ac5478ec56ca165",
+            "id": "67f6c7638ac5478ec56ca165",
+            "_id": "67f6c7638ac5478ec56ca165"
         },
         {
             "type": "Feature",
@@ -4158,8 +4273,9 @@
                 "LAID_LAB": 1.475,
                 "pid": "64246dc78ac5470a33c9fe23"
             },
-            "_id": "67f6c7638ac5478ec56ca166",
-            "paid": "67f6c7638ac5478ec56ca166"
+            "paid": "67f6c7638ac5478ec56ca166",
+            "id": "67f6c7638ac5478ec56ca166",
+            "_id": "67f6c7638ac5478ec56ca166"
         },
         {
             "type": "Feature",
@@ -4194,8 +4310,9 @@
                 "LAID_LAB": 2.918,
                 "pid": "64246dc78ac5470a33c9fe23"
             },
-            "_id": "67f6c7638ac5478ec56ca167",
-            "paid": "67f6c7638ac5478ec56ca167"
+            "paid": "67f6c7638ac5478ec56ca167",
+            "id": "67f6c7638ac5478ec56ca167",
+            "_id": "67f6c7638ac5478ec56ca167"
         },
         {
             "type": "Feature",
@@ -4230,8 +4347,9 @@
                 "LAID_LAB": 3.297,
                 "pid": "64246dc78ac5470a33c9fe23"
             },
-            "_id": "67f6c7638ac5478ec56ca168",
-            "paid": "67f6c7638ac5478ec56ca168"
+            "paid": "67f6c7638ac5478ec56ca168",
+            "id": "67f6c7638ac5478ec56ca168",
+            "_id": "67f6c7638ac5478ec56ca168"
         },
         {
             "type": "Feature",
@@ -4266,8 +4384,9 @@
                 "LAID_LAB": 2.878,
                 "pid": "64246dc78ac5470a33c9fe23"
             },
-            "_id": "67f6c7638ac5478ec56ca169",
-            "paid": "67f6c7638ac5478ec56ca169"
+            "paid": "67f6c7638ac5478ec56ca169",
+            "id": "67f6c7638ac5478ec56ca169",
+            "_id": "67f6c7638ac5478ec56ca169"
         },
         {
             "type": "Feature",
@@ -4302,8 +4421,9 @@
                 "LAID_LAB": 4.04,
                 "pid": "64246dc78ac5470a33c9fe23"
             },
-            "_id": "67f6c7638ac5478ec56ca16a",
-            "paid": "67f6c7638ac5478ec56ca16a"
+            "paid": "67f6c7638ac5478ec56ca16a",
+            "id": "67f6c7638ac5478ec56ca16a",
+            "_id": "67f6c7638ac5478ec56ca16a"
         },
         {
             "type": "Feature",
@@ -4337,8 +4457,9 @@
                 "LAID_LAB": 0.052,
                 "pid": "64246dc78ac5470a33c9fe24"
             },
-            "_id": "67f6c7638ac5478ec56ca16b",
-            "paid": "67f6c7638ac5478ec56ca16b"
+            "paid": "67f6c7638ac5478ec56ca16b",
+            "id": "67f6c7638ac5478ec56ca16b",
+            "_id": "67f6c7638ac5478ec56ca16b"
         },
         {
             "type": "Feature",
@@ -4373,8 +4494,9 @@
                 "LAID_LAB": 0.351,
                 "pid": "64246dc78ac5470a33c9fe24"
             },
-            "_id": "67f6c7638ac5478ec56ca16c",
-            "paid": "67f6c7638ac5478ec56ca16c"
+            "paid": "67f6c7638ac5478ec56ca16c",
+            "id": "67f6c7638ac5478ec56ca16c",
+            "_id": "67f6c7638ac5478ec56ca16c"
         },
         {
             "type": "Feature",
@@ -4409,8 +4531,9 @@
                 "LAID_LAB": 0.978,
                 "pid": "64246dc78ac5470a33c9fe24"
             },
-            "_id": "67f6c7638ac5478ec56ca16d",
-            "paid": "67f6c7638ac5478ec56ca16d"
+            "paid": "67f6c7638ac5478ec56ca16d",
+            "id": "67f6c7638ac5478ec56ca16d",
+            "_id": "67f6c7638ac5478ec56ca16d"
         },
         {
             "type": "Feature",
@@ -4445,8 +4568,9 @@
                 "LAID_LAB": 2.464,
                 "pid": "64246dc78ac5470a33c9fe24"
             },
-            "_id": "67f6c7638ac5478ec56ca16e",
-            "paid": "67f6c7638ac5478ec56ca16e"
+            "paid": "67f6c7638ac5478ec56ca16e",
+            "id": "67f6c7638ac5478ec56ca16e",
+            "_id": "67f6c7638ac5478ec56ca16e"
         },
         {
             "type": "Feature",
@@ -4481,8 +4605,9 @@
                 "LAID_LAB": 1.134,
                 "pid": "64246dc78ac5470a33c9fe24"
             },
-            "_id": "67f6c7638ac5478ec56ca16f",
-            "paid": "67f6c7638ac5478ec56ca16f"
+            "paid": "67f6c7638ac5478ec56ca16f",
+            "id": "67f6c7638ac5478ec56ca16f",
+            "_id": "67f6c7638ac5478ec56ca16f"
         },
         {
             "type": "Feature",
@@ -4517,8 +4642,9 @@
                 "LAID_LAB": 2.866,
                 "pid": "64246dc78ac5470a33c9fe24"
             },
-            "_id": "67f6c7638ac5478ec56ca170",
-            "paid": "67f6c7638ac5478ec56ca170"
+            "paid": "67f6c7638ac5478ec56ca170",
+            "id": "67f6c7638ac5478ec56ca170",
+            "_id": "67f6c7638ac5478ec56ca170"
         },
         {
             "type": "Feature",
@@ -4553,8 +4679,9 @@
                 "LAID_LAB": 3.317,
                 "pid": "64246dc78ac5470a33c9fe24"
             },
-            "_id": "67f6c7638ac5478ec56ca171",
-            "paid": "67f6c7638ac5478ec56ca171"
+            "paid": "67f6c7638ac5478ec56ca171",
+            "id": "67f6c7638ac5478ec56ca171",
+            "_id": "67f6c7638ac5478ec56ca171"
         },
         {
             "type": "Feature",
@@ -4589,8 +4716,9 @@
                 "LAID_LAB": 2.731,
                 "pid": "64246dc78ac5470a33c9fe24"
             },
-            "_id": "67f6c7638ac5478ec56ca172",
-            "paid": "67f6c7638ac5478ec56ca172"
+            "paid": "67f6c7638ac5478ec56ca172",
+            "id": "67f6c7638ac5478ec56ca172",
+            "_id": "67f6c7638ac5478ec56ca172"
         },
         {
             "type": "Feature",
@@ -4624,8 +4752,9 @@
                 "LAID_LAB": 0.063,
                 "pid": "64246dc78ac5470a33c9fe25"
             },
-            "_id": "67f6c7638ac5478ec56ca173",
-            "paid": "67f6c7638ac5478ec56ca173"
+            "paid": "67f6c7638ac5478ec56ca173",
+            "id": "67f6c7638ac5478ec56ca173",
+            "_id": "67f6c7638ac5478ec56ca173"
         },
         {
             "type": "Feature",
@@ -4660,8 +4789,9 @@
                 "LAID_LAB": 0.557,
                 "pid": "64246dc78ac5470a33c9fe25"
             },
-            "_id": "67f6c7638ac5478ec56ca174",
-            "paid": "67f6c7638ac5478ec56ca174"
+            "paid": "67f6c7638ac5478ec56ca174",
+            "id": "67f6c7638ac5478ec56ca174",
+            "_id": "67f6c7638ac5478ec56ca174"
         },
         {
             "type": "Feature",
@@ -4696,8 +4826,9 @@
                 "LAID_LAB": 1.275,
                 "pid": "64246dc78ac5470a33c9fe25"
             },
-            "_id": "67f6c7638ac5478ec56ca175",
-            "paid": "67f6c7638ac5478ec56ca175"
+            "paid": "67f6c7638ac5478ec56ca175",
+            "id": "67f6c7638ac5478ec56ca175",
+            "_id": "67f6c7638ac5478ec56ca175"
         },
         {
             "type": "Feature",
@@ -4732,8 +4863,9 @@
                 "LAID_LAB": 1.563,
                 "pid": "64246dc78ac5470a33c9fe25"
             },
-            "_id": "67f6c7638ac5478ec56ca176",
-            "paid": "67f6c7638ac5478ec56ca176"
+            "paid": "67f6c7638ac5478ec56ca176",
+            "id": "67f6c7638ac5478ec56ca176",
+            "_id": "67f6c7638ac5478ec56ca176"
         },
         {
             "type": "Feature",
@@ -4768,8 +4900,9 @@
                 "LAID_LAB": 1.363,
                 "pid": "64246dc78ac5470a33c9fe25"
             },
-            "_id": "67f6c7638ac5478ec56ca177",
-            "paid": "67f6c7638ac5478ec56ca177"
+            "paid": "67f6c7638ac5478ec56ca177",
+            "id": "67f6c7638ac5478ec56ca177",
+            "_id": "67f6c7638ac5478ec56ca177"
         },
         {
             "type": "Feature",
@@ -4804,8 +4937,9 @@
                 "LAID_LAB": 4.366,
                 "pid": "64246dc78ac5470a33c9fe25"
             },
-            "_id": "67f6c7638ac5478ec56ca178",
-            "paid": "67f6c7638ac5478ec56ca178"
+            "paid": "67f6c7638ac5478ec56ca178",
+            "id": "67f6c7638ac5478ec56ca178",
+            "_id": "67f6c7638ac5478ec56ca178"
         },
         {
             "type": "Feature",
@@ -4840,8 +4974,9 @@
                 "LAID_LAB": 4.571,
                 "pid": "64246dc78ac5470a33c9fe25"
             },
-            "_id": "67f6c7638ac5478ec56ca179",
-            "paid": "67f6c7638ac5478ec56ca179"
+            "paid": "67f6c7638ac5478ec56ca179",
+            "id": "67f6c7638ac5478ec56ca179",
+            "_id": "67f6c7638ac5478ec56ca179"
         },
         {
             "type": "Feature",
@@ -4876,8 +5011,9 @@
                 "LAID_LAB": 7.409,
                 "pid": "64246dc78ac5470a33c9fe25"
             },
-            "_id": "67f6c7638ac5478ec56ca17a",
-            "paid": "67f6c7638ac5478ec56ca17a"
+            "paid": "67f6c7638ac5478ec56ca17a",
+            "id": "67f6c7638ac5478ec56ca17a",
+            "_id": "67f6c7638ac5478ec56ca17a"
         },
         {
             "type": "Feature",
@@ -4911,8 +5047,9 @@
                 "LAID_LAB": 0.053,
                 "pid": "64246dc78ac5470a33c9fe26"
             },
-            "_id": "67f6c7638ac5478ec56ca17b",
-            "paid": "67f6c7638ac5478ec56ca17b"
+            "paid": "67f6c7638ac5478ec56ca17b",
+            "id": "67f6c7638ac5478ec56ca17b",
+            "_id": "67f6c7638ac5478ec56ca17b"
         },
         {
             "type": "Feature",
@@ -4947,8 +5084,9 @@
                 "LAID_LAB": 0.384,
                 "pid": "64246dc78ac5470a33c9fe26"
             },
-            "_id": "67f6c7638ac5478ec56ca17c",
-            "paid": "67f6c7638ac5478ec56ca17c"
+            "paid": "67f6c7638ac5478ec56ca17c",
+            "id": "67f6c7638ac5478ec56ca17c",
+            "_id": "67f6c7638ac5478ec56ca17c"
         },
         {
             "type": "Feature",
@@ -4983,8 +5121,9 @@
                 "LAID_LAB": 1.026,
                 "pid": "64246dc78ac5470a33c9fe26"
             },
-            "_id": "67f6c7638ac5478ec56ca17d",
-            "paid": "67f6c7638ac5478ec56ca17d"
+            "paid": "67f6c7638ac5478ec56ca17d",
+            "id": "67f6c7638ac5478ec56ca17d",
+            "_id": "67f6c7638ac5478ec56ca17d"
         },
         {
             "type": "Feature",
@@ -5019,8 +5158,9 @@
                 "LAID_LAB": 2.991,
                 "pid": "64246dc78ac5470a33c9fe26"
             },
-            "_id": "67f6c7638ac5478ec56ca17e",
-            "paid": "67f6c7638ac5478ec56ca17e"
+            "paid": "67f6c7638ac5478ec56ca17e",
+            "id": "67f6c7638ac5478ec56ca17e",
+            "_id": "67f6c7638ac5478ec56ca17e"
         },
         {
             "type": "Feature",
@@ -5055,8 +5195,9 @@
                 "LAID_LAB": 3.436,
                 "pid": "64246dc78ac5470a33c9fe26"
             },
-            "_id": "67f6c7638ac5478ec56ca17f",
-            "paid": "67f6c7638ac5478ec56ca17f"
+            "paid": "67f6c7638ac5478ec56ca17f",
+            "id": "67f6c7638ac5478ec56ca17f",
+            "_id": "67f6c7638ac5478ec56ca17f"
         },
         {
             "type": "Feature",
@@ -5091,8 +5232,9 @@
                 "LAID_LAB": 4.085,
                 "pid": "64246dc78ac5470a33c9fe26"
             },
-            "_id": "67f6c7638ac5478ec56ca180",
-            "paid": "67f6c7638ac5478ec56ca180"
+            "paid": "67f6c7638ac5478ec56ca180",
+            "id": "67f6c7638ac5478ec56ca180",
+            "_id": "67f6c7638ac5478ec56ca180"
         },
         {
             "type": "Feature",
@@ -5127,8 +5269,9 @@
                 "LAID_LAB": 3.649,
                 "pid": "64246dc78ac5470a33c9fe26"
             },
-            "_id": "67f6c7638ac5478ec56ca181",
-            "paid": "67f6c7638ac5478ec56ca181"
+            "paid": "67f6c7638ac5478ec56ca181",
+            "id": "67f6c7638ac5478ec56ca181",
+            "_id": "67f6c7638ac5478ec56ca181"
         },
         {
             "type": "Feature",
@@ -5163,8 +5306,9 @@
                 "LAID_LAB": 4.952,
                 "pid": "64246dc78ac5470a33c9fe26"
             },
-            "_id": "67f6c7638ac5478ec56ca182",
-            "paid": "67f6c7638ac5478ec56ca182"
+            "paid": "67f6c7638ac5478ec56ca182",
+            "id": "67f6c7638ac5478ec56ca182",
+            "_id": "67f6c7638ac5478ec56ca182"
         },
         {
             "type": "Feature",
@@ -5198,8 +5342,9 @@
                 "LAID_LAB": 0.076,
                 "pid": "64246dc78ac5470a33c9fe27"
             },
-            "_id": "67f6c7638ac5478ec56ca183",
-            "paid": "67f6c7638ac5478ec56ca183"
+            "paid": "67f6c7638ac5478ec56ca183",
+            "id": "67f6c7638ac5478ec56ca183",
+            "_id": "67f6c7638ac5478ec56ca183"
         },
         {
             "type": "Feature",
@@ -5234,8 +5379,9 @@
                 "LAID_LAB": 0.33,
                 "pid": "64246dc78ac5470a33c9fe27"
             },
-            "_id": "67f6c7638ac5478ec56ca184",
-            "paid": "67f6c7638ac5478ec56ca184"
+            "paid": "67f6c7638ac5478ec56ca184",
+            "id": "67f6c7638ac5478ec56ca184",
+            "_id": "67f6c7638ac5478ec56ca184"
         },
         {
             "type": "Feature",
@@ -5270,8 +5416,9 @@
                 "LAID_LAB": 0.923,
                 "pid": "64246dc78ac5470a33c9fe27"
             },
-            "_id": "67f6c7638ac5478ec56ca185",
-            "paid": "67f6c7638ac5478ec56ca185"
+            "paid": "67f6c7638ac5478ec56ca185",
+            "id": "67f6c7638ac5478ec56ca185",
+            "_id": "67f6c7638ac5478ec56ca185"
         },
         {
             "type": "Feature",
@@ -5306,8 +5453,9 @@
                 "LAID_LAB": 2.242,
                 "pid": "64246dc78ac5470a33c9fe27"
             },
-            "_id": "67f6c7638ac5478ec56ca186",
-            "paid": "67f6c7638ac5478ec56ca186"
+            "paid": "67f6c7638ac5478ec56ca186",
+            "id": "67f6c7638ac5478ec56ca186",
+            "_id": "67f6c7638ac5478ec56ca186"
         },
         {
             "type": "Feature",
@@ -5342,8 +5490,9 @@
                 "LAID_LAB": 2.33,
                 "pid": "64246dc78ac5470a33c9fe27"
             },
-            "_id": "67f6c7638ac5478ec56ca187",
-            "paid": "67f6c7638ac5478ec56ca187"
+            "paid": "67f6c7638ac5478ec56ca187",
+            "id": "67f6c7638ac5478ec56ca187",
+            "_id": "67f6c7638ac5478ec56ca187"
         },
         {
             "type": "Feature",
@@ -5378,8 +5527,9 @@
                 "LAID_LAB": 2.409,
                 "pid": "64246dc78ac5470a33c9fe27"
             },
-            "_id": "67f6c7638ac5478ec56ca188",
-            "paid": "67f6c7638ac5478ec56ca188"
+            "paid": "67f6c7638ac5478ec56ca188",
+            "id": "67f6c7638ac5478ec56ca188",
+            "_id": "67f6c7638ac5478ec56ca188"
         },
         {
             "type": "Feature",
@@ -5414,8 +5564,9 @@
                 "LAID_LAB": 2.597,
                 "pid": "64246dc78ac5470a33c9fe27"
             },
-            "_id": "67f6c7638ac5478ec56ca189",
-            "paid": "67f6c7638ac5478ec56ca189"
+            "paid": "67f6c7638ac5478ec56ca189",
+            "id": "67f6c7638ac5478ec56ca189",
+            "_id": "67f6c7638ac5478ec56ca189"
         },
         {
             "type": "Feature",
@@ -5450,8 +5601,9 @@
                 "LAID_LAB": 2.056,
                 "pid": "64246dc78ac5470a33c9fe27"
             },
-            "_id": "67f6c7638ac5478ec56ca18a",
-            "paid": "67f6c7638ac5478ec56ca18a"
+            "paid": "67f6c7638ac5478ec56ca18a",
+            "id": "67f6c7638ac5478ec56ca18a",
+            "_id": "67f6c7638ac5478ec56ca18a"
         },
         {
             "type": "Feature",
@@ -5485,8 +5637,9 @@
                 "LAID_LAB": 0.038,
                 "pid": "64246dc78ac5470a33c9fe28"
             },
-            "_id": "67f6c7638ac5478ec56ca18b",
-            "paid": "67f6c7638ac5478ec56ca18b"
+            "paid": "67f6c7638ac5478ec56ca18b",
+            "id": "67f6c7638ac5478ec56ca18b",
+            "_id": "67f6c7638ac5478ec56ca18b"
         },
         {
             "type": "Feature",
@@ -5521,8 +5674,9 @@
                 "LAID_LAB": 0.291,
                 "pid": "64246dc78ac5470a33c9fe28"
             },
-            "_id": "67f6c7638ac5478ec56ca18c",
-            "paid": "67f6c7638ac5478ec56ca18c"
+            "paid": "67f6c7638ac5478ec56ca18c",
+            "id": "67f6c7638ac5478ec56ca18c",
+            "_id": "67f6c7638ac5478ec56ca18c"
         },
         {
             "type": "Feature",
@@ -5557,8 +5711,9 @@
                 "LAID_LAB": 0.72,
                 "pid": "64246dc78ac5470a33c9fe28"
             },
-            "_id": "67f6c7638ac5478ec56ca18d",
-            "paid": "67f6c7638ac5478ec56ca18d"
+            "paid": "67f6c7638ac5478ec56ca18d",
+            "id": "67f6c7638ac5478ec56ca18d",
+            "_id": "67f6c7638ac5478ec56ca18d"
         },
         {
             "type": "Feature",
@@ -5593,8 +5748,9 @@
                 "LAID_LAB": 1.5,
                 "pid": "64246dc78ac5470a33c9fe28"
             },
-            "_id": "67f6c7638ac5478ec56ca18e",
-            "paid": "67f6c7638ac5478ec56ca18e"
+            "paid": "67f6c7638ac5478ec56ca18e",
+            "id": "67f6c7638ac5478ec56ca18e",
+            "_id": "67f6c7638ac5478ec56ca18e"
         },
         {
             "type": "Feature",
@@ -5629,8 +5785,9 @@
                 "LAID_LAB": 1.925,
                 "pid": "64246dc78ac5470a33c9fe28"
             },
-            "_id": "67f6c7638ac5478ec56ca18f",
-            "paid": "67f6c7638ac5478ec56ca18f"
+            "paid": "67f6c7638ac5478ec56ca18f",
+            "id": "67f6c7638ac5478ec56ca18f",
+            "_id": "67f6c7638ac5478ec56ca18f"
         },
         {
             "type": "Feature",
@@ -5665,8 +5822,9 @@
                 "LAID_LAB": 1.718,
                 "pid": "64246dc78ac5470a33c9fe28"
             },
-            "_id": "67f6c7638ac5478ec56ca190",
-            "paid": "67f6c7638ac5478ec56ca190"
+            "paid": "67f6c7638ac5478ec56ca190",
+            "id": "67f6c7638ac5478ec56ca190",
+            "_id": "67f6c7638ac5478ec56ca190"
         },
         {
             "type": "Feature",
@@ -5701,8 +5859,9 @@
                 "LAID_LAB": 2.274,
                 "pid": "64246dc78ac5470a33c9fe28"
             },
-            "_id": "67f6c7638ac5478ec56ca191",
-            "paid": "67f6c7638ac5478ec56ca191"
+            "paid": "67f6c7638ac5478ec56ca191",
+            "id": "67f6c7638ac5478ec56ca191",
+            "_id": "67f6c7638ac5478ec56ca191"
         },
         {
             "type": "Feature",
@@ -5737,8 +5896,9 @@
                 "LAID_LAB": 2.284,
                 "pid": "64246dc78ac5470a33c9fe28"
             },
-            "_id": "67f6c7638ac5478ec56ca192",
-            "paid": "67f6c7638ac5478ec56ca192"
+            "paid": "67f6c7638ac5478ec56ca192",
+            "id": "67f6c7638ac5478ec56ca192",
+            "_id": "67f6c7638ac5478ec56ca192"
         },
         {
             "type": "Feature",
@@ -5772,8 +5932,9 @@
                 "LAID_LAB": 0.055,
                 "pid": "64246dc78ac5470a33c9fe29"
             },
-            "_id": "67f6c7638ac5478ec56ca193",
-            "paid": "67f6c7638ac5478ec56ca193"
+            "paid": "67f6c7638ac5478ec56ca193",
+            "id": "67f6c7638ac5478ec56ca193",
+            "_id": "67f6c7638ac5478ec56ca193"
         },
         {
             "type": "Feature",
@@ -5808,8 +5969,9 @@
                 "LAID_LAB": 0.298,
                 "pid": "64246dc78ac5470a33c9fe29"
             },
-            "_id": "67f6c7638ac5478ec56ca194",
-            "paid": "67f6c7638ac5478ec56ca194"
+            "paid": "67f6c7638ac5478ec56ca194",
+            "id": "67f6c7638ac5478ec56ca194",
+            "_id": "67f6c7638ac5478ec56ca194"
         },
         {
             "type": "Feature",
@@ -5844,8 +6006,9 @@
                 "LAID_LAB": 0.8,
                 "pid": "64246dc78ac5470a33c9fe29"
             },
-            "_id": "67f6c7638ac5478ec56ca195",
-            "paid": "67f6c7638ac5478ec56ca195"
+            "paid": "67f6c7638ac5478ec56ca195",
+            "id": "67f6c7638ac5478ec56ca195",
+            "_id": "67f6c7638ac5478ec56ca195"
         },
         {
             "type": "Feature",
@@ -5880,8 +6043,9 @@
                 "LAID_LAB": 2.494,
                 "pid": "64246dc78ac5470a33c9fe29"
             },
-            "_id": "67f6c7638ac5478ec56ca196",
-            "paid": "67f6c7638ac5478ec56ca196"
+            "paid": "67f6c7638ac5478ec56ca196",
+            "id": "67f6c7638ac5478ec56ca196",
+            "_id": "67f6c7638ac5478ec56ca196"
         },
         {
             "type": "Feature",
@@ -5916,8 +6080,9 @@
                 "LAID_LAB": 1.376,
                 "pid": "64246dc78ac5470a33c9fe29"
             },
-            "_id": "67f6c7638ac5478ec56ca197",
-            "paid": "67f6c7638ac5478ec56ca197"
+            "paid": "67f6c7638ac5478ec56ca197",
+            "id": "67f6c7638ac5478ec56ca197",
+            "_id": "67f6c7638ac5478ec56ca197"
         },
         {
             "type": "Feature",
@@ -5952,8 +6117,9 @@
                 "LAID_LAB": 2.462,
                 "pid": "64246dc78ac5470a33c9fe29"
             },
-            "_id": "67f6c7638ac5478ec56ca198",
-            "paid": "67f6c7638ac5478ec56ca198"
+            "paid": "67f6c7638ac5478ec56ca198",
+            "id": "67f6c7638ac5478ec56ca198",
+            "_id": "67f6c7638ac5478ec56ca198"
         },
         {
             "type": "Feature",
@@ -5988,8 +6154,9 @@
                 "LAID_LAB": 3.321,
                 "pid": "64246dc78ac5470a33c9fe29"
             },
-            "_id": "67f6c7638ac5478ec56ca199",
-            "paid": "67f6c7638ac5478ec56ca199"
+            "paid": "67f6c7638ac5478ec56ca199",
+            "id": "67f6c7638ac5478ec56ca199",
+            "_id": "67f6c7638ac5478ec56ca199"
         },
         {
             "type": "Feature",
@@ -6024,8 +6191,9 @@
                 "LAID_LAB": 3.668,
                 "pid": "64246dc78ac5470a33c9fe29"
             },
-            "_id": "67f6c7638ac5478ec56ca19a",
-            "paid": "67f6c7638ac5478ec56ca19a"
+            "paid": "67f6c7638ac5478ec56ca19a",
+            "id": "67f6c7638ac5478ec56ca19a",
+            "_id": "67f6c7638ac5478ec56ca19a"
         },
         {
             "type": "Feature",
@@ -6059,8 +6227,9 @@
                 "LAID_LAB": 0.102,
                 "pid": "64246dc78ac5470a33c9fe2a"
             },
-            "_id": "67f6c7638ac5478ec56ca19b",
-            "paid": "67f6c7638ac5478ec56ca19b"
+            "paid": "67f6c7638ac5478ec56ca19b",
+            "id": "67f6c7638ac5478ec56ca19b",
+            "_id": "67f6c7638ac5478ec56ca19b"
         },
         {
             "type": "Feature",
@@ -6095,8 +6264,9 @@
                 "LAID_LAB": 0.255,
                 "pid": "64246dc78ac5470a33c9fe2a"
             },
-            "_id": "67f6c7638ac5478ec56ca19c",
-            "paid": "67f6c7638ac5478ec56ca19c"
+            "paid": "67f6c7638ac5478ec56ca19c",
+            "id": "67f6c7638ac5478ec56ca19c",
+            "_id": "67f6c7638ac5478ec56ca19c"
         },
         {
             "type": "Feature",
@@ -6131,8 +6301,9 @@
                 "LAID_LAB": 0.685,
                 "pid": "64246dc78ac5470a33c9fe2a"
             },
-            "_id": "67f6c7638ac5478ec56ca19d",
-            "paid": "67f6c7638ac5478ec56ca19d"
+            "paid": "67f6c7638ac5478ec56ca19d",
+            "id": "67f6c7638ac5478ec56ca19d",
+            "_id": "67f6c7638ac5478ec56ca19d"
         },
         {
             "type": "Feature",
@@ -6167,8 +6338,9 @@
                 "LAID_LAB": 1.382,
                 "pid": "64246dc78ac5470a33c9fe2a"
             },
-            "_id": "67f6c7638ac5478ec56ca19e",
-            "paid": "67f6c7638ac5478ec56ca19e"
+            "paid": "67f6c7638ac5478ec56ca19e",
+            "id": "67f6c7638ac5478ec56ca19e",
+            "_id": "67f6c7638ac5478ec56ca19e"
         },
         {
             "type": "Feature",
@@ -6203,8 +6375,9 @@
                 "LAID_LAB": 2.453,
                 "pid": "64246dc78ac5470a33c9fe2a"
             },
-            "_id": "67f6c7638ac5478ec56ca19f",
-            "paid": "67f6c7638ac5478ec56ca19f"
+            "paid": "67f6c7638ac5478ec56ca19f",
+            "id": "67f6c7638ac5478ec56ca19f",
+            "_id": "67f6c7638ac5478ec56ca19f"
         },
         {
             "type": "Feature",
@@ -6239,8 +6412,9 @@
                 "LAID_LAB": 2.521,
                 "pid": "64246dc78ac5470a33c9fe2a"
             },
-            "_id": "67f6c7638ac5478ec56ca1a0",
-            "paid": "67f6c7638ac5478ec56ca1a0"
+            "paid": "67f6c7638ac5478ec56ca1a0",
+            "id": "67f6c7638ac5478ec56ca1a0",
+            "_id": "67f6c7638ac5478ec56ca1a0"
         },
         {
             "type": "Feature",
@@ -6275,8 +6449,9 @@
                 "LAID_LAB": 3.846,
                 "pid": "64246dc78ac5470a33c9fe2a"
             },
-            "_id": "67f6c7638ac5478ec56ca1a1",
-            "paid": "67f6c7638ac5478ec56ca1a1"
+            "paid": "67f6c7638ac5478ec56ca1a1",
+            "id": "67f6c7638ac5478ec56ca1a1",
+            "_id": "67f6c7638ac5478ec56ca1a1"
         },
         {
             "type": "Feature",
@@ -6311,8 +6486,9 @@
                 "LAID_LAB": 4.791,
                 "pid": "64246dc78ac5470a33c9fe2a"
             },
-            "_id": "67f6c7638ac5478ec56ca1a2",
-            "paid": "67f6c7638ac5478ec56ca1a2"
+            "paid": "67f6c7638ac5478ec56ca1a2",
+            "id": "67f6c7638ac5478ec56ca1a2",
+            "_id": "67f6c7638ac5478ec56ca1a2"
         },
         {
             "type": "Feature",
@@ -6346,8 +6522,9 @@
                 "LAID_LAB": 0.105,
                 "pid": "64246dc78ac5470a33c9fe2b"
             },
-            "_id": "67f6c7638ac5478ec56ca1a3",
-            "paid": "67f6c7638ac5478ec56ca1a3"
+            "paid": "67f6c7638ac5478ec56ca1a3",
+            "id": "67f6c7638ac5478ec56ca1a3",
+            "_id": "67f6c7638ac5478ec56ca1a3"
         },
         {
             "type": "Feature",
@@ -6382,8 +6559,9 @@
                 "LAID_LAB": 0.505,
                 "pid": "64246dc78ac5470a33c9fe2b"
             },
-            "_id": "67f6c7638ac5478ec56ca1a4",
-            "paid": "67f6c7638ac5478ec56ca1a4"
+            "paid": "67f6c7638ac5478ec56ca1a4",
+            "id": "67f6c7638ac5478ec56ca1a4",
+            "_id": "67f6c7638ac5478ec56ca1a4"
         },
         {
             "type": "Feature",
@@ -6418,8 +6596,9 @@
                 "LAID_LAB": 0.71,
                 "pid": "64246dc78ac5470a33c9fe2b"
             },
-            "_id": "67f6c7638ac5478ec56ca1a5",
-            "paid": "67f6c7638ac5478ec56ca1a5"
+            "paid": "67f6c7638ac5478ec56ca1a5",
+            "id": "67f6c7638ac5478ec56ca1a5",
+            "_id": "67f6c7638ac5478ec56ca1a5"
         },
         {
             "type": "Feature",
@@ -6453,8 +6632,9 @@
                 "LAID_LAB": 1.237,
                 "pid": "64246dc78ac5470a33c9fe2b"
             },
-            "_id": "67f6c7638ac5478ec56ca1a6",
-            "paid": "67f6c7638ac5478ec56ca1a6"
+            "paid": "67f6c7638ac5478ec56ca1a6",
+            "id": "67f6c7638ac5478ec56ca1a6",
+            "_id": "67f6c7638ac5478ec56ca1a6"
         },
         {
             "type": "Feature",
@@ -6489,8 +6669,9 @@
                 "LAID_LAB": 2.082,
                 "pid": "64246dc78ac5470a33c9fe2b"
             },
-            "_id": "67f6c7638ac5478ec56ca1a7",
-            "paid": "67f6c7638ac5478ec56ca1a7"
+            "paid": "67f6c7638ac5478ec56ca1a7",
+            "id": "67f6c7638ac5478ec56ca1a7",
+            "_id": "67f6c7638ac5478ec56ca1a7"
         },
         {
             "type": "Feature",
@@ -6525,8 +6706,9 @@
                 "LAID_LAB": 2.662,
                 "pid": "64246dc78ac5470a33c9fe2b"
             },
-            "_id": "67f6c7638ac5478ec56ca1a8",
-            "paid": "67f6c7638ac5478ec56ca1a8"
+            "paid": "67f6c7638ac5478ec56ca1a8",
+            "id": "67f6c7638ac5478ec56ca1a8",
+            "_id": "67f6c7638ac5478ec56ca1a8"
         },
         {
             "type": "Feature",
@@ -6561,8 +6743,9 @@
                 "LAID_LAB": 5.367,
                 "pid": "64246dc78ac5470a33c9fe2b"
             },
-            "_id": "67f6c7638ac5478ec56ca1a9",
-            "paid": "67f6c7638ac5478ec56ca1a9"
+            "paid": "67f6c7638ac5478ec56ca1a9",
+            "id": "67f6c7638ac5478ec56ca1a9",
+            "_id": "67f6c7638ac5478ec56ca1a9"
         },
         {
             "type": "Feature",
@@ -6597,8 +6780,9 @@
                 "LAID_LAB": 4.656,
                 "pid": "64246dc78ac5470a33c9fe2b"
             },
-            "_id": "67f6c7638ac5478ec56ca1aa",
-            "paid": "67f6c7638ac5478ec56ca1aa"
+            "paid": "67f6c7638ac5478ec56ca1aa",
+            "id": "67f6c7638ac5478ec56ca1aa",
+            "_id": "67f6c7638ac5478ec56ca1aa"
         },
         {
             "type": "Feature",
@@ -6632,8 +6816,9 @@
                 "LAID_LAB": 0.048,
                 "pid": "64246dc78ac5470a33c9fe2c"
             },
-            "_id": "67f6c7638ac5478ec56ca1ab",
-            "paid": "67f6c7638ac5478ec56ca1ab"
+            "paid": "67f6c7638ac5478ec56ca1ab",
+            "id": "67f6c7638ac5478ec56ca1ab",
+            "_id": "67f6c7638ac5478ec56ca1ab"
         },
         {
             "type": "Feature",
@@ -6668,8 +6853,9 @@
                 "LAID_LAB": 0.235,
                 "pid": "64246dc78ac5470a33c9fe2c"
             },
-            "_id": "67f6c7638ac5478ec56ca1ac",
-            "paid": "67f6c7638ac5478ec56ca1ac"
+            "paid": "67f6c7638ac5478ec56ca1ac",
+            "id": "67f6c7638ac5478ec56ca1ac",
+            "_id": "67f6c7638ac5478ec56ca1ac"
         },
         {
             "type": "Feature",
@@ -6704,8 +6890,9 @@
                 "LAID_LAB": 0.822,
                 "pid": "64246dc78ac5470a33c9fe2c"
             },
-            "_id": "67f6c7638ac5478ec56ca1ad",
-            "paid": "67f6c7638ac5478ec56ca1ad"
+            "paid": "67f6c7638ac5478ec56ca1ad",
+            "id": "67f6c7638ac5478ec56ca1ad",
+            "_id": "67f6c7638ac5478ec56ca1ad"
         },
         {
             "type": "Feature",
@@ -6740,8 +6927,9 @@
                 "LAID_LAB": 2.008,
                 "pid": "64246dc78ac5470a33c9fe2c"
             },
-            "_id": "67f6c7638ac5478ec56ca1ae",
-            "paid": "67f6c7638ac5478ec56ca1ae"
+            "paid": "67f6c7638ac5478ec56ca1ae",
+            "id": "67f6c7638ac5478ec56ca1ae",
+            "_id": "67f6c7638ac5478ec56ca1ae"
         },
         {
             "type": "Feature",
@@ -6776,8 +6964,9 @@
                 "LAID_LAB": 4.151,
                 "pid": "64246dc78ac5470a33c9fe2c"
             },
-            "_id": "67f6c7638ac5478ec56ca1af",
-            "paid": "67f6c7638ac5478ec56ca1af"
+            "paid": "67f6c7638ac5478ec56ca1af",
+            "id": "67f6c7638ac5478ec56ca1af",
+            "_id": "67f6c7638ac5478ec56ca1af"
         },
         {
             "type": "Feature",
@@ -6812,8 +7001,9 @@
                 "LAID_LAB": 3.339,
                 "pid": "64246dc78ac5470a33c9fe2c"
             },
-            "_id": "67f6c7638ac5478ec56ca1b0",
-            "paid": "67f6c7638ac5478ec56ca1b0"
+            "paid": "67f6c7638ac5478ec56ca1b0",
+            "id": "67f6c7638ac5478ec56ca1b0",
+            "_id": "67f6c7638ac5478ec56ca1b0"
         },
         {
             "type": "Feature",
@@ -6848,8 +7038,9 @@
                 "LAID_LAB": 2.29,
                 "pid": "64246dc78ac5470a33c9fe2c"
             },
-            "_id": "67f6c7638ac5478ec56ca1b1",
-            "paid": "67f6c7638ac5478ec56ca1b1"
+            "paid": "67f6c7638ac5478ec56ca1b1",
+            "id": "67f6c7638ac5478ec56ca1b1",
+            "_id": "67f6c7638ac5478ec56ca1b1"
         },
         {
             "type": "Feature",
@@ -6884,8 +7075,9 @@
                 "LAID_LAB": 3.66,
                 "pid": "64246dc78ac5470a33c9fe2c"
             },
-            "_id": "67f6c7638ac5478ec56ca1b2",
-            "paid": "67f6c7638ac5478ec56ca1b2"
+            "paid": "67f6c7638ac5478ec56ca1b2",
+            "id": "67f6c7638ac5478ec56ca1b2",
+            "_id": "67f6c7638ac5478ec56ca1b2"
         }
     ]
 }
