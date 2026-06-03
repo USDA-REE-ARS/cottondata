@@ -24,6 +24,8 @@ class CottonData:
         Provides SoilChemicalAnalysis geojson records based on scaid
     SoilPhysicalAnalysis : dict
         Provides SoilPhysicalAnalysis geojson records based on spaid
+    Weather : dict
+        Provides Weather geojson records based on wid
     exp2eid : dict
         Provides eid based on experiment code
     eid2pid : dict
@@ -246,6 +248,21 @@ class CottonData:
                     print('Non-Unique ID issue in SoilPhysicalAnalysis: ' + str(spaid))
                 self.SoilPhysicalAnalysis.update({spaid:feature})
         print('Loaded {:d} SoilPhysicalAnalysis records'.format(len(self.SoilPhysicalAnalysis)))
+
+        #Weather
+        self.Weather = dict()
+        wthfiles = ['AZMET_Maricopa_station.geojson']
+        for wthfile in wthfiles:
+            myfile = '../geojson/Weather/'+wthfile
+            f = open(myfile,'r')
+            gj = geojson.load(f)
+            f.close()
+            for feature in gj.features:
+                wid = feature['id']
+                if wid in self.Weather.keys():
+                    print('Non-Unique ID issue in Weather: ' + str(wid))
+                self.Weather.update({wid:feature})
+        print('Loaded {:d} Weather record'.format(len(self.Weather)))
 
         #print(len(self.exp2eid))
         #print(len(self.eid2pid))

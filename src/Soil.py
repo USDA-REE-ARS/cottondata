@@ -27,7 +27,7 @@ for feature in layer:
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in soil shapefile.')
         sys.exit()
     myspa = soilphysicalanalysis.SoilPhysicalAnalysis(spaid=spaid,geometry=geometry,sa_label=sa_label)
     #Soil physical analysis data
@@ -80,7 +80,7 @@ for feature in layer:
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in soil shapefile.')
         sys.exit()
     myspa = soilphysicalanalysis.SoilPhysicalAnalysis(spaid=spaid,geometry=geometry,sa_label=sa_label)
     #Soil physicalanalysis data
@@ -128,7 +128,7 @@ for feature in layer:
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in soil shapefile.')
         sys.exit()
     myspa = soilphysicalanalysis.SoilPhysicalAnalysis(spaid=spaid,geometry=geometry,sa_label=sa_label)
     #Soil physicalanalysis data
@@ -182,7 +182,7 @@ for feature in layer:
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in soil shapefile.')
         sys.exit()
     myspa = soilphysicalanalysis.SoilPhysicalAnalysis(spaid=spaid,geometry=geometry,sa_label=sa_label)
     #Soil physical analysis data
@@ -236,7 +236,7 @@ for feature in layer:
     geometry = feature.GetGeometryRef()
     epsg = geometry.GetSpatialReference().GetAttrValue('AUTHORITY',1)
     if int(epsg) != 32612: #WGS84 UTM Zone 12 N
-        print('Unexpected spatial reference in plot shapefile.')
+        print('Unexpected spatial reference in soil shapefile.')
         sys.exit()
     myspa = soilphysicalanalysis.SoilPhysicalAnalysis(spaid=spaid,geometry=geometry,sa_label=sa_label)
     #Soil physical analysis data

@@ -17,7 +17,8 @@ pyfiles = ['Soil.py',
            '2022_F013B4_CO_IRATE.py',
            '2022_F013B4_CO_ISSWC.py',
            '2023_F013B4_CO_IRATE.py',
-           '2023_F013B4_CO_TILL.py']
+           '2023_F013B4_CO_TILL.py',
+           'Weather.py',]
 
 for pyfile in pyfiles:
     print('Running ' + pyfile)
