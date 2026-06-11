@@ -156,7 +156,7 @@ for feature in layer:
         tdata.append({'date':'2023-04-04','value':'Disk'})
         tdata.append({'date':'2023-04-11','value':'Land plane'})
         if trt_label == 'BEDS':
-            tdata.append({'date':'2023-04-04','value':'Raise beds'})
+            tdata.append({'date':'2023-04-17','value':'Raise beds'})
         cdata.append({'date':'2023-04-11','value':'Apply Acumen (pendimethalin)'})
     elif int(plt_label[1:]) < 7:
         if trt_label == 'STRIP':
