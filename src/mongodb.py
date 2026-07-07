@@ -78,3 +78,20 @@ for sa in ['F013B4_SoilPhysicalAnalysis_DJH.geojson',
             count += 1
 print('Updated {:d} records in '.format(count) + 'SoilPhysicalAnalysis.')
 
+mycollection = db['Weather']
+myfile = '../geojson/Weather/AZMET_Maricopa_station.geojson'
+count=0
+if os.path.exists(myfile):
+    print(myfile)
+    f = open(myfile,'r')
+    gj = geojson.load(f)
+    f.close()
+    for feature in gj.features:
+        target_id = feature['_id']
+        query = {'_id':target_id}
+        update = {"$set":feature}
+        mycollection.update_one(query,update,upsert=True)
+        count += 1
+print('Updated {:d} records in '.format(count) + 'Weather.')
+
+#Then run mongodb-compass from command line.

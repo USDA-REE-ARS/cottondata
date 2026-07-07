@@ -1,3 +1,6 @@
+#This script is out of date.
+#It was used for a early Cotton Inc report.
+
 import glob
 
 #Plots

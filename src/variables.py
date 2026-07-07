@@ -3,7 +3,7 @@ import glob
 import geojson
 import json
 
-variable = 'zon_label'
+variable = 'FBTAR'
 print(variable)
 
 #Report paths for each variable instance in geojson files
@@ -25,6 +25,11 @@ for myfile in sorted(files):
         field = mysplit[0]
         exp = 'NA'
         shptype = 'SoilPhysicalAnalysis' + mysplit[-1].split('.')[0]
+    elif mysplit[0] == 'AZMET' and mysplit[1] == 'Maricopa':
+        year = 'NA'
+        field = 'NA'
+        exp = 'NA'
+        shptype = 'Weather'
     else:
         year = mysplit[0]
         field = mysplit[1]

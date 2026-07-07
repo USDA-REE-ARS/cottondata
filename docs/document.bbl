@@ -1,0 +1,31 @@
+\begin{thebibliography}{}
+
+\bibitem[{B}rown, 2013]{Brown2013}
+{B}rown, P.~W. (2013).
+\newblock {H}eat {U}nits.
+\newblock Technical Report AZ1602, University of Arizona, College of
+  Agriculture and Life Sciences, Cooperative Extension.
+
+\bibitem[{G}ee and {B}auder, 1986]{Gee1986}
+{G}ee, G.~W. and {B}auder, J.~W. (1986).
+\newblock {P}article{-}size analysis.
+\newblock In {\em {M}ethods of {S}oil {A}nalysis, {P}art 1. {P}hysical and
+  {M}ineralogical {M}ethods}, chapter~15, pages 383--411. {ASA-SSSA}.
+
+\bibitem[{W}alter et~al., 2005]{Walter2005}
+{W}alter, I.~A., {A}llen, R.~G., {E}lliott, R., {I}tenfisu, D., {B}rown, P.,
+  {J}ensen, M.~E., {M}echam, B., {H}owell, T.~A., {S}nyder, R., {E}ching, S.,
+  {S}pofford, T., {H}attendorf, M., {M}artin, D.~L., {C}uenca, R.~H., and
+  {W}right, J.~L. (2005).
+\newblock {\em {T}he {ASCE} {S}tandardized {R}eference {E}vapotranspiration
+  {E}quation}.
+\newblock {A}merican {S}ociety of {C}ivil {E}ngineers, Reston, VA.
+
+\bibitem[{W}hite et~al., 2013]{White2013}
+{W}hite, J.~W., {H}unt, L.~A., {B}oote, K.~J., {J}ones, J.~W., {K}oo, J.,
+  {K}im, S., {P}orter, C.~H., {W}ilkens, P.~W., and {H}oogenboom, G. (2013).
+\newblock {I}ntegrated description of agricultural field experiments and
+  production: {T}he {ICASA} {V}ersion 2.0 data standards.
+\newblock {\em {C}omputers and {E}lectronics in {A}griculture}, 96:1--12.
+
+\end{thebibliography}

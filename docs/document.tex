@@ -1,0 +1,495 @@
+%Introductory definitions and loading of packages
+%https://tex.stackexchange.com/questions/147504/how-to-make-a-latex-document-in-landscape
+%https://tex.stackexchange.com/questions/196303/converting-threeparttable-tabular-to-threeparttablex-and-longtable
+%https://stackoverflow.com/questions/3322563/make-latex-table-caption-same-width-as-table
+%https://tex.stackexchange.com/questions/135649/make-citemy-reference-show-name-and-year
+%https://tex.stackexchange.com/questions/157389/how-to-center-column-values-in-a-table
+%https://math.stackexchange.com/questions/54875/math-notation-for-location-of-the-maximum
+%https://tex.stackexchange.com/questions/5223/command-for-argmin-or-argmax
+%https://tex.stackexchange.com/questions/35293/p-m-and-b-columns-in-tables
+%https://bibtex.eu/blog/how-to-cite-apa-in-latex-bibtex/
+%https://tex.stackexchange.com/questions/173029/how-do-you-change-table-numbers-in-the-title
+\documentclass[10pt]{article}
+\usepackage[letterpaper, margin=1in, landscape]{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{dcolumn}
+\usepackage{longtable}
+\usepackage{threeparttablex}
+\usepackage{caption}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{multirow}
+\usepackage[utf8]{inputenc}
+\usepackage[authoryear]{natbib}
+\usepackage{siunitx}
+\usepackage{afterpage}
+\usepackage{makecell}
+\setlength{\jot}{6pt}
+
+\captionsetup{width=\textwidth}
+\newcolumntype{M}[1]{>{\raggedright\arraybackslash}m{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}}
+
+\newlength{\cwidA}
+\setlength{\cwidA}{2in}
+\newlength{\cwidB}
+\setlength{\cwidB}{1.3in}
+
+\begin{document}
+
+\title{Supplementary material for Thorp et al. (2026). ``Two decades of precision cotton irrigation research data at Maricopa, Arizona'' Submitted to Scientific Data.}
+
+\maketitle
+
+\listoftables
+
+\addtolength{\tabcolsep}{-3pt}
+\afterpage{\clearpage
+\begingroup
+\renewcommand{\arraystretch}{2.79}
+\begin{ThreePartTable}
+\renewcommand\thetable{S.1}
+\centering
+\begin{TableNotes}
+\small
+\item[]
+\end{TableNotes}
+\begin{longtable}{l M{\cwidA} c c c c C{\cwidB}}
+  \caption{Data dictionary for items within the ``properties'' member of GeoJSON objects for 17 experiment-years of precision cotton irrigation research data at Maricopa, Arizona from 2002 to 2023. Variables related to soil, weather, crop, and management data are included, in addition to variables for GeoJSON object labels and unique identifiers. The ``Code'' column provides the keys to access data within the GeoJSON properties members. The ``Type'' column provides the data type of the return value for each key. In some cases, the return value is a list of hash tables (or dictionaries), and the ``Key : Type'' column provides the additional keys and data types of return values for the hash elements in the list. The ``Unit or Format'' column provides specific information on units of measure or string formatting for the return values. Many variable codes were borrowed from the International Consortium for Agricultural Systems Applications (ICASA) data standards \citep{White2013}, and the ``ICASA'' column specifies whether or not the variable code was taken from ICASA. The ``Class Membership'' column provides a list of the data classes in which the variable is found.}
+  \label{dictionary}\\
+  \toprule
+  Code & Description & Type & Key : Type & Unit or Format & ICASA & Class Membership \\
+  \midrule
+  \endfirsthead
+  \multicolumn{7}{c}{{\tablename\ \thetable{} -- Continued from previous page}}\\
+  \toprule
+  Code & Description & Type & Key : Type & Unit or Format & ICASA & Class Membership \\
+  \midrule
+  \endhead
+  \midrule
+  \multicolumn{7}{r}{{Continued on next page}} \\
+  \midrule
+  \endfoot
+  \bottomrule
+  \insertTableNotes
+  \endlastfoot
+
+  ABSNUM & Number of fruiting site abscissions per plant & float & na & no. plant$^{-1}$ & No & PlantAnalysis \\
+
+  ADAT & Growth stage date, anthesis & str & na & yyyy-mm-dd & Yes & \makecell*{Plot \\ CropCanopy} \\
+
+  ADOY & Anthesis date as day of year & int & na & day of year & Yes & \makecell*{Plot \\ CropCanopy} \\
+
+  ASCEETO & Standardized grass reference evapotranspiration \citep{Walter2005} & list of dicts & \makecell*{``date'' : str \\ ``value'' : float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'' : mm} & No  & Weather \\
+
+  BBFRAC & Fraction of cotton burr weight to mature boll weight & float & na & g g$^{-1}$ & No & PlantAnalysis \\
+
+  BFFRAC & Fraction of cotton fiber weight to mature boll weight & float & na & g g$^{-1}$ & No & PlantAnalysis \\
+
+  BSFRAC & Fraction of cottonseed weight to mature boll weight & float & na & g g$^{-1}$ & No & PlantAnalysis \\
+
+  BWCAH & Bulk water content of seed cotton at harvest & float & na & \% & No & \makecell*{Plot \\ CropHarvest} \\
+
+  cc\_label & Character string for crop canopy measurement point (unique only within experiment-year) & str & na & na & No & CropCanopy\\
+
+  ccids & Unique IDs of associated CropCanopy features & list of strs & na & BSON ObjectId & No & Plot \\
+
+  ch\_label & Character string for crop harvest area (unique only within experiment-year) & str & na & na & No & CropHarvest \\
+
+  CH\_NOTES & Information on the application of agrochemicals & list of dicts & \makecell*{``date'' : str \\ ``value'' : str} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'' : na} & Yes & Plot \\
+
+  chids & Unique IDs of associated CropHarvest features & list of strs & na & BSON ObjectId & No & Plot \\
+
+  CHLA & Leaf chlorophyll $a$ content & list of dicts & \makecell*{``date'' : str \\ ``value'' : float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'' : $\mu$g cm$^{-2}$} & No & CropCanopy \\
+
+  CHTD & Canopy height & list of dicts & \makecell*{``date'' : str \\ ``value'' : float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'' : m} & Yes & \makecell*{CropCanopy \\ PlantAnalysis} \\
+
+  CMPLC & Complications arising during experiment & str & na & na & Yes & Experiment \\
+
+  CR\_SYSTEM & Cropping system descriptive name & str & na & na & Yes & Experiment \\
+
+  CUL\_NAME & Cultivar name & str & na & na & No & Plot \\
+
+  CWAD & Dry weight of above ground plant parts & float & na & kg ha$^{-1}$ & Yes & PlantAnalysis \\
+
+  CWID & Canopy width & list of dicts & \makecell*{``date'' : str \\ ``value'' : float} & \makecell*{``date'' : yyyy-mm-dd \\``value'' : m} & Yes & \makecell*{CropCanopy \\ PlantAnalysis} \\
+
+  CWPD & Tops dry weight & float & na & g plant$^{-1}$ & Yes & PlantAnalysis \\
+
+  DBWAH & Dry bulk weight at harvest (fiber + seed + trash) (0\% water content) & float & na & kg ha$^{-1}$ & No & \makecell*{Plot \\ CropHarvest} \\
+
+  DFWAH & Dry fiber weight at harvest (0\% water content) & float & na & kg ha$^{-1}$ & No & \makecell*{Plot \\ CropHarvest} \\
+
+  DSCWAH & Dry seed cotton weight at harvest (fiber + seed) (0\% water content) & float & na & kg ha$^{-1}$ & No & \makecell*{Plot \\ CropHarvest} \\
+
+  DSWAH & Dry seed weight at harvest (0\% water content) & float & na & kg ha$^{-1}$ & No & \makecell*{Plot \\ CropHarvest} \\
+
+  EDATE & Date of emergence & str & na & yyyy-mm-dd & Yes & \makecell*{Plot \\ CropCanopy} \\
+
+  eid   & Unique ID of associated Experiment feature & str & na & BSON ObjectId & No & Plot \\
+
+  EM38H & Soil electrical conductivity with EM38 sensor, horizontal orientation & list of dicts & \makecell*{``date'' : str \\ ``value'' : float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'': mS m$^{-1}$} & No & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  EM38V & Soil electrical conductivity with EM38 sensor, vertical orientation & list of dicts & \makecell*{``date'' : str \\ ``value'' : float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'': mS m$^{-1}$} & No & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  EX\_ADDRESS & Mailing address of researcher & str & na & na & Yes & Experiment \\
+
+  EX\_EMAIL & E-mail address of researcher & str & na & na & Yes & Experiment \\
+
+  EXNAME & Name of experiment & str & na & na & Yes & Experiment \\
+
+  EXNDVI & Normalized difference vegetation index (NDVI) from an Exotech handheld radiometer & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'': unitless} & No & Plot \\
+
+  EXP\_DUR & Duration of experiment in years & int & na & years & Yes & Experiment \\
+
+  exp\_label & Unique character string for experiment & str & na & na & No & Experiment \\
+
+  EXP\_NARR & General description of experiment. Can include noteworthy events, findings, etc. & str & na & na & Yes & Experiment \\
+
+  EXP\_YEAR & Year associated with experiment or crop rotation & str & na & yyyy & Yes & Experiment \\
+
+  EXPER\_TYPE & General type of experiment, e.g., varietal trial & str & na & ICASA code & Yes & Experiment \\
+
+  FACTORS & Experimental factor combinations & str & na & na & Yes & Experiment \\
+
+  FAREA & Field area & float & na & m$^2$ & Yes & Experiment \\
+
+  FBCGR & Fiber color grade from high volume instrument (HVI) & str & na & na & No & \makecell*{Plot \\ CropHarvest} \\
+
+  FBCLB & Fiber color +b from HVI & float & na & na & No & \makecell*{Plot \\ CropHarvest} \\
+
+  FBCRD & Fiber color reflectance (Rd) & float & na & \% reflectance & No & \makecell*{Plot \\ CropHarvest} \\
+
+  FBELO & Fiber elongation & float & na & \% & No & \makecell*{Plot \\ CropHarvest} \\
+
+  FBLTH & Fiber length (i.e., upper-half mean length) & float & na & inches & No & \makecell*{Plot \\ CropHarvest}\\
+
+  FBMIC & \makecell*{\parbox[c]{\cwidA}{Fiber micronaire \\ $<$34 Discount range \\ 35 to 36 Base range \\ 37 to 42 Premium range \\ 43 to 49 Base range \\ $>$50 Discount range}} & float & na & none & No & \makecell*{Plot \\ CropHarvest} \\
+
+  FBSFI & Short fiber index & float & na & \% & No & \makecell*{Plot \\ CropHarvest} \\
+
+  FBSTR & \makecell*{\parbox[c]{\cwidA}{Fiber strength \\ $<$23 Weak \\ 24 to 25 Intermediate \\ 26 to 28 Average \\ 29 to 30 Strong \\ $>$31 Very strong}} & float & na & g tex$^{-1}$ & No & \makecell*{Plot \\ CropHarvest} \\
+
+  FBTAR & HVI trash area as a measure of trash in fiber. Reported as \% of the sample surface covered by trash particles as determined by video scanner. & float & na & \% & No & \makecell*{Plot \\ CropHarvest} \\
+
+  FBTCT & HVI trash count as a measure of trash in fiber. Reported as the number of trash particles visible. & float & na & particles & No & \makecell*{Plot \\ CropHarvest} \\
+
+  FBUNI & \makecell*{\parbox[c]{\cwidA}{Fiber length uniformity \\ $<$77 Very low \\ 77 to 79 Low \\ 80 to 82 Average \\ 83 to 85 High \\ $>$85 Very high}} & float & na & \% & No & \makecell*{Plot \\ CropHarvest} \\
+
+  FEAMN & Nitrogen (elemental) in applied fertilizer & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'': kg N ha$^{-1}$} & Yes & Plot \\
+
+  FEAMP & Phosphorus (elemental) in applied fertilizer & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'': kg P ha$^{-1}$} & Yes & Plot \\
+
+  FFRAC & Fiber fraction of bulk harvest after ginning & float & na & g g$^{-1}$ & No & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  FIRST\_NAME & First name of researchers involved with the experiment(s) or data & str & na & na & Yes & Experiment \\
+
+  FL\_LAT & Field latitude, N positive, S negative & float & na & degrees & Yes & Experiment \\
+
+  FL\_LONG & Field longitude, E positive, W negative & float & na & degrees & Yes & Experiment \\
+
+  FL\_NAME & Field name & str & na & na & Yes & Experiment \\
+
+  FLELE & Elevation of field site & int & na & m & Yes & Experiment \\
+
+  FLRNUM & Number of flowers per plant & float & na & no. plant$^{-1}$ & No & PlantAnalysis \\
+
+  FRBNUM & Number of fruiting branches per plant & float & na & no. plant$^{-1}$ & No & PlantAnalysis \\
+
+  FRCOV & Fractional crop cover computed from drone-based orthophotos & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'' : yyyy-mm-dd \\``value'': m$^2$ m$^{-2}$} & No & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  FWCAG & Fiber water content after ginning & float & na & \% & No & \makecell*{Plot \\ CropHarvest} \\
+
+  GBNUM & Number of green bolls per plant & float & na & no. plant$^{-1}$ & No & PlantAnalysis \\
+
+  GNDAT & Ginning date & str & na & yyyy-mm-dd & No & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  HADAT & Harvest date & str & na & yyyy-mm-dd & Yes & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  HAREA & Harvest sample collection area & float & na & m$^2$ & Yes & CropHarvest \\
+
+  HARM & Harvest method (``Machine'' or ``Hand'') & str & na & na & Yes & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  HTUNT & Heat units, total daily, sine curve method with minimum and maximum air temperature thresholds of 12.8°C and 30°C, respectively \citep{Brown2013} & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'': °C d$^{-1}$} & No & Weather \\
+
+  IN\_ROLE & Role of participating institutions & str & na & ICASA code & Yes & Experiment \\
+
+  IN\_TYPE & Type of participating institutions & str & na & ICASA code & Yes & Experiment \\
+
+  INSTITUTION & Names of participating institutions & str & na & na & Yes & Experiment \\
+
+  IROP & Irrigation operation (e.g., furrow, sprinkler) & str & na & ICASA code & Yes & \makecell*{Plot \\ Zone} \\
+
+  IRTLST & Land surface temperature from infrared thermometer (soil and canopy composite) & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'': °C} & No & Plot \\
+
+  IRTLSTCAN & Land surface temperature from infrared thermometer (canopy isolated, no soil) & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'': °C} & No & Plot \\
+
+  IRVAL & Irrigation amount, depth of water & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'': mm} & Yes & \makecell*{Plot \\ Zone} \\
+
+  LAID\_FLD & Leaf area index measured with Li-Cor Plant Canopy Analyzer in the field & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'': m$^2$ m$^{-2}$} & No & \makecell*{CropCanopy \\ PlantAnalysis} \\
+
+  LAID\_LAB & Leaf area index computed from area measurements of leaf samples in the laboratory & float & na & m$^2$ m$^{-2}$ & No & PlantAnalysis \\
+
+  LAST\_NAME & Last name of researchers involved with the experiment(s) or data & str & na & na & Yes & Experiment \\
+
+  LF1D & Growth stage date, leaf1 full expansion & str & na & yyyy-mm-dd & No & \makecell*{Plot \\ CropCanopy} \\
+
+  LWAD & Leaf dry weight & float & na & kg ha$^{-1}$ & Yes & PlantAnalysis \\
+
+  LWPD & Leaf dry weight per plant & float & na & g plant$^{-1}$ & Yes & PlantAnalysis \\
+
+  MAIN\_FACTOR & Main factor, factors or interactions of interest in an experiment & str & na & na & Yes & Experiment \\
+
+  MBNUM & Number of mature bolls per plant & float & na & no. plant$^{-1}$ & No & PlantAnalysis \\
+
+  MBWAD & Mature boll dry weight & float & na & g plant$^{-1}$ & No & PlantAnalysis \\
+
+  METHODS & General notes on execution of experiment & str & na & na & Yes & Experiment \\
+
+  MGMT\_TYPE & Whether managed by researchers, producers & str & na & ICASA code & Yes & Experiment \\
+
+  MID\_INITIAL & Middle initial of researchers involved with the experiment(s) or data & str & na & na & Yes & Experiment \\
+
+  MSNODE & Number of mainstem nodes per plant & float & na & no. plant$^{-1}$ & No & PlantAnalysis \\
+
+  NAWF & Nodes above white flower & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'': nodes} & No & \makecell*{Plot \\ CropCanopy} \\
+
+  OBJECTIVES & Objectives of the study & str & na & na & Yes & Experiment \\
+
+  pa\_label & Character string for plant analysis sample (unique only within experiment-year) & str & na & na & No & PlantAnalysis \\
+
+  paids & Unique IDs of associated PlantAnalysis features & list of strs & na & BSON ObjectId & No & Plot \\
+
+  PDATE & Planting date & str & na & yyyy-mm-dd & Yes & Plot \\
+
+  PERSON\_NOTES & Additional notes on persons involved with the experiment(s) & str & na & na & Yes & Experiment \\
+
+  PFNODE & Number of pre-fruiting mainstem nodes per plant & float & na & no. plant$^{-1}$ & No & PlantAnalysis \\
+
+  PHTD & Plant height & float & na & m & Yes & PlantAnalysis \\
+
+  pid & Unique ID of associated Plot feature & str & na & BSON ObjectId & No & \makecell*{Zone \\ CropHarvest \\ SoilWaterContent \\ CropCanopy \\ PlantAnalysis \\ SoilChemicalAnalysis} \\
+
+  pids & Unique IDs of associated Plot features & list of strs & na & BSON ObjectId & No & Experiment \\
+
+  PLDAY & Day of planting as day of year & int & na & doy & Yes & Plot \\
+
+  PLDOE & Day of year for date of emergence & int & na & doy & Yes & \makecell*{Plot \\ CropCanopy} \\
+
+  PLPD & Plant population & float & na & plant m$^{-2}$ & Yes & \makecell*{Plot \\ CropCanopy} \\
+
+  plt\_label & Character string for plot (unique only within experiment-year) & str & na & na & No & Plot \\
+
+  PLTA & Plot area & float & na & m$^2$ & Yes & Plot \\
+
+  PLTCNT & Number of plants in sample & int & na & plants & No & PlantAnalysis \\
+
+  PLYR & Planting year & int & na & yyyy & Yes & Plot \\
+
+  PLYRE & Year for day of emergence & int & na & yyyy & Yes & \makecell*{Plot \\ CropCanopy} \\
+
+  PSDATE & Plant sampling date & str & na & yyyy-mm-dd & Yes & PlantAnalysis \\
+
+  PWAD & Pod (boll) dry weight & float & na & kg ha$^{-1}$ & Yes & PlantAnalysis \\
+
+  QLDAT & Fiber quality measurement date & str & na & yyyy-mm-dd & No & \makecell*{Plot \\ CropCanopy} \\
+
+  RAIN & Precipitation, total daily & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': mm} & Yes & Weather \\
+
+  REFET & Reference evapotranspiration, original AZMET & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': mm} & No & Weather \\
+
+  REFHT & Reference height for weather measurement & float & na & m & Yes & Weather \\
+
+  REP\_NO & Number of blocks or replicates & int & na & replicates & Yes & Experiment \\
+
+  RHAVD & Relative humidity, average daily value & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': \%} & Yes & Weather \\
+
+  RHMXD & Relative humidity, maximum daily value & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': \%} & Yes & Weather \\
+
+  RHUMD & Relative humidity at maximum daily temperature (or minimum daily relative humidity) & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': \%} & Yes & Weather \\
+
+  RSLST & Land surface temperature from airborne remote sensing & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'': °C} & No & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  RSNDVI & Normalized difference vegetation index from airborne remote sensing & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'' : yyyy-mm-dd \\ ``value'': unitless} & No & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  sca\_label & Character string for the soil sample (unique only within experiment-year) & str & na & na & No & SoilChemicalAnalysis \\
+
+  scaids & Unique IDs of associated SoilChemicalAnalysis features & list of strs & na & BSON ObjectId & No & Plot \\
+
+  SDPB & Number of seeds per boll & float & na & seed boll$^{-1}$ & No & PlantAnalysis \\
+
+  SFRAC & Seed fraction of bulk harvest after ginning & float & na & g g$^{-1}$ & No & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  SITE\_NAME & Name of site for experiment & str & na & na & Yes & Experiment \\
+
+  SITE\_TYPE & Type of site, e.g., station, on-farm & str & na & ICASA code & Yes & Experiment \\
+
+  SLCA & Soil calcium concentration & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': int} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': ppm} & Yes & SoilChemicalAnalysis \\
+
+  SLCEC & Cation exchange capacity & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': cmol kg$^{-1}$} & Yes & SoilChemicalAnalysis \\
+
+  SLCLY\_GB & Soil texture, clay percentage, \citet{Gee1986} hydrometer and calculation method & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': \%} & No & \makecell*{Plot \\ Zone \\ CropHarvest \\ SoilPhysicalAnalysis} \\
+
+  SLCLY\_GBM & Soil texture, clay percentage, \citet{Gee1986} hydrometer method and Maricopa in-house calculation method & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': \%} & No & \makecell*{Plot \\ Zone \\ CropHarvest \\ SoilPhysicalAnalysis} \\
+
+  SLCLY\_M & Soil texture, clay percentage, Maricopa in-house hydrometer and calculation method & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': \%} & No & \makecell*{Plot \\ Zone \\ CropHarvest \\ SoilPhysicalAnalysis} \\
+
+  SLCU & Soil copper concentration & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': ppm} & No & SoilChemicalAnalysis \\
+
+  SLEC & Soil electrical conductivity & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': mS cm$^{-1}$} & Yes & SoilChemicalAnalysis \\
+
+  SLFC1 & Soil water content at field capacity (1/3 bars suction) & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': cm$^3$ cm$^{-3}$} & Yes & \makecell*{Plot \\ Zone \\ CropHarvest \\ SoilPhysicalAnalysis} \\
+
+  SLFE & Soil iron concentration & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': ppm} & Yes & SoilChemicalAnalysis \\
+
+  SLKE & Soil potassium concentration & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': int} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': ppm} & Yes & SoilChemicalAnalysis \\
+
+  SLMG & Soil magnesium concentration & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': int} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': ppm} & Yes & SoilChemicalAnalysis \\
+
+  SLMN & Soil manganese concentration & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': ppm} & Yes & SoilChemicalAnalysis \\
+
+  SLNA & Soil sodium concentration & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': int} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': ppm} & Yes & SoilChemicalAnalysis \\
+
+  SLOM & Soil organic matter & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': \%} & Yes & SoilChemicalAnalysis \\
+
+  SLPHB & Soil pH in buffer & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': unitless} & Yes & SoilChemicalAnalysis \\
+
+  SLPHW & Soil pH in water & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': unitless} & Yes & SoilChemicalAnalysis \\
+
+  SLPX & Soil phosphorus, extractable & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': ppm} & Yes & SoilChemicalAnalysis \\
+
+  SLSLT\_GB & Soil texture, silt percentage, \citet{Gee1986} hydrometer and calculation method & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': \%} & No & \makecell*{Plot \\ Zone \\ CropHarvest \\ SoilPhysicalAnalysis} \\
+
+  SLSLT\_GBM & Soil texture, silt percentage, \citet{Gee1986} hydrometer method and Maricopa in-house calculation method & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': \%} & No & \makecell*{Plot \\ Zone \\ CropHarvest \\ SoilPhysicalAnalysis} \\
+
+  SLSLT\_M & Soil texture, silt percentage, Maricopa in-house hydrometer and calculation method & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': \%} & No & \makecell*{Plot \\ Zone \\ CropHarvest \\ SoilPhysicalAnalysis} \\
+
+  SLSND\_GB & Soil texture, sand percentage, \citet{Gee1986} hydrometer and calculation method & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': \%} & No & \makecell*{Plot \\ Zone \\ CropHarvest \\ SoilPhysicalAnalysis} \\
+
+  SLSND\_GBM & Soil texture, sand percentage, \citet{Gee1986} hydrometer method and Maricopa in-house calculation method & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': \%} & No & \makecell*{Plot \\ Zone \\ CropHarvest \\ SoilPhysicalAnalysis} \\
+
+  SLSND\_M & Soil texture, sand percentage, Maricopa in-house hydrometer and calculation method & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': \%} & No & \makecell*{Plot \\ Zone \\ CropHarvest \\ SoilPhysicalAnalysis} \\
+
+  SLSU & Soil sulfur concentration & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': ppm} & Yes & SoilChemicalAnalysis \\
+
+  SLTX & Soil texture & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': str} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': none} & Yes & SoilPhysicalAnalysis \\
+
+  SLWP & Soil water content at wilting point (15 bars suction) & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': cm$^3$ cm$^{-3}$} & Yes & \makecell*{Plot \\ Zone \\ CropHarvest \\ SoilPhysicalAnalysis} \\
+
+  SLWP2 & Soil water content at 5 bars suction & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': cm$^3$ cm$^{-3}$} & No & \makecell*{Plot \\ Zone \\ CropHarvest \\ SoilPhysicalAnalysis} \\
+
+  SLZN & Soil zinc concentration & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': ppm} & No & SoilChemicalAnalysis \\
+
+  SNH4 & Soil ammonium & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': g Mg$^{-1}$} & Yes & SoilChemicalAnalysis \\
+
+  SNO3 & Soil nitrate & list of dicts & \makecell*{``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': g Mg$^{-1}$} & Yes & SoilChemicalAnalysis \\
+
+  SOIL\_DATE & Soil sampling date in field & str & na & yyyy-mm-dd & Yes & \makecell*{SoilChemicalAnalysis \\ SoilPhysicalAnalysis} \\
+
+  spa\_label & Character string for the soil sample (unique only within experiment-year) & str & na & na & No & SoilPhysicalAnalysis \\
+
+  SPAD & SPAD number from SPAD meter & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': SPAD units} & No & CropCanopy \\
+
+  spaids & Unique IDs of associated SoilPhysicalAnalysis features & list of strs & na & BSON ObjectId & No & Plot \\
+
+  SQRNUM & Number of squares per plant & float & na & no. plant$^{-1}$ & No & PlantAnalysis \\
+
+  SRAD & Solar radiation, total daily & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': MJ m$^{-2}$} & Yes & Weather \\
+
+  STAV1 & Soil temperature, average daily at 4 inch soil depth (2 inch prior to 1999) & list of dicts & \makecell*{``date'': str \\ ``depth'': float \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``depth'': cm \\ ``value'': °C} & No & Weather \\
+
+  STAV2 & Soil temperature, average daily at 20 inch soil depth (4 inch prior to 1999) & list of dicts & \makecell*{``date'': str \\ ``depth'': float \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``depth'': cm \\ ``value'': °C} & No & Weather \\
+
+  STDD & Stem diameter & float & na & mm & No & PlantAnalysis \\
+
+  STMN1 & Soil temperature, minimum daily at 4 inch soil depth (2 inch prior to 1999) & list of dicts & \makecell*{``date'': str \\ ``depth'': float \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``depth'': cm \\ ``value'': °C} & No & Weather \\
+
+  STMN2 & Soil temperature, minimum daily at 20 inch soil depth (4 inch prior to 1999) & list of dicts & \makecell*{``date'': str \\ ``depth'': float \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``depth'': cm \\ ``value'': °C} & No & Weather \\
+
+  STMX1 & Soil temperature, maximum daily at 4 inch soil depth (2 inch prior to 1999) & list of dicts & \makecell*{``date'': str \\ ``depth'': float \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``depth'': cm \\ ``value'': °C} & No & Weather \\
+
+  STMX2 & Soil temperature, maximum daily at 20 inch soil depth (4 inch prior to 1999) & list of dicts & \makecell*{``date'': str \\ ``depth'': float \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``depth'': cm \\ ``value'': °C} & No & Weather \\
+
+  SUITE\_NAME & Brief name of suite of experiments & str & na & na & Yes & Experiment \\
+
+  SUITE\_OBJ & Objectives of the study & str & na & na & Yes & Experiment \\
+
+  SWAD & Stem dry weight & float & na & kg ha$^{-1}$ & Yes & PlantAnalysis \\
+
+  swc\_label & Character string for access tube (unique only within experiment-year) & str & na & na & No & SoilWaterContent \\
+
+  SWCAG & Seed water content after ginning & float & na & \% & No & \makecell*{Plot \\ CropHarvest} \\
+
+  swcids & Unique IDs of associated SoilWaterContent features & list of strs & na & BSON ObjectId & No & Plot \\
+
+  SWLD & Soil water content & list of dicts & \makecell*{``date'': str \\ ``type'': str \\ ``depth'': int \\ ``mindepth'': int \\ ``maxdepth'': int \\ ``value'': float} & \makecell*{``date'' : yyyy-mm-dd \\ ``type'' na \\ ``depth'': cm \\ ``mindepth'': cm \\ ``maxdepth'': cm \\ ``value'': cm$^3$ cm$^{-3}$} & Yes & SoilWaterContent \\
+
+  SWPD & Stem dry weight per plant & float & na & g plant$^{-1}$ & Yes & PlantAnalysis \\
+
+  TAVD & Temperature of air, average daily & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': °C} & Yes & Weather \\
+
+  TDEW & Dew point temperature, average daily & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': °C} & Yes & Weather \\
+
+  TFRAC & Trash fraction of bulk harvest after ginning & float & na & g g$^{-1}$ & No & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  TI\_NOTES & Additional, detailed notes on tillage practices & list of dicts & \makecell*{``date'': str \\ ``value'': str} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': na} & Yes & Plot \\
+
+  TMAX & Temperature of air, daily maximum & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': °C} & Yes & Weather \\
+
+  TMIN & Temperature of air, daily minimum & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': °C} & Yes & Weather \\
+
+  TRT\_COUNT & Number of treatments & int & na & treatments & Yes & Experiment \\
+
+  trt\_info & Treatment descriptions and plot assignments & list of dicts & \makecell*{``trt\_label'': str \\ ``description'': str \\ ``pids'': list of strs} & \makecell*{``trt\_label'': na \\ ``description'': na \\ ``pids'': BSON ObjectId} & No & Experiment \\
+
+  trt\_label & Character string for treatment (unique only within experiment-year) & str & na & na & No & Plot \\
+
+  VBNODE & Number of nodes on vegetative branches & float & na & nodes & No & PlantAnalysis \\
+
+  VBNUM & Number of vegetative branches & float & na & branches & No & PlantAnalysis \\
+
+  VPDAVD & Vapor pressure deficit, average daily & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': kPa} & No & Weather \\
+
+  VPRSD & Vapor pressure, average daily & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': kPa} & Yes & Weather \\
+
+  w\_label & Character string for weather station & str & na & na & No & Weather \\
+
+  WBWAH & Wet bulk weight at harvest (fiber + seed + trash) & float & na & kg ha$^{-1}$ & No & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  WFWAH & Wet fiber weight at harvest & float & na & kg ha$^{-1}$ & No & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  WNDD & Wind vector, average daily & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': degrees} & No & Weather \\
+
+  WNDDSD & Wind vector, standard deviation daily & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': degrees} & No & Weather \\
+
+  WNDHT & Reference height for wind speed measurement & float & na & m & Yes & Weather \\
+
+  WNDMX & Wind speed, maximum daily & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': m s$^{-1}$} & No & Weather \\
+
+  WNDRN & Wind run, average daily & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': km d$^{-1}$} & No & Weather \\
+
+  WNDSP & Wind speed, average daily & list of dicts & \makecell*{``date'': str \\ ``value'': float} & \makecell*{``date'': yyyy-mm-dd \\ ``value'': m s$^{-1}$} & No & Weather \\
+
+  WSCWAH & Wet seed cotton weight at harvest (fiber + seed) & float & na & kg ha$^{-1}$ & No & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  WSWAH & Wet seed weight at harvest & float & na & kg ha$^{-1}$ & No & \makecell*{Plot \\ Zone \\ CropHarvest} \\
+
+  zids & Unique IDs of associated Zone features & list of strs & na & BSON ObjectId & No & Plot \\
+
+  ZON\_AREA & Area of management zone & float & na & m$^2$ & No & Zone \\
+
+  zon\_label & Character string for zone (unique only within experiment-year) & str & na & na & No & Zone \\
+
+\end{longtable}
+\end{ThreePartTable}
+\endgroup
+}
+\addtolength{\tabcolsep}{3pt}
+
+\afterpage{\clearpage
+\bibliographystyle{apalike}
+\bibliography{Literature}
+}
+
+\end{document}
