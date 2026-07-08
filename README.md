@@ -6,15 +6,15 @@ The repository provides 17 experiment-years of USDA-ARS precision cotton irrigat
 
 # Key source codes
 
-rebuild.py - Runs the entire workflow to build GeoJSON object files from the provided shapefile and spreadsheet data. This code should not need to be run unless changes to the data sources or workflow are made.
+[rebuild.py](https://github.com/kthorp/cottondata/tree/main/src/rebuild.py) - Runs the entire workflow to build GeoJSON object files from the provided shapefile and spreadsheet data. This code should not need to be run unless changes to the data sources or workflow are made.
 
-stats2.py - Evaluates variable codes in the data dictionary and summarizes the number of values for each variable in each geospatial data layer.
+[stats2.py](https://github.com/kthorp/cottondata/tree/main/src/stats2.py) - Evaluates variable codes in the data dictionary and summarizes the number of values for each variable in each geospatial data layer.
 
-stats3.py - Evaluates the number of GeoJSON objects for each data type and experiment-year.
+[stats3.py](https://github.com/kthorp/cottondata/tree/main/src/stats3.py) - Evaluates the number of GeoJSON objects for each data type and experiment-year.
 
-mongodb.py - Demonstrates loading the entire data set into a MongoDB NoSQL database.
+[mongodb.py](https://github.com/kthorp/cottondata/tree/main/src/mongodb.py) - Demonstrates loading the entire data set into a MongoDB NoSQL database.
 
-cottondata.py - Demonstrates reading the entire data set from GeoJSON object files into a CottonData object in computer memory and computing linkages among GeoJSON objects. This module is likely most useful for users aiming to develop custom code for interaction with the data set.
+[cottondata.py](https://github.com/kthorp/cottondata/tree/main/src/cottondata.py) - Demonstrates reading the entire data set from GeoJSON object files into a CottonData object in computer memory and computing linkages among GeoJSON objects. This module is likely most useful for users aiming to develop custom code for interaction with the data set.
 
 # Further information
 
